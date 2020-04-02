@@ -1,0 +1,4 @@
+---
+title: Söll
+url: /soell/
+---

@@ -1,0 +1,4 @@
+---
+title: Geboltskirchen
+url: /geboltskirchen/
+---

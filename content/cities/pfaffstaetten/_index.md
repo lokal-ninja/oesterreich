@@ -1,0 +1,4 @@
+---
+title: Pfaffstätten
+url: /pfaffstaetten/
+---

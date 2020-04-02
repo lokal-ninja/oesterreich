@@ -1,0 +1,4 @@
+---
+title: Edling
+url: /edling/
+---

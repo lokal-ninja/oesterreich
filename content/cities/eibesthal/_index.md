@@ -1,0 +1,4 @@
+---
+title: Eibesthal
+url: /eibesthal/
+---

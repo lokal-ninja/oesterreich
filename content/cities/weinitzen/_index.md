@@ -1,0 +1,4 @@
+---
+title: Weinitzen
+url: /weinitzen/
+---

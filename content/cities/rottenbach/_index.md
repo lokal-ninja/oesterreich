@@ -1,0 +1,4 @@
+---
+title: Rottenbach
+url: /rottenbach/
+---

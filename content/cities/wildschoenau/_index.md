@@ -1,0 +1,4 @@
+---
+title: Wildschönau
+url: /wildschoenau/
+---

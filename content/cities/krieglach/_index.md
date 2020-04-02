@@ -1,0 +1,4 @@
+---
+title: Krieglach
+url: /krieglach/
+---

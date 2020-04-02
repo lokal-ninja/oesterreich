@@ -1,0 +1,4 @@
+---
+title: Ulrichsberg
+url: /ulrichsberg/
+---

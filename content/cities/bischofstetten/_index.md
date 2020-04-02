@@ -1,0 +1,4 @@
+---
+title: Bischofstetten
+url: /bischofstetten/
+---

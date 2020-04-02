@@ -1,0 +1,4 @@
+---
+title: Sonntag
+url: /sonntag/
+---

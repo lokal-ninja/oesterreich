@@ -1,0 +1,4 @@
+---
+title: "Bipa"
+url: /henndorf-am-wallersee/bipa/
+---

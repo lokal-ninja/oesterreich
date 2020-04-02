@@ -1,0 +1,4 @@
+---
+title: Lamprechtshausen
+url: /lamprechtshausen/
+---

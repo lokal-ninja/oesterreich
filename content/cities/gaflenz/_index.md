@@ -1,0 +1,4 @@
+---
+title: Gaflenz
+url: /gaflenz/
+---

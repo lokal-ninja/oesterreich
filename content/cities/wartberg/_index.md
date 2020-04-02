@@ -1,0 +1,4 @@
+---
+title: Wartberg
+url: /wartberg/
+---

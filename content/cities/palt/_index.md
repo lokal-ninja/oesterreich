@@ -1,0 +1,4 @@
+---
+title: Palt
+url: /palt/
+---

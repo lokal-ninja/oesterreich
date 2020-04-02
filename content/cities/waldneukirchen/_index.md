@@ -1,0 +1,4 @@
+---
+title: Waldneukirchen
+url: /waldneukirchen/
+---

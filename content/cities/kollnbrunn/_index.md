@@ -1,0 +1,4 @@
+---
+title: Kollnbrunn
+url: /kollnbrunn/
+---

@@ -1,0 +1,4 @@
+---
+title: Globasnitz
+url: /globasnitz/
+---

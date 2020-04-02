@@ -1,0 +1,4 @@
+---
+title: Eggelsberg
+url: /eggelsberg/
+---

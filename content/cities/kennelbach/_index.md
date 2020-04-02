@@ -1,0 +1,4 @@
+---
+title: Kennelbach
+url: /kennelbach/
+---

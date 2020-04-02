@@ -1,0 +1,4 @@
+---
+title: Streithofen
+url: /streithofen/
+---

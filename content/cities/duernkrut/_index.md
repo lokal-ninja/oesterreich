@@ -1,0 +1,4 @@
+---
+title: Dürnkrut
+url: /duernkrut/
+---

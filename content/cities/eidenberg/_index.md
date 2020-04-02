@@ -1,0 +1,4 @@
+---
+title: Eidenberg
+url: /eidenberg/
+---

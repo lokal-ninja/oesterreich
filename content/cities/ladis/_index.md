@@ -1,0 +1,4 @@
+---
+title: Ladis
+url: /ladis/
+---

@@ -1,0 +1,4 @@
+---
+title: Burgkirchen
+url: /burgkirchen/
+---

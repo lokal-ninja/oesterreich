@@ -1,0 +1,4 @@
+---
+title: Kappl
+url: /kappl/
+---

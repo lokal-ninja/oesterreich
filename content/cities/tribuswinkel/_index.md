@@ -1,0 +1,4 @@
+---
+title: Tribuswinkel
+url: /tribuswinkel/
+---

@@ -1,0 +1,4 @@
+---
+title: Stainz
+url: /stainz/
+---

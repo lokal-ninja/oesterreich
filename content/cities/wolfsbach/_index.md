@@ -1,0 +1,4 @@
+---
+title: Wolfsbach
+url: /wolfsbach/
+---

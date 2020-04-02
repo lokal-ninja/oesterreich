@@ -1,0 +1,4 @@
+---
+title: Kleinarl
+url: /kleinarl/
+---

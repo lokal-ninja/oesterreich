@@ -1,0 +1,4 @@
+---
+title: Kleinlobming
+url: /kleinlobming/
+---

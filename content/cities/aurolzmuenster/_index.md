@@ -1,0 +1,4 @@
+---
+title: Aurolzmünster
+url: /aurolzmuenster/
+---

@@ -1,0 +1,4 @@
+---
+title: Arnreit
+url: /arnreit/
+---

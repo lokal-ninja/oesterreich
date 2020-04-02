@@ -1,0 +1,4 @@
+---
+title: Atzenbrugg
+url: /atzenbrugg/
+---

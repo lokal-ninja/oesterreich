@@ -1,0 +1,4 @@
+---
+title: Ranggen
+url: /ranggen/
+---

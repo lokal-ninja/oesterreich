@@ -1,0 +1,4 @@
+---
+title: Frankenburg
+url: /frankenburg/
+---

@@ -1,0 +1,4 @@
+---
+title: Wagna
+url: /wagna/
+---

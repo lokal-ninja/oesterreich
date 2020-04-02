@@ -1,0 +1,4 @@
+---
+title: Langschlag
+url: /langschlag/
+---

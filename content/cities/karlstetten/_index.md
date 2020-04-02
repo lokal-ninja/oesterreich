@@ -1,0 +1,4 @@
+---
+title: Karlstetten
+url: /karlstetten/
+---

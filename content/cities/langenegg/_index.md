@@ -1,0 +1,4 @@
+---
+title: Langenegg
+url: /langenegg/
+---

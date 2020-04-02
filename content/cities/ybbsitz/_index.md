@@ -1,0 +1,4 @@
+---
+title: Ybbsitz
+url: /ybbsitz/
+---

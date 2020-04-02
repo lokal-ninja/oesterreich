@@ -1,0 +1,4 @@
+---
+title: Obervellach
+url: /obervellach/
+---

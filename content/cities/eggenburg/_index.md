@@ -1,0 +1,4 @@
+---
+title: Eggenburg
+url: /eggenburg/
+---

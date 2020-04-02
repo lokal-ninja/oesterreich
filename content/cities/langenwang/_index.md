@@ -1,0 +1,4 @@
+---
+title: Langenwang
+url: /langenwang/
+---

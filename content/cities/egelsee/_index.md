@@ -1,0 +1,4 @@
+---
+title: Egelsee
+url: /egelsee/
+---

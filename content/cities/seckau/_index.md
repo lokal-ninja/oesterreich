@@ -1,0 +1,4 @@
+---
+title: Seckau
+url: /seckau/
+---

@@ -1,0 +1,4 @@
+---
+title: Stallhofen
+url: /stallhofen/
+---

@@ -1,0 +1,4 @@
+---
+title: Kronstorf
+url: /kronstorf/
+---

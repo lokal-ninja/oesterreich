@@ -1,0 +1,4 @@
+---
+title: Laterns
+url: /laterns/
+---

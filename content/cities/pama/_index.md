@@ -1,0 +1,4 @@
+---
+title: Pama
+url: /pama/
+---

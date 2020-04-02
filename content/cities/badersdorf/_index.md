@@ -1,0 +1,4 @@
+---
+title: Badersdorf
+url: /badersdorf/
+---

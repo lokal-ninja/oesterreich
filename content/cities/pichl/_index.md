@@ -1,0 +1,4 @@
+---
+title: Pichl
+url: /pichl/
+---

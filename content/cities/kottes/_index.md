@@ -1,0 +1,4 @@
+---
+title: Kottes
+url: /kottes/
+---

@@ -1,0 +1,4 @@
+---
+title: Aigen
+url: /aigen/
+---

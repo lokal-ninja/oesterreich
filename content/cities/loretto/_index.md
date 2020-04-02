@@ -1,0 +1,4 @@
+---
+title: Loretto
+url: /loretto/
+---

@@ -1,0 +1,4 @@
+---
+title: Stöcklweingarten
+url: /stoecklweingarten/
+---

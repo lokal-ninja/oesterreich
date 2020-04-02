@@ -1,0 +1,4 @@
+---
+title: Klagenfurt
+url: /klagenfurt/
+---

@@ -1,0 +1,4 @@
+---
+title: Hatting
+url: /hatting/
+---

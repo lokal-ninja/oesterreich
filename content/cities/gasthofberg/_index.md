@@ -1,0 +1,4 @@
+---
+title: Gasthofberg
+url: /gasthofberg/
+---

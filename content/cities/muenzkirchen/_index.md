@@ -1,0 +1,4 @@
+---
+title: Münzkirchen
+url: /muenzkirchen/
+---

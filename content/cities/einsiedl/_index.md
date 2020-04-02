@@ -1,0 +1,4 @@
+---
+title: Einsiedl
+url: /einsiedl/
+---

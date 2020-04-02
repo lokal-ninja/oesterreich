@@ -1,0 +1,4 @@
+---
+title: Assling
+url: /assling/
+---

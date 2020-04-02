@@ -1,0 +1,4 @@
+---
+title: Kopfstetten
+url: /kopfstetten/
+---

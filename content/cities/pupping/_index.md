@@ -1,0 +1,4 @@
+---
+title: Pupping
+url: /pupping/
+---

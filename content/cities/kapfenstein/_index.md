@@ -1,0 +1,4 @@
+---
+title: Kapfenstein
+url: /kapfenstein/
+---

@@ -1,0 +1,4 @@
+---
+title: Wenigzell
+url: /wenigzell/
+---

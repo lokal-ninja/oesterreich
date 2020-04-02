@@ -1,0 +1,4 @@
+---
+title: Wettmannstätten
+url: /wettmannstaetten/
+---

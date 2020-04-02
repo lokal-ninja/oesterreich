@@ -1,0 +1,4 @@
+---
+title: Stainach
+url: /stainach/
+---

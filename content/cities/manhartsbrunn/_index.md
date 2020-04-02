@@ -1,0 +1,4 @@
+---
+title: Manhartsbrunn
+url: /manhartsbrunn/
+---

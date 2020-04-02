@@ -1,0 +1,4 @@
+---
+title: Mooskirchen
+url: /mooskirchen/
+---

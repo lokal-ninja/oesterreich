@@ -1,0 +1,4 @@
+---
+title: Stattegg
+url: /stattegg/
+---

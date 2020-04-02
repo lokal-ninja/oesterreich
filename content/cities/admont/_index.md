@@ -1,0 +1,4 @@
+---
+title: Admont
+url: /admont/
+---

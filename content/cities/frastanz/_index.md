@@ -1,0 +1,4 @@
+---
+title: Frastanz
+url: /frastanz/
+---

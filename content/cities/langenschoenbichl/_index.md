@@ -1,0 +1,4 @@
+---
+title: Langenschönbichl
+url: /langenschoenbichl/
+---

@@ -1,0 +1,4 @@
+---
+title: Bludesch
+url: /bludesch/
+---

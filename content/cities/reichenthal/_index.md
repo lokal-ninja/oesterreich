@@ -1,0 +1,4 @@
+---
+title: Reichenthal
+url: /reichenthal/
+---

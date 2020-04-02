@@ -1,0 +1,4 @@
+---
+title: Inzing
+url: /inzing/
+---

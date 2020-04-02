@@ -1,0 +1,4 @@
+---
+title: Andelsbuch
+url: /andelsbuch/
+---

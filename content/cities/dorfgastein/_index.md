@@ -1,0 +1,4 @@
+---
+title: Dorfgastein
+url: /dorfgastein/
+---

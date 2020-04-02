@@ -1,0 +1,4 @@
+---
+title: Bichlbach
+url: /bichlbach/
+---

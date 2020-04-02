@@ -1,0 +1,4 @@
+---
+title: Allhartsberg
+url: /allhartsberg/
+---

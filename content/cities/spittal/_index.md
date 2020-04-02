@@ -1,0 +1,4 @@
+---
+title: Spittal
+url: /spittal/
+---

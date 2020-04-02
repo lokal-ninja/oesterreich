@@ -1,0 +1,4 @@
+---
+title: Schoppernau
+url: /schoppernau/
+---

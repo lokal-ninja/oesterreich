@@ -1,0 +1,4 @@
+---
+title: Schafflerhofsiedlung
+url: /schafflerhofsiedlung/
+---

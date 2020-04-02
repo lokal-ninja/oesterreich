@@ -1,0 +1,4 @@
+---
+title: Goldegg
+url: /goldegg/
+---

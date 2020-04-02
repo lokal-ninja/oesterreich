@@ -1,0 +1,4 @@
+---
+title: Mank
+url: /mank/
+---

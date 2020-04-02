@@ -1,0 +1,4 @@
+---
+title: Haus
+url: /haus/
+---

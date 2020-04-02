@@ -1,0 +1,4 @@
+---
+title: Hinzenbach
+url: /hinzenbach/
+---

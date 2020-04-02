@@ -1,0 +1,4 @@
+---
+title: Gumpoldskirchen
+url: /gumpoldskirchen/
+---

@@ -1,0 +1,4 @@
+---
+title: Mayrhofen
+url: /mayrhofen/
+---

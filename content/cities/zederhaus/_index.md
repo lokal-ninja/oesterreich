@@ -1,0 +1,4 @@
+---
+title: Zederhaus
+url: /zederhaus/
+---

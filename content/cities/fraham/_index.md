@@ -1,0 +1,4 @@
+---
+title: Fraham
+url: /fraham/
+---

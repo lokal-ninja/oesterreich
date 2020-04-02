@@ -1,0 +1,4 @@
+---
+title: Wolfsberg
+url: /wolfsberg/
+---

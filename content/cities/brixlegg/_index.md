@@ -1,0 +1,4 @@
+---
+title: Brixlegg
+url: /brixlegg/
+---

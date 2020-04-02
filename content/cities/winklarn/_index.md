@@ -1,0 +1,4 @@
+---
+title: Winklarn
+url: /winklarn/
+---

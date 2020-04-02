@@ -1,0 +1,4 @@
+---
+title: Bernstein
+url: /bernstein/
+---

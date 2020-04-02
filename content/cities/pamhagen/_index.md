@@ -1,0 +1,4 @@
+---
+title: Pamhagen
+url: /pamhagen/
+---

@@ -1,0 +1,4 @@
+---
+title: Eberndorf
+url: /eberndorf/
+---

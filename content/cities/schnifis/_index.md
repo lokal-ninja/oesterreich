@@ -1,0 +1,4 @@
+---
+title: Schnifis
+url: /schnifis/
+---

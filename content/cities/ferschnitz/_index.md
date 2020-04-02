@@ -1,0 +1,4 @@
+---
+title: Ferschnitz
+url: /ferschnitz/
+---

@@ -1,0 +1,4 @@
+---
+title: Bärnbach
+url: /baernbach/
+---

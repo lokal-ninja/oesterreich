@@ -1,0 +1,4 @@
+---
+title: Stams
+url: /stams/
+---

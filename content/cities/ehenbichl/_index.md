@@ -1,0 +1,4 @@
+---
+title: Ehenbichl
+url: /ehenbichl/
+---

@@ -1,0 +1,4 @@
+---
+title: Ybbs
+url: /ybbs/
+---

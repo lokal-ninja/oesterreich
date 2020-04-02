@@ -1,0 +1,4 @@
+---
+title: Hagenbrunn
+url: /hagenbrunn/
+---

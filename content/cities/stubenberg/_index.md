@@ -1,0 +1,4 @@
+---
+title: Stubenberg
+url: /stubenberg/
+---

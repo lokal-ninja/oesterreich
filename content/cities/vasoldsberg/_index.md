@@ -1,0 +1,4 @@
+---
+title: Vasoldsberg
+url: /vasoldsberg/
+---

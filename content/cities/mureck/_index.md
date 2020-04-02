@@ -1,0 +1,4 @@
+---
+title: Mureck
+url: /mureck/
+---

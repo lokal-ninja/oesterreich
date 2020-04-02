@@ -1,0 +1,4 @@
+---
+title: Obermallebarn
+url: /obermallebarn/
+---

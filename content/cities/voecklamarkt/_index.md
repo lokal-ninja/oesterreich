@@ -1,0 +1,4 @@
+---
+title: Vöcklamarkt
+url: /voecklamarkt/
+---

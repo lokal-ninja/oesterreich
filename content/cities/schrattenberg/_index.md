@@ -1,0 +1,4 @@
+---
+title: Schrattenberg
+url: /schrattenberg/
+---

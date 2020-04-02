@@ -1,0 +1,4 @@
+---
+title: Ebensee
+url: /ebensee/
+---

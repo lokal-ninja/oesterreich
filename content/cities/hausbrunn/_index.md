@@ -1,0 +1,4 @@
+---
+title: Hausbrunn
+url: /hausbrunn/
+---

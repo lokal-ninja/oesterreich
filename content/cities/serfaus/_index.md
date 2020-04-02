@@ -1,0 +1,4 @@
+---
+title: Serfaus
+url: /serfaus/
+---

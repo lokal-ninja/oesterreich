@@ -1,0 +1,4 @@
+---
+title: Saalbach
+url: /saalbach/
+---

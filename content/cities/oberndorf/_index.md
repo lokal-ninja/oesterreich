@@ -1,0 +1,4 @@
+---
+title: Oberndorf
+url: /oberndorf/
+---

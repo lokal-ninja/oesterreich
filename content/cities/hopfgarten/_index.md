@@ -1,0 +1,4 @@
+---
+title: Hopfgarten
+url: /hopfgarten/
+---

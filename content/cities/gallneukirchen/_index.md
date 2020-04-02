@@ -1,0 +1,4 @@
+---
+title: Gallneukirchen
+url: /gallneukirchen/
+---

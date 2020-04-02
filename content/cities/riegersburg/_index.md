@@ -1,0 +1,4 @@
+---
+title: Riegersburg
+url: /riegersburg/
+---

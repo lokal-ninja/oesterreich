@@ -1,0 +1,4 @@
+---
+title: Aldrans
+url: /aldrans/
+---

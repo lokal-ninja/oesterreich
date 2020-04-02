@@ -1,0 +1,4 @@
+---
+title: Rechnitz
+url: /rechnitz/
+---

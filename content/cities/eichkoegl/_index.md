@@ -1,0 +1,4 @@
+---
+title: Eichkögl
+url: /eichkoegl/
+---

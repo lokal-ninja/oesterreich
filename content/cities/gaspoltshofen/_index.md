@@ -1,0 +1,4 @@
+---
+title: Gaspoltshofen
+url: /gaspoltshofen/
+---

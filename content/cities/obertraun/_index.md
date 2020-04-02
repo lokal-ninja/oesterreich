@@ -1,0 +1,4 @@
+---
+title: Obertraun
+url: /obertraun/
+---

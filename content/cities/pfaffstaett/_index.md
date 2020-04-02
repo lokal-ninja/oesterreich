@@ -1,0 +1,4 @@
+---
+title: Pfaffstätt
+url: /pfaffstaett/
+---

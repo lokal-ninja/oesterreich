@@ -1,0 +1,4 @@
+---
+title: Baumgartenberg
+url: /baumgartenberg/
+---

@@ -1,0 +1,4 @@
+---
+title: Gallbrunn
+url: /gallbrunn/
+---

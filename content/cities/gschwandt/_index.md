@@ -1,0 +1,4 @@
+---
+title: Gschwandt
+url: /gschwandt/
+---

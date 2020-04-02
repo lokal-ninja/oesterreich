@@ -1,0 +1,4 @@
+---
+title: Straden
+url: /straden/
+---

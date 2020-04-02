@@ -1,0 +1,4 @@
+---
+title: Kindberg
+url: /kindberg/
+---

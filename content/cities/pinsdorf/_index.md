@@ -1,0 +1,4 @@
+---
+title: Pinsdorf
+url: /pinsdorf/
+---

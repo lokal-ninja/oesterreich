@@ -1,0 +1,4 @@
+---
+title: Großgöttfritz
+url: /grossgoettfritz/
+---

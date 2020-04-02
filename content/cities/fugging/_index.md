@@ -1,0 +1,4 @@
+---
+title: Fugging
+url: /fugging/
+---

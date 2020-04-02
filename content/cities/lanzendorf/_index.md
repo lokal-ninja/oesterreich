@@ -1,0 +1,4 @@
+---
+title: Lanzendorf
+url: /lanzendorf/
+---

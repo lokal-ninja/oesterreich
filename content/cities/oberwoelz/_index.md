@@ -1,0 +1,4 @@
+---
+title: Oberwölz
+url: /oberwoelz/
+---

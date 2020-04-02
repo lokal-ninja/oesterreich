@@ -1,0 +1,4 @@
+---
+title: Brückl
+url: /brueckl/
+---

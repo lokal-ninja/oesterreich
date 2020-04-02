@@ -1,0 +1,4 @@
+---
+title: Lockenhaus
+url: /lockenhaus/
+---

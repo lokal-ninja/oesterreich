@@ -1,0 +1,4 @@
+---
+title: Mauterndorf
+url: /mauterndorf/
+---

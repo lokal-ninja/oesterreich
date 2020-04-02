@@ -1,0 +1,4 @@
+---
+title: Bocksdorf
+url: /bocksdorf/
+---

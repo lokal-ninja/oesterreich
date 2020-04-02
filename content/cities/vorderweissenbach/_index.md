@@ -1,0 +1,4 @@
+---
+title: Vorderweißenbach
+url: /vorderweissenbach/
+---

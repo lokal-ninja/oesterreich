@@ -1,0 +1,4 @@
+---
+title: Hauptplatz
+url: /hauptplatz/
+---

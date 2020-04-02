@@ -1,0 +1,4 @@
+---
+title: Haidershofen
+url: /haidershofen/
+---

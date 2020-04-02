@@ -1,0 +1,4 @@
+---
+title: Gries
+url: /gries/
+---

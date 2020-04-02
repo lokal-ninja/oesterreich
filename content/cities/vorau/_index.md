@@ -1,0 +1,4 @@
+---
+title: Vorau
+url: /vorau/
+---

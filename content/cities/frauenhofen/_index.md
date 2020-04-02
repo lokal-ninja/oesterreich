@@ -1,0 +1,4 @@
+---
+title: Frauenhofen
+url: /frauenhofen/
+---

@@ -1,0 +1,4 @@
+---
+title: Schärding
+url: /schaerding/
+---

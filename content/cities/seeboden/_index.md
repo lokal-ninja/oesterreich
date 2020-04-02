@@ -1,0 +1,4 @@
+---
+title: Seeboden
+url: /seeboden/
+---

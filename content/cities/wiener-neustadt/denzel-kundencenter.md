@@ -1,0 +1,4 @@
+---
+title: "DENZEL Kundencenter"
+url: /wiener-neustadt/denzel-kundencenter/
+---

@@ -1,0 +1,4 @@
+---
+title: Schlitters
+url: /schlitters/
+---

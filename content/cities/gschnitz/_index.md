@@ -1,0 +1,4 @@
+---
+title: Gschnitz
+url: /gschnitz/
+---

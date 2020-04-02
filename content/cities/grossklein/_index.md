@@ -1,0 +1,4 @@
+---
+title: Großklein
+url: /grossklein/
+---

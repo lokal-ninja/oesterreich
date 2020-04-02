@@ -1,0 +1,4 @@
+---
+title: Gnadenwald
+url: /gnadenwald/
+---

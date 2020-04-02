@@ -1,0 +1,4 @@
+---
+title: Prutz
+url: /prutz/
+---

@@ -1,0 +1,4 @@
+---
+title: Hallstatt
+url: /hallstatt/
+---

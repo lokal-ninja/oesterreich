@@ -1,0 +1,4 @@
+---
+title: Bernhardsthal
+url: /bernhardsthal/
+---

@@ -1,0 +1,4 @@
+---
+title: Götzens
+url: /goetzens/
+---

@@ -1,0 +1,4 @@
+---
+title: Grins
+url: /grins/
+---

@@ -1,0 +1,4 @@
+---
+title: Rinn
+url: /rinn/
+---

@@ -1,0 +1,4 @@
+---
+title: Aflenz
+url: /aflenz/
+---

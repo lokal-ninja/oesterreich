@@ -1,0 +1,4 @@
+---
+title: Fischamend
+url: /fischamend/
+---

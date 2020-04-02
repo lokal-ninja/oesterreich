@@ -1,0 +1,4 @@
+---
+title: Tamsweg
+url: /tamsweg/
+---

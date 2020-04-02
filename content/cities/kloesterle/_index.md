@@ -1,0 +1,4 @@
+---
+title: Klösterle
+url: /kloesterle/
+---

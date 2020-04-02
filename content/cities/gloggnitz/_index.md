@@ -1,0 +1,4 @@
+---
+title: Gloggnitz
+url: /gloggnitz/
+---

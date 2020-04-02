@@ -1,0 +1,4 @@
+---
+title: Waldzell
+url: /waldzell/
+---

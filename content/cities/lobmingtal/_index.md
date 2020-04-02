@@ -1,0 +1,4 @@
+---
+title: Lobmingtal
+url: /lobmingtal/
+---

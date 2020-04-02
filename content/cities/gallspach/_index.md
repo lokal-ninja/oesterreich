@@ -1,0 +1,4 @@
+---
+title: Gallspach
+url: /gallspach/
+---

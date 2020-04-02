@@ -1,0 +1,4 @@
+---
+title: Kitzbühel
+url: /kitzbuehel/
+---

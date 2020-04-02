@@ -1,0 +1,4 @@
+---
+title: Gamlitz
+url: /gamlitz/
+---

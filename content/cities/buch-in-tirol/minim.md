@@ -1,0 +1,4 @@
+---
+title: "miniM"
+url: /buch-in-tirol/minim/
+---

@@ -1,0 +1,4 @@
+---
+title: Seebenstein
+url: /seebenstein/
+---

@@ -1,0 +1,4 @@
+---
+title: Grünburg
+url: /gruenburg/
+---

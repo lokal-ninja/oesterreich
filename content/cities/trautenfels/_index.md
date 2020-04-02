@@ -1,0 +1,4 @@
+---
+title: Trautenfels
+url: /trautenfels/
+---

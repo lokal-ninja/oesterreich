@@ -1,0 +1,4 @@
+---
+title: Götzendorf
+url: /goetzendorf/
+---

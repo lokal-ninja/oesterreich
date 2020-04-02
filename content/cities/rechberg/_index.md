@@ -1,0 +1,4 @@
+---
+title: Rechberg
+url: /rechberg/
+---

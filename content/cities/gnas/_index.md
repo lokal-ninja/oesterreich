@@ -1,0 +1,4 @@
+---
+title: Gnas
+url: /gnas/
+---

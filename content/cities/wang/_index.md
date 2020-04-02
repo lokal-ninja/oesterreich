@@ -1,0 +1,4 @@
+---
+title: Wang
+url: /wang/
+---

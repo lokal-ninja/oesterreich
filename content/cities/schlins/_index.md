@@ -1,0 +1,4 @@
+---
+title: Schlins
+url: /schlins/
+---

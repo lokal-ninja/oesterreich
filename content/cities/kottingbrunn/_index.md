@@ -1,0 +1,4 @@
+---
+title: Kottingbrunn
+url: /kottingbrunn/
+---

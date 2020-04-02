@@ -1,0 +1,4 @@
+---
+title: Lavamünd
+url: /lavamuend/
+---

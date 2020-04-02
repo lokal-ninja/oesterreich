@@ -1,0 +1,4 @@
+---
+title: Wolfurt
+url: /wolfurt/
+---

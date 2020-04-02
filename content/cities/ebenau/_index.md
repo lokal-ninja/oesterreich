@@ -1,0 +1,4 @@
+---
+title: Ebenau
+url: /ebenau/
+---

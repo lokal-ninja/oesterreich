@@ -1,0 +1,4 @@
+---
+title: Mieders
+url: /mieders/
+---

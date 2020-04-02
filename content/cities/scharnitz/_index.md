@@ -1,0 +1,4 @@
+---
+title: Scharnitz
+url: /scharnitz/
+---

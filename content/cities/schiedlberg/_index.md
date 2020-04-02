@@ -1,0 +1,4 @@
+---
+title: Schiedlberg
+url: /schiedlberg/
+---

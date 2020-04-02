@@ -1,0 +1,4 @@
+---
+title: Mittelberg
+url: /mittelberg/
+---

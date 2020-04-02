@@ -1,0 +1,4 @@
+---
+title: Mondsee
+url: /mondsee/
+---

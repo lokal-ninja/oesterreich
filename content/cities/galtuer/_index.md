@@ -1,0 +1,4 @@
+---
+title: Galtür
+url: /galtuer/
+---
