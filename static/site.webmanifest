@@ -1,8 +1,8 @@
 {
-    "name": "Lokal Ninja - Baden-Württemberg",
+    "name": "Lokal Ninja - Österreich",
     "lang": "de",
-    "short_name": "LN Baden-Württemberg",
-    "description": "Entdecke alle Einkaufsmöglichkeiten in Baden-Württemberg",
+    "short_name": "LN Österreich",
+    "description": "Entdecke alle Einkaufsmöglichkeiten in Österreich",
     "theme_color": "#d86f00",
     "background_color": "#fdfdfd",
     "display": "standalone",
