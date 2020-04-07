@@ -1,6 +1,6 @@
 ---
 title: Frastanz
 url: /frastanz/
-latitude: 47.216666700000005
-longitude: 9.6330556
+latitude: 47.215441000000006
+longitude: 9.6318883
 ---
