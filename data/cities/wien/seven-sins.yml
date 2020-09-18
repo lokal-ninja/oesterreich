@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 48.210413
 longitude: 16.4226727
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Olympiaplatz"
 housenumber: 2

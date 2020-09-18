@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.202997700000004
 longitude: 16.3569509
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Breite Gasse"
 housenumber: 1

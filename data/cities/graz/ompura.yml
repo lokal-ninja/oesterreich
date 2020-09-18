@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.073548300000006
 longitude: 15.435794300000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Sackstraße"
 housenumber: 28-30

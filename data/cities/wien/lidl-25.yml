@@ -1,12 +1,12 @@
-id: 252830976
+id: 171379447
 type: way
 shop: Supermarkt
-latitude: 48.197292000000004
-longitude: 16.3274621
-postcode: 1150
+latitude: 48.173806600000006
+longitude: 16.3662602
+postcode: "1100"
 city: Wien
-street: "Stättermayergasse"
-housenumber: 15-17
+street: "Davidgasse"
+housenumber: 47
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off"
+website: "https://www.lidl.at/"

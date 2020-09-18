@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 47.581500500000004
 longitude: 12.1703936
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Kinkstraße"
 housenumber: 8

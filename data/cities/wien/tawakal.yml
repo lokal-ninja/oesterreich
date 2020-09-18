@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.175007900000004
 longitude: 16.413402700000002
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Sedlitzkygasse"
 housenumber: 29-31

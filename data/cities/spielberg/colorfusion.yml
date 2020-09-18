@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.2076672
 longitude: 14.797035000000001
-postcode: 8724
+postcode: "8724"
 city: Spielberg
 street: "Marktpassage"
 housenumber: 1

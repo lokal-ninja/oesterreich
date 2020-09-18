@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.023681100000005
 longitude: 15.429659500000001
-postcode: 8055
+postcode: "8055"
 city: Graz
 street: "Gradnerstraße"
 housenumber: 6

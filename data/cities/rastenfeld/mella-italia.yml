@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.5744248
 longitude: 15.3311852
-postcode: 3532
+postcode: "3532"
 city: Rastenfeld
 street: "Rastenfeld"
 housenumber: 26/2

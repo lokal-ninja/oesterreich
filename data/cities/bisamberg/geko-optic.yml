@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.3292001
 longitude: 16.3587838
-postcode: 2102
+postcode: "2102"
 city: Bisamberg
 street: "Hauptstraße"
 housenumber: 36-38

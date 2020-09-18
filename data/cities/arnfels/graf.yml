@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.676165600000004
 longitude: 15.4016651
-postcode: 8454
+postcode: "8454"
 city: Arnfels
 street: "Kirchplatz"
 housenumber: 44

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.2242407
 longitude: 14.399908600000002
-postcode: 4490
+postcode: "4490"
 city: Sankt Florian
 street: "Westbahnstraße"
 housenumber: 7

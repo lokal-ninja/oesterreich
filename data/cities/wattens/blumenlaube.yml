@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.291758200000004
 longitude: 11.590632000000001
-postcode: 6112
+postcode: "6112"
 city: Wattens
 street: "Bahnhofstraße"
 housenumber: 13

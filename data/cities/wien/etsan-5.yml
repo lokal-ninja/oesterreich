@@ -3,9 +3,9 @@ type: node
 shop: Lebensmittel
 latitude: 48.1757932
 longitude: 16.4141376
-postcode: 1110
+postcode: "1110"
 city: Wien
-street: ""
+street: "Enkplatz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"

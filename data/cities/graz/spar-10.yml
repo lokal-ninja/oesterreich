@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0770538
 longitude: 15.4962908
-postcode: 8047
+postcode: "8047"
 city: Graz
 street: "Ragnitzstraße"
 housenumber: 177

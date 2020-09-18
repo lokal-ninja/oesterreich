@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.202364900000006
 longitude: 16.3367699
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Neubaugürtel"
 housenumber: 31

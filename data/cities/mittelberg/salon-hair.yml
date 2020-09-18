@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.3271645
 longitude: 10.1584213
-postcode: 6993
+postcode: "6993"
 city: Mittelberg
 street: "Walserstraße"
 housenumber: 353

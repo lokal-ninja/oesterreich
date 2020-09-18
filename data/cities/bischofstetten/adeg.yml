@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1237423
 longitude: 15.469312400000002
-postcode: 3232
+postcode: "3232"
 city: Bischofstetten
 street: "Raiffeisenplatz"
 housenumber: 3

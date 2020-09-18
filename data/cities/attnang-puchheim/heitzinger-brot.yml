@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0112358
 longitude: 13.720694000000002
-postcode: 4800
+postcode: "4800"
 city: Attnang-Puchheim
 street: "Straße des 21. April"
 housenumber: 6

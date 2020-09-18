@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.6924179
 longitude: 15.926221100000001
-postcode: 9253
+postcode: "9253"
 city: Apače
 street: "Segovci"
 housenumber: 44C

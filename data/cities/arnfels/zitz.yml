@@ -3,9 +3,9 @@ type: way
 shop: Wein
 latitude: 46.688643500000005
 longitude: 15.416545500000002
-postcode: 8454
+postcode: "8454"
 city: Arnfels
-street: "Eichberg-Trautenburg"
+street: ""
 housenumber: 61
 phone: ""
 opening_hours: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.1877985
 longitude: 14.811126000000002
-postcode: 8734
+postcode: "8734"
 city: Lobmingtal
 street: "Hauptstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.024933700000005
 longitude: 13.7332248
-postcode: 4846
+postcode: "4846"
 city: Redlham
 street: "Gewerbepark West"
 housenumber: 6

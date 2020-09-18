@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.7328052
 longitude: 13.5174292
-postcode: 5360
+postcode: "5360"
 city: St. Wolfgang im Salzkammergut
 street: ""
 housenumber: 62

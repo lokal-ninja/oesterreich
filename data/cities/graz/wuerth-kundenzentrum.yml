@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.0277606
 longitude: 15.3995498
-postcode: 8054
+postcode: "8054"
 city: Graz
 street: "Weiberfelderweg"
 housenumber: 3

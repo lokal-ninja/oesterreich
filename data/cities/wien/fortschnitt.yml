@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1985267
 longitude: 16.364189500000002
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Rechte Wienzeile"
 housenumber: 15

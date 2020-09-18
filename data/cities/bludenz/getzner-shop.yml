@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 47.1523089
 longitude: 9.8228998
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Bleichestraße"
 housenumber: 1

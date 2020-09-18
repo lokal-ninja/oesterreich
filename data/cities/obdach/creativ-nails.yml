@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.070025
 longitude: 14.6920198
-postcode: 8742
+postcode: "8742"
 city: Obdach
 street: "Dr. Heinrich Köle-Straße"
 housenumber: 12/4

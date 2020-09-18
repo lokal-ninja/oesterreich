@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 47.1846231
 longitude: 14.6855369
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Arena am Waldfeld"
 housenumber: 26a

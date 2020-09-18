@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 47.4497276
 longitude: 9.9205664
-postcode: 6951
+postcode: "6951"
 city: Lingenau
 street: ""
 housenumber: 28

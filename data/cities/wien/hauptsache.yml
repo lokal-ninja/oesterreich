@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.199237700000005
 longitude: 16.3494174
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Neubaugasse"
 housenumber: 9

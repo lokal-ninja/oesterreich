@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.296559900000005
 longitude: 16.436120900000002
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Stammersdorfer Straße"
 housenumber: 247

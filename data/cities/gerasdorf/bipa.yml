@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.342359300000005
 longitude: 16.4618416
-postcode: 2201
+postcode: "2201"
 city: Gerasdorf
 street: "G3 Platz , Top B051"
 housenumber: 

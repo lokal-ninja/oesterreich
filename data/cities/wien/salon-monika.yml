@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2253078
 longitude: 16.4019751
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Mexikoplatz"
 housenumber: 25

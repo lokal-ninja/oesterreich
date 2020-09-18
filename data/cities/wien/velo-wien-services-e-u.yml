@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1730006
 longitude: 16.3535352
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Troststraße"
 housenumber: 114;R3

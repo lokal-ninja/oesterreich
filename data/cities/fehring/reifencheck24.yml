@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 46.979933200000005
 longitude: 16.0029526
-postcode: 8361
+postcode: "8361"
 city: Fehring
 street: ""
 housenumber: 179

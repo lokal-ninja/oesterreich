@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8220613
 longitude: 13.199602100000002
-postcode: 5322
+postcode: "5322"
 city: Hof bei Salzburg
 street: "Gewerbestraße"
 housenumber: 7

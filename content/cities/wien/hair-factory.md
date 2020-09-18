@@ -1,4 +1,4 @@
 ---
-title: "HAIR-FACTORY"
+title: "Hair Factory"
 url: /wien/hair-factory/
 ---

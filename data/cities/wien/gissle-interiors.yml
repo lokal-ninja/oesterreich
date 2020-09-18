@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.2322933
 longitude: 16.3285965
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Gersthofer Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.4815917
 longitude: 13.554234500000002
-postcode: 4792
+postcode: "4792"
 city: Münzkirchen
 street: "Passauer Straße"
 housenumber: 2

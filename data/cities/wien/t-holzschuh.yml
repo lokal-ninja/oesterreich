@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.1785787
 longitude: 16.368303
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Gudrunstraße"
 housenumber: 165

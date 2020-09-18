@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9933325
 longitude: 12.9559367
-postcode: 5112
+postcode: "5112"
 city: Lamprechtshausen
 street: "Hauptstraße"
 housenumber: 14

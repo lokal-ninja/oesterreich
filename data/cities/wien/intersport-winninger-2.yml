@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.2105953
 longitude: 16.422265
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Olympiaplatz"
 housenumber: 2

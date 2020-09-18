@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 47.823839
 longitude: 16.2139776
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Fischauer Gasse"
 housenumber: 156

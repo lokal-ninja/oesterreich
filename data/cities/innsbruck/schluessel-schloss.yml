@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 47.257066300000005
 longitude: 11.3973203
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Leopoldstraße"
 housenumber: 48

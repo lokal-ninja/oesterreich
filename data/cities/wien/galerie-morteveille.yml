@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.1956216
 longitude: 16.3669075
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.481641
 longitude: 9.746776500000001
-postcode: 6922
+postcode: "6922"
 city: Wolfurt
 street: "Achstraße"
 housenumber: 34a

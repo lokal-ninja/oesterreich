@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.227527
 longitude: 16.337891000000003
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Währinger Straße"
 housenumber: 129/8

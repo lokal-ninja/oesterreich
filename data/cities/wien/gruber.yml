@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.212590500000005
 longitude: 16.368650600000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Wipplingerstraße"
 housenumber: 21

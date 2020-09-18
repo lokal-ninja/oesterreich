@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.1219321
 longitude: 14.371314400000001
-postcode: 4493
+postcode: "4493"
 city: Wolfern
 street: "Wiesstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.1829806
 longitude: 14.682707200000001
-postcode: 8753
+postcode: "8753"
 city: Hetzendorf
 street: "Murweg"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.9298276
 longitude: 16.215720700000002
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "Hauptschulplatz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.210856400000004
 longitude: 16.3748592
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Rotenturmstraße"
 housenumber: 21

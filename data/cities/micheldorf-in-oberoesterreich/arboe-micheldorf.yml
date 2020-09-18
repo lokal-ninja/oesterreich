@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.8754773
 longitude: 14.1291352
-postcode: 4563
+postcode: "4563"
 city: Micheldorf in Oberösterreich
 street: "Bader-Moser-Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 46.6146028
 longitude: 14.0428034
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Am Corso"
 housenumber: 21

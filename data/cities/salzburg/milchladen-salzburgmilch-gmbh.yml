@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8204876
 longitude: 13.040620400000002
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Milchstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.2737088
 longitude: 14.576680900000001
-postcode: 4311
+postcode: "4311"
 city: Schwertberg
 street: "Aisttalstraße"
 housenumber: 34A

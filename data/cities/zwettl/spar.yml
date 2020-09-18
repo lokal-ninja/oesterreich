@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.601118500000005
 longitude: 15.185008700000001
-postcode: 3910
+postcode: "3910"
 city: Zwettl
 street: "Franz Eigl-Straße"
 housenumber: 11

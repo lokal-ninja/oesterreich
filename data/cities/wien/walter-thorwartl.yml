@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.1772913
 longitude: 16.3717484
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Erlachgasse"
 housenumber: 109

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.3247638
 longitude: 11.1794302
-postcode: 6100
+postcode: "6100"
 city: Seefeld in Tirol
 street: "Am Gschwandtkopf"
 housenumber: 702

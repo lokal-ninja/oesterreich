@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.191203
 longitude: 16.3863053
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Kölblgasse"
 housenumber: 7

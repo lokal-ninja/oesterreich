@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 46.6086017
 longitude: 13.829638500000001
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Völkendorfer Straße"
 housenumber: 54

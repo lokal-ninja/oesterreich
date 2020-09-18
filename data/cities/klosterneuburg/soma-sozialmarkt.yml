@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.295244800000006
 longitude: 16.3410479
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Schüttaustraße"
 housenumber: 8

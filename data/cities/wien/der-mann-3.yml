@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1904983
 longitude: 16.3662294
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 64

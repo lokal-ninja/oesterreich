@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.5279607
 longitude: 12.424942000000001
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Salzburgerstraße"
 housenumber: 27

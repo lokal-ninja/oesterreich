@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2329341
 longitude: 13.015813000000001
-postcode: 5282
+postcode: "5282"
 city: Braunau am Inn
 street: "Untere Hofmark"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.2138195
 longitude: 15.726486500000002
-postcode: 8182
+postcode: "8182"
 city: Puch bei Weiz
 street: ""
 housenumber: 78

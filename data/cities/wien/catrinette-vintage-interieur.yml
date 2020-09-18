@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.221361
 longitude: 16.360890700000002
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Porzellangasse"
 housenumber: 28

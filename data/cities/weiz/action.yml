@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 47.2165697
 longitude: 15.626267100000002
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Gleisdorfer Straße"
 housenumber: 4

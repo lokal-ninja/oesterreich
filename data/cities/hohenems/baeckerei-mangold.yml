@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.364223700000004
 longitude: 9.6807523
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Angelika-Kauffmann-Straße"
 housenumber: 5

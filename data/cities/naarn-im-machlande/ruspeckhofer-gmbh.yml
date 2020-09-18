@@ -3,7 +3,7 @@ type: way
 shop: Pyrotechnik
 latitude: 48.2250097
 longitude: 14.607733300000001
-postcode: 4331
+postcode: "4331"
 city: Naarn im Machlande
 street: "Marktplatz"
 housenumber: 5

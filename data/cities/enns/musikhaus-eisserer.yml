@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 48.219055000000004
 longitude: 14.4675071
-postcode: 4470
+postcode: "4470"
 city: Enns
 street: "Basilikastraße"
 housenumber: 16

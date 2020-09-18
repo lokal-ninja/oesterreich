@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8301366
 longitude: 13.0834968
-postcode: 5300
+postcode: "5300"
 city: Hallwang
 street: "Wiener Bundesstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.893238000000004
 longitude: 14.1288449
-postcode: 4563
+postcode: "4563"
 city: Micheldorf in Oberösterreich
 street: "Weinzierler Brücke"
 housenumber: 17

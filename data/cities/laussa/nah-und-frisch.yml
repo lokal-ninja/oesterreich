@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9517765
 longitude: 14.4544051
-postcode: 4461
+postcode: "4461"
 city: Laussa
 street: "Kirchenplatz"
 housenumber: 10

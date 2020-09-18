@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0851908
 longitude: 14.806276100000002
-postcode: 3363
+postcode: "3363"
 city: Amstetten
 street: "Holzstraße"
 housenumber: 4a

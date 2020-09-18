@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.869126200000004
 longitude: 16.9444374
-postcode: 7123
+postcode: "7123"
 city: Mönchhof
 street: "Neustiftgasse"
 housenumber: 80

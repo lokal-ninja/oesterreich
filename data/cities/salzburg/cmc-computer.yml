@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.80841
 longitude: 13.0457301
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Haydnstraße"
 housenumber: 22

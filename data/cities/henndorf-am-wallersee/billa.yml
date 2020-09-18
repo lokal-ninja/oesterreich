@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8907268
 longitude: 13.1827474
-postcode: 5302
+postcode: "5302"
 city: Henndorf am Wallersee
 street: "Landesstraße"
 housenumber: 21

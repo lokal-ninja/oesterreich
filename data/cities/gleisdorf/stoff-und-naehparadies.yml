@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 47.106388
 longitude: 15.707653400000002
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Friedhofweg"
 housenumber: 1

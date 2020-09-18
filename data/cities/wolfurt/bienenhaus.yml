@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.4730725
 longitude: 9.7494244
-postcode: 6922
+postcode: "6922"
 city: Wolfurt
 street: "Lauteracherstraße"
 housenumber: 1

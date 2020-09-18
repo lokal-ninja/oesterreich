@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9880775
 longitude: 15.0277782
-postcode: 3264
+postcode: "3264"
 city: Gresten
 street: "Schulstraße"
 housenumber: 2

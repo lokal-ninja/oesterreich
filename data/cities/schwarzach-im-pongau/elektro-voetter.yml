@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.3195313
 longitude: 13.1407597
-postcode: 5620
+postcode: "5620"
 city: Schwarzach im Pongau
 street: "Tauernstraße"
 housenumber: 13

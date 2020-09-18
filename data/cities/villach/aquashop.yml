@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 46.609928700000005
 longitude: 13.843565600000002
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Italiener Straße"
 housenumber: 21

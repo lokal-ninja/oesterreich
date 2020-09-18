@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.5201578
 longitude: 12.437454500000001
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Fieberbrunnerstraße"
 housenumber: 35

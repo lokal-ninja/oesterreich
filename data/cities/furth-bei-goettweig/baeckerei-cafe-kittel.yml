@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3739312
 longitude: 15.612871100000001
-postcode: 3511
+postcode: "3511"
 city: Furth bei Göttweig
 street: "Untere Landstraße"
 housenumber: 55

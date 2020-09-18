@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.261470100000004
 longitude: 11.396177900000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Heiliggeiststraße"
 housenumber: 1a

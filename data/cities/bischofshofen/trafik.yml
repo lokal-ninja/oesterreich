@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.420889700000004
 longitude: 13.2191226
-postcode: 5500
+postcode: "5500"
 city: Bischofshofen
 street: "Salzburger Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.396722000000004
 longitude: 15.505091400000001
-postcode: 3602
+postcode: "3602"
 city: Rossatz-Arnsdorf
 street: ""
 housenumber: 26

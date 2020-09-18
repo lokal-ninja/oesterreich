@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.075446
 longitude: 14.3132912
-postcode: 4522
+postcode: "4522"
 city: Sierning
 street: "Oberbrunnernstraße"
 housenumber: 9b

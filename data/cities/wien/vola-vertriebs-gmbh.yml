@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2026666
 longitude: 16.3422469
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kandlgasse"
 housenumber: 19-21

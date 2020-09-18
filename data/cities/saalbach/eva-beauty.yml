@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 47.391699800000005
 longitude: 12.6364525
-postcode: 5753
+postcode: "5753"
 city: Saalbach
 street: "Dorfplatz"
 housenumber: 36

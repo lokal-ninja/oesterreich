@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 48.201875
 longitude: 16.346341000000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Westbahnstraße"
 housenumber: 16

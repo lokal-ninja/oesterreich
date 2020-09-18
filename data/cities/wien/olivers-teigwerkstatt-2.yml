@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.208640900000006
 longitude: 16.3711919
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Goldschmiedgasse"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2101624
 longitude: 14.8139724
-postcode: 
+postcode: ""
 city: Knittelfeld
 street: "Ghegastraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 46.6274178
 longitude: 13.370053400000002
-postcode: 9620
+postcode: "9620"
 city: Hermagor
 street: "Hauptstraße"
 housenumber: 6

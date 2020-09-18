@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.978543900000005
 longitude: 16.3226963
-postcode: 2522
+postcode: "2522"
 city: Oberwaltersdorf
 street: "Fabriksstraße"
 housenumber: 9

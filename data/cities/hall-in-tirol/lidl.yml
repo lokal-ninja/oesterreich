@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.277751200000004
 longitude: 11.4944989
-postcode: 6060
+postcode: "6060"
 city: Hall in Tirol
 street: "Getznerstraße"
 housenumber: 2-2a

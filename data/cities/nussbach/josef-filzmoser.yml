@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.9754407
 longitude: 14.188326300000002
-postcode: 4542
+postcode: "4542"
 city: Nußbach
 street: "Pöller"
 housenumber: 2

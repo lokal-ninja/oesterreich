@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.4210725
 longitude: 13.2188063
-postcode: 5500
+postcode: "5500"
 city: Bischofshofen
 street: "Salzburger Straße"
 housenumber: 36

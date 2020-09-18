@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.131460600000004
 longitude: 13.8047512
-postcode: 5580
+postcode: "5580"
 city: Tamsweg
 street: "Bröllsteig"
 housenumber: 6

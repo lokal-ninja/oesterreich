@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7076179
 longitude: 16.0758693
-postcode: 2054
+postcode: "2054"
 city: Haugsdorf
 street: "Hauptstraße"
 housenumber: 7

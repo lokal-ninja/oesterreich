@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.227001
 longitude: 15.2335025
-postcode: 8124
+postcode: "8124"
 city: Übelbach
 street: "Alter Markt"
 housenumber: 65

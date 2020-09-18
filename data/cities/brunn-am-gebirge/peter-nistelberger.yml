@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.101630300000004
 longitude: 16.276629200000002
-postcode: 2344
+postcode: "2344"
 city: Brunn am Gebirge
 street: "Franz Keim-Gasse"
 housenumber: 30

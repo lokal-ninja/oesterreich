@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.7898316
 longitude: 15.852784300000001
-postcode: 8345
+postcode: "8345"
 city: Straden
 street: ""
 housenumber: 35

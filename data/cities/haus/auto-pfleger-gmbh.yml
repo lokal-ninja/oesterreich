@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.406998300000005
 longitude: 13.7528789
-postcode: 8967
+postcode: "8967"
 city: Haus
 street: "Oberhauser Straße"
 housenumber: 60

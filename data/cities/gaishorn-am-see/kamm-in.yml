@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4912263
 longitude: 14.5504133
-postcode: 8783
+postcode: "8783"
 city: Gaishorn am See
 street: ""
 housenumber: 53

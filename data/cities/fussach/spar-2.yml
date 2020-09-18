@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.476029000000004
 longitude: 9.6618061
-postcode: 6972
+postcode: "6972"
 city: Fußach
 street: "Dorfstraße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.097941600000006
 longitude: 13.626164000000001
-postcode: 5582
+postcode: "5582"
 city: Sankt Michael im Lungau
 street: "Wiedener Weg"
 housenumber: 321

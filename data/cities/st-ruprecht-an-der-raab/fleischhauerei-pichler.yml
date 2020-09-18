@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.1527322
 longitude: 15.662328100000002
-postcode: 8181
+postcode: "8181"
 city: St. Ruprecht an der Raab
 street: "Parkstraße"
 housenumber: 133

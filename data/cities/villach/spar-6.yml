@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.607107400000004
 longitude: 13.831903
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Millesistraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.2609056
 longitude: 11.417152600000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Köldererstraße"
 housenumber: 5

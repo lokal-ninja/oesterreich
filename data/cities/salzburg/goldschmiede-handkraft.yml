@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.797767900000004
 longitude: 13.0314118
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Neutorstraße"
 housenumber: 32F

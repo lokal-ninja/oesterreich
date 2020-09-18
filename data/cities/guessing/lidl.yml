@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.0680793
 longitude: 16.3213841
-postcode: 7540
+postcode: "7540"
 city: Güssing
 street: "Wiener Straße"
 housenumber: 31a

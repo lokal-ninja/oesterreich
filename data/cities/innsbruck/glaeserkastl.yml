@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.2696856
 longitude: 11.393406200000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Domplatz"
 housenumber: 4

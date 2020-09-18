@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0538554
 longitude: 14.418286
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Prof.-Anton-Neumann-Straße"
 housenumber: 4

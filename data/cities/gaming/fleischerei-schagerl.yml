@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.9283079
 longitude: 15.087107300000001
-postcode: 3292
+postcode: "3292"
 city: Gaming
 street: "Ötscherlandstraße"
 housenumber: 1

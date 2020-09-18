@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0448899
 longitude: 14.619485500000001
-postcode: 3352
+postcode: "3352"
 city: St. Peter in der Au
 street: "Steyrer Straße"
 housenumber: 1

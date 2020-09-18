@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.870967300000004
 longitude: 15.903291600000001
-postcode: 8344
+postcode: "8344"
 city: Bad Gleichenberg
 street: "Grazer Straße"
 housenumber: 6

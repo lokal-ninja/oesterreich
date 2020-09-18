@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.931038900000004
 longitude: 16.206383600000002
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "Hirtenberger Straße"
 housenumber: 47

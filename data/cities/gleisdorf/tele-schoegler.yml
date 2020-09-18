@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.0985816
 longitude: 15.7172701
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Neugasse"
 housenumber: 119

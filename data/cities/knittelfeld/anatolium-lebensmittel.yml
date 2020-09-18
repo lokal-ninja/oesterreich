@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 47.215346100000005
 longitude: 14.829045800000001
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Frauengasse"
 housenumber: 10

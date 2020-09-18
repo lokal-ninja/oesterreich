@@ -3,7 +3,7 @@ type: way
 shop: Zeitungen
 latitude: 47.967338600000005
 longitude: 13.077217500000001
-postcode: 5164
+postcode: "5164"
 city: Seeham
 street: "Hauptstraße"
 housenumber: 51

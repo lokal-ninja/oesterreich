@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1748994
 longitude: 16.363615
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Rotenhofgasse"
 housenumber: 70-72

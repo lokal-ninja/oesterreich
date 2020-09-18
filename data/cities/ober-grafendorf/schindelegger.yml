@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.1505452
 longitude: 15.547812
-postcode: 3200
+postcode: "3200"
 city: Ober-Grafendorf
 street: "Hauptstraße"
 housenumber: 13

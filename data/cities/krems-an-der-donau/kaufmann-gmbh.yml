@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.410611900000006
 longitude: 15.624220200000002
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Goldenkrongasse"
 housenumber: 9

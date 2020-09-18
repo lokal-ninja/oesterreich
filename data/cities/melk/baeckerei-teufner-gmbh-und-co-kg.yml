@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.2277703
 longitude: 15.3356971
-postcode: 3390
+postcode: "3390"
 city: Melk
 street: "Wiener Straße"
 housenumber: 36

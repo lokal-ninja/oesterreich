@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8795419
 longitude: 13.0150603
-postcode: 5102
+postcode: "5102"
 city: Anthering
 street: "Rainweg"
 housenumber: 7

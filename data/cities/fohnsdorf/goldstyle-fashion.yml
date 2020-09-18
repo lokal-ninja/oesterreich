@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 47.183690600000006
 longitude: 14.6807773
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Arena am Waldfeld"
 housenumber: 7

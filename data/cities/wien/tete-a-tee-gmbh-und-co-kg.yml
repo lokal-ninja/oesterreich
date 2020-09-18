@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 48.1784656
 longitude: 16.283900900000003
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Lainzer Strasse"
 housenumber: 130

@@ -3,7 +3,7 @@ type: way
 shop: Lampen
 latitude: 47.149872200000004
 longitude: 9.8145655
-postcode: 6706
+postcode: "6706"
 city: Bludenz
 street: "Almteilweg"
 housenumber: 4

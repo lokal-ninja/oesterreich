@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2223352
 longitude: 14.404405200000001
-postcode: 4481
+postcode: "4481"
 city: Asten
 street: "Handelsring"
 housenumber: 2

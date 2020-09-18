@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5830464
 longitude: 12.1699499
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Unterer Stadtplatz"
 housenumber: 27

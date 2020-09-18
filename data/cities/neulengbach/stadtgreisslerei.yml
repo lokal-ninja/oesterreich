@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.197871600000006
 longitude: 15.9081901
-postcode: 3040
+postcode: "3040"
 city: Neulengbach
 street: "Rathausplatz"
 housenumber: 55

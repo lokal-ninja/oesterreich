@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.175486500000005
 longitude: 16.3327198
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Wilhelmstraße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2515268
 longitude: 11.4458173
-postcode: 6071
+postcode: "6071"
 city: Aldrans
 street: "Dorf"
 housenumber: 18

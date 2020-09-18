@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.070356000000004
 longitude: 15.4553097
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Sparbersbachgasse"
 housenumber: 71

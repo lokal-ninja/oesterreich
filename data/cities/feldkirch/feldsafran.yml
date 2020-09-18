@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2374256
 longitude: 9.5942796
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Montfortgasse"
 housenumber: 11

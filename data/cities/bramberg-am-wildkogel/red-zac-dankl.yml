@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.270234900000005
 longitude: 12.345573600000002
-postcode: 5733
+postcode: "5733"
 city: Bramberg am Wildkogel
 street: "Bahnhofstraße"
 housenumber: 185

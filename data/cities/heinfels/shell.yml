@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 46.7497841
 longitude: 12.442235400000001
-postcode: 9919
+postcode: "9919"
 city: Heinfels
 street: ""
 housenumber: 134

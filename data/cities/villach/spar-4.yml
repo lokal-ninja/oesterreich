@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.6119081
 longitude: 13.8553134
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Dreschnigstraße"
 housenumber: 34

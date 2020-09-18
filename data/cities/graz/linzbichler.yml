@@ -1,12 +1,12 @@
-id: 89175039
-type: way
+id: 3815255540
+type: node
 shop: Süßwaren
-latitude: 47.070815100000004
-longitude: 15.4361393
-postcode: 8010
+latitude: 47.0707777
+longitude: 15.4364874
+postcode: "8010"
 city: Graz
 street: "Franziskanerplatz"
 housenumber: 16
-phone: "+43 316 84 83 46"
-opening_hours: "Mo-Fr 08:00-18:15; Sa 08:00-12:30"
-website: "www.linzbichler-schoko.at"
+phone: ""
+opening_hours: "Mo-Fr 08:00-18:15; Sa 08:00-12:30; Su, PH off"
+website: ""

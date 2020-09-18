@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.2010992
 longitude: 16.349246700000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Neubaugasse"
 housenumber: 36

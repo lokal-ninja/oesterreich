@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.3093732
 longitude: 14.2780757
-postcode: 4040
+postcode: "4040"
 city: Linz
 street: "Rudolfstraße"
 housenumber: 37

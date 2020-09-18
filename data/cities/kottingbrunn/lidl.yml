@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.945852200000004
 longitude: 16.2213379
-postcode: 2542
+postcode: "2542"
 city: Kottingbrunn
 street: "Wiener Neustädter Straße"
 housenumber: 40

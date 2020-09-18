@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.250726
 longitude: 15.4211912
-postcode: 3392
+postcode: "3392"
 city: Gerolding
 street: "Gemeindeplatz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.0403092
 longitude: 15.480386800000002
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Styriastraße"
 housenumber: 31

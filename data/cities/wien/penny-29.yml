@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2584984
 longitude: 16.4513614
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Rennbahnweg"
 housenumber: 

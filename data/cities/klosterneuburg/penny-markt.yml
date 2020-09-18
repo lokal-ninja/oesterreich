@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.306822200000006
 longitude: 16.305347400000002
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Kierlinger Straße"
 housenumber: 67-71

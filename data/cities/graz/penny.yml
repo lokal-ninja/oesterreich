@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.071137900000004
 longitude: 15.431064000000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Annenstraße"
 housenumber: 8

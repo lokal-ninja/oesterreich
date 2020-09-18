@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.29533300000001
 longitude: 16.3393045
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Aufeldgasse"
 housenumber: 45-51

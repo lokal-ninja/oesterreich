@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2718119
 longitude: 14.428222000000002
-postcode: 4225
+postcode: "4225"
 city: Luftenberg an der Donau
 street: "Luftenbergstraße"
 housenumber: 26

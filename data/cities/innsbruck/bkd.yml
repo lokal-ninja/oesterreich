@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.259446600000004
 longitude: 11.415415000000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Burgenlandstraße"
 housenumber: 29

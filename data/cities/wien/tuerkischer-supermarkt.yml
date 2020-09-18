@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1686756
 longitude: 16.3748079
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Troststraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.572880000000005
 longitude: 16.573397200000002
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Neustiftgasse"
 housenumber: 12

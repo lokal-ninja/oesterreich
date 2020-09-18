@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8079783
 longitude: 13.047327000000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Paracelsusstraße"
 housenumber: 6

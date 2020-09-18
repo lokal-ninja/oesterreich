@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2355996
 longitude: 14.236668100000001
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Wiener Bundesstraße"
 housenumber: 117

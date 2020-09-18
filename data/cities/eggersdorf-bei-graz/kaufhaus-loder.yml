@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1232854
 longitude: 15.5976905
-postcode: 8063
+postcode: "8063"
 city: Eggersdorf bei Graz
 street: "Hauptstraße"
 housenumber: 62

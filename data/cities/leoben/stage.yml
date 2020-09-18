@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.367625000000004
 longitude: 15.092218800000001
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Ferdinand Hanusch-Straße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8704921
 longitude: 16.9741946
-postcode: 7131
+postcode: "7131"
 city: Halbturn
 street: "Erzherzog-Friedrich-Straße"
 housenumber: 13

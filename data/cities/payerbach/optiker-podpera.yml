@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.6928172
 longitude: 15.863238200000001
-postcode: 2650
+postcode: "2650"
 city: Payerbach
 street: "Hauptstraße"
 housenumber: 1A

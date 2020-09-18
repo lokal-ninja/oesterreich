@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 47.064537300000005
 longitude: 15.083162300000001
-postcode: 8580
+postcode: "8580"
 city: Köflach
 street: "Rathausplatz"
 housenumber: 3

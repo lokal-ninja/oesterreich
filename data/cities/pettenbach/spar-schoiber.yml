@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9575758
 longitude: 14.0179462
-postcode: 4643
+postcode: "4643"
 city: Pettenbach
 street: "Kirchdorfer Straße"
 housenumber: 14

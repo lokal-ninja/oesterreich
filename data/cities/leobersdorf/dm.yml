@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.930373
 longitude: 16.2051138
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "Europastraße"
 housenumber: 5

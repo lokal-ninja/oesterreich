@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 48.235311800000005
 longitude: 13.827828100000001
-postcode: 4710
+postcode: "4710"
 city: Grieskirchen
 street: "Pühringer Platz"
 housenumber: 3

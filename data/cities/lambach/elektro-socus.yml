@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.090706600000004
 longitude: 13.879968400000001
-postcode: 4650
+postcode: "4650"
 city: Lambach
 street: "Bahnhofstraße"
 housenumber: 6

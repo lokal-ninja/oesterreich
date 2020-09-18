@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.8355016
 longitude: 16.9256646
-postcode: 7132
+postcode: "7132"
 city: Frauenkirchen
 street: "Franziskanerstraße"
 housenumber: 17

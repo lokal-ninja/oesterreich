@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.5508309
 longitude: 15.848166
-postcode: 3720
+postcode: "3720"
 city: Ravelsbach
 street: "Hauptstraße"
 housenumber: 17

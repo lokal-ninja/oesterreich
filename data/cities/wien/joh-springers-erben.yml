@@ -3,7 +3,7 @@ type: node
 shop: Jagd
 latitude: 48.205356
 longitude: 16.3760655
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Weihburggasse"
 housenumber: 27

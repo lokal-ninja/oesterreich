@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.1933142
 longitude: 16.277288000000002
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Kefergasse"
 housenumber: 3

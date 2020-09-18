@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.1852688
 longitude: 16.2994477
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Altgasse"
 housenumber: 11

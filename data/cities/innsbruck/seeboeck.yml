@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.2631165
 longitude: 11.3946369
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maria-Theresien-Straße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 46.6232094
 longitude: 14.309849900000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "8.-Mai-Straße"
 housenumber: 17

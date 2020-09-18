@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.948601700000005
 longitude: 14.893659000000001
-postcode: 3341
+postcode: "3341"
 city: Ybbsitz
 street: "Alte Poststraße"
 housenumber: 15

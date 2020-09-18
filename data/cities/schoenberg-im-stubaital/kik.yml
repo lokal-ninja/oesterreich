@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.1836673
 longitude: 11.398234100000002
-postcode: 6141
+postcode: "6141"
 city: Schönberg im Stubaital
 street: "Dorfstraße"
 housenumber: 28

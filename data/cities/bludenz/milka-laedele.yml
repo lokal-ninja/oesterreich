@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 47.155464300000006
 longitude: 9.8155073
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Fohrenburgstraße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: way
 shop: Pool
 latitude: 48.130130300000005
 longitude: 16.3271257
-postcode: 2331
+postcode: "2331"
 city: Vösendorf
 street: "Schönbrunner Allee"
 housenumber: 61-63

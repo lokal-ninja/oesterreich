@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.8466813
 longitude: 16.528827200000002
-postcode: 7000
+postcode: "7000"
 city: Eisenstadt
 street: "Neusiedler Straße"
 housenumber: 13

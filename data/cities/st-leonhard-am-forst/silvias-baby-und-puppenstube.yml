@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 48.142761
 longitude: 15.284324400000001
-postcode: 3243
+postcode: "3243"
 city: St. Leonhard am Forst
 street: "Hauptplatz"
 housenumber: 18

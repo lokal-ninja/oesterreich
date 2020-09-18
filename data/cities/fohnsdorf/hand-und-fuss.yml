@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.1840479
 longitude: 14.677967700000002
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Marktstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.3299315
 longitude: 14.315963100000001
-postcode: 4040
+postcode: "4040"
 city: Linz
 street: "Freistädter Straße"
 housenumber: 297

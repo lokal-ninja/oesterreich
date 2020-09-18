@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 47.0544122
 longitude: 15.159121200000001
-postcode: 8570
+postcode: "8570"
 city: Voitsberg
 street: "Schießplatzstraße"
 housenumber: 12

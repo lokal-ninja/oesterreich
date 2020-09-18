@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.3837818
 longitude: 15.0929075
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Franz Josef-Straße"
 housenumber: 11

@@ -3,10 +3,10 @@ type: node
 shop: Allgemein
 latitude: 48.219729300000004
 longitude: 16.4055748
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Hillerstraße"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-16:00; Sa 09:00-12:00"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 48.034808700000006
 longitude: 14.211855700000001
-postcode: 4540
+postcode: "4540"
 city: Bad Hall
 street: "Ing. Pesendorfer Straße"
 housenumber: 1

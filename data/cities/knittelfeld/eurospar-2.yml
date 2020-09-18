@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2111001
 longitude: 14.8244021
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Schubertstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.2593432
 longitude: 10.7663899
-postcode: 6464
+postcode: "6464"
 city: Tarrenz
 street: "Kappenzipfl"
 housenumber: 15

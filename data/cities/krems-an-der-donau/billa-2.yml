@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4081825
 longitude: 15.6142719
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Dr.-Gschmeidler-Straße"
 housenumber: 16

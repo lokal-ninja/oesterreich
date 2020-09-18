@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.776130200000004
 longitude: 16.527590500000002
-postcode: 7011
+postcode: "7011"
 city: Siegendorf
 street: "INTRO - Intro Park Einkaufszentrum"
 housenumber: 1

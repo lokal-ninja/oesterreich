@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.4665891
 longitude: 10.6824481
-postcode: 6604
+postcode: "6604"
 city: Höfen
 street: "Gewerbegebiet"
 housenumber: 8

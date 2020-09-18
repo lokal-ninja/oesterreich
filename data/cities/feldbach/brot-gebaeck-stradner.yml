@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.9306384
 longitude: 15.913673000000001
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: ""
 housenumber: 2a

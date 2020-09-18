@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.522745
 longitude: 14.293533300000002
-postcode: 4190
+postcode: "4190"
 city: Bad Leonfelden
 street: "Hauptplatz"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 48.392563200000005
 longitude: 15.5796951
-postcode: 3512
+postcode: "3512"
 city: Mautern an der Donau
 street: "St. Pöltner Straße"
 housenumber: 26

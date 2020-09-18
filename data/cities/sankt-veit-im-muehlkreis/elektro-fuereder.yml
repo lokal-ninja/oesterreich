@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.468075600000006
 longitude: 14.164317200000001
-postcode: 4173
+postcode: "4173"
 city: Sankt Veit im Mühlkreis
 street: "Schnopfhagenplatz"
 housenumber: 2

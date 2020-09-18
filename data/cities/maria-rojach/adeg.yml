@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.7355384
 longitude: 14.881111100000002
-postcode: 9422
+postcode: "9422"
 city: Maria Rojach
 street: "Maria Rojach"
 housenumber: 20

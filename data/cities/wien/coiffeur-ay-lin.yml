@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2494942
 longitude: 16.4461574
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Kagraner Platz"
 housenumber: 9a

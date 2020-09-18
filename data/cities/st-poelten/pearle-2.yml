@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.205201900000006
 longitude: 15.624457900000001
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Kremser Gasse"
 housenumber: 

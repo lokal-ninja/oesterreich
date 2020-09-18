@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 46.850622
 longitude: 10.504453100000001
-postcode: 6543
+postcode: "6543"
 city: Nauders
 street: "Reschenstraße"
 housenumber: 184

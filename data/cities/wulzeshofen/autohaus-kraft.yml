@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7168386
 longitude: 16.3069642
-postcode: 2064
+postcode: "2064"
 city: Wulzeshofen
 street: "Wulzeshofen"
 housenumber: 159

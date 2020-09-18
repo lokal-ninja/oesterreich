@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.1043273
 longitude: 16.3178167
-postcode: 2331
+postcode: "2331"
 city: Gemeinde Wiener Neudorf
 street: "Shopping City Süd"
 housenumber: 402b

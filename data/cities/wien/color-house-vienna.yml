@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2041345
 longitude: 16.3762398
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Hegelgasse"
 housenumber: 5

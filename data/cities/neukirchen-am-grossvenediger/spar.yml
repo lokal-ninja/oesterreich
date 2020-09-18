@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.254858600000006
 longitude: 12.2825061
-postcode: 5741
+postcode: "5741"
 city: Neukirchen am Großvenediger
 street: "Wildkogelbahnstraße"
 housenumber: 315

@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 48.434952100000004
 longitude: 15.7725965
-postcode: 3483
+postcode: "3483"
 city: Wagram am Wagram
 street: "Grafenegger Straße"
 housenumber: 4

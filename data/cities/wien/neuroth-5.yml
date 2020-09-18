@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1860701
 longitude: 16.3007362
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Hietzinger Hauptstraße"
 housenumber: 3

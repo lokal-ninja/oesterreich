@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 46.723378600000004
 longitude: 15.3392189
-postcode: 8544
+postcode: "8544"
 city: Oberhaag
 street: ""
 housenumber: 63

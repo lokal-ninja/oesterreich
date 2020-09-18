@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.2576873
 longitude: 16.3959493
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Schwaigergasse"
 housenumber: 39

@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 46.613497
 longitude: 13.8443822
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Widmanngasse"
 housenumber: 34
 phone: ""
-opening_hours: "Tu-Fri 10:00-13:00, 14:00-18:00 Sa 09:00-13:00"
+opening_hours: "Tu-Fr 10:00-13:00,14:00-18:00; Sa 09:00-13:00"
 website: ""

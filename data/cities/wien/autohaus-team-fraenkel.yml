@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.2730131
 longitude: 16.390350400000003
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Prager Straße"
 housenumber: 112

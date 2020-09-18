@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.1424966
 longitude: 10.5187823
-postcode: 6591
+postcode: "6591"
 city: Grins
 street: "Grins"
 housenumber: 19

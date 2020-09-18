@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.398745000000005
 longitude: 15.5051342
-postcode: 3602
+postcode: "3602"
 city: Rossatz-Arnsdorf
 street: ""
 housenumber: 55

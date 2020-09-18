@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.179616
 longitude: 16.3931367
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Lilienthalgasse"
 housenumber: 6-10

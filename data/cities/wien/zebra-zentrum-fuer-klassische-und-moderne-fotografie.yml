@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.204327600000006
 longitude: 16.3497115
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Burggasse"
 housenumber: 46

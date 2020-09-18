@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.473331400000006
 longitude: 11.9788855
-postcode: 6250
+postcode: "6250"
 city: Kundl
 street: "Dr. Hans-Bachmann-Straße"
 housenumber: 51a

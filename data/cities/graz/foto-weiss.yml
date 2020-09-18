@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 47.068099100000005
 longitude: 15.4385811
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Kalchberggasse"
 housenumber: 1

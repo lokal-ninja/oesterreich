@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.296040500000004
 longitude: 9.639376500000001
-postcode: 6832
+postcode: "6832"
 city: Sulz
 street: "Haltestellenweg"
 housenumber: 2

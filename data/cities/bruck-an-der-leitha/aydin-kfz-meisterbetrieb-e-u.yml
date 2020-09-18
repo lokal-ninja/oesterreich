@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0208923
 longitude: 16.7600403
-postcode: 2460
+postcode: "2460"
 city: Bruck an der Leitha
 street: "Wilfleinsdorfer Straße"
 housenumber: 2a

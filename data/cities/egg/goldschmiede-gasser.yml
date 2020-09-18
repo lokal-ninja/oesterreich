@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.4317207
 longitude: 9.8987595
-postcode: 6863
+postcode: "6863"
 city: Egg
 street: "Gerbe"
 housenumber: 23

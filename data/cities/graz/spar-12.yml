@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0907447
 longitude: 15.459508800000002
-postcode: 8043
+postcode: "8043"
 city: Graz
 street: "Mariatroster Straße"
 housenumber: 41

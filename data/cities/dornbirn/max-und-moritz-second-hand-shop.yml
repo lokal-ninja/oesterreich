@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.4009705
 longitude: 9.737498200000001
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Arlbergstraße"
 housenumber: 5

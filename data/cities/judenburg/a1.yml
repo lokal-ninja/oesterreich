@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.169659
 longitude: 14.6467206
-postcode: 8750
+postcode: "8750"
 city: Judenburg
 street: "Burggasse"
 housenumber: 85a

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4214769
 longitude: 15.2231573
-postcode: 3631
+postcode: "3631"
 city: Ottenschlag
 street: "Wachaustraße"
 housenumber: 10

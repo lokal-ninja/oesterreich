@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0360254
 longitude: 14.3141814
-postcode: 4523
+postcode: "4523"
 city: Sierning
 street: "Gewerbestraße"
 housenumber: 11

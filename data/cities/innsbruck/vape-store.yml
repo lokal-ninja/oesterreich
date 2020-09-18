@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 47.263965500000005
 longitude: 11.3954172
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maria-Theresien-Straße"
 housenumber: 49a

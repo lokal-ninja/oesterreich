@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.209244000000005
 longitude: 16.3672116
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Wallnerstraße"
 housenumber: 3

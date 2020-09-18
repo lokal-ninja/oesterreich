@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 48.2068048
 longitude: 16.3699327
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Spiegelgasse"
 housenumber: 15

@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 47.257226900000006
 longitude: 11.3907057
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Stafflerstraße"
 housenumber: 25
 phone: "+43 650 7957214"
-opening_hours: "Mo 08:00-11:30, 17:00-19:00; Th, Fr 17:00-19:00; Sa 08:00-12:00, 17:00-19:00; PH off"
+opening_hours: "Mo-Th 08:00-12:00, 16:30-18:30; Fr 08:00-12:00, 13:00-18:30; Sa 08:00-12:00, 16:30-18:00; PH off"
 website: "https://www.crazybikez.com"

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.6624763
 longitude: 12.396001400000001
-postcode: 6345
+postcode: "6345"
 city: Kössen
 street: "Waidach"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.1549217
 longitude: 9.8264074
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Zürcherstraße"
 housenumber: 31

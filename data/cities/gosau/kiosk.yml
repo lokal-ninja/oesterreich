@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.5328384
 longitude: 13.497854
-postcode: 4825
+postcode: "4825"
 city: Gosau
 street: "Gosauseestraße"
 housenumber: 145

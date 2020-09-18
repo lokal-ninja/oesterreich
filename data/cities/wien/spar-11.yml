@@ -1,12 +1,12 @@
-id: 348382430
+id: 347403472
 type: node
 shop: Supermarkt
-latitude: 48.221789
-longitude: 16.4072174
-postcode: 1020
+latitude: 48.261878100000004
+longitude: 16.3999892
+postcode: "1210"
 city: Wien
-street: "Engerthstraße"
-housenumber: 193-195
-phone: "+43 1 7298691"
+street: "Brünner Straße"
+housenumber: 31
+phone: ""
 opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-wien-1020-engerthstrasse-193-195"
+website: "https://www.spar.at/standorte/spar-wien-1210-bruenner-strasse-31"

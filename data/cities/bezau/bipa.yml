@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.3833898
 longitude: 9.9007742
-postcode: 6870
+postcode: "6870"
 city: Bezau
 street: "Platz"
 housenumber: 362

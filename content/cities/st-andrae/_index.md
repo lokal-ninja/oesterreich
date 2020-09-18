@@ -1,6 +1,6 @@
 ---
 title: St. Andrä
 url: /st-andrae/
-latitude: 47.017444000000005
-longitude: 12.378075
+latitude: 46.7513736
+longitude: 14.3738419
 ---

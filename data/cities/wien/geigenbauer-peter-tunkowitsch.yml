@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.2026101
 longitude: 16.37247
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Mahlerstraße"
 housenumber: 11

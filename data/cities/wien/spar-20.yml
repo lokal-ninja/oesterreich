@@ -1,12 +1,12 @@
-id: 653114269
+id: 636138683
 type: node
-shop: Lebensmittel
-latitude: 48.2077821
-longitude: 16.3788175
-postcode: 1010
+shop: Supermarkt
+latitude: 48.2153866
+longitude: 16.348260500000002
+postcode: "1090"
 city: Wien
-street: "Wollzeile"
-housenumber: 39
-phone: "+43 1 5134879"
-opening_hours: "Mo-Fr 07:15-19:30"
-website: "https://www.spar.at/standorte/spar-wien-1010-wollzeile-39"
+street: "Alser Straße"
+housenumber: 22
+phone: ""
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Oct 26 off"
+website: ""

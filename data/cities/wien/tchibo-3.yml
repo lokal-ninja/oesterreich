@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.2386871
 longitude: 16.377105200000003
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.0775805
 longitude: 15.4348077
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Wickenburggasse"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Massage
 latitude: 48.102717600000005
 longitude: 13.132899
-postcode: 5231
+postcode: "5231"
 city: Schalchen
 street: ""
 housenumber: 71

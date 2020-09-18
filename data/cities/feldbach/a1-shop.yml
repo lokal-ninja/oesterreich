@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 46.951327600000006
 longitude: 15.890271400000001
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Ungarstraße"
 housenumber: 8

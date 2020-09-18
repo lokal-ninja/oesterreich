@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.282929100000004
 longitude: 15.977304900000002
-postcode: 8230
+postcode: "8230"
 city: Hartberg
 street: "Bahnhofstraße"
 housenumber: 18

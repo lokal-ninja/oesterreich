@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.265908800000005
 longitude: 11.3951569
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Sparkassenplatz"
 housenumber: 2

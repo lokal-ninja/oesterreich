@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2048864
 longitude: 16.352905500000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "St.-Ulrichs-Platz"
 housenumber: 4

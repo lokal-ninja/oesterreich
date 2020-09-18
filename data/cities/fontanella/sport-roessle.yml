@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.271583
 longitude: 9.907435300000001
-postcode: 6733
+postcode: "6733"
 city: Fontanella
 street: "Faschina"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.113578100000005
 longitude: 15.422727600000002
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Sankt-Veiter-Straße"
 housenumber: 11

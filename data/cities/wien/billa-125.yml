@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 48.1973033
 longitude: 16.2841029
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Hütteldorfer Straße"
 housenumber: 194
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:40-20:00 Sa 07:40-18:00"
 website: ""

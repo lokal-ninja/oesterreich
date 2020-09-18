@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.040879700000005
 longitude: 15.4617126
-postcode: 8041
+postcode: "8041"
 city: Graz
 street: "Ostbahnstraße"
 housenumber: 3

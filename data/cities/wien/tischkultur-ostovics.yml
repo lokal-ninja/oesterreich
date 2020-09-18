@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 48.208822000000005
 longitude: 16.3722146
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Stephansplatz"
 housenumber: 9

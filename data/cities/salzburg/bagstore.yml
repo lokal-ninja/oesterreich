@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 47.8002314
 longitude: 13.040594
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Sterngässchen"
 housenumber: 6

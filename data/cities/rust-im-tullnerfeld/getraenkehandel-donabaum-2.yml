@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.303327700000004
 longitude: 15.9270387
-postcode: 3451
+postcode: "3451"
 city: Rust im Tullnerfeld
 street: "Mühlgasse"
 housenumber: 5

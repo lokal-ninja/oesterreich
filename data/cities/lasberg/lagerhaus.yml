@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.47337640000001
 longitude: 14.5473417
-postcode: 4291
+postcode: "4291"
 city: Lasberg
 street: "Oswalderstraße"
 housenumber: 33

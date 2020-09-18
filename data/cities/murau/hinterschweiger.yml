@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.1105412
 longitude: 14.1669368
-postcode: 8850
+postcode: "8850"
 city: Murau
 street: "Anna-Neumann-Straße"
 housenumber: 43

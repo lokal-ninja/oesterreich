@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.1117342
 longitude: 16.397803
-postcode: 2333
+postcode: "2333"
 city: Leopoldsdorf
 street: "Achauerstraße"
 housenumber: 45

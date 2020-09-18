@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.4316024
 longitude: 15.589635200000002
-postcode: 3500
+postcode: "3500"
 city: Rehberg
 street: "Rehberger Hauptstraße"
 housenumber: 50

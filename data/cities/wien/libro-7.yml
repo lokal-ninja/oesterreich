@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.2720509
 longitude: 16.4460433
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Kürschnergasse"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.625493000000006
 longitude: 14.307129000000002
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Alter Platz"
 housenumber: 32

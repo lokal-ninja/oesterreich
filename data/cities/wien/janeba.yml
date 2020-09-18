@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.1700068
 longitude: 16.367689300000002
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Troststraße"
 housenumber: 60

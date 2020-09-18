@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.984651
 longitude: 15.026007600000002
-postcode: 3264
+postcode: "3264"
 city: Gresten
 street: "Unterer Markt"
 housenumber: 22

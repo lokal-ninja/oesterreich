@@ -3,7 +3,7 @@ type: node
 shop: Sammler
 latitude: 48.225800400000004
 longitude: 16.505098200000003
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Anna-Bastel-Gasse"
 housenumber: 3/2

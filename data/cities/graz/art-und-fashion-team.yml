@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.067787800000005
 longitude: 15.441101900000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Joanneumring"
 housenumber: 6

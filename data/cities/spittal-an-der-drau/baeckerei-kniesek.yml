@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.7981418
 longitude: 13.491693300000001
-postcode: 9800
+postcode: "9800"
 city: Spittal an der Drau
 street: "Widmannstraße"
 housenumber: 4

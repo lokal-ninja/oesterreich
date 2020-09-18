@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.997857200000006
 longitude: 16.4721161
-postcode: 2441
+postcode: "2441"
 city: Mitterndorf an der Fischa
 street: "Hauptstraße"
 housenumber: 32

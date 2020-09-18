@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2122825
 longitude: 16.3713292
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Salvatorgasse"
 housenumber: 10

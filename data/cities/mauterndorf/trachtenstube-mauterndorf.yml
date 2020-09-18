@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.133950500000005
 longitude: 13.679928
-postcode: 5570
+postcode: "5570"
 city: Mauterndorf
 street: "Brunnenplatz"
 housenumber: 88

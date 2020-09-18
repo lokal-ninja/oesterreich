@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.0387671
 longitude: 14.4187308
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Stadtplatz"
 housenumber: 34

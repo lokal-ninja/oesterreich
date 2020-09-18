@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.270701
 longitude: 16.410492
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Shuttleworthstraße"
 housenumber: 8

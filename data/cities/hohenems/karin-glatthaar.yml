@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.367046900000005
 longitude: 9.687869500000001
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Diepoldsauer Straße"
 housenumber: 5

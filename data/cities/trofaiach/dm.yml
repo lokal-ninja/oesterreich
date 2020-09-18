@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.4246374
 longitude: 15.002596700000002
-postcode: 8793
+postcode: "8793"
 city: Trofaiach
 street: "Pulverstraße"
 housenumber: 1

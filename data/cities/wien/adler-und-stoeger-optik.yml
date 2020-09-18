@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.2245779
 longitude: 16.4981654
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Maria-Tusch-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3593138
 longitude: 16.3113075
-postcode: 2100
+postcode: "2100"
 city: Korneuburg
 street: "Stockerauer Straße"
 housenumber: 187

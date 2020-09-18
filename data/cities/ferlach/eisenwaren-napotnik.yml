@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 46.524703900000006
 longitude: 14.300477800000001
-postcode: 9170
+postcode: "9170"
 city: Ferlach
 street: "Werkstraße"
 housenumber: 12

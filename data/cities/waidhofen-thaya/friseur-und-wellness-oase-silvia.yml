@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.812242000000005
 longitude: 15.28058
-postcode: 3830
+postcode: "3830"
 city: Waidhofen/Thaya
 street: "Vitiser Straße"
 housenumber: 7

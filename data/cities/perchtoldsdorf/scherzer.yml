@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.1206557
 longitude: 16.2660464
-postcode: 2380
+postcode: "2380"
 city: Perchtoldsdorf
 street: "Wiener Gasse"
 housenumber: 15

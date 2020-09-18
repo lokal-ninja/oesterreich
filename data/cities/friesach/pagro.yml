@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 46.953827000000004
 longitude: 14.413415500000001
-postcode: 9360
+postcode: "9360"
 city: Friesach
 street: "Industriestraße"
 housenumber: 16

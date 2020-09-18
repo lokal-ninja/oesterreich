@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.412884500000004
 longitude: 15.261313500000002
-postcode: 8600
+postcode: "8600"
 city: Bruck an der Mur
 street: "Bergstraße"
 housenumber: 41

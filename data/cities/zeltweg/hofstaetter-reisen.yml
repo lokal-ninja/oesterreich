@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.193223
 longitude: 14.7598985
-postcode: 8740
+postcode: "8740"
 city: Zeltweg
 street: "Hauptstraße"
 housenumber: 48

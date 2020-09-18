@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.05308
 longitude: 15.126937300000002
-postcode: 8582
+postcode: "8582"
 city: Rosental an der Kainach
 street: "Bahnhofstraße"
 housenumber: 3

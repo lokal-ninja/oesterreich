@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5192191
 longitude: 11.7085276
-postcode: 6215
+postcode: "6215"
 city: Achenkirch
 street: "Achenkirch"
 housenumber: 229

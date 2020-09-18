@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0996259
 longitude: 16.4186558
-postcode: 2326
+postcode: "2326"
 city: Maria-Lanzendorf
 street: "Wiener Straße"
 housenumber: 2

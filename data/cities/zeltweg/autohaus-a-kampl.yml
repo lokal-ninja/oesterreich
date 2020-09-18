@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.197455700000006
 longitude: 14.765056800000002
-postcode: 8740
+postcode: "8740"
 city: Zeltweg
 street: "Flatschacherweg"
 housenumber: 2

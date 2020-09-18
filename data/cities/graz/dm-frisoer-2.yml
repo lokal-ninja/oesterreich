@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.102907
 longitude: 15.4203354
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Grazer Straße"
 housenumber: 39

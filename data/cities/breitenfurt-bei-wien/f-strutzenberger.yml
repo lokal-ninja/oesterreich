@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.130349700000004
 longitude: 16.1099806
-postcode: 2384
+postcode: "2384"
 city: Breitenfurt bei Wien
 street: "Hochrotherdstraße"
 housenumber: 17

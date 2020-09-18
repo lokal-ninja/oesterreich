@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.243210100000006
 longitude: 16.3719322
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Lorenz-Müller-Gasse"
 housenumber: 7-11

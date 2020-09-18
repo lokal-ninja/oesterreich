@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1370433
 longitude: 16.2792327
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 372/4

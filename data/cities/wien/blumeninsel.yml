@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.219582200000005
 longitude: 16.371542700000003
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Untere Augartenstraße"
 housenumber: 4

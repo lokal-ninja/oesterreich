@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.2237297
 longitude: 16.341711800000002
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Martinstraße"
 housenumber: 65

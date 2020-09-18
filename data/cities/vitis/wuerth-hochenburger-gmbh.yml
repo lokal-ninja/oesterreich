@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.75486900000001
 longitude: 15.187344500000002
-postcode: 3902
+postcode: "3902"
 city: Vitis
 street: "Titus-Appel-Straße"
 housenumber: 4

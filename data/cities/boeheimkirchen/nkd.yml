@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.196809900000005
 longitude: 15.764766600000002
-postcode: 3071
+postcode: "3071"
 city: Böheimkirchen
 street: "Hainfelder Straße"
 housenumber: 6

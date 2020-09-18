@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.2368681
 longitude: 13.2007773
-postcode: 5611
+postcode: "5611"
 city: Großarl
 street: "Dorfstraße"
 housenumber: 1

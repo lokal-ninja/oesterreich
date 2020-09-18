@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2004077
 longitude: 15.5010867
-postcode: 3385
+postcode: "3385"
 city: Markersdorf an der Pielach
 street: "Betriebsgebiet Markersdorf Nord"
 housenumber: 1

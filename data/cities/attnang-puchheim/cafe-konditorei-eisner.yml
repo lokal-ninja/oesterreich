@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.0118154
 longitude: 13.722240200000002
-postcode: 4800
+postcode: "4800"
 city: Attnang-Puchheim
 street: "Stelzhamergasse"
 housenumber: 3

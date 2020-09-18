@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.274213800000005
 longitude: 16.233997900000002
-postcode: 7400
+postcode: "7400"
 city: Oberwart
 street: "Steinamangererstraße"
 housenumber: 187

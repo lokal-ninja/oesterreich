@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.9915013
 longitude: 13.687956300000002
-postcode: 4844
+postcode: "4844"
 city: Regau
 street: ""
 housenumber: 3

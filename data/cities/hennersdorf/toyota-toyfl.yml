@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.111357000000005
 longitude: 16.363143400000002
-postcode: 2332
+postcode: "2332"
 city: Hennersdorf
 street: "Hauptstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1830451
 longitude: 14.675341800000002
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Marktstraße"
 housenumber: 1

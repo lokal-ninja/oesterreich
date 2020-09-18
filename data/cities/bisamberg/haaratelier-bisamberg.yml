@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3303036
 longitude: 16.3597083
-postcode: 2102
+postcode: "2102"
 city: Bisamberg
 street: "Hauptstraße"
 housenumber: 24-26

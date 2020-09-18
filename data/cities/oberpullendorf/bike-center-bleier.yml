@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 47.496556600000005
 longitude: 16.5110576
-postcode: 7350
+postcode: "7350"
 city: Oberpullendorf
 street: "Eisenstädterstraße"
 housenumber: 8

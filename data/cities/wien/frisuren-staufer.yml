@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.259423000000005
 longitude: 16.3637751
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Zahnradbahnstraße"
 housenumber: 5

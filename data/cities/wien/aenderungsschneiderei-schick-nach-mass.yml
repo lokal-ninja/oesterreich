@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.194093300000006
 longitude: 16.3674004
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 37

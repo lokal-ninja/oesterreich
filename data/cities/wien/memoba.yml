@@ -3,7 +3,7 @@ type: node
 shop: Modellbau
 latitude: 48.1922403
 longitude: 16.3416387
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Aegidigasse"
 housenumber: 5

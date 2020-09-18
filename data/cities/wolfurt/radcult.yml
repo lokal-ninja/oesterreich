@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.473314800000004
 longitude: 9.7519836
-postcode: 6922
+postcode: "6922"
 city: Wolfurt
 street: "Im Dorf"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: way
 shop: Musik
 latitude: 47.4243248
 longitude: 15.258107700000002
-postcode: 8600
+postcode: "8600"
 city: Bruck an der Mur
 street: "Tragößer Straße"
 housenumber: 39

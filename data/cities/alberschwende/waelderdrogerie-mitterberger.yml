@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.4502766
 longitude: 9.831693300000001
-postcode: 6861
+postcode: "6861"
 city: Alberschwende
 street: ""
 housenumber: 

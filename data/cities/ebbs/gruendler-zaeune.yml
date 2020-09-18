@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 47.633099800000004
 longitude: 12.212916600000002
-postcode: 6341
+postcode: "6341"
 city: Ebbs
 street: "Theaterweg"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.014654500000006
 longitude: 16.258237400000002
-postcode: 2511
+postcode: "2511"
 city: Pfaffstätten
 street: "Grenzgasse"
 housenumber: 4

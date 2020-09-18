@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.4189209
 longitude: 11.877502900000001
-postcode: 6235
+postcode: "6235"
 city: Reith im Alpachtal
 street: "Sonnbichl"
 housenumber: 1

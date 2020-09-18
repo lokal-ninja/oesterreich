@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.180069
 longitude: 16.370584700000002
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Dampfgasse"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.210775500000004
 longitude: 14.808109300000002
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Kärntner Straße"
 housenumber: 100

@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 47.9053963
 longitude: 14.121465500000001
-postcode: 4560
+postcode: "4560"
 city: Kirchdorf an der Krems
 street: "Bahnhofstraße"
 housenumber: 7

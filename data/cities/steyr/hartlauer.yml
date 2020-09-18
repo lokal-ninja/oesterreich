@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.0402592
 longitude: 14.419847500000001
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Stadtplatz"
 housenumber: 6

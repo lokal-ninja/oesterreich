@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.4152324
 longitude: 9.7437755
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Eisengasse"
 housenumber: 11

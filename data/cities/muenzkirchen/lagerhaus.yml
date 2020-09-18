@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.4825044
 longitude: 13.558371200000002
-postcode: 4792
+postcode: "4792"
 city: Münzkirchen
 street: "Molkereistraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2066871
 longitude: 16.369849900000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Spiegelgasse"
 housenumber: 15

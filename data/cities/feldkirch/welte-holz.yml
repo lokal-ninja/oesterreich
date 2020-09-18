@@ -3,7 +3,7 @@ type: way
 shop: Holz
 latitude: 47.277464300000005
 longitude: 9.592619000000001
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Paspelsstraße"
 housenumber: 56

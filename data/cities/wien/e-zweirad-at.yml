@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2210958
 longitude: 16.3835157
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Vereinsgasse"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.282437300000005
 longitude: 15.990801800000002
-postcode: 8230
+postcode: "8230"
 city: Hartberg
 street: "Im Hatric"
 housenumber: 8

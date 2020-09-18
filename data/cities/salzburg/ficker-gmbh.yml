@@ -3,7 +3,7 @@ type: node
 shop: Rahmen
 latitude: 47.8086215
 longitude: 13.049270100000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Gabelsbergerstraße"
 housenumber: 22

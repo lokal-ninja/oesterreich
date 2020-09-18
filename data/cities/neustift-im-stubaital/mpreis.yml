@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.112166900000005
 longitude: 11.309716700000001
-postcode: 6167
+postcode: "6167"
 city: Neustift im Stubaital
 street: "Stubaitalstraße"
 housenumber: 78

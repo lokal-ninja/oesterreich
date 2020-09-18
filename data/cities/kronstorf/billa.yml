@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1449548
 longitude: 14.4654105
-postcode: 4484
+postcode: "4484"
 city: Kronstorf
 street: "Hauptstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.3048566
 longitude: 10.964737300000001
-postcode: 6414
+postcode: "6414"
 city: Mieming
 street: "Barwies"
 housenumber: 269

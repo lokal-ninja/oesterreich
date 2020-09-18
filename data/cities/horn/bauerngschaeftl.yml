@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.6625554
 longitude: 15.655830700000001
-postcode: 3580
+postcode: "3580"
 city: Horn
 street: "Prager Straße"
 housenumber: 5

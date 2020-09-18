@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.398005500000004
 longitude: 11.941689400000001
-postcode: 6236
+postcode: "6236"
 city: Alpbach
 street: "Alpbach"
 housenumber: 785

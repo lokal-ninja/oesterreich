@@ -3,10 +3,10 @@ type: node
 shop: Outdoor
 latitude: 47.2646183
 longitude: 11.392124800000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Anichstraße"
 housenumber: 13
-phone: "+43 512 2305480"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"
+phone: "+43 512 2305470"
+opening_hours: "Mo-Sa 11:00-18:00; PH off"
 website: "https://www.burton.com/be/en/stores?store=stores-innsbruck2"

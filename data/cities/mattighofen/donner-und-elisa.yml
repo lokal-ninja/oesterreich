@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 48.1026298
 longitude: 13.1506088
-postcode: 5230
+postcode: "5230"
 city: Mattighofen
 street: "Stadtplatz"
 housenumber: 53
 phone: "+43 650 9852462"
 opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; Sa 08:30-13:00"
-website: "www.donner-mode.at/index.html"
+website: "http://www.donner-mode.at/index.html"

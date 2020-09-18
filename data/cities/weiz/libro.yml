@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.2179475
 longitude: 15.625544300000001
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Europa-Allee"
 housenumber: 2

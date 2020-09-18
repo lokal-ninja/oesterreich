@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.2890706
 longitude: 11.578341100000001
-postcode: 6111
+postcode: "6111"
 city: Volders
 street: "Jagerbichl"
 housenumber: 30

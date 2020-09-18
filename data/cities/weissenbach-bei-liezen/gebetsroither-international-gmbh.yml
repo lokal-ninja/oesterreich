@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.5667771
 longitude: 14.208451400000001
-postcode: 8940
+postcode: "8940"
 city: Weißenbach bei Liezen
 street: "Gebetsroitherweg"
 housenumber: 1

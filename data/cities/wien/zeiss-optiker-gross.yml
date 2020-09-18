@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.275274700000004
 longitude: 16.4077056
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Brünner Straße"
 housenumber: 

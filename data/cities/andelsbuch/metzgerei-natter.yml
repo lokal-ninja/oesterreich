@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.399171100000004
 longitude: 9.8554052
-postcode: 6866
+postcode: "6866"
 city: Andelsbuch
 street: "Bersbuch"
 housenumber: 746

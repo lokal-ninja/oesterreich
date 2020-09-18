@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.2722106
 longitude: 11.4485261
-postcode: 6063
+postcode: "6063"
 city: Rum
 street: "Siemensstraße"
 housenumber: 43

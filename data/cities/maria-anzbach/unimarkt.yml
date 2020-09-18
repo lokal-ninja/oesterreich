@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1895967
 longitude: 15.937093500000001
-postcode: 3034
+postcode: "3034"
 city: Maria Anzbach
 street: "Hauptstraße"
 housenumber: 570

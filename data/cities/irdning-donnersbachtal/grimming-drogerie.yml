@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.505402600000004
 longitude: 14.104473200000001
-postcode: 8952
+postcode: "8952"
 city: Irdning-Donnersbachtal
 street: "Irdning Hauptplatz"
 housenumber: 51a

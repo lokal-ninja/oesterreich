@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.393664300000005
 longitude: 15.577268900000002
-postcode: 3512
+postcode: "3512"
 city: Mautern an der Donau
 street: "St. Pöltner Straße"
 housenumber: 10

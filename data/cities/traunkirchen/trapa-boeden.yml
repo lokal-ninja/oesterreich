@@ -3,7 +3,7 @@ type: way
 shop: Fußböden
 latitude: 47.855345400000004
 longitude: 13.7803155
-postcode: 4801
+postcode: "4801"
 city: Traunkirchen
 street: "Uferstraße"
 housenumber: 23

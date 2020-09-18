@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2425756
 longitude: 9.6038032
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Reichsstraße"
 housenumber: 167

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.1582434
 longitude: 14.0242505
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Ringstraße"
 housenumber: 12

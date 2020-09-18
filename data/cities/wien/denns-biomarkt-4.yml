@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2008298
 longitude: 16.3535261
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Lindengasse"
 housenumber: 13-15

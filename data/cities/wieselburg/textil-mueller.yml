@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.106320600000004
 longitude: 15.1196911
-postcode: 3250
+postcode: "3250"
 city: Wieselburg
 street: "Plaika"
 housenumber: 1

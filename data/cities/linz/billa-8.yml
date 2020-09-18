@@ -1,12 +1,12 @@
-id: 82409895
+id: 89655700
 type: way
 shop: Supermarkt
-latitude: 48.307437500000006
-longitude: 14.295700700000001
-postcode: 4020
+latitude: 48.2627844
+longitude: 14.3177944
+postcode: "4030"
 city: Linz
-street: "Lederergasse"
-housenumber: 27
+street: "Wiener Straße"
+housenumber: 328
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30;Sa 07:15-18:00;Su off"
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 46.8895253
 longitude: 15.270372600000002
-postcode: 8510
+postcode: "8510"
 city: Stainz
 street: "Langwiesenbachgasse"
 housenumber: 9

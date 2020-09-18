@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.711019900000004
 longitude: 13.622665300000001
-postcode: 4820
+postcode: "4820"
 city: Bad Ischl
 street: "Sparkassenplatz"
 housenumber: 4

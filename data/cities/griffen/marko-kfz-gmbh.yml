@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.7012835
 longitude: 14.725051100000002
-postcode: 9112
+postcode: "9112"
 city: Griffen
 street: "Völkermarkter Straße"
 housenumber: 15

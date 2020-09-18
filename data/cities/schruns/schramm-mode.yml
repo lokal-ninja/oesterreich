@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.0803218
 longitude: 9.9187013
-postcode: 6780
+postcode: "6780"
 city: Schruns
 street: "Kirchplatz"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2497386
 longitude: 16.4452565
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Kagraner Platz"
 housenumber: 7

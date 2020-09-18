@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.206761500000006
 longitude: 16.3887742
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Marxergasse"
 housenumber: 16

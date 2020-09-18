@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5025909
 longitude: 15.445851600000001
-postcode: 8650
+postcode: "8650"
 city: Kindberg
 street: "Bahnhofstraße"
 housenumber: 5a

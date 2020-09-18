@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.1409096
 longitude: 9.8340865
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Montafonerstraße"
 housenumber: 29

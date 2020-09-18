@@ -3,7 +3,7 @@ type: way
 shop: Tabak
 latitude: 47.557608900000005
 longitude: 13.646870400000001
-postcode: 4830
+postcode: "4830"
 city: Hallstatt
 street: "Seestraße"
 housenumber: 157

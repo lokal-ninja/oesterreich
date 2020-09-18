@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.0640243
 longitude: 15.082681000000001
-postcode: 8580
+postcode: "8580"
 city: Köflach
 street: "Rathausplatz"
 housenumber: 1

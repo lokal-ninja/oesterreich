@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.422636000000004
 longitude: 13.766302000000001
-postcode: 4724
+postcode: "4724"
 city: Neukirchen am Walde
 street: ""
 housenumber: 12

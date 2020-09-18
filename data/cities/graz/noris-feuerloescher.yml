@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.072667800000005
 longitude: 15.420416000000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Baumkircherstraße"
 housenumber: 2

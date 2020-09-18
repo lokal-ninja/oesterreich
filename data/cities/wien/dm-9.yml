@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.243853300000005
 longitude: 16.462073800000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Gewerbeparkstraße"
 housenumber: 12

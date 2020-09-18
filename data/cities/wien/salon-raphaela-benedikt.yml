@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.2507467
 longitude: 16.3059161
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Rathstraße"
 housenumber: 14

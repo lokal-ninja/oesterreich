@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.931201200000004
 longitude: 16.2057024
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "Europastraße"
 housenumber: 5

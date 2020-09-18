@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3093281
 longitude: 16.324064200000002
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Stadtplatz"
 housenumber: 29

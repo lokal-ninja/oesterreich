@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.5230472
 longitude: 12.429658600000002
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Dechant-Wieshoferstraße"
 housenumber: 6

@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 47.4507746
 longitude: 9.6668708
-postcode: 6890
+postcode: "6890"
 city: Lustenau
 street: "Hagstraße"
 housenumber: 20
 phone: "+43557784005"
-opening_hours: "Mo-Fr 06:30-18:30, Sa 06:00-11:00, So und Feiertag 07:00-11:00"
+opening_hours: "Mo-Fr 06:30-18:30; Sa 06:00-11:00; Su,PH 07:00-11:00"
 website: "www.bäckerei-mangold.at"

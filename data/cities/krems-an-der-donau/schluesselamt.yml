@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.4112476
 longitude: 15.598539400000002
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Dominikanerplatz"
 housenumber: 11

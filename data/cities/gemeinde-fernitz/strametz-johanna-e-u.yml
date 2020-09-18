@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 46.976564100000004
 longitude: 15.5063975
-postcode: 8072
+postcode: "8072"
 city: Gemeinde Fernitz
 street: "Am Klostergrund"
 housenumber: 46/3

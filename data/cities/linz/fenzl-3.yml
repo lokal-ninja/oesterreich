@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2877869
 longitude: 14.3000688
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Wiener Straße"
 housenumber: 69

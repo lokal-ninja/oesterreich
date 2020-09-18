@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.742413600000006
 longitude: 15.2731957
-postcode: 3900
+postcode: "3900"
 city: Schwarzenau
 street: "Industriestraße"
 housenumber: 1

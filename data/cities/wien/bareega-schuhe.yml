@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.2762272
 longitude: 16.4082501
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Brünner Straße"
 housenumber: 133

@@ -1,6 +1,6 @@
 ---
 title: Pichl
 url: /pichl/
-latitude: 47.1986411
-longitude: 15.676983700000001
+latitude: 47.267447100000005
+longitude: 15.548948000000001
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 48.195260100000006
 longitude: 16.3668582
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 34

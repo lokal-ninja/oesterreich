@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.0491639
 longitude: 16.3139372
-postcode: 2353
+postcode: "2353"
 city: Guntramsdorf
 street: "Hauptstraße"
 housenumber: 43

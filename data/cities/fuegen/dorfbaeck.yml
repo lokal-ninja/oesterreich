@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.345401
 longitude: 11.8481336
-postcode: 6362
+postcode: "6362"
 city: Fügen
 street: "Hochfügenerstraße"
 housenumber: 7

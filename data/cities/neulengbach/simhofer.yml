@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1976469
 longitude: 15.9027741
-postcode: 3040
+postcode: "3040"
 city: Neulengbach
 street: ""
 housenumber: 

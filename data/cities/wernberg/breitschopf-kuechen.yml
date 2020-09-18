@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 46.6115511
 longitude: 13.9619262
-postcode: 9241
+postcode: "9241"
 city: Wernberg
 street: "Landesstraße"
 housenumber: 4

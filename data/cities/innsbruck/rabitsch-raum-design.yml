@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.2628519
 longitude: 11.397538800000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Salurner Straße"
 housenumber: 5

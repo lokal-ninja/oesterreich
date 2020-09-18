@@ -3,7 +3,7 @@ type: node
 shop: Nahrungsergänzung
 latitude: 47.2661621
 longitude: 11.4355496
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Eduard-Bodem-Gasse"
 housenumber: 8

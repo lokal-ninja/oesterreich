@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8085904
 longitude: 13.059758400000002
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Robinigstraße"
 housenumber: 3

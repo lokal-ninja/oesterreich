@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4841665
 longitude: 10.720733500000001
-postcode: 6600
+postcode: "6600"
 city: Reutte
 street: "Ehrenbergstraße"
 housenumber: 2

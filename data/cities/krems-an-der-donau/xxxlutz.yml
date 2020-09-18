@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.4056998
 longitude: 15.6532186
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "An der Schütt"
 housenumber: 43

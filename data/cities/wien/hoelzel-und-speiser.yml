@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.17593290000001
 longitude: 16.364398700000002
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Karmarschgasse"
 housenumber: 46

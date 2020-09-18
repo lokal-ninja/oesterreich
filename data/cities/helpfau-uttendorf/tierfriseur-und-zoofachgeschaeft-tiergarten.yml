@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 48.1551692
 longitude: 13.118613100000001
-postcode: 5261
+postcode: "5261"
 city: Helpfau-Uttendorf
 street: "Uttendorf"
 housenumber: 19

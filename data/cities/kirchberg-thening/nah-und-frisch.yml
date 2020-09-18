@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 48.2571023
 longitude: 14.1615181
-postcode: 4062
+postcode: "4062"
 city: Kirchberg-Thening
 street: "Obere Theninger Straße"
 housenumber: 16
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+43 7221 63729"
+opening_hours: "Mo,We-Fr 07:00-18:00; Tu 07:00-13:00; Sa 07:00-12:00"
+website: "https://www.nahundfrisch.at/de/kaufmann/dieplinger"

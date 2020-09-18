@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.309780800000006
 longitude: 16.3240903
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Stadtplatz"
 housenumber: 16

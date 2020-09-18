@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 47.8280406
 longitude: 12.999638200000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Rottweg"
 housenumber: 85

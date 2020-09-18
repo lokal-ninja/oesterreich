@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 48.1983213
 longitude: 16.3410514
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kaiserstraße"
 housenumber: 15

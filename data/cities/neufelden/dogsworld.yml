@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 48.4853345
 longitude: 13.982829200000001
-postcode: 4120
+postcode: "4120"
 city: Neufelden
 street: "Veldner Straße"
 housenumber: 55

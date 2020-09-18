@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.0685577
 longitude: 15.4420605
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Am Eisernen Tor"
 housenumber: 2

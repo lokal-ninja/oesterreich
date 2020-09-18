@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 46.9568239
 longitude: 15.8795283
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Thallerstraße"
 housenumber: 4

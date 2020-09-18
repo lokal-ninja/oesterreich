@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2084101
 longitude: 16.3749647
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Strobelgasse"
 housenumber: 2

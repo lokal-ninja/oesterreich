@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.2282518
 longitude: 16.3678464
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Wallensteinstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.119278
 longitude: 16.613838700000002
-postcode: 2401
+postcode: "2401"
 city: Fischamend
 street: "Hainburger Straße"
 housenumber: 14

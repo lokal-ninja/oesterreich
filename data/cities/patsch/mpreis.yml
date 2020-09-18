@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2079213
 longitude: 11.4156996
-postcode: 6082
+postcode: "6082"
 city: Patsch
 street: "Römerstraße"
 housenumber: 1

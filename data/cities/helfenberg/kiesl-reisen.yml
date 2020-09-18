@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.5527576
 longitude: 14.145957800000001
-postcode: 4184
+postcode: "4184"
 city: Helfenberg
 street: "Waldhäuser"
 housenumber: 64

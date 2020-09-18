@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.190824400000004
 longitude: 16.270947800000002
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Auhofstraße"
 housenumber: 138

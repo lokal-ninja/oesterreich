@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 47.127015500000006
 longitude: 16.4678279
-postcode: 7521
+postcode: "7521"
 city: Bildein
 street: "Hauptstraße"
 housenumber: 132

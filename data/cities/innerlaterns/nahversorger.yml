@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.2574169
 longitude: 9.7433745
-postcode: 6830
+postcode: "6830"
 city: Innerlaterns
 street: "Laternser Straße"
 housenumber: 84

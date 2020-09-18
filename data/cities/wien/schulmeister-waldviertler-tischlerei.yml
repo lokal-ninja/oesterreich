@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.236049200000004
 longitude: 16.3705864
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Jägerstraße"
 housenumber: 62-64

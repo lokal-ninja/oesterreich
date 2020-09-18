@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.143090300000004
 longitude: 9.832493300000001
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Tränkeweg"
 housenumber: 2

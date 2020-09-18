@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8493258
 longitude: 16.304355
-postcode: 2492
+postcode: "2492"
 city: Eggendorf
 street: "Hauptstraße"
 housenumber: 189

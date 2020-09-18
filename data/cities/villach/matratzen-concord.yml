@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 46.6082983
 longitude: 13.8506785
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Jakob-Ghon-Allee"
 housenumber: 2

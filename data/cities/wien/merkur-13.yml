@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.250270900000004
 longitude: 16.4687102
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Zwerchäckerweg"
 housenumber: 20-24

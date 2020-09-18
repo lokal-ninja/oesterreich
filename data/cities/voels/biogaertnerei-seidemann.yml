@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.256073400000005
 longitude: 11.3020437
-postcode: 6176
+postcode: "6176"
 city: Völs
 street: "Michelfeld"
 housenumber: 7

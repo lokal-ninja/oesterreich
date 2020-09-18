@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.216823000000005
 longitude: 16.3695439
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Schottenring"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.0536869
 longitude: 16.6425418
-postcode: 2463
+postcode: "2463"
 city: Gallbrunn
 street: "Hauptstraße"
 housenumber: 54

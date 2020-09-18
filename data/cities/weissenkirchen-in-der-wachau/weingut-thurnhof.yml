@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.3982654
 longitude: 15.469302500000001
-postcode: 3610
+postcode: "3610"
 city: Weißenkirchen in der Wachau
 street: "Thurnhof"
 housenumber: 76

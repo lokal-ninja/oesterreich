@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.991463
 longitude: 12.955573800000002
-postcode: 5112
+postcode: "5112"
 city: Lamprechtshausen
 street: "Holzhauserweg"
 housenumber: 2

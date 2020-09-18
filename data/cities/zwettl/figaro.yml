@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6027958
 longitude: 15.167305400000002
-postcode: 3910
+postcode: "3910"
 city: Zwettl
 street: ""
 housenumber: 

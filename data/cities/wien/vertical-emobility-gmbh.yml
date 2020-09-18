@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.176540900000006
 longitude: 16.3978751
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Gänsbachergasse"
 housenumber: 1

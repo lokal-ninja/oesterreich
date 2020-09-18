@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.063378
 longitude: 15.1386698
-postcode: 3251
+postcode: "3251"
 city: Purgstall
 street: "Erlauftalstraße"
 housenumber: 38

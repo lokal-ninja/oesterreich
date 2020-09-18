@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.1057186
 longitude: 15.711165900000001
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Sparkassenplatz"
 housenumber: 1

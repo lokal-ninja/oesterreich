@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.414234500000006
 longitude: 9.7427617
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Eisengasse"
 housenumber: 3

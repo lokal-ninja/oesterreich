@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9829382
 longitude: 16.2892793
-postcode: 2512
+postcode: "2512"
 city: Oeynhausen
 street: "Sochorgasse"
 housenumber: 1

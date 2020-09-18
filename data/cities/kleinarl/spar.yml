@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.277410100000004
 longitude: 13.3192319
-postcode: 5603
+postcode: "5603"
 city: Kleinarl
 street: "Dorf"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 48.153835900000004
 longitude: 15.613488100000001
-postcode: 3151
+postcode: "3151"
 city: St. Pölten
 street: "St. Georgener Hauptstraße"
 housenumber: 18

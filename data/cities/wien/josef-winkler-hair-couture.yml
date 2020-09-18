@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.206397100000004
 longitude: 16.3759275
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Singerstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 46.8704473
 longitude: 14.4700906
-postcode: 9330
+postcode: "9330"
 city: Althofen
 street: "Hauptplatz"
 housenumber: 9

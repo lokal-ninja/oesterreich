@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.2380372
 longitude: 9.597043900000001
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Herrengasse"
 housenumber: 11

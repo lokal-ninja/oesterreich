@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.1067787
 longitude: 16.283571900000002
-postcode: 2345
+postcode: "2345"
 city: Brunn am Gebirge
 street: "Franz-Weiss-Platz"
 housenumber: 1

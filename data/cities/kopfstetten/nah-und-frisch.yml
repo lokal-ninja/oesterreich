@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1639713
 longitude: 16.813085400000002
-postcode: 2305
+postcode: "2305"
 city: Kopfstetten
 street: ""
 housenumber: 103

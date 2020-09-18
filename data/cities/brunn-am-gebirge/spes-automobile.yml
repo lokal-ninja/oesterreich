@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.110297700000004
 longitude: 16.3044696
-postcode: 2345
+postcode: "2345"
 city: Brunn am Gebirge
 street: "Industriestraße A"
 housenumber: 12

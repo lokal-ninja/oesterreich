@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.386836100000004
 longitude: 16.1804689
-postcode: 2000
+postcode: "2000"
 city: Stockerau
 street: "Rudolf-Diesel-Straße"
 housenumber: 5

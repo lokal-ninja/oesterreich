@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.6113803
 longitude: 14.317591700000001
-postcode: 9021
+postcode: "9021"
 city: Klagenfurt am Wörthersee
 street: "Kirchengasse"
 housenumber: 50

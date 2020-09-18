@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.8759394
 longitude: 16.4318686
-postcode: 7053
+postcode: "7053"
 city: Hornstein
 street: "Industriegasse I"
 housenumber: 4

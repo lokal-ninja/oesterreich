@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.832584000000004
 longitude: 15.0826001
-postcode: 3872
+postcode: "3872"
 city: Amaliendorf-Aalfang
 street: "Hauptstraße"
 housenumber: 141

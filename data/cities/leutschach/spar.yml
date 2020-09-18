@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.662503900000004
 longitude: 15.4704051
-postcode: 8463
+postcode: "8463"
 city: Leutschach
 street: ""
 housenumber: 202

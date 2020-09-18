@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.814690600000006
 longitude: 15.214798400000001
-postcode: 8530
+postcode: "8530"
 city: Deutschlandsberg
 street: "Hauptplatz"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 46.6138844
 longitude: 14.320800700000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Südpark"
 housenumber: 1

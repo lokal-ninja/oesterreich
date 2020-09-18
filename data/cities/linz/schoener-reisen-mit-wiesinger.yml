@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.312476000000004
 longitude: 14.2819918
-postcode: 4040
+postcode: "4040"
 city: Linz
 street: "Kaarstraße"
 housenumber: 1

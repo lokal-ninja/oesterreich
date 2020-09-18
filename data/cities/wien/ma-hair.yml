@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2224992
 longitude: 16.4533606
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Gemeindeaugasse"
 housenumber: 11

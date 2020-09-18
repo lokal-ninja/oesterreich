@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8222929
 longitude: 13.0234187
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Waginger Straße"
 housenumber: 9

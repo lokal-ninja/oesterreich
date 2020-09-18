@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.226269
 longitude: 13.8443356
-postcode: 4710
+postcode: "4710"
 city: Grieskirchen
 street: "Industriestraße"
 housenumber: 33

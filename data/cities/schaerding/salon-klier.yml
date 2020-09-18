@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4475508
 longitude: 13.439290300000001
-postcode: 4780
+postcode: "4780"
 city: Schärding
 street: "Linzer Straße"
 housenumber: 55

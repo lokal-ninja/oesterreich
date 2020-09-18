@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.2510265
 longitude: 16.4435353
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Doningasse"
 housenumber: 12

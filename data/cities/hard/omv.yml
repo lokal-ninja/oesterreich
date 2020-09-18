@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.487568
 longitude: 9.6995056
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Rheinstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.478199000000004
 longitude: 12.044324600000001
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "Innsbrucker Straße"
 housenumber: 99

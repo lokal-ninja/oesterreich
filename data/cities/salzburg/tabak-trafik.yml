@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.802597500000005
 longitude: 13.0664482
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Eberhard-Fugger-Straße"
 housenumber: 3

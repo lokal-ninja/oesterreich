@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.203772
 longitude: 16.3513239
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kirchengasse"
 housenumber: 37

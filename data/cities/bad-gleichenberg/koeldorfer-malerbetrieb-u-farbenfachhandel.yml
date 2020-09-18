@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 46.872110600000006
 longitude: 15.902437500000001
-postcode: 8344
+postcode: "8344"
 city: Bad Gleichenberg
 street: "Grazer Straße"
 housenumber: 12

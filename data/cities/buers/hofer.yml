@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1527376
 longitude: 9.814541700000001
-postcode: 6706
+postcode: "6706"
 city: Bürs
 street: "Herrenau"
 housenumber: 2

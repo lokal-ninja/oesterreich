@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 47.2824663
 longitude: 11.5093639
-postcode: 6060
+postcode: "6060"
 city: Hall in Tirol
 street: "Agramsgasse"
 housenumber: 18

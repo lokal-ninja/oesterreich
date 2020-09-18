@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.236499200000004
 longitude: 10.7484224
-postcode: 6460
+postcode: "6460"
 city: Imst
 street: "Am Rofen"
 housenumber: 83

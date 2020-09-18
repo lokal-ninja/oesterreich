@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.0543429
 longitude: 15.4160961
-postcode: 8053
+postcode: "8053"
 city: Graz
 street: "Kärntner Straße"
 housenumber: 90

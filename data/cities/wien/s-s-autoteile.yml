@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.175265100000004
 longitude: 16.333703500000002
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Eichenstraße"
 housenumber: 58-64

@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 48.006885600000004
 longitude: 13.6536503
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Graben"
 housenumber: 21a

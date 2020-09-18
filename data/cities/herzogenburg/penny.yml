@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2803911
 longitude: 15.694958300000001
-postcode: 3130
+postcode: "3130"
 city: Herzogenburg
 street: "Sankt Pöltner Straße"
 housenumber: 48

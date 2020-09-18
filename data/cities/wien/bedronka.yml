@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1743789
 longitude: 16.3585286
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Davidgasse"
 housenumber: 85

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.667728600000004
 longitude: 13.8555612
-postcode: 9521
+postcode: "9521"
 city: Treffen am Ossiacher See
 street: "Millstätterstraße"
 housenumber: 13

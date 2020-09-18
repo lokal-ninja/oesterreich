@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 48.364519200000004
 longitude: 15.417517100000001
-postcode: 3620
+postcode: "3620"
 city: Spitz
 street: "Teichbach"
 housenumber: 2
-phone: ""
+phone: "+43 2713 72 901"
 opening_hours: "Mo-Fr 06:45-19:00; Sa 07:15-18:00"
-website: "https://www.spar.at/"
+website: "https://www.spar.at/standorte/spar-spitz-3620-teichbach-2"

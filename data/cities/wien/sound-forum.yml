@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.2004687
 longitude: 16.341495300000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Seidengasse"
 housenumber: 32

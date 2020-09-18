@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 48.085687
 longitude: 16.2836982
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Herzoggasse"
 housenumber: 3

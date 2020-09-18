@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.333691
 longitude: 13.295224800000002
-postcode: 5602
+postcode: "5602"
 city: Wagrain
 street: "Markt"
 housenumber: 143

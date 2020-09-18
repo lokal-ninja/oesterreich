@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.186734
 longitude: 16.3263112
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Sechshauser Straße"
 housenumber: 88

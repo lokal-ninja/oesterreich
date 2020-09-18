@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.2659892
 longitude: 11.400850700000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Brunecker Straße"
 housenumber: 2

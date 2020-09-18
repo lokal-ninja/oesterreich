@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.4570772
 longitude: 9.9629356
-postcode: 6952
+postcode: "6952"
 city: Hittisau
 street: "Platz"
 housenumber: 330

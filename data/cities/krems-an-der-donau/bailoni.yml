@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.4008625
 longitude: 15.577966600000002
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Steiner Landstraße"
 housenumber: 102

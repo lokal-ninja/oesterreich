@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.210201000000005
 longitude: 16.3737177
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Lichtensteg"
 housenumber: 1

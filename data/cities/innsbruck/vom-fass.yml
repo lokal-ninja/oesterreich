@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.266862
 longitude: 11.3933362
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Marktgraben"
 housenumber: 16

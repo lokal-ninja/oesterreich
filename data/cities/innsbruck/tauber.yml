@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.230679800000004
 longitude: 11.409643500000001
-postcode: 6080
+postcode: "6080"
 city: Innsbruck
 street: "Hilberstraße"
 housenumber: 16

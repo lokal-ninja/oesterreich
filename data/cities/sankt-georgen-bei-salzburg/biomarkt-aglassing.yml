@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.956961500000006
 longitude: 12.918992000000001
-postcode: 5113
+postcode: "5113"
 city: Sankt Georgen bei Salzburg
 street: "Wimpassing"
 housenumber: 2

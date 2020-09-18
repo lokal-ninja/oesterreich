@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3381386
 longitude: 10.5411698
-postcode: 6644
+postcode: "6644"
 city: Elmen
 street: "Elmen"
 housenumber: 2

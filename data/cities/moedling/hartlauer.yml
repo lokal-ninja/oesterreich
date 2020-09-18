@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.085151200000006
 longitude: 16.2829588
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Kaiserin Elisabethstraße"
 housenumber: 2

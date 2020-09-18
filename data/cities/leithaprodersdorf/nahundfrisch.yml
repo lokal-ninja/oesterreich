@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9348271
 longitude: 16.482004200000002
-postcode: 2443
+postcode: "2443"
 city: Leithaprodersdorf
 street: "Feldstraße"
 housenumber: 9

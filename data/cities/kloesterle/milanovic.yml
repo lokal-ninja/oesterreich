@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.128791500000005
 longitude: 10.055128100000001
-postcode: 6754
+postcode: "6754"
 city: Klösterle
 street: "Danöfen"
 housenumber: 125b

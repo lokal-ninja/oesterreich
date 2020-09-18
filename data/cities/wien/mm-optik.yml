@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1276864
 longitude: 16.3071941
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Ketzergasse"
 housenumber: 101

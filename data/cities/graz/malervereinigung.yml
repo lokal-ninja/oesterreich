@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 47.0502787
 longitude: 15.4535449
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Evangelimanngasse"
 housenumber: 5

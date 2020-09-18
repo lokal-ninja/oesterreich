@@ -1,12 +1,12 @@
-id: 130632845
+id: 124190568
 type: way
 shop: Supermarkt
-latitude: 48.241289900000005
-longitude: 16.339009100000002
-postcode: 1190
+latitude: 48.2465859
+longitude: 16.442130900000002
+postcode: "1220"
 city: Wien
-street: "Flotowgasse"
-housenumber: 4
+street: "Komzakgasse"
+housenumber: 17
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 7:15-19:30, Sa 7:15-18:00"
 website: ""

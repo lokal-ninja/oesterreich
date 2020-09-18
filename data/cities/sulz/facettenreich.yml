@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.287748
 longitude: 9.6559795
-postcode: 6832
+postcode: "6832"
 city: Sulz
 street: "Montfortstraße"
 housenumber: 19

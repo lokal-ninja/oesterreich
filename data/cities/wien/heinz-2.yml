@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.137342700000005
 longitude: 16.2788238
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 372/105

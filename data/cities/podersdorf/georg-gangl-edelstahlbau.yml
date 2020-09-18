@@ -3,7 +3,7 @@ type: way
 shop: Schlüsseldienst
 latitude: 47.854418
 longitude: 16.8472477
-postcode: 7141
+postcode: "7141"
 city: Podersdorf
 street: "Gewerbepark"
 housenumber: 8

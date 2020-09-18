@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.357916100000004
 longitude: 16.5699827
-postcode: 2212
+postcode: "2212"
 city: Großengersdorf
 street: "Hauptstraße"
 housenumber: 93

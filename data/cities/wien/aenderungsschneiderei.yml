@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.236803800000004
 longitude: 16.3535396
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Döblinger Hauptstraße"
 housenumber: 27

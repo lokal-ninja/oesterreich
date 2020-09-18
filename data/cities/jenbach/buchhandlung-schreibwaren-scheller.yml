@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.3904888
 longitude: 11.77351
-postcode: 6200
+postcode: "6200"
 city: Jenbach
 street: "Achenseestraße"
 housenumber: 24

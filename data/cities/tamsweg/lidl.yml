@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1322971
 longitude: 13.803955700000001
-postcode: 5580
+postcode: "5580"
 city: Tamsweg
 street: "Florianistraße"
 housenumber: 3

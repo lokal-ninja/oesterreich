@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5006022
 longitude: 15.1659134
-postcode: 3912
+postcode: "3912"
 city: Grafenschlag
 street: "Grafenschlag"
 housenumber: 45

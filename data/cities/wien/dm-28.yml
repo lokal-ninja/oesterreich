@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.246131000000005
 longitude: 16.3406033
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Sieveringer Straße"
 housenumber: 4-10

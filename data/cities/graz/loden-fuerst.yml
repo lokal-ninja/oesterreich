@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 47.0638974
 longitude: 15.433689800000002
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Grieskai"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00, 12:30-17:00"
-website: "http://lodenfuerst.at/kontakt"
+website: "https://lodenfuerst.at/kontakt"

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.0629578
 longitude: 15.465528200000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Plüddemanngasse"
 housenumber: 70

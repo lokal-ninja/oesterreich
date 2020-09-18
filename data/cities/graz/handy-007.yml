@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.06702790000001
 longitude: 15.445080500000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Reitschulgasse"
 housenumber: 

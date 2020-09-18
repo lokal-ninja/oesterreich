@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2255169
 longitude: 16.3842222
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 46.9701791
 longitude: 16.045272100000002
-postcode: 8352
+postcode: "8352"
 city: Unterlamm
 street: ""
 housenumber: 99

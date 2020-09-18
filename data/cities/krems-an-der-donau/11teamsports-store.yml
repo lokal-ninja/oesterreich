@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.404946300000006
 longitude: 15.653607800000001
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "An der Schütt"
 housenumber: 40

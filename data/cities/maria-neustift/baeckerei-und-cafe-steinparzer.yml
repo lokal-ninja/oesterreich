@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 47.9371571
 longitude: 14.6068352
-postcode: 4443
+postcode: "4443"
 city: Maria Neustift
 street: "Neustift"
 housenumber: 2

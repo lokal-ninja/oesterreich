@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.203035
 longitude: 16.3572013
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Breite Gasse"
 housenumber: 2

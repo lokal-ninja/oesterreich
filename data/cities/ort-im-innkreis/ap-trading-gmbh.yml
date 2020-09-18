@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.307549400000006
 longitude: 13.4256583
-postcode: 4981
+postcode: "4981"
 city: Ort im Innkreis
 street: "Gewerbegebiet Kammern"
 housenumber: 

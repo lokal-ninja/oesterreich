@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2225763
 longitude: 11.878972200000002
-postcode: 6280
+postcode: "6280"
 city: Zell am Ziller
 street: "Talstraße"
 housenumber: 40b

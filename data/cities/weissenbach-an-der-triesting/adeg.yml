@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9822314
 longitude: 16.0389954
-postcode: 2564
+postcode: "2564"
 city: Weissenbach an der Triesting
 street: "Hauptstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.3123899
 longitude: 10.016367800000001
-postcode: 6886
+postcode: "6886"
 city: Schoppernau
 street: "Unterdorf"
 housenumber: 248

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.159572700000005
 longitude: 11.849081
-postcode: 6290
+postcode: "6290"
 city: Mayrhofen
 street: "Tuxer Straße"
 housenumber: 799

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.8531336
 longitude: 13.954861800000002
-postcode: 4645
+postcode: "4645"
 city: Grünau im Almtal
 street: "Im Dorf"
 housenumber: 37

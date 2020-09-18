@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.384497
 longitude: 15.124749600000001
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Kärntner Straße"
 housenumber: 8

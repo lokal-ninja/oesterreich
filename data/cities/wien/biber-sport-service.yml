@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2234781
 longitude: 16.4893438
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Soldanellenweg"
 housenumber: 53

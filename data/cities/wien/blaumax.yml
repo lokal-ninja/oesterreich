@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2102986
 longitude: 16.377841500000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Fleischmarkt"
 housenumber: 22

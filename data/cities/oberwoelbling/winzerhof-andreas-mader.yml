@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.3186514
 longitude: 15.5919868
-postcode: 3124
+postcode: "3124"
 city: Oberwölbling
 street: "Wachaustraße"
 housenumber: 5

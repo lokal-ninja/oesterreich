@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.4335797
 longitude: 9.737916
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Schwefel"
 housenumber: 91

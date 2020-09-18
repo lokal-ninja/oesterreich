@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3209117
 longitude: 16.5837961
-postcode: 2232
+postcode: "2232"
 city: Deutsch-Wagram
 street: "Michael Vogl-Straße"
 housenumber: 8

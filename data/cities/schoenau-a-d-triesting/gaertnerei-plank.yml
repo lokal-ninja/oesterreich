@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.932642900000005
 longitude: 16.227880000000003
-postcode: 2544
+postcode: "2544"
 city: Schönau a. d. Triesting
 street: "Auerspergstraße"
 housenumber: 17

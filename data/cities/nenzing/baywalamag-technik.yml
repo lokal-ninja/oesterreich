@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 47.210291700000006
 longitude: 9.656572800000001
-postcode: 6820
+postcode: "6820"
 city: Nenzing
 street: "Galinastraße"
 housenumber: 12

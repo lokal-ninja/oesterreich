@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.284732600000005
 longitude: 14.303771900000001
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Wiener Straße"
 housenumber: 87

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.226115300000004
 longitude: 16.3484065
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Semperstraße"
 housenumber: 24

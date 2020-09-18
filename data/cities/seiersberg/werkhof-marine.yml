@@ -3,7 +3,7 @@ type: node
 shop: Schiffe
 latitude: 47.0155886
 longitude: 15.4398627
-postcode: 8055
+postcode: "8055"
 city: Seiersberg
 street: "Triester Straße"
 housenumber: 488

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.589733200000005
 longitude: 14.795647400000002
-postcode: 9150
+postcode: "9150"
 city: Bleiburg
 street: "Koschatstraße"
 housenumber: 2

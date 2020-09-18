@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.5220264
 longitude: 12.428225800000002
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Hauptplatz"
 housenumber: 2

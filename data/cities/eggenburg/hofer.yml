@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6477336
 longitude: 15.822870100000001
-postcode: 3730
+postcode: "3730"
 city: Eggenburg
 street: "Pulkauerstraße"
 housenumber: 36

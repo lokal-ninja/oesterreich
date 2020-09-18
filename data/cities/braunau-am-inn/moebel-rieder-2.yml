@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.2340158
 longitude: 13.015457000000001
-postcode: 5282
+postcode: "5282"
 city: Braunau am Inn
 street: "Untere Hofmark"
 housenumber: 10

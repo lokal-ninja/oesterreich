@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1694145
 longitude: 16.420725
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Simmeringer Platz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.264599700000005
 longitude: 16.6345421
-postcode: 2282
+postcode: "2282"
 city: Markgrafneusiedl
 street: "Altes Dorf"
 housenumber: 70

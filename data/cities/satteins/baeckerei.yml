@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.2245168
 longitude: 9.671985300000001
-postcode: 6822
+postcode: "6822"
 city: Satteins
 street: "Kirchplatz"
 housenumber: 13

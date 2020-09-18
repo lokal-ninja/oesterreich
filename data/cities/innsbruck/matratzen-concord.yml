@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.2769447
 longitude: 11.4260137
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Haller Straße"
 housenumber: 131

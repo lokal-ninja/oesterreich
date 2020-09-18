@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1591232
 longitude: 14.7337419
-postcode: 8741
+postcode: "8741"
 city: Weißkirchen in Steiermark
 street: ""
 housenumber: 37

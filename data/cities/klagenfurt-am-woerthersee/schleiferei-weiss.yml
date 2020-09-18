@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 46.6225492
 longitude: 14.311066400000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Lidmanskygasse"
 housenumber: 35

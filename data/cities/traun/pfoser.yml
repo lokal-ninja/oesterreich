@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.2208078
 longitude: 14.2365867
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Hauptplatz"
 housenumber: 8

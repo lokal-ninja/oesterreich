@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 47.091966500000005
 longitude: 15.407128100000001
-postcode: 8051
+postcode: "8051"
 city: Graz
 street: "Wiener Straße"
 housenumber: 235

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.614495100000006
 longitude: 13.2806092
-postcode: 9631
+postcode: "9631"
 city: Tröpolach
 street: "Naßfeld Straße"
 housenumber: 64

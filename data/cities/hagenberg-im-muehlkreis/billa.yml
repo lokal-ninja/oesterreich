@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3567217
 longitude: 14.519447000000001
-postcode: 4232
+postcode: "4232"
 city: Hagenberg im Mühlkreis
 street: "Hauptstraße"
 housenumber: 1c

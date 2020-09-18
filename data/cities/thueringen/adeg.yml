@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1978208
 longitude: 9.767304300000001
-postcode: 6712
+postcode: "6712"
 city: Thüringen
 street: "Walgaustraße"
 housenumber: 31

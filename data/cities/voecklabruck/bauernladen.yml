@@ -3,10 +3,10 @@ type: node
 shop: Warenhaus
 latitude: 48.0079427
 longitude: 13.6503802
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Salzburger Straße"
 housenumber: 16
-phone: "07672 22501"
+phone: "+43 7672 22501"
 opening_hours: ""
 website: ""

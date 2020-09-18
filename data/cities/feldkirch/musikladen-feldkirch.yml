@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 47.2363123
 longitude: 9.596582900000001
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Johannitergasse"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.109667
 longitude: 14.838365900000001
-postcode: 3300
+postcode: "3300"
 city: Greinsfurth
 street: "Waidhofner Straße"
 housenumber: 42a

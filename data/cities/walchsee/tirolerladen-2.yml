@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.6508192
 longitude: 12.318485
-postcode: 6344
+postcode: "6344"
 city: Walchsee
 street: "Kirchgasse"
 housenumber: 2

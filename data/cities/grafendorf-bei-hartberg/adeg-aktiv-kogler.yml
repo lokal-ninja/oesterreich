@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.333195200000006
 longitude: 15.989339000000001
-postcode: 8232
+postcode: "8232"
 city: Grafendorf bei Hartberg
 street: "Masenbergstraße"
 housenumber: 182

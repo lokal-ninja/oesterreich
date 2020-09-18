@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.378665500000004
 longitude: 15.6324444
-postcode: 3511
+postcode: "3511"
 city: Oberfucha
 street: "Ortsstraße"
 housenumber: 1

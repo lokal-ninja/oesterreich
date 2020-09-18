@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4075192
 longitude: 12.8950083
-postcode: 5761
+postcode: "5761"
 city: Maria Alm am Steinernen Meer
 street: "Hochkönig Straße"
 housenumber: 13

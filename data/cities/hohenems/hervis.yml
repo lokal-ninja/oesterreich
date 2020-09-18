@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.374715900000005
 longitude: 9.6755595
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: ""
 housenumber: 

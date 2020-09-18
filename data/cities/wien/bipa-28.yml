@@ -1,12 +1,12 @@
-id: 1326672632
+id: 1326672633
 type: node
 shop: Drogerie
-latitude: 48.210579200000005
-longitude: 16.3730152
-postcode: 1010
+latitude: 48.2108879
+longitude: 16.3423875
+postcode: "1080"
 city: Wien
-street: "Hoher Markt"
-housenumber: 1
+street: "Josefstädterstrasse"
+housenumber: 21
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-18:00"
 website: ""

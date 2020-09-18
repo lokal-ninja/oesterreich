@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.622548300000005
 longitude: 14.311785700000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Lidmanskygasse"
 housenumber: 45

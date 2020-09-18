@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.209926100000004
 longitude: 16.3728892
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Bauernmarkt"
 housenumber: 12

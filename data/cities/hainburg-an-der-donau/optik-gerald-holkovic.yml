@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.146778600000005
 longitude: 16.9400734
-postcode: 2410
+postcode: "2410"
 city: Hainburg an der Donau
 street: "Wiener Straße"
 housenumber: 8

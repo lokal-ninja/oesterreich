@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.027140200000005
 longitude: 16.378244000000002
-postcode: 2482
+postcode: "2482"
 city: Münchendorf
 street: "Hauptstraße"
 housenumber: 1

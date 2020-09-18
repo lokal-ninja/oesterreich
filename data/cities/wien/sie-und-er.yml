@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2377826
 longitude: 16.4394375
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Arminenstraße"
 housenumber: 28a

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 47.155066000000005
 longitude: 9.819936
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Wichnerstraße"
 housenumber: 10

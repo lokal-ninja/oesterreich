@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.206062900000006
 longitude: 16.349173
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.972184500000004
 longitude: 16.8400263
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Wiener Straße"
 housenumber: 122

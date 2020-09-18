@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5448979
 longitude: 16.760472
-postcode: 2225
+postcode: "2225"
 city: Zistersdorf
 street: "Kirchenplatz"
 housenumber: 1

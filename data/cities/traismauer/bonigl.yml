@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.3501464
 longitude: 15.7423689
-postcode: 3133
+postcode: "3133"
 city: Traismauer
 street: "Venusberger Straße"
 housenumber: 2

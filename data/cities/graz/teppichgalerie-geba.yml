@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 47.0693059
 longitude: 15.4423376
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Hans-Sachs-Gasse"
 housenumber: 3

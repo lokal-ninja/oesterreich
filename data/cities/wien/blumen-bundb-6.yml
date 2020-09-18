@@ -1,12 +1,12 @@
-id: 2083468739
+id: 2406129458
 type: node
 shop: Blumen
-latitude: 48.2013401
-longitude: 16.3369119
-postcode: 1150
+latitude: 48.209597900000006
+longitude: 16.3503619
+postcode: "1080"
 city: Wien
-street: "Hütteldorfer Straße"
-housenumber: 1
+street: "Josefstädter Straße"
+housenumber: 30
 phone: ""
-opening_hours: ""
-website: "https://www.blumenbb.at/"
+opening_hours: "Mo-Sa 07:30-19:00, Su,PH 09:00-14:30"
+website: ""

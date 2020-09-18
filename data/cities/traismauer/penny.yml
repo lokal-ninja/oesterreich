@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3480385
 longitude: 15.753540500000002
-postcode: 3133
+postcode: "3133"
 city: Traismauer
 street: "Wiener Straße"
 housenumber: 60

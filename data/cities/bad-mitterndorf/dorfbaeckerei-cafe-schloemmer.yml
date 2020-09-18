@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.5692165
 longitude: 13.8922568
-postcode: 8983
+postcode: "8983"
 city: Bad Mitterndorf
 street: ""
 housenumber: 7

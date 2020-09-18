@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.4272379
 longitude: 15.0087548
-postcode: 8793
+postcode: "8793"
 city: Trofaiach
 street: "Hauptstraße"
 housenumber: 67

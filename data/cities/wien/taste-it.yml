@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.208158000000005
 longitude: 16.377395200000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Wollzeile"
 housenumber: 27

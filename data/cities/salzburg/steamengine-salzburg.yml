@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 47.80646
 longitude: 13.0426119
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Rainerstraße"
 housenumber: 2

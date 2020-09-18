@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.071136
 longitude: 15.448456400000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Maiffredygasse"
 housenumber: 8

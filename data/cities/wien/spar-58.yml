@@ -1,12 +1,12 @@
-id: 29971564
-type: way
+id: 7727408356
+type: node
 shop: Supermarkt
-latitude: 48.2018664
-longitude: 16.473403
-postcode: 1220
+latitude: 48.1406034
+longitude: 16.309243900000002
+postcode: "1230"
 city: Wien
-street: "Biberhaufenweg"
-housenumber: 117
+street: "Carlbergergasse"
+housenumber: 64-66
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-wien-1220-biberhaufenweg-117"
+opening_hours: "Mo-Fr 07:15-19:30, Sa 07:15-18:00"
+website: ""

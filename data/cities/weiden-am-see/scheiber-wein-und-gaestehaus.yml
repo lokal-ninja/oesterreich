@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.9271886
 longitude: 16.8646226
-postcode: 7121
+postcode: "7121"
 city: Weiden am See
 street: "Fasangasse"
 housenumber: 5

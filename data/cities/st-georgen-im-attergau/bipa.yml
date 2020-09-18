@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.9233058
 longitude: 13.491964000000001
-postcode: 4880
+postcode: "4880"
 city: St. Georgen im Attergau
 street: "Attergauerstraße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1906406
 longitude: 16.3629347
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Phorusgasse"
 housenumber: 16

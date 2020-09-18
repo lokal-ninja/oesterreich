@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.298379700000005
 longitude: 11.5876462
-postcode: 6112
+postcode: "6112"
 city: Wattens
 street: "Ritter-Waldauf-Straße"
 housenumber: 2

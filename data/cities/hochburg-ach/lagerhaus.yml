@@ -3,7 +3,7 @@ type: way
 shop: Landwirtschaftlich
 latitude: 48.1465563
 longitude: 12.838381100000001
-postcode: 5122
+postcode: "5122"
 city: Hochburg-Ach
 street: "Heinz-Lanner-Straße"
 housenumber: 1

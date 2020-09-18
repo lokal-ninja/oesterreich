@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.1526476
 longitude: 16.6601
-postcode: 2304
+postcode: "2304"
 city: Mannsdorf an der Donau
 street: "Marchfeldstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.0058474
 longitude: 13.651927500000001
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Feldgasse"
 housenumber: 9

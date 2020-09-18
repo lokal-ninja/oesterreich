@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.237533500000005
 longitude: 9.5948702
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Montfortgasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.2188219
 longitude: 16.3318471
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Elterleinplatz"
 housenumber: 12/Top 16-17

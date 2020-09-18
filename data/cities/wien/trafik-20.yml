@@ -1,12 +1,12 @@
-id: 2526240470
+id: 2662843035
 type: node
 shop: Kiosk
-latitude: 48.1971227
-longitude: 16.4028856
-postcode: 1030
+latitude: 48.216257500000005
+longitude: 16.3878256
+postcode: "1020"
 city: Wien
-street: ""
-housenumber: 
+street: "Praterstraße"
+housenumber: 58
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:30-19:00; Sa 07:00-16:30"
 website: ""

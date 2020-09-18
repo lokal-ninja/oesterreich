@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2349571
 longitude: 13.830101800000001
-postcode: 4710
+postcode: "4710"
 city: Grieskirchen
 street: "Stadtplatz"
 housenumber: 8

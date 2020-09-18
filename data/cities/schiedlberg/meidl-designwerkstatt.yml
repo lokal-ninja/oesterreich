@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.070067800000004
 longitude: 14.273175700000001
-postcode: 4521
+postcode: "4521"
 city: Schiedlberg
 street: ""
 housenumber: 22

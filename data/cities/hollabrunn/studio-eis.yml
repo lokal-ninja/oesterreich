@@ -3,7 +3,7 @@ type: way
 shop: Gardinen
 latitude: 48.560551700000005
 longitude: 16.0782107
-postcode: 2020
+postcode: "2020"
 city: Hollabrunn
 street: "Schmiedgasse"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.2064424
 longitude: 16.3739536
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Franziskanerplatz"
 housenumber: 6

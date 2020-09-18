@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.344009
 longitude: 16.3345825
-postcode: 2100
+postcode: "2100"
 city: Korneuburg
 street: "Hauptplatz"
 housenumber: 13

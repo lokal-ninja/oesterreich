@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.622177
 longitude: 14.307212400000001
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "10.-Oktober-Straße"
 housenumber: 16

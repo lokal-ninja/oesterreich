@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2606088
 longitude: 16.3999446
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Weisselgasse"
 housenumber: 10

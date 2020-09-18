@@ -3,10 +3,10 @@ type: node
 shop: Baumarkt
 latitude: 47.281316600000004
 longitude: 11.5076824
-postcode: 6060
+postcode: "6060"
 city: Hall in Tirol
 street: "Oberer Stadtplatz"
 housenumber: 6
-phone: "+43 522357224"
-opening_hours: ""
-website: ""
+phone: "+43 5223 57224"
+opening_hours: "Mo-Fr 08:30-12:00, 14:30-18:00; Sa 08:30-12:30; PH off"
+website: "https://www.profi-waltl.at"

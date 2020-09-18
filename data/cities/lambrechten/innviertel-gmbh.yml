@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.316780900000005
 longitude: 13.5124645
-postcode: 4772
+postcode: "4772"
 city: Lambrechten
 street: ""
 housenumber: 35

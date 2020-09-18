@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.3227398
 longitude: 10.1534361
-postcode: 6993
+postcode: "6993"
 city: Mittelberg
 street: "Moosstraße"
 housenumber: 7

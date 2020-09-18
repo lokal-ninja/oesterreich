@@ -1,12 +1,12 @@
-id: 26241250
-type: way
+id: 7733231464
+type: node
 shop: Supermarkt
-latitude: 48.2083857
-longitude: 16.2313525
-postcode: 1140
+latitude: 48.1709326
+longitude: 16.332747400000002
+postcode: "1120"
 city: Wien
-street: "Hauptstraße"
-housenumber: 30
+street: "Am Europlatz"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-13:00"
 website: ""

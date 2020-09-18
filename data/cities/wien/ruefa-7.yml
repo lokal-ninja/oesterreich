@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.257566600000004
 longitude: 16.4003933
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Schloßhofer Straße"
 housenumber: 13

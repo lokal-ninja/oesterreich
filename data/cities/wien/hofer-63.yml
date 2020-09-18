@@ -1,12 +1,12 @@
-id: 47031348
+id: 39784040
 type: way
 shop: Supermarkt
-latitude: 48.2508968
-longitude: 16.4695034
-postcode: 1220
+latitude: 48.220084500000006
+longitude: 16.445022
+postcode: "1220"
 city: Wien
-street: "Breitenleer Straße"
-housenumber: 104
+street: "Gotramgasse"
+housenumber: 9
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.hofer.at/"
+opening_hours: ""
+website: ""

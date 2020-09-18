@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.3052949
 longitude: 11.0694022
-postcode: 6410
+postcode: "6410"
 city: Telfs
 street: "Weißenbachgasse"
 housenumber: 9

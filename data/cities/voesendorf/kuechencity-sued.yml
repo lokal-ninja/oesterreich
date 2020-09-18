@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 48.135586200000006
 longitude: 16.325676
-postcode: 2331
+postcode: "2331"
 city: Vösendorf
 street: "Schönbrunner Allee"
 housenumber: 1

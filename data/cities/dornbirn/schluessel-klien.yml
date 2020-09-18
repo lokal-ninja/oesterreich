@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 47.4104667
 longitude: 9.7201553
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Lustenauerstraße"
 housenumber: 54

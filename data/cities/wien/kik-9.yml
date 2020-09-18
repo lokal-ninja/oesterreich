@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1789032
 longitude: 16.4116803
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Simmeringer Hauptstraße"
 housenumber: 55-57

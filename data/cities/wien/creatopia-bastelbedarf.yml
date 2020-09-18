@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.229236300000004
 longitude: 16.333715
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Gentzgasse"
 housenumber: 109

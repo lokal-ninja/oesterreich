@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4716828
 longitude: 15.680790000000002
-postcode: 3550
+postcode: "3550"
 city: Langenlois
 street: "Wiener Straße"
 housenumber: 31

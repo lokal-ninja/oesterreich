@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 46.949477800000004
 longitude: 15.914680200000001
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Mühldorf, Gewerbepark"
 housenumber: 5

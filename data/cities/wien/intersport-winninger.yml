@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.2075204
 longitude: 16.2206213
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Albert-Schweitzer-Gasse"
 housenumber: 6

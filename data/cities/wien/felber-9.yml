@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2140233
 longitude: 16.415084200000003
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Trabrennstraße"
 housenumber: 10

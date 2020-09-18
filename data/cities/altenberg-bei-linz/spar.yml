@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3737365
 longitude: 14.347149100000001
-postcode: 4203
+postcode: "4203"
 city: Altenberg bei Linz
 street: "Reichenauer Straße"
 housenumber: 9

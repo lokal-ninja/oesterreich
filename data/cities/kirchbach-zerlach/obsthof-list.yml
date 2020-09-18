@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 46.9400336
 longitude: 15.6328154
-postcode: 8082
+postcode: "8082"
 city: Kirchbach-Zerlach
 street: ""
 housenumber: 2

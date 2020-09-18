@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8881938
 longitude: 16.2181304
-postcode: 2751
+postcode: "2751"
 city: Matzendorf
 street: "Marktstraße"
 housenumber: 1

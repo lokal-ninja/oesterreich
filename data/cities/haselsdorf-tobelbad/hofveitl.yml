@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 46.991490500000005
 longitude: 15.3452455
-postcode: 8144
+postcode: "8144"
 city: Haselsdorf-Tobelbad
 street: "Hofweg"
 housenumber: 11

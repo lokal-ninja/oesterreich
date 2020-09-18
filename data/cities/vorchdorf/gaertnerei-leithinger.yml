@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.021914100000004
 longitude: 13.9114999
-postcode: 4655
+postcode: "4655"
 city: Vorchdorf
 street: "Feldhamer Straße"
 housenumber: 28

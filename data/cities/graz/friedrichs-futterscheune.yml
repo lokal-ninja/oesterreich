@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 47.0495626
 longitude: 15.452471500000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Conrad-von-Hötzendorf-Straße"
 housenumber: 151

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.165688700000004
 longitude: 14.0017756
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Römerstraße"
 housenumber: 148

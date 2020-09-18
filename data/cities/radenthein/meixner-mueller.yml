@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.8002447
 longitude: 13.702648300000002
-postcode: 9545
+postcode: "9545"
 city: Radenthein
 street: "Hauptstraße"
 housenumber: 53

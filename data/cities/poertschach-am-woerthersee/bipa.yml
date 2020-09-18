@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.6365107
 longitude: 14.141100100000001
-postcode: 9210
+postcode: "9210"
 city: Pörtschach am Wörthersee
 street: "Monte Carlo Platz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.479803000000004
 longitude: 10.710788200000001
-postcode: 6600
+postcode: "6600"
 city: Reutte
 street: ""
 housenumber: 

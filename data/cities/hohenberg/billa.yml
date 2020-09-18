@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.922090700000005
 longitude: 15.615029000000002
-postcode: 3192
+postcode: "3192"
 city: Hohenberg
 street: "Schlossergasse"
 housenumber: 2

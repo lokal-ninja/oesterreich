@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2370132
 longitude: 9.596045
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Marktplatz"
 housenumber: 11

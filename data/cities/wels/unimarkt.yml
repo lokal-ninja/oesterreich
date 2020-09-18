@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1699982
 longitude: 14.0241669
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Grieskirchner Straße"
 housenumber: 17

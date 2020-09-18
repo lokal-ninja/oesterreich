@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.111982600000005
 longitude: 14.872320100000001
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Euratsfelder Straße"
 housenumber: 6

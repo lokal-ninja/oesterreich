@@ -1,12 +1,12 @@
-id: 35551232
+id: 30824343
 type: way
 shop: Supermarkt
-latitude: 48.228787100000005
-longitude: 16.397891400000002
-postcode: 1020
+latitude: 48.2729834
+longitude: 16.4199592
+postcode: "1210"
 city: Wien
-street: "Engerthstraße"
-housenumber: 154B
-phone: "+43-570 303 4097"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.hofer.at/"
+street: "Ruthnergasse"
+housenumber: 54
+phone: ""
+opening_hours: ""
+website: ""

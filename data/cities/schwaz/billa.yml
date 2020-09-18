@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3461373
 longitude: 11.702484
-postcode: 6130
+postcode: "6130"
 city: Schwaz
 street: "Swarovskistraße"
 housenumber: 18

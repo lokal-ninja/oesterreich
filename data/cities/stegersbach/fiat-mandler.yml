@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.1609813
 longitude: 16.165047100000002
-postcode: 7551
+postcode: "7551"
 city: Stegersbach
 street: "Wiener Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 48.2039373
 longitude: 14.250687600000001
-postcode: 4053
+postcode: "4053"
 city: Ansfelden
 street: "Hauptplatz"
 housenumber: 13

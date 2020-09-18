@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.5848857
 longitude: 12.172103600000002
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Kaiserbergstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.2215785
 longitude: 14.239840200000002
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Badergasse"
 housenumber: 12

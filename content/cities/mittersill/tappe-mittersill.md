@@ -1,4 +1,4 @@
 ---
-title: "TAPPE Mittersill"
+title: "Tappe Mittersill"
 url: /mittersill/tappe-mittersill/
 ---

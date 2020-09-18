@@ -3,7 +3,7 @@ type: node
 shop: Pferde
 latitude: 48.2496664
 longitude: 16.467842
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Zwerchäckerweg"
 housenumber: 4

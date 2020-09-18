@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.117278000000006
 longitude: 15.711289700000002
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Kienzlweg"
 housenumber: 3

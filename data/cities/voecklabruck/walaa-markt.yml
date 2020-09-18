@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.011084000000004
 longitude: 13.6588229
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Bahnhofsstraße"
 housenumber: 11

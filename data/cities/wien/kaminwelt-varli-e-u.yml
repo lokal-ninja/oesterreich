@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 48.183839500000005
 longitude: 16.366461
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretengürtel"
 housenumber: 12

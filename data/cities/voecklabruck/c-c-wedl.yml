@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0043566
 longitude: 13.6351753
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Salzburger Straße"
 housenumber: 52

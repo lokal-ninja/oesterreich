@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 48.218357100000006
 longitude: 14.421477500000002
-postcode: 4481
+postcode: "4481"
 city: Asten
 street: "Wiener Straße"
 housenumber: 22

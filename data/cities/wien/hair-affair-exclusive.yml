@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1902933
 longitude: 16.3660725
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 66/14

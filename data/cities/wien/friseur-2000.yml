@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2262375
 longitude: 16.363542600000002
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Alserbachstraße"
 housenumber: 24

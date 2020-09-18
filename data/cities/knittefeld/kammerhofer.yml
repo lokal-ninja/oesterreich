@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.2168555
 longitude: 14.8108819
-postcode: 8720
+postcode: "8720"
 city: Knittefeld
 street: "Gaaler Straße"
 housenumber: 93

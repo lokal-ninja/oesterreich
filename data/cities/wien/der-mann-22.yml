@@ -1,12 +1,12 @@
-id: 51414711
+id: 29388631
 type: way
 shop: Bäckerei
-latitude: 48.1998454
-longitude: 16.3681033
-postcode: 1040
+latitude: 48.1378775
+longitude: 16.3017672
+postcode: "1230"
 city: Wien
-street: "Karlsplatz"
-housenumber: 
-phone: "+43 1 866999162"
-opening_hours: "Mo-Fr 06:00-18:30; Su 09:00-15:00; Sa 07:00-15:00"
-website: "https://www.dermann.at/filiale/karlsplatz-wiedner-hauptstrasse-u4"
+street: "Perfektastraße"
+housenumber: 100
+phone: ""
+opening_hours: "Mo-Fr 05:30-18:00; Sa,Su,PH 07:00-18:00"
+website: ""

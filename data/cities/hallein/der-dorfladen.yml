@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 47.682478800000005
 longitude: 13.093149700000001
-postcode: 5400
+postcode: "5400"
 city: Hallein
 street: "Kornsteinplatz"
 housenumber: 11

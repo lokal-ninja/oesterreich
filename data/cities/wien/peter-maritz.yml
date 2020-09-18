@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2021286
 longitude: 16.3527253
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Siebensterngasse"
 housenumber: 25

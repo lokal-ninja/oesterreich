@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 47.155852700000004
 longitude: 9.8199494
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Werdenbergerstraße"
 housenumber: 21

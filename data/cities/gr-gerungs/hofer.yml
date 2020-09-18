@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5667587
 longitude: 14.955486700000002
-postcode: 3920
+postcode: "3920"
 city: Gr. Gerungs
 street: "Kreuzberg"
 housenumber: 418

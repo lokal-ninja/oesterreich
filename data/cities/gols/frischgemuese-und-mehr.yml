@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 47.904063400000005
 longitude: 16.8981506
-postcode: 7122
+postcode: "7122"
 city: Gols
 street: "Paul Vetter Gasse"
 housenumber: 7

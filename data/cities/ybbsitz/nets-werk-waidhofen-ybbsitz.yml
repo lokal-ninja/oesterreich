@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.940775
 longitude: 14.8245471
-postcode: 3341
+postcode: "3341"
 city: Ybbsitz
 street: "Maisberg"
 housenumber: 94

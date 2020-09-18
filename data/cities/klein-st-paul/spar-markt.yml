@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 46.834839200000005
 longitude: 14.540551700000002
-postcode: 9373
+postcode: "9373"
 city: Klein St. Paul
 street: "Marktstraße"
 housenumber: 28

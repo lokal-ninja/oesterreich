@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.190592900000006
 longitude: 16.2868162
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "St.-Veit-Gasse"
 housenumber: 67

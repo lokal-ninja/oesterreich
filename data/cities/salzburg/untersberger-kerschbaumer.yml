@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 47.804755
 longitude: 13.048315
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Wolf-Dietrich-Straße"
 housenumber: 4a

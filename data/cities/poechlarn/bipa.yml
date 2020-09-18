@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.209957100000004
 longitude: 15.2085757
-postcode: 3380
+postcode: "3380"
 city: Pöchlarn
 street: "Manker Straße"
 housenumber: 13

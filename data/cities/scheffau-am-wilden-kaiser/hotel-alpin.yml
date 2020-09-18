@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.5278362
 longitude: 12.250673500000001
-postcode: 6351
+postcode: "6351"
 city: Scheffau am Wilden Kaiser
 street: "Dorf"
 housenumber: 29

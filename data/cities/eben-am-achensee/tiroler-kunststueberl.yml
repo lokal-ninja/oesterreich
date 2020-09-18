@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 47.4400288
 longitude: 11.703452400000002
-postcode: 6213
+postcode: "6213"
 city: Eben am Achensee
 street: "Seepromenade"
 housenumber: 16

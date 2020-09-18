@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.185112700000005
 longitude: 16.300461600000002
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Altgasse"
 housenumber: 3

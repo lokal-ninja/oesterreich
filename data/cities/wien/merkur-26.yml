@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.151565600000005
 longitude: 16.3828022
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Favoritenstraße"
 housenumber: 241

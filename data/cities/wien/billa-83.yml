@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2153573
 longitude: 16.5039155
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Groß-Enzersdorfer Straße"
 housenumber: 74a

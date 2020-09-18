@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.137394900000004
 longitude: 16.3353208
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Richard-Strauss-Straße"
 housenumber: 34

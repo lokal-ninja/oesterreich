@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.674423100000006
 longitude: 15.940586300000001
-postcode: 2640
+postcode: "2640"
 city: Gloggnitz
 street: "Wiener Straße"
 housenumber: 8a

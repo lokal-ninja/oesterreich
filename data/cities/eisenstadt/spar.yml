@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.846574800000006
 longitude: 16.5419805
-postcode: 7000
+postcode: "7000"
 city: Eisenstadt
 street: "Neusiedler Straße"
 housenumber: 69

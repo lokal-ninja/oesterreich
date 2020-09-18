@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.8704332
 longitude: 15.8267175
-postcode: 8342
+postcode: "8342"
 city: Gnas
 street: ""
 housenumber: 135

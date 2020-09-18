@@ -3,10 +3,10 @@ type: node
 shop: Hörgeräte
 latitude: 48.1773192
 longitude: 16.3298747
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Meidlinger Hauptstraße"
 housenumber: 60
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 08:30-16:00; Fr 08:30-13:00"
 website: ""

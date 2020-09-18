@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5759867
 longitude: 14.0466727
-postcode: 4170
+postcode: "4170"
 city: Haslach an der Mühl
 street: "Sternwaldstraße"
 housenumber: 15

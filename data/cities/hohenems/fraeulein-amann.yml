@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.365901300000004
 longitude: 9.6890598
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Marktstraße"
 housenumber: 27

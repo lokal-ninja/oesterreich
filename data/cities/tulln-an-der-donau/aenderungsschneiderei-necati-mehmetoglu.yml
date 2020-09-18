@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.329718400000004
 longitude: 16.0517796
-postcode: 3430
+postcode: "3430"
 city: Tulln an der Donau
 street: "Jasomirgottgasse"
 housenumber: 12

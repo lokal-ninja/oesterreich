@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.261667
 longitude: 11.3911438
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Andreas-Hofer-Straße"
 housenumber: 6

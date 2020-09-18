@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2065628
 longitude: 16.321790800000002
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Klausgasse"
 housenumber: 10-12

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.927561600000004
 longitude: 16.2161358
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "Hauptstraße"
 housenumber: 29

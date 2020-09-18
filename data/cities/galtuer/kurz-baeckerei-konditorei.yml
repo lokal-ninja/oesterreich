@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.9684777
 longitude: 10.1875119
-postcode: 6563
+postcode: "6563"
 city: Galtür
 street: ""
 housenumber: 44

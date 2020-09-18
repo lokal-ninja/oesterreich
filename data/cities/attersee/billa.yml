@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9163578
 longitude: 13.532342300000002
-postcode: 4864
+postcode: "4864"
 city: Attersee
 street: "Attergaustraße"
 housenumber: 19

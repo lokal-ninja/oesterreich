@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.202165900000004
 longitude: 16.3433827
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Schottenfeldgasse"
 housenumber: 48a

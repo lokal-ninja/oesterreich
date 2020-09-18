@@ -3,7 +3,7 @@ type: way
 shop: Kaffee
 latitude: 47.204793200000005
 longitude: 11.865523900000001
-postcode: 6283
+postcode: "6283"
 city: Hippach
 street: "Hippach-Dorf"
 housenumber: 24

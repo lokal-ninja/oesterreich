@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.7586
 longitude: 15.2067416
-postcode: 8541
+postcode: "8541"
 city: Schwanberg
 street: "Bundesstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.051269000000005
 longitude: 14.420401600000002
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Johann-Puch-Straße"
 housenumber: 25

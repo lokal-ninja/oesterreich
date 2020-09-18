@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.8949567
 longitude: 13.130354500000001
-postcode: 5201
+postcode: "5201"
 city: Seekirchen am Wallersee
 street: "Moosstraße"
 housenumber: 36

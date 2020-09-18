@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.960780400000004
 longitude: 14.7736722
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Unterer Stadtplatz"
 housenumber: 8

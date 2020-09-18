@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.199832300000004
 longitude: 16.3938573
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Landstraßer Hauptstraße"
 housenumber: 83-85

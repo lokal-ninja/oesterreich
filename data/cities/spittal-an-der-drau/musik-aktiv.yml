@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 46.800183700000005
 longitude: 13.494355200000001
-postcode: 9800
+postcode: "9800"
 city: Spittal an der Drau
 street: "Lutherstraße"
 housenumber: 6-8

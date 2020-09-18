@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.186170100000005
 longitude: 11.4063265
-postcode: 6141
+postcode: "6141"
 city: Schönberg im Stubaital
 street: "Dorfstraße"
 housenumber: 15

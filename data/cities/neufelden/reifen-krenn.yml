@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.4849218
 longitude: 13.981851800000001
-postcode: 4120
+postcode: "4120"
 city: Neufelden
 street: "Veldner Straße"
 housenumber: 61

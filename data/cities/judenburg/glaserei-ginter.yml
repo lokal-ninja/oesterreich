@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 47.1696292
 longitude: 14.6616814
-postcode: 8750
+postcode: "8750"
 city: Judenburg
 street: "Messerschmiedgasse"
 housenumber: 3

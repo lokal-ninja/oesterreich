@@ -3,7 +3,7 @@ type: way
 shop: Pyrotechnik
 latitude: 48.1801139
 longitude: 16.3601247
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Gudrunstraße"
 housenumber: 196b

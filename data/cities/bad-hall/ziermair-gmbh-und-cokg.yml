@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.030976100000004
 longitude: 14.220850200000001
-postcode: 4540
+postcode: "4540"
 city: Bad Hall
 street: "Johann-Strauß-Straße"
 housenumber: 2

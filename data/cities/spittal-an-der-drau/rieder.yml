@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 46.797697500000005
 longitude: 13.4963235
-postcode: 9800
+postcode: "9800"
 city: Spittal an der Drau
 street: "Hauptplatz"
 housenumber: 23

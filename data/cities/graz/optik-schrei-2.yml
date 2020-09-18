@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 47.0711461
 longitude: 15.435769700000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Kaiser-Franz-Josef-Kai"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-12:30,14:30-17:00; Sa 10:00-12:30"
 website: ""

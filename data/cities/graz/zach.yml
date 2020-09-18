@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 47.0368295
 longitude: 15.4512139
-postcode: 8041
+postcode: "8041"
 city: Graz
 street: "Puntigamer Straße"
 housenumber: 70
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.zach-kfz.at/"

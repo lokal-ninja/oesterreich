@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.223931400000005
 longitude: 16.3149449
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Hernalser Hauptstraße"
 housenumber: 182

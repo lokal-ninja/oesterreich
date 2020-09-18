@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.804688000000006
 longitude: 16.2376374
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Neunkirchner Straße"
 housenumber: 57e-f

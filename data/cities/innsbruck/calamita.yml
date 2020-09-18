@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.267100600000006
 longitude: 11.3921373
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Marktgraben"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 48.179875
 longitude: 16.3713524
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Dampfgasse"
 housenumber: 13b

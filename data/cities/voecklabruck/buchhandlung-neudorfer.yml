@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.0073802
 longitude: 13.654288900000001
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Hinterstadt"
 housenumber: 21

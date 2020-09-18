@@ -3,10 +3,10 @@ type: way
 shop: Schuhe
 latitude: 47.3692307
 longitude: 11.1440427
-postcode: 6105
+postcode: "6105"
 city: Leutasch
 street: "Kirchplatzl"
 housenumber: 128b
-phone: ""
-opening_hours: "Mo-Fr9:00-12:00,14:00-18:00; Sa9:00-12:00; "
+phone: "+43 5214 6488"
+opening_hours: "Mo-Sa 09:00-12:00; Mo-Fr 14:00-18:00"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.2308554
 longitude: 13.2799451
-postcode: 4951
+postcode: "4951"
 city: Polling im Innkreis
 street: "Hauptstraße"
 housenumber: 22

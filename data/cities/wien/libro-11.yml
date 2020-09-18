@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.210992600000004
 longitude: 16.3396715
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Josefstädter Straße"
 housenumber: 105

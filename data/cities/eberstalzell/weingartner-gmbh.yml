@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.0101157
 longitude: 13.988081600000001
-postcode: 4653
+postcode: "4653"
 city: Eberstalzell
 street: "Spieldorf"
 housenumber: 41

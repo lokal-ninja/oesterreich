@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 47.2323766
 longitude: 10.741340600000001
-postcode: 6460
+postcode: "6460"
 city: Imst
 street: "Langgasse"
 housenumber: 10

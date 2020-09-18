@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.4523651
 longitude: 13.9056311
-postcode: 8962
+postcode: "8962"
 city: Gröbming
 street: "Hofmanninger Weg"
 housenumber: 328

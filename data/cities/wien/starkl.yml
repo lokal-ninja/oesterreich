@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.1512869
 longitude: 16.4646766
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Paul-Heyse-Gasse"
 housenumber: 5

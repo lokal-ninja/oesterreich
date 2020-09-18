@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.118423400000005
 longitude: 16.2655256
-postcode: 2380
+postcode: "2380"
 city: Perchtoldsdorf
 street: "Marktplatz"
 housenumber: 16

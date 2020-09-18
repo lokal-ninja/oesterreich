@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.215853
 longitude: 16.3870299
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Praterstraße"
 housenumber: 52

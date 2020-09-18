@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3215895
 longitude: 13.7710121
-postcode: 4722
+postcode: "4722"
 city: Peuerbach
 street: "Bruck"
 housenumber: 49

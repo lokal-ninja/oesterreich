@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.200717000000004
 longitude: 16.3408874
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kaiserstraße"
 housenumber: 38

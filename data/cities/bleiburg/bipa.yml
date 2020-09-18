@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.5895797
 longitude: 14.7956067
-postcode: 9150
+postcode: "9150"
 city: Bleiburg
 street: "Koschatstraße"
 housenumber: 2

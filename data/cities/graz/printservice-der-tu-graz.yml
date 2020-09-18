@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.0687232
 longitude: 15.4504543
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Rechbauerstraße"
 housenumber: 12

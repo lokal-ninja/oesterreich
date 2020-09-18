@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.3224134
 longitude: 16.0721507
-postcode: 3430
+postcode: "3430"
 city: Tulln an der Donau
 street: "Königstetter Straße"
 housenumber: 108

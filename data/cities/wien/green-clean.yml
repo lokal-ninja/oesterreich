@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.2350439
 longitude: 16.365360600000002
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Klosterneuburger Straße"
 housenumber: 91

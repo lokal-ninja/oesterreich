@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.514106600000005
 longitude: 12.3272297
-postcode: 6353
+postcode: "6353"
 city: Going am Wilden Kaiser
 street: "Marchstraße"
 housenumber: 1

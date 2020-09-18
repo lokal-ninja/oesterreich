@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.070554800000004
 longitude: 14.6896997
-postcode: 8742
+postcode: "8742"
 city: Obdach
 street: "Admontbichlweg"
 housenumber: 9

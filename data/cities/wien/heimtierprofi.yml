@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.193255900000004
 longitude: 16.3615392
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Krongasse"
 housenumber: 22

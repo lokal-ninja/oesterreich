@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.2326314
 longitude: 11.372445
-postcode: 6161
+postcode: "6161"
 city: Natters
 street: "Schulstraße"
 housenumber: 16

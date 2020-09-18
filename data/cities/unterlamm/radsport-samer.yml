@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 46.977153300000005
 longitude: 16.0592031
-postcode: 8352
+postcode: "8352"
 city: Unterlamm
 street: ""
 housenumber: 16a

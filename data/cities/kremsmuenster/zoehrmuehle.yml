@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.052579300000005
 longitude: 14.129189
-postcode: 4550
+postcode: "4550"
 city: Kremsmünster
 street: "Rathausplatz"
 housenumber: 4

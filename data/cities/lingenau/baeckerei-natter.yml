@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.449272500000006
 longitude: 9.9201384
-postcode: 6951
+postcode: "6951"
 city: Lingenau
 street: "Hof"
 housenumber: 24

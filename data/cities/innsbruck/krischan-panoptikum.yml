@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.266480900000005
 longitude: 11.3923979
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Stainerstraße"
 housenumber: 3

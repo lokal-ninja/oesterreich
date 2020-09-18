@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.259657700000005
 longitude: 11.4107705
-postcode: 6010
+postcode: "6010"
 city: Innsbruck
 street: "Anton-Eder-Straße"
 housenumber: 21

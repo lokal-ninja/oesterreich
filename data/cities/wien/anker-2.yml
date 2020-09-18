@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1693714
 longitude: 16.3694992
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Troststraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3351765
 longitude: 9.644506900000001
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Bahnhofstraße"
 housenumber: 6

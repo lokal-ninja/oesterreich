@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.563926200000004
 longitude: 14.2580544
-postcode: 8940
+postcode: "8940"
 city: Liezen
 street: "Niederfeldstraße"
 housenumber: 23

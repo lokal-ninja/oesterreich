@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3708602
 longitude: 9.6743555
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Lustenauer Straße"
 housenumber: 107a

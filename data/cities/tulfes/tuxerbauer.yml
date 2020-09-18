@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.2575232
 longitude: 11.531581500000001
-postcode: 6075
+postcode: "6075"
 city: Tulfes
 street: "Schmalzgasse"
 housenumber: 5

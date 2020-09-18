@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 46.794088800000004
 longitude: 15.5528379
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Wasserwerkstraße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 47.2784441
 longitude: 10.772068
-postcode: 6464
+postcode: "6464"
 city: Tarrenz
 street: "Obtarrenz"
 housenumber: 33

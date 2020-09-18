@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.4773786
 longitude: 12.543211900000001
-postcode: 6391
+postcode: "6391"
 city: Fieberbrunn
 street: "Dorfstraße"
 housenumber: 10

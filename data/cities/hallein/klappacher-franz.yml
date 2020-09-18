@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.682450300000006
 longitude: 13.0932556
-postcode: 5400
+postcode: "5400"
 city: Hallein
 street: "Ruprechtgasse"
 housenumber: 6

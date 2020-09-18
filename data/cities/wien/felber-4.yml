@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.214611600000005
 longitude: 16.3070644
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Ottakringer Straße"
 housenumber: 240

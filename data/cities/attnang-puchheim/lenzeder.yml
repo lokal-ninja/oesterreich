@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.0050645
 longitude: 13.7070796
-postcode: 4800
+postcode: "4800"
 city: Attnang-Puchheim
 street: "Salzburger Straße"
 housenumber: 101

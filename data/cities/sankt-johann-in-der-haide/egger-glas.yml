@@ -3,7 +3,7 @@ type: way
 shop: Glaserei
 latitude: 47.282799600000004
 longitude: 16.001468900000003
-postcode: 8230
+postcode: "8230"
 city: Sankt Johann in der Haide
 street: "Klaffenaustraße"
 housenumber: 22

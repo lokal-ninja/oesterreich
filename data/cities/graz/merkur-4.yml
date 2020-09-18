@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.0580025
 longitude: 15.4390858
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Schönaugürtel"
 housenumber: 26

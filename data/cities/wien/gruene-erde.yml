@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.201075800000005
 longitude: 16.3596147
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Mariahilfer Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.2470902
 longitude: 16.380001800000002
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: ""
 housenumber: 

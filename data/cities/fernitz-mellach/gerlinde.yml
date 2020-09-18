@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.937689400000004
 longitude: 15.5113918
-postcode: 8072
+postcode: "8072"
 city: Fernitz-Mellach
 street: "Murbergstraße"
 housenumber: 221

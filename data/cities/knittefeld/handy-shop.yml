@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.2142976
 longitude: 14.8297781
-postcode: 8720
+postcode: "8720"
 city: Knittefeld
 street: "Hauptplatz"
 housenumber: 4

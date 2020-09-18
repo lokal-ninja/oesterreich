@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4333644
 longitude: 12.214253900000001
-postcode: 6363
+postcode: "6363"
 city: Westendorf
 street: "Sennereiweg"
 housenumber: 5

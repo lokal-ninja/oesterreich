@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.277755000000006
 longitude: 11.1676079
-postcode: 6402
+postcode: "6402"
 city: Hatting
 street: "Oberdorfstraße"
 housenumber: 2

@@ -1,12 +1,12 @@
-id: 6759742880
+id: 7626039670
 type: node
 shop: Supermarkt
-latitude: 47.2034748
-longitude: 15.627414300000002
-postcode: 8160
+latitude: 47.2146708
+longitude: 15.624779
+postcode: "8160"
 city: Weiz
-street: "Marburger Straße"
-housenumber: 164
+street: "Hans-Sutter-Gasse"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 07:30-18:00"
+opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2194337
 longitude: 16.325934800000002
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Hernalser Hauptstraße"
 housenumber: 103-105

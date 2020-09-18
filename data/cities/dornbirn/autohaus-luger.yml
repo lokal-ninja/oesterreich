@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.414914700000004
 longitude: 9.7377503
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Moosmahdstraße"
 housenumber: 10a

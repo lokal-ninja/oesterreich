@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.002811900000005
 longitude: 13.610297200000002
-postcode: 4850
+postcode: "4850"
 city: Timelkam
 street: "Ziehrerstraße"
 housenumber: 2

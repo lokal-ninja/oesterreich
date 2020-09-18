@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 47.1903979
 longitude: 14.754664000000002
-postcode: 8740
+postcode: "8740"
 city: Zeltweg
 street: "Bahnhofstraße"
 housenumber: 34

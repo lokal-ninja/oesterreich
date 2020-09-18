@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4108286
 longitude: 9.750187
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Bergstraße"
 housenumber: 4

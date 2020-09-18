@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 47.0670541
 longitude: 15.443554700000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Jakominiplatz"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8252767
 longitude: 13.0799038
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Linzer Bundesstraße"
 housenumber: 104

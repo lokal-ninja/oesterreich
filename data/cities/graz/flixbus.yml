@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.0668421
 longitude: 15.4421367
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Jakoministraße"
 housenumber: 1

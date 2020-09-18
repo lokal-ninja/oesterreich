@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.199795
 longitude: 9.7670227
-postcode: 6712
+postcode: "6712"
 city: Thüringen
 street: "Alte Landstraße"
 housenumber: 12

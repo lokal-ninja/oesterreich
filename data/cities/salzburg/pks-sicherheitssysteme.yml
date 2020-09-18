@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.811218000000004
 longitude: 13.0467411
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Weiserstraße"
 housenumber: 28

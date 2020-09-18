@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.264501800000005
 longitude: 16.459222200000003
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Dassanowskyweg"
 housenumber: 2

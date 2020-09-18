@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.174828500000004
 longitude: 16.3781782
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Favoritenstraße"
 housenumber: 115

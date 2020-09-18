@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.210580400000005
 longitude: 14.1742395
-postcode: 4063
+postcode: "4063"
 city: Hörsching
 street: "Wiener Bundesstraße"
 housenumber: 1

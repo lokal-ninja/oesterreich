@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 46.8026446
 longitude: 13.4886923
-postcode: 9800
+postcode: "9800"
 city: Spittal an der Drau
 street: "Tiroler Straße"
 housenumber: 29

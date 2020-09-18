@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.209743200000005
 longitude: 16.343809
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Albertgasse"
 housenumber: 17

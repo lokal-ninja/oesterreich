@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8977567
 longitude: 14.125672100000001
-postcode: 4560
+postcode: "4560"
 city: Kirchdorf an der Krems
 street: "Am Brauteich"
 housenumber: 8

@@ -1,4 +1,4 @@
 ---
-title: "Bipa"
+title: "BIPA"
 url: /wien/bipa-98/
 ---

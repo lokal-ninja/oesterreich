@@ -3,7 +3,7 @@ type: way
 shop: Zeitungen
 latitude: 47.784004800000005
 longitude: 16.942538300000002
-postcode: 7161
+postcode: "7161"
 city: Sankt Andrä am Zicksee
 street: "Hauptstraße"
 housenumber: 54

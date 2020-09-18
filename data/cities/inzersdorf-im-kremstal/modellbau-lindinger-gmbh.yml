@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.9290512
 longitude: 14.087652400000001
-postcode: 4565
+postcode: "4565"
 city: Inzersdorf im Kremstal
 street: "Industriestraße"
 housenumber: 10

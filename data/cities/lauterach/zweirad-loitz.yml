@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 47.4707409
 longitude: 9.7283773
-postcode: 6923
+postcode: "6923"
 city: Lauterach
 street: "Bundesstraße"
 housenumber: 94

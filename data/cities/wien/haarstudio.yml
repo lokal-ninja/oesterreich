@@ -1,12 +1,12 @@
 id: 2526083504
 type: node
 shop: Friseur
-latitude: 48.177130700000006
-longitude: 16.413064300000002
-postcode: 1110
+latitude: 48.177297800000005
+longitude: 16.412893500000003
+postcode: "1110"
 city: Wien
 street: "Simmeringer Hauptstraße"
 housenumber: 60-64
 phone: "+43 1 7495800"
-opening_hours: ""
+opening_hours: "Mo-Th 09:00-18:00; Fr 08:00-18:00; Sa 08:00-13:00"
 website: ""

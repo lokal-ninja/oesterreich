@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.1092455
 longitude: 16.2861197
-postcode: 7544
+postcode: "7544"
 city: Tobaj
 street: "Deutsch Tschantschendorf"
 housenumber: 164

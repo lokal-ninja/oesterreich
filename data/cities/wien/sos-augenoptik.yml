@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1855903
 longitude: 16.2986657
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Altgasse"
 housenumber: 20

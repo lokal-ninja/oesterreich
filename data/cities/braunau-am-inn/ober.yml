@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.2488691
 longitude: 13.0295815
-postcode: 5280
+postcode: "5280"
 city: Braunau am Inn
 street: "Osternberger Straße"
 housenumber: 5

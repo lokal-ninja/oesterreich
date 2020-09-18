@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 48.200268900000005
 longitude: 16.3493459
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Neubaugasse"
 housenumber: 28
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
 website: ""

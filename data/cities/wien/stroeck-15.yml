@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.230965000000005
 longitude: 16.4579418
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Stadlauer Straße"
 housenumber: 62

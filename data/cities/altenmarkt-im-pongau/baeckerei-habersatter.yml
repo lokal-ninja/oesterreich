@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.3809569
 longitude: 13.4206591
-postcode: 5541
+postcode: "5541"
 city: Altenmarkt im Pongau
 street: "Müllergasse"
 housenumber: 11

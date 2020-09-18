@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.2587174
 longitude: 16.3966742
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Prager Straße"
 housenumber: 4

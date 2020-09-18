@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 47.1628136
 longitude: 11.743959
-postcode: 6293
+postcode: "6293"
 city: Tux
 street: "Vorderlanersbach"
 housenumber: 261

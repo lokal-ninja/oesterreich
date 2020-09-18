@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.1806001
 longitude: 16.333657000000002
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Rosaliagasse"
 housenumber: 5

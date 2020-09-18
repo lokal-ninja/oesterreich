@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 47.0664815
 longitude: 15.4402217
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Radetzkystraße"
 housenumber: 7

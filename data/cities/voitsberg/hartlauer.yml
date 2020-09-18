@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.0497443
 longitude: 15.1499494
-postcode: 8570
+postcode: "8570"
 city: Voitsberg
 street: "Hauptplatz"
 housenumber: 31

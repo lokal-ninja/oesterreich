@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.497854100000005
 longitude: 9.744929200000001
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Im Dorf"
 housenumber: 1a

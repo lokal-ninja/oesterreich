@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2049463
 longitude: 16.37463
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Seilerstätte"
 housenumber: 11

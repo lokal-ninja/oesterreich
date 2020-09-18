@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0799801
 longitude: 9.9184648
-postcode: 6780
+postcode: "6780"
 city: Schruns
 street: "Kirchplatz"
 housenumber: 17

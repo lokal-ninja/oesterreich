@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4622028
 longitude: 9.630780300000001
-postcode: 6973
+postcode: "6973"
 city: Höchst
 street: "Landstraße"
 housenumber: 50

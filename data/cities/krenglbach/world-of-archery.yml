@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.196101600000006
 longitude: 13.977786700000001
-postcode: 4631
+postcode: "4631"
 city: Krenglbach
 street: "Katzbacher Straße"
 housenumber: 22

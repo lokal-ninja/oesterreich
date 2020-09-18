@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8934009
 longitude: 14.128891200000002
-postcode: 4563
+postcode: "4563"
 city: Micheldorf in Oberösterreich
 street: "Weinzierlerbrücke"
 housenumber: 17

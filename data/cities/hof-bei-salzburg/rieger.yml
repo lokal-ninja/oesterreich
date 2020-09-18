@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.819560700000004
 longitude: 13.215539000000001
-postcode: 5322
+postcode: "5322"
 city: Hof bei Salzburg
 street: "Kirchengasse"
 housenumber: 12

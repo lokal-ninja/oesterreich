@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.6182363
 longitude: 14.049293700000002
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Klagenfurter Straße"
 housenumber: 15a

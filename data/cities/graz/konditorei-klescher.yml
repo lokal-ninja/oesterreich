@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 47.076172
 longitude: 15.407037700000002
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Alte Poststraße"
 housenumber: 90

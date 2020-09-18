@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.187185
 longitude: 16.300356400000002
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Hietzinger Hauptstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2077156
 longitude: 16.1751572
-postcode: 3002
+postcode: "3002"
 city: Purkersdorf
 street: "Kaiser Josef-Straße"
 housenumber: 4

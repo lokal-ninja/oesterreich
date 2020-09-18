@@ -3,7 +3,7 @@ type: way
 shop: Wettbüro
 latitude: 48.205623800000005
 longitude: 16.1915853
-postcode: 3002
+postcode: "3002"
 city: Purkersdorf
 street: "Wiener Straße"
 housenumber: 42

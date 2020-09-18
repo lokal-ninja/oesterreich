@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2164462
 longitude: 16.378765
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Karmelitergasse"
 housenumber: 4

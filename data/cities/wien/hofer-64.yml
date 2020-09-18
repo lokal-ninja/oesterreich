@@ -1,12 +1,12 @@
-id: 47032314
+id: 47030939
 type: way
 shop: Supermarkt
-latitude: 48.2602324
-longitude: 16.409540800000002
-postcode: 1210
+latitude: 48.2167777
+longitude: 16.4921615
+postcode: "1220"
 city: Wien
-street: "Leopoldauer Straße"
-housenumber: 45
+street: "Lohwaggasse"
+housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
 website: ""

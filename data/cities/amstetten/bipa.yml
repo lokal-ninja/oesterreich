@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1222885
 longitude: 14.8747626
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Mühlenstrasse"
 housenumber: 4

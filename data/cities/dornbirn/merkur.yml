@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4303997
 longitude: 9.738614100000001
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Schwefel"
 housenumber: 71

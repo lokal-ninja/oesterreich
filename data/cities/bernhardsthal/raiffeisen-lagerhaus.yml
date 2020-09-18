@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.688275000000004
 longitude: 16.874497400000003
-postcode: 2275
+postcode: "2275"
 city: Bernhardsthal
 street: "Hauptstraße"
 housenumber: 345

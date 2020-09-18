@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 48.175799500000004
 longitude: 14.524435
-postcode: 4300
+postcode: "4300"
 city: Sankt Valentin
 street: "Westbahnstraße"
 housenumber: 6

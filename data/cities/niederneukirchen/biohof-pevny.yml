@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.156009000000005
 longitude: 14.3143284
-postcode: 4491
+postcode: "4491"
 city: Niederneukirchen
 street: ""
 housenumber: 46

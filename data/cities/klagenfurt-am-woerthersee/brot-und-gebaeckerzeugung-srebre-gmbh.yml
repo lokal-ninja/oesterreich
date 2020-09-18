@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.6380282
 longitude: 14.3318133
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Pischeldorfer Straße"
 housenumber: 151

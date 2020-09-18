@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5822505
 longitude: 12.1715458
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Arkadenplatz"
 housenumber: 1

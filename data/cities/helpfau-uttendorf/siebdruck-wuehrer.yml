@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.1674501
 longitude: 13.1208269
-postcode: 5261
+postcode: "5261"
 city: Helpfau-Uttendorf
 street: "Gewerbestraße"
 housenumber: 3

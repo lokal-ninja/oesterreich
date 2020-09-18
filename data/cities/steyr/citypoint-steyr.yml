@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.037463200000005
 longitude: 14.415376400000001
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Leopold-Werndl-Straße"
 housenumber: 2

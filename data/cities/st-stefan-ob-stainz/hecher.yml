@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.9315318
 longitude: 15.2486125
-postcode: 8511
+postcode: "8511"
 city: St. Stefan ob Stainz
 street: ""
 housenumber: 

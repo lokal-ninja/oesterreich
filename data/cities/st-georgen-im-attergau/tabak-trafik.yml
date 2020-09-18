@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.9360493
 longitude: 13.486056600000001
-postcode: 4880
+postcode: "4880"
 city: St. Georgen im Attergau
 street: "Attergaustraße"
 housenumber: 54

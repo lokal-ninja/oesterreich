@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 47.064778700000005
 longitude: 15.4650236
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Plüddemanngasse"
 housenumber: 53

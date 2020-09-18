@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.372816400000005
 longitude: 14.259544300000002
-postcode: 4040
+postcode: "4040"
 city: Lichtenberg
 street: "Kranzlerweg"
 housenumber: 11

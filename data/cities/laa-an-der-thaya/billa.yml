@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.718596600000005
 longitude: 16.3978551
-postcode: 2136
+postcode: "2136"
 city: Laa an der Thaya
 street: "Simon-Scheiner-Straße"
 housenumber: 19

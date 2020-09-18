@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.3671437
 longitude: 9.687872500000001
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Diepoldsauer Straße"
 housenumber: 5

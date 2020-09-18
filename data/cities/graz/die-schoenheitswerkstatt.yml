@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.108758300000005
 longitude: 15.427836200000002
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Radegunder Straße"
 housenumber: 35

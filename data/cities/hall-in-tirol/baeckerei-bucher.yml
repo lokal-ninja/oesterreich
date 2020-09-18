@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 47.281384100000004
 longitude: 11.507243200000001
-postcode: 6060
+postcode: "6060"
 city: Hall in Tirol
 street: "Langer Graben"
 housenumber: 7
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:00-12:00, 15:00-18:00"
+website: "https://www.hall-wattens.at/de/hall-in-tirol/info/baeckerei-bucher.html"

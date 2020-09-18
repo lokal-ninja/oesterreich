@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.228673400000005
 longitude: 16.4575168
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Erzherzog-Karl-Straße"
 housenumber: 129A

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.0462762
 longitude: 15.1557983
-postcode: 8570
+postcode: "8570"
 city: Voitsberg
 street: "Grazer Vorstadt"
 housenumber: 56

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.042988900000005
 longitude: 15.436304100000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Paula-Wallisch-Straße"
 housenumber: 5

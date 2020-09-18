@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 48.2499936
 longitude: 13.045659
-postcode: 5280
+postcode: "5280"
 city: Braunau am Inn
 street: "Eralchweg"
 housenumber: 12

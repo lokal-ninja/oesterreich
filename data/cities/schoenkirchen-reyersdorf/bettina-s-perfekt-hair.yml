@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3290602
 longitude: 16.678103
-postcode: 2241
+postcode: "2241"
 city: Schönkirchen-Reyersdorf
 street: "Haselnussgasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3502759
 longitude: 16.3392677
-postcode: 
+postcode: ""
 city: Korneuburg
 street: "Laaer Straße"
 housenumber: 77

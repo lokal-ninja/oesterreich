@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.584219000000004
 longitude: 12.5690799
-postcode: 6384
+postcode: "6384"
 city: Waidring
 street: "Kirchgasse"
 housenumber: 4

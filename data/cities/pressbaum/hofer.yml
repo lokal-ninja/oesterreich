@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.182206900000004
 longitude: 16.0804547
-postcode: 3021
+postcode: "3021"
 city: Pressbaum
 street: "Hauptstraße"
 housenumber: 46

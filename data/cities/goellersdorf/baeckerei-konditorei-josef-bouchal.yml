@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.4941698
 longitude: 16.1182056
-postcode: 2013
+postcode: "2013"
 city: Göllersdorf
 street: "Marktstraße"
 housenumber: 78

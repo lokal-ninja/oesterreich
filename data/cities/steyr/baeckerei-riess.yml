@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.043141600000006
 longitude: 14.39836
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Sierninger Straße"
 housenumber: 160

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.927448600000005
 longitude: 14.087393400000002
-postcode: 4565
+postcode: "4565"
 city: Inzersdorf im Kremstal
 street: "In der Wimm"
 housenumber: 20

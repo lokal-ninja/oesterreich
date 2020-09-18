@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 48.422932700000004
 longitude: 15.587545
-postcode: 3500
+postcode: "3500"
 city: Rehberg
 street: "Mühlhofstraße"
 housenumber: 1
 phone: "+43 2732 710 52"
-opening_hours: ""
+opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-17:00; PH off"
 website: "https://www.unimarkt.at"

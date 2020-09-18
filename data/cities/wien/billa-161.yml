@@ -1,12 +1,12 @@
-id: 4543432772
+id: 4543432773
 type: node
 shop: Supermarkt
-latitude: 48.185293900000005
-longitude: 16.3498376
-postcode: 1050
+latitude: 48.1862708
+longitude: 16.3444572
+postcode: "1050"
 city: Wien
-street: "Einsiedlerplatz"
-housenumber: 13
-phone: "+43 1 9611554"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su off; PH off"
+street: "Margaretengürtel"
+housenumber: 138-140
+phone: "+43 1 5452786"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
 website: "https://www.billa.at/"

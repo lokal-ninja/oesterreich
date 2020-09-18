@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.209445200000005
 longitude: 15.6306706
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Daniel-Gran-Straße"
 housenumber: 13

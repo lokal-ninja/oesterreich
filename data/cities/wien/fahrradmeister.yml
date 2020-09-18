@@ -1,12 +1,12 @@
 id: 2192772920
 type: node
 shop: Fahrrad
-latitude: 48.1948816
-longitude: 16.3627284
-postcode: 1040
+latitude: 48.196048100000006
+longitude: 16.364348200000002
+postcode: "1040"
 city: Wien
 street: "Margaretenstraße"
-housenumber: 46
+housenumber: 32
 phone: "+43 1 5870482"
 opening_hours: "Mo-Fr 10:00-19:00; PH off; Jan off"
 website: "https://www.fahrradmeister.at/"

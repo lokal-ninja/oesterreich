@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.317979900000005
 longitude: 9.679218200000001
-postcode: 6833
+postcode: "6833"
 city: Fraxern
 street: "Kugelweg"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.216448400000004
 longitude: 15.626906900000002
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Gleisdorfer Straße"
 housenumber: 3

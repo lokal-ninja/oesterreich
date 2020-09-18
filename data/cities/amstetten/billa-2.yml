@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1250633
 longitude: 14.883867
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Anton-Schwarz-Straße"
 housenumber: 3

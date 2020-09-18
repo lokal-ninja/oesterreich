@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 46.9070089
 longitude: 15.5776003
-postcode: 8412
+postcode: "8412"
 city: Allerheiligen bei Wildon
 street: "Europapark"
 housenumber: 4

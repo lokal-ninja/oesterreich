@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 46.611168600000006
 longitude: 14.3373977
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Fallegasse"
 housenumber: 1

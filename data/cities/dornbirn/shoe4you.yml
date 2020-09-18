@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.424886
 longitude: 9.740603700000001
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Schwefel"
 housenumber: 39

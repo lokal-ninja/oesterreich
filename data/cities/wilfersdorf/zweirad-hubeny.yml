@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.579262
 longitude: 16.63429
-postcode: 2193
+postcode: "2193"
 city: Wilfersdorf
 street: "Mistelbacher Straße"
 housenumber: 98

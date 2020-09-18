@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.2686049
 longitude: 11.3940394
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Hofgasse"
 housenumber: 5

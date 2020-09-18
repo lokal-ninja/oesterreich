@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.186896600000004
 longitude: 9.7096297
-postcode: 6710
+postcode: "6710"
 city: Nenzing
 street: "Eugen-Getzner-Straße"
 housenumber: 11

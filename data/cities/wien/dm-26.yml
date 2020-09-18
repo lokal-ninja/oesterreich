@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.2532006
 longitude: 16.425844
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Angyalföldstraße"
 housenumber: 76

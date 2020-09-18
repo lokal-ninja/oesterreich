@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.197251300000005
 longitude: 16.3618476
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Rechte Wienzeile"
 housenumber: 29

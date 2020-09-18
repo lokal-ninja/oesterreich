@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.2063113
 longitude: 15.634549300000002
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Ferstlergasse"
 housenumber: 23

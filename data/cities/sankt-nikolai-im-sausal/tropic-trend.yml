@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 46.846975500000006
 longitude: 15.456872500000001
-postcode: 8411
+postcode: "8411"
 city: Sankt Nikolai im Sausal
 street: ""
 housenumber: 47

@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 47.602583100000004
 longitude: 15.7205381
-postcode: 8684
+postcode: "8684"
 city: Spital am Semmering
 street: ""
 housenumber: 34

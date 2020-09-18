@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7175908
 longitude: 15.218333900000001
-postcode: 3903
+postcode: "3903"
 city: Echsenbach
 street: "Marktplatz"
 housenumber: 2

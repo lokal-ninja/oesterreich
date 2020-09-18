@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1971871
 longitude: 16.4023599
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Kardinal-Nagl-Platz"
 housenumber: 1

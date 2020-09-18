@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 47.0488166
 longitude: 15.152625
-postcode: 8570
+postcode: "8570"
 city: Voitsberg
 street: "Grazer Vorstadt"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
 website: ""

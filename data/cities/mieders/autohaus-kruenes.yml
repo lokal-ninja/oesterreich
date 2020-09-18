@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.1731411
 longitude: 11.3864061
-postcode: 6142
+postcode: "6142"
 city: Mieders
 street: "Stubaitalstraße"
 housenumber: 1

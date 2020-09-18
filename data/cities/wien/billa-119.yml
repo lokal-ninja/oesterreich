@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2728065
 longitude: 16.4462412
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Kürschnergasse"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 46.8690062
 longitude: 15.9027697
-postcode: 8344
+postcode: "8344"
 city: Bad Gleichenberg
 street: "Radkersburger Straße"
 housenumber: 9

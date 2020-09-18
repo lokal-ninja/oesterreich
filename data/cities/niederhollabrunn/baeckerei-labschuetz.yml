@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4492272
 longitude: 16.3015797
-postcode: 2004
+postcode: "2004"
 city: Niederhollabrunn
 street: "Hauptplatz"
 housenumber: 4

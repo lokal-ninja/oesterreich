@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.805015600000004
 longitude: 13.567539900000002
-postcode: 9872
+postcode: "9872"
 city: Millstatt am See
 street: "Aribonenstraße"
 housenumber: 281

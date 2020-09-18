@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.803048100000005
 longitude: 13.0464266
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Linzer Gasse"
 housenumber: 17-19

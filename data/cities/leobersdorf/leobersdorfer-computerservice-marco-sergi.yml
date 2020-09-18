@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 47.9237412
 longitude: 16.2136906
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "Mühlgasse"
 housenumber: 4a

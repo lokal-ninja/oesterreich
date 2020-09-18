@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.2054625
 longitude: 16.349616400000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Neustiftgasse"
 housenumber: 42

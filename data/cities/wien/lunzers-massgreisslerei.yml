@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2195893
 longitude: 16.387948100000003
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Heinestraße"
 housenumber: 35

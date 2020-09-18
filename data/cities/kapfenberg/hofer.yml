@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4383934
 longitude: 15.286615500000002
-postcode: 8605
+postcode: "8605"
 city: Kapfenberg
 street: "Grazer Straße"
 housenumber: 19

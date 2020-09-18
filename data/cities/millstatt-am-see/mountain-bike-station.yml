@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.8027182
 longitude: 13.571285300000001
-postcode: 9872
+postcode: "9872"
 city: Millstatt am See
 street: "Kaiser-Franz-Josef-Straße"
 housenumber: 59

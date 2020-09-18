@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2189386
 longitude: 16.401962700000002
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Stuwerstraße"
 housenumber: 27

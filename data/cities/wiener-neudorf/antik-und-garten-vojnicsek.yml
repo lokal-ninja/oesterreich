@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.087215
 longitude: 16.312078
-postcode: 2351
+postcode: "2351"
 city: Wiener Neudorf
 street: "Bahnstraße"
 housenumber: 6a

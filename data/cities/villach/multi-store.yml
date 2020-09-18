@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.6138191
 longitude: 13.844209200000002
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Widmanngasse"
 housenumber: 28

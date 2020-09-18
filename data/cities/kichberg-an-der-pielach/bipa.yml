@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.0274596
 longitude: 15.435363200000001
-postcode: 3204
+postcode: "3204"
 city: Kichberg an der Pielach
 street: "Sankt Pöltner Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.8405165
 longitude: 14.841530100000002
-postcode: 9400
+postcode: "9400"
 city: Wolfsberg
 street: "Am Weiher"
 housenumber: 11

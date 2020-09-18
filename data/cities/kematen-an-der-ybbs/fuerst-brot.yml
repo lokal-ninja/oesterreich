@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0259147
 longitude: 14.765986700000001
-postcode: 3331
+postcode: "3331"
 city: Kematen an der Ybbs
 street: "1. Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2707586
 longitude: 16.4074066
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "OBI Markt, Brünner Straße"
 housenumber: 74

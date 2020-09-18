@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2054939
 longitude: 16.3860527
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Landstraßer Hauptstraße"
 housenumber: 4

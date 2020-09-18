@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.565150300000006
 longitude: 13.9878672
-postcode: 4150
+postcode: "4150"
 city: Rohrbach
 street: "Umfahrung Süd"
 housenumber: 2

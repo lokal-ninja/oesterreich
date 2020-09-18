@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.201261
 longitude: 16.3434057
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Schottenfeldgasse"
 housenumber: 42-44/7

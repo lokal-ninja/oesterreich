@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1739273
 longitude: 15.986397400000001
-postcode: 3032
+postcode: "3032"
 city: Eichgraben
 street: ""
 housenumber: 

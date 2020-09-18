@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0937452
 longitude: 16.1230856
-postcode: 7572
+postcode: "7572"
 city: Deutsch Kaltenbrunn
 street: "Panoramastraße"
 housenumber: 2

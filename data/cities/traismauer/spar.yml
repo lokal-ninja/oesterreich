@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.350684
 longitude: 15.7418223
-postcode: 3133
+postcode: "3133"
 city: Traismauer
 street: "Gartenring"
 housenumber: 34a

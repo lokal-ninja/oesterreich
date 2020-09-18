@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.0536405
 longitude: 15.842675700000001
-postcode: 8311
+postcode: "8311"
 city: Markt Hartmannsdorf
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.2019102
 longitude: 16.3472031
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Westbahnstraße"
 housenumber: 12

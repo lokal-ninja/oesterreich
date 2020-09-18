@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.620617200000005
 longitude: 15.789805500000002
-postcode: 8685
+postcode: "8685"
 city: Spital am Semmering
 street: ""
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.5540369
 longitude: 9.7506754
-postcode: 6912
+postcode: "6912"
 city: Hörbranz
 street: "Ziegelbachstraße"
 housenumber: 9

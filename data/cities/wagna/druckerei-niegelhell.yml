@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 46.7734857
 longitude: 15.5680136
-postcode: 8435
+postcode: "8435"
 city: Wagna
 street: "Leitringer Hauptstraße"
 housenumber: 23

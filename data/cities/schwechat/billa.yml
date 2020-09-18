@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1380234
 longitude: 16.4797125
-postcode: 2320
+postcode: "2320"
 city: Schwechat
 street: "Franz Schubert-Straße"
 housenumber: 5-7

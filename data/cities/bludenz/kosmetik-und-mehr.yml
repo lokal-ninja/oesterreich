@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.157223800000004
 longitude: 9.8190621
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Mutterstraße"
 housenumber: 5

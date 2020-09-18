@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.223884500000004
 longitude: 14.855052700000002
-postcode: 8720
+postcode: "8720"
 city: Sankt Margarethen bei Knittelfeld
 street: "Dammweg"
 housenumber: 1

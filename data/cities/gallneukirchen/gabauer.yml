@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.351891900000005
 longitude: 14.416101500000002
-postcode: 4210
+postcode: "4210"
 city: Gallneukirchen
 street: "Gaisbacher Straße"
 housenumber: 3

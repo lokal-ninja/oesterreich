@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.930951300000004
 longitude: 13.4925832
-postcode: 4880
+postcode: "4880"
 city: St. Georgen im Attergau
 street: "K.F. Meergraf-Straße"
 housenumber: 1

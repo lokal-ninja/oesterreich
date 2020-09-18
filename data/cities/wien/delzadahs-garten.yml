@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.205617100000005
 longitude: 16.3856152
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Invalidenstraße"
 housenumber: 13-15

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.276413000000005
 longitude: 16.4091969
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Siemensstraße"
 housenumber: 3

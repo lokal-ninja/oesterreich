@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1514777
 longitude: 13.1197809
-postcode: 5261
+postcode: "5261"
 city: Helpfau-Uttendorf
 street: "Mattighofnerstraße"
 housenumber: 4

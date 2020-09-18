@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.2653113
 longitude: 11.3991542
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Meinhardstraße"
 housenumber: 11

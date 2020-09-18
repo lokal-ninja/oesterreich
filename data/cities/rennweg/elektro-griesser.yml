@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.031171500000006
 longitude: 13.5945836
-postcode: 9863
+postcode: "9863"
 city: Rennweg
 street: "Gries"
 housenumber: 42

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.0676939
 longitude: 13.4831807
-postcode: 4873
+postcode: "4873"
 city: Frankenburg am Hausruck
 street: "Hauptstraße"
 housenumber: 46

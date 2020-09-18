@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.2467723
 longitude: 16.564668100000002
-postcode: 2281
+postcode: "2281"
 city: Raasdorf
 street: "Altes Dorf"
 housenumber: 44

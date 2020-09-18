@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9071317
 longitude: 14.2335334
-postcode: 4592
+postcode: "4592"
 city: Grünburg
 street: "Priethal"
 housenumber: 3

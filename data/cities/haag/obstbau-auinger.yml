@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.1486904
 longitude: 14.561239800000001
-postcode: 3350
+postcode: "3350"
 city: Haag
 street: ""
 housenumber: 26

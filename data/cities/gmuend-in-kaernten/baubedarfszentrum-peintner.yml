@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 46.9029346
 longitude: 13.535243300000001
-postcode: 9853
+postcode: "9853"
 city: Gmünd in Kärnten
 street: "Moostratte"
 housenumber: 4

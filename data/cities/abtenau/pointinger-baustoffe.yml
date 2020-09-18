@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.573925
 longitude: 13.3878675
-postcode: 5441
+postcode: "5441"
 city: Abtenau
 street: ""
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.2830279
 longitude: 14.364494800000001
-postcode: 4221
+postcode: "4221"
 city: Steyregg
 street: "Linzer Straße"
 housenumber: 16

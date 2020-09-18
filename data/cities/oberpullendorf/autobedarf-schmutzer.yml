@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 47.495992400000006
 longitude: 16.5095405
-postcode: 7350
+postcode: "7350"
 city: Oberpullendorf
 street: "Eisenstädterstraße"
 housenumber: 1

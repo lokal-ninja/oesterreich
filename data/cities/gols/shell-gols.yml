@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.893203400000004
 longitude: 16.9186272
-postcode: 7122
+postcode: "7122"
 city: Gols
 street: "Untere Hauptstraße"
 housenumber: 126

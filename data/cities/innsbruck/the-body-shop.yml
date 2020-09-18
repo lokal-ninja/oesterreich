@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.2667572
 longitude: 11.3939821
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Anichstraße"
 housenumber: 5

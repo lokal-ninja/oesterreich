@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.3310529
 longitude: 9.601192000000001
-postcode: 6842
+postcode: "6842"
 city: Koblach
 street: "Letten"
 housenumber: 2
-phone: "05523/52737"
+phone: "+43 5523 52737"
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00"
 website: ""

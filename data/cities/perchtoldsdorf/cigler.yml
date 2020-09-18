@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.126172100000005
 longitude: 16.2664374
-postcode: 2380
+postcode: "2380"
 city: Perchtoldsdorf
 street: "Ambros-Rieder-Gasse"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1059842
 longitude: 16.284842
-postcode: 2345
+postcode: "2345"
 city: Brunn am Gebirge
 street: "Leopold-Gattringer-Straße"
 housenumber: 10

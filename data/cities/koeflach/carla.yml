@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.0634881
 longitude: 15.081148
-postcode: 8580
+postcode: "8580"
 city: Köflach
 street: "Kärntnerstraße"
 housenumber: 7

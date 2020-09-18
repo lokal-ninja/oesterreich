@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.0508527
 longitude: 15.4784058
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Sankt-Peter-Hauptstraße"
 housenumber: 

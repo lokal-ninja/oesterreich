@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.461095300000004
 longitude: 13.255936
-postcode: 5453
+postcode: "5453"
 city: Werfenweng
 street: "Weng"
 housenumber: 218

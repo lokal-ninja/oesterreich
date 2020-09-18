@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.3067822
 longitude: 15.9324095
-postcode: 3451
+postcode: "3451"
 city: Rust im Tullnerfeld
 street: "Leopold Figl Straße"
 housenumber: 25

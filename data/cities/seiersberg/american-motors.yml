@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 47.0195163
 longitude: 15.430600300000002
-postcode: 8055
+postcode: "8055"
 city: Seiersberg
 street: "Mitterstraße"
 housenumber: 100
 phone: "+43316 714044"
 opening_hours: ""
-website: "www.american-motors.at"
+website: "http://www.american-motors.at"

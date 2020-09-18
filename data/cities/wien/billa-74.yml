@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.188664300000006
 longitude: 16.3043194
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Nisselgasse"
 housenumber: 6

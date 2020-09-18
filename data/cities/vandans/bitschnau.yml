@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.096102800000004
 longitude: 9.8645919
-postcode: 6773
+postcode: "6773"
 city: Vandans
 street: "Frans-Bitschnau-Weg"
 housenumber: 1

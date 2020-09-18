@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1973044
 longitude: 16.3698333
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Frankenberggasse"
 housenumber: 2-4

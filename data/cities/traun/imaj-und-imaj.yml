@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.223234000000005
 longitude: 14.242177300000002
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Johann Roithner-Straße"
 housenumber: 29

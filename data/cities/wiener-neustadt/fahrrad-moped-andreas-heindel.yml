@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.8160721
 longitude: 16.2461726
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Eyerspergring"
 housenumber: 7

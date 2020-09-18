@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.0945693
 longitude: 14.985733600000001
-postcode: 3325
+postcode: "3325"
 city: Ferschnitz
 street: "Marktstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.943358200000006
 longitude: 16.107056200000002
-postcode: 2560
+postcode: "2560"
 city: Berndorf
 street: "Kruppstraße"
 housenumber: 2

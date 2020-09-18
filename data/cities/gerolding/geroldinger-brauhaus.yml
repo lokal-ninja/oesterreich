@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.2470391
 longitude: 15.4158863
-postcode: 3392
+postcode: "3392"
 city: Gerolding
 street: "Graf Geroldstraße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.222419300000006
 longitude: 14.2433741
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Christlgasse"
 housenumber: 21

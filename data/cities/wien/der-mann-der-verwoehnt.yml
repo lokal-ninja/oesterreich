@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1830433
 longitude: 16.3282035
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Schönbrunner Straße"
 housenumber: 265

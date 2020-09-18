@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.8007696
 longitude: 13.040166800000002
-postcode: 
+postcode: ""
 city: Salzburg
 street: "Griesgasse"
 housenumber: 31

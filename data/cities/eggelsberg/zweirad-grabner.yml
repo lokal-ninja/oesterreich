@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.092962
 longitude: 12.9930535
-postcode: 5142
+postcode: "5142"
 city: Eggelsberg
 street: "Gundertshausen"
 housenumber: 36

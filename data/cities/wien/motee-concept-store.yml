@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.151223200000004
 longitude: 16.2674156
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Maurer Hauptplatz"
 housenumber: 10

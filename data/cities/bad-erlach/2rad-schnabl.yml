@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.727279300000006
 longitude: 16.2149404
-postcode: 2822
+postcode: "2822"
 city: Bad Erlach
 street: "Hauptstraße"
 housenumber: 3

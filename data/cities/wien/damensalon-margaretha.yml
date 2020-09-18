@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.233521200000006
 longitude: 16.326888800000003
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Schöffelgasse"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.85530180000001
 longitude: 15.287370200000002
-postcode: 3842
+postcode: "3842"
 city: Thaya
 street: "Hauptstraße"
 housenumber: 25

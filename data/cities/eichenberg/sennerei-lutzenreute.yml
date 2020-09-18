@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.5476353
 longitude: 9.7860394
-postcode: 6911
+postcode: "6911"
 city: Eichenberg
 street: "Lutzenreute"
 housenumber: 23

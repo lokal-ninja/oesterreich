@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.082911200000005
 longitude: 16.347877500000003
-postcode: 2362
+postcode: "2362"
 city: Biedermannsdorf
 street: "Ortsstraße"
 housenumber: 37

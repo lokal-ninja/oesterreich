@@ -1,12 +1,12 @@
-id: 2962995725
+id: 2967551333
 type: node
 shop: Supermarkt
-latitude: 48.2248621
-longitude: 16.4537142
-postcode: 1220
+latitude: 48.246634500000006
+longitude: 16.374333500000002
+postcode: "1200"
 city: Wien
-street: "Langobardenstraße"
-housenumber: 14
-phone: ""
+street: "Leystraße"
+housenumber: 2-4
+phone: "+43-1-9612015"
 opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: ""
+website: "https://www.billa.at/"

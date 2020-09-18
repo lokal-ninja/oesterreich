@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.7855488
 longitude: 15.5390042
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Grazergasse"
 housenumber: 36

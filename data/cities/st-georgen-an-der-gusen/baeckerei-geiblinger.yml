@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.2713558
 longitude: 14.4493582
-postcode: 4222
+postcode: "4222"
 city: St. Georgen an der Gusen
 street: "Unterer Markt"
 housenumber: 2

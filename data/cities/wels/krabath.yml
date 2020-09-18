@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.162128
 longitude: 14.0251318
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Bahnhofstraße"
 housenumber: 22

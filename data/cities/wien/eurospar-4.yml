@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1693263
 longitude: 16.3698182
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Siccardsburggasse"
 housenumber: 83

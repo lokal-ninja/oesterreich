@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.260539
 longitude: 14.259156
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Kornstraße"
 housenumber: 2

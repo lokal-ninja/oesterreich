@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.0857906
 longitude: 16.2862258
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Badstraße"
 housenumber: 1

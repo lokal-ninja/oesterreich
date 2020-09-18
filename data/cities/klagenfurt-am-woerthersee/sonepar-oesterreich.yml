@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 46.619771300000004
 longitude: 14.321079500000002
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Werner-von-Siemens-Park"
 housenumber: 2

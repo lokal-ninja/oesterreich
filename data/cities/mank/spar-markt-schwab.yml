@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1104873
 longitude: 15.3415429
-postcode: 3240
+postcode: "3240"
 city: Mank
 street: "Schulstraße"
 housenumber: 3

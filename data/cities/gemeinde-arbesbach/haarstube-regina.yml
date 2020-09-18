@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5020352
 longitude: 14.959791500000001
-postcode: 3925
+postcode: "3925"
 city: Gemeinde Arbesbach
 street: ""
 housenumber: 4

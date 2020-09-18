@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.085314700000005
 longitude: 16.3134446
-postcode: 2351
+postcode: "2351"
 city: Wiener Neudorf
 street: "Wienerstraße"
 housenumber: 11-13

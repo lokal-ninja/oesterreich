@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3691249
 longitude: 11.717695200000001
-postcode: 6135
+postcode: "6135"
 city: Stans
 street: "Unterdorf"
 housenumber: 61

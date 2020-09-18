@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.966290900000004
 longitude: 14.7680789
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Patertal"
 housenumber: 10

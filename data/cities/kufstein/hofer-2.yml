@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5716994
 longitude: 12.156116500000001
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Salurner Straße"
 housenumber: 60

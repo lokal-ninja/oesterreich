@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 46.8244873
 longitude: 14.839779900000002
-postcode: 9400
+postcode: "9400"
 city: Wolfsberg
 street: "Klagenfurter Straße"
 housenumber: 35

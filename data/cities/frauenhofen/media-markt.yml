@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.6675783
 longitude: 15.635073400000001
-postcode: 3580
+postcode: "3580"
 city: Frauenhofen
 street: "Am Kuhberg"
 housenumber: 5

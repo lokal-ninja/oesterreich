@@ -3,7 +3,7 @@ type: node
 shop: Imkerei
 latitude: 48.069264100000005
 longitude: 14.188304500000001
-postcode: 4532
+postcode: "4532"
 city: Rohr im Kremstal
 street: "Am Sportplatz"
 housenumber: 15

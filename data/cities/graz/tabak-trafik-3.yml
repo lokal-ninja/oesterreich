@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.0662436
 longitude: 15.4624351
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Schörgelgasse"
 housenumber: 80

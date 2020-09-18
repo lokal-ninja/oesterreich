@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2541354
 longitude: 9.5765398
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Rheinstraße"
 housenumber: 13

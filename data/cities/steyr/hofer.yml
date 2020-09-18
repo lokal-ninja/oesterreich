@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.054197900000005
 longitude: 14.4223987
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Resthofstraße"
 housenumber: 23

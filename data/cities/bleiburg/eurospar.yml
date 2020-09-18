@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.5869208
 longitude: 14.795832500000001
-postcode: 9450
+postcode: "9450"
 city: Bleiburg
 street: "Koschatstraße"
 housenumber: 12

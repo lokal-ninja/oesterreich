@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 46.592117
 longitude: 14.019668800000002
-postcode: 9232
+postcode: "9232"
 city: Rosegg
 street: "Mautweg"
 housenumber: 7

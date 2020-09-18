@@ -1,12 +1,12 @@
-id: 30824343
+id: 29484093
 type: way
 shop: Supermarkt
-latitude: 48.2729834
-longitude: 16.4199592
-postcode: 1210
+latitude: 48.1509876
+longitude: 16.2910256
+postcode: "1230"
 city: Wien
-street: "Ruthnergasse"
-housenumber: 54
-phone: ""
-opening_hours: ""
-website: ""
+street: "Gatterederstraße"
+housenumber: 11-15
+phone: "+43 57030 33021"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+website: "https://www.hofer.at/"

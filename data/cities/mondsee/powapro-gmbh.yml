@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.8573116
 longitude: 13.3493288
-postcode: 5310
+postcode: "5310"
 city: Mondsee
 street: "Schloßhof"
 housenumber: 

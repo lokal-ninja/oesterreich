@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.0464489
 longitude: 15.483802
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Sankt-Peter-Hauptstraße"
 housenumber: 194

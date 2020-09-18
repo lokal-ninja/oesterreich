@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.3766948
 longitude: 15.6328031
-postcode: 3511
+postcode: "3511"
 city: Oberfucha
 street: "Am Berg"
 housenumber: 29

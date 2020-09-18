@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.6674085
 longitude: 15.0681045
-postcode: 3931
+postcode: "3931"
 city: Schweiggers
 street: "Sportplatzstraße"
 housenumber: 2

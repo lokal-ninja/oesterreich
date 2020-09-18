@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.4350393
 longitude: 12.2119687
-postcode: 6363
+postcode: "6363"
 city: Westendorf
 street: "Mühltal"
 housenumber: 31

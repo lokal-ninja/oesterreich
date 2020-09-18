@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.308890100000006
 longitude: 9.6485623
-postcode: 6833
+postcode: "6833"
 city: Klaus
 street: "Am Bach"
 housenumber: 4

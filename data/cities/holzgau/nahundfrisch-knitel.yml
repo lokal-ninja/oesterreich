@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.2607592
 longitude: 10.3448726
-postcode: 6654
+postcode: "6654"
 city: Holzgau
-street: "Wilhelmstraße"
+street: "Holzgau"
 housenumber: 65
-phone: ""
-opening_hours: "Mo-Fr 07:30-12:30,14:30-18:30; Sa 07:30-12:30,16:00-18:00; Su 16:00-18:00"
-website: "http://www.nahundfrisch.at/"
+phone: "+43 5633 5278"
+opening_hours: "Mo-Fr 07:30-12:30,14:30-18:30; Sa 07:30-12:30,15:00-18:00; Su 16:00-18:00"
+website: "https://www.nahundfrisch.at/de/kaufmann/knitel"

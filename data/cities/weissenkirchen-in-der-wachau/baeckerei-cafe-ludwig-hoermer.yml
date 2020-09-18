@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3967989
 longitude: 15.469785700000001
-postcode: 3610
+postcode: "3610"
 city: Weißenkirchen in der Wachau
 street: "Landstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.2669696
 longitude: 16.4610142
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Dassanowskyweg"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.035074900000005
 longitude: 16.8050865
-postcode: 2460
+postcode: "2460"
 city: Bruck an der Leitha
 street: "4.Straße"
 housenumber: 1

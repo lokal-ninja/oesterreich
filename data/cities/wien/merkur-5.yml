@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2354275
 longitude: 16.3697983
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Wexstraße"
 housenumber: 24

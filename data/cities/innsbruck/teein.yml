@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 47.262678900000004
 longitude: 11.394017400000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maximilianstraße"
 housenumber: 2a

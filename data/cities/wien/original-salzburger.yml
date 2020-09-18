@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.206772900000004
 longitude: 16.373236300000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Weihburggasse"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.8184472
 longitude: 14.8349954
-postcode: 9400
+postcode: "9400"
 city: Wolfsberg
 street: "Tatzerschachtweg"
 housenumber: 2

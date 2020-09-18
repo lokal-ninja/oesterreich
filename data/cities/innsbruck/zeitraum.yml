@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.2675667
 longitude: 11.391414800000002
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Marktgraben"
 housenumber: 1

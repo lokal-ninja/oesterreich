@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.2152193
 longitude: 14.8274591
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Kapuzinerplatz"
 housenumber: 9

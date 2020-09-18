@@ -3,7 +3,7 @@ type: node
 shop: Videospiele
 latitude: 48.210446700000006
 longitude: 16.4224235
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Olympiaplatz"
 housenumber: 2

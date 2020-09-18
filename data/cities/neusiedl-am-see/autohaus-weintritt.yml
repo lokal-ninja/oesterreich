@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.9658686
 longitude: 16.838168
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Wienerstraße"
 housenumber: 106

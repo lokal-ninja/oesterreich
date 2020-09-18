@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 48.213063700000006
 longitude: 16.3777087
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Obere Donaustraße"
 housenumber: 97-99

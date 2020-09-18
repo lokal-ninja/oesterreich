@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 46.596165400000004
 longitude: 13.8344356
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Kärntner Straße"
 housenumber: 34

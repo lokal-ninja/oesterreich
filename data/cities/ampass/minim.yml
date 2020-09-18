@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2638395
 longitude: 11.469185900000001
-postcode: 6070
+postcode: "6070"
 city: Ampass
 street: "Gröbentalweg"
 housenumber: 1a

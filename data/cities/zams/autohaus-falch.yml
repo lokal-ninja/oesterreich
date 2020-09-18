@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.153643
 longitude: 10.583368
-postcode: 6511
+postcode: "6511"
 city: Zams
 street: "Hauptstraße"
 housenumber: 13

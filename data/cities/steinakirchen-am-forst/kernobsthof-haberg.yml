@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0657525
 longitude: 15.022079100000001
-postcode: 3261
+postcode: "3261"
 city: Steinakirchen am Forst
 street: "Haberg"
 housenumber: 7

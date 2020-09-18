@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.0232274
 longitude: 16.759027
-postcode: 2460
+postcode: "2460"
 city: Bruck an der Leitha
 street: "Industriegelände West"
 housenumber: 4

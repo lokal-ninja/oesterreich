@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.199401900000005
 longitude: 16.3810931
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Salesianergasse"
 housenumber: 9

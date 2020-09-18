@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 47.3780602
 longitude: 15.091241700000001
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Waasenplatz"
 housenumber: 1

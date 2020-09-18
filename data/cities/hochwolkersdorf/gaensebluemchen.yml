@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.6611252
 longitude: 16.2810797
-postcode: 2802
+postcode: "2802"
 city: Hochwolkersdorf
 street: "Dorfstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.0837159
 longitude: 16.2811197
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Brühler Straße"
 housenumber: 9

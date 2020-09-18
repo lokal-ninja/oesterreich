@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 47.06797520000001
 longitude: 15.425935200000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Elisabethinergasse"
 housenumber: 22

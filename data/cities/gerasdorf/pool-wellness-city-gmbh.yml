@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.3305985
 longitude: 16.4554489
-postcode: 2201
+postcode: "2201"
 city: Gerasdorf
 street: "Am Jungfernberg"
 housenumber: 17

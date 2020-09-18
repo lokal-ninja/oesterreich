@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9063546
 longitude: 14.1233549
-postcode: 4560
+postcode: "4560"
 city: Kirchdorf an der Krems
 street: "Schiedermayrstraße"
 housenumber: 5

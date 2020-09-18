@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.242749100000005
 longitude: 16.434650400000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: ""
 housenumber: 

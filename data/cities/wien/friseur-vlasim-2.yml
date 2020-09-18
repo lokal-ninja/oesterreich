@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1699883
 longitude: 16.2871682
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Feldkellergasse"
 housenumber: 10

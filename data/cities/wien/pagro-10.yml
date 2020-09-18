@@ -1,12 +1,12 @@
-id: 376162167
-type: way
+id: 7558841275
+type: node
 shop: Schreibwaren
-latitude: 48.2704826
-longitude: 16.4093428
-postcode: 1210
+latitude: 48.197675700000005
+longitude: 16.2982005
+postcode: "1140"
 city: Wien
-street: "Shuttleworthstraße"
-housenumber: 6
+street: "Hütteldorfer Straße"
+housenumber: 130C
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
+opening_hours: ""
 website: ""

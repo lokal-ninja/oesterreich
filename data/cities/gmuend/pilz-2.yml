@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7610181
 longitude: 14.9722121
-postcode: 3950
+postcode: "3950"
 city: Gmünd
 street: "Schubertplatz"
 housenumber: 22

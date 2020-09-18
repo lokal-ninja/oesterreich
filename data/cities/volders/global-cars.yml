@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.2894225
 longitude: 11.581862500000002
-postcode: 6111
+postcode: "6111"
 city: Volders
 street: "Kreuzbichl"
 housenumber: 6

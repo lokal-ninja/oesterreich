@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.424030800000004
 longitude: 9.7493163
-postcode: 6860
+postcode: "6860"
 city: Dornbirn
 street: "Dr.-Anton-Schneider-Straße"
 housenumber: 15b

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.3844798
 longitude: 15.559694
-postcode: 3512
+postcode: "3512"
 city: Mauternbach
 street: ""
 housenumber: 11

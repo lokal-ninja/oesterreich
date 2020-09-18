@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.2690854
 longitude: 15.974875500000001
-postcode: 3441
+postcode: "3441"
 city: Einsiedl
 street: "Gewerbestraße"
 housenumber: 1

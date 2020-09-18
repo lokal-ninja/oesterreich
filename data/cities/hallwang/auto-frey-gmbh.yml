@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.8544676
 longitude: 13.1076692
-postcode: 5300
+postcode: "5300"
 city: Hallwang
 street: "Wiener Bundesstraße"
 housenumber: 81

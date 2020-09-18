@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.2045545
 longitude: 16.3528428
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "St.-Ulrichs-Platz"
 housenumber: 2

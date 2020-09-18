@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 48.5163827
 longitude: 13.8738709
-postcode: 4134
+postcode: "4134"
 city: Putzleinsdorf
 street: "Markt"
 housenumber: 39

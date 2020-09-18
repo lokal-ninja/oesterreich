@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.5891657
 longitude: 12.1744214
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Oskar Pirlo-Straße"
 housenumber: 32

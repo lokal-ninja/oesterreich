@@ -3,7 +3,7 @@ type: node
 shop: Kräuter
 latitude: 47.2673989
 longitude: 11.3953024
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Museumstraße"
 housenumber: 1

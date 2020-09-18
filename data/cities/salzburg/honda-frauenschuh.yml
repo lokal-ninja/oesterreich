@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 47.815567400000006
 longitude: 13.0581793
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Samergasse"
 housenumber: 24

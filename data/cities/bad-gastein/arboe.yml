@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.119965400000005
 longitude: 13.133862200000001
-postcode: 5640
+postcode: "5640"
 city: Bad Gastein
 street: "Gasteiner Bundesstraße"
 housenumber: 6

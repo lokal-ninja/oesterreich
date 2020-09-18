@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.953408
 longitude: 15.8895248
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Bürgergasse"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 46.604193200000005
 longitude: 13.859357300000001
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Bruno-Kreisky-Straße"
 housenumber: 25

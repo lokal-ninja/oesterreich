@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.486131300000004
 longitude: 9.7015632
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Quellenstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.0062171
 longitude: 13.6805094
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Ida-Pfeiffer-Straße"
 housenumber: 8

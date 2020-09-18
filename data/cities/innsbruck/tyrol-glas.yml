@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 47.265327500000005
 longitude: 11.3969625
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Wilhelm-Greil-Straße"
 housenumber: 16

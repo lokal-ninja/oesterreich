@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.5671643
 longitude: 14.102042200000001
-postcode: 4170
+postcode: "4170"
 city: Sankt Stefan-Afiesl
 street: "Sankt Stefan am Walde"
 housenumber: 14

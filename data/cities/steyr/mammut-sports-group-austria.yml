@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.029934600000004
 longitude: 14.4177072
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Neubaustraße"
 housenumber: 15

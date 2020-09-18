@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2151748
 longitude: 14.830030200000001
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Hauptplatz"
 housenumber: 18

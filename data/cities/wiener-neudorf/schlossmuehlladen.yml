@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.0905429
 longitude: 16.3238665
-postcode: 2351
+postcode: "2351"
 city: Wiener Neudorf
 street: "Schloßmühlgasse"
 housenumber: 36

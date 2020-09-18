@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.259956200000005
 longitude: 11.397788400000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Mentlgasse"
 housenumber: 5

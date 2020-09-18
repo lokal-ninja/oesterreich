@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.044524800000005
 longitude: 15.741679500000002
-postcode: 3163
+postcode: "3163"
 city: Rohrbach an der Gölsen
 street: "Dreikreuzstraße"
 housenumber: 9

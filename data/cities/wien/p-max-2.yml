@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.246074
 longitude: 16.4644543
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Gewerbeparkstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.334431900000006
 longitude: 16.711447800000002
-postcode: 2230
+postcode: "2230"
 city: Gänserndorf
 street: "Neusiedler Straße"
 housenumber: 7

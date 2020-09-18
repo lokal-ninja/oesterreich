@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.083633400000004
 longitude: 16.314236
-postcode: 2351
+postcode: "2351"
 city: Wiener Neudorf
 street: "Parkstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2257022
 longitude: 14.6105982
-postcode: 4331
+postcode: "4331"
 city: Naarn im Machland
 street: "Machlandstrasse"
 housenumber: 1

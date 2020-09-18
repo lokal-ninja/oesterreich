@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.1527356
 longitude: 14.029276500000002
-postcode: 4600
+postcode: "4600"
 city: Thalheim bei Wels
 street: "Pater-Bernhard-Rodlberger-Straße"
 housenumber: 12

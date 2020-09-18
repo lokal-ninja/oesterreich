@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 48.264848400000005
 longitude: 16.4499581
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Baldassgasse"
 housenumber: 3

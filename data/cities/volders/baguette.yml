@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2878509
 longitude: 11.5658854
-postcode: 6111
+postcode: "6111"
 city: Volders
 street: "Bundesstraße"
 housenumber: 24b

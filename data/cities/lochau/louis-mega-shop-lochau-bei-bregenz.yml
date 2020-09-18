@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 47.5324286
 longitude: 9.740163200000001
-postcode: 6911
+postcode: "6911"
 city: Lochau
 street: "Lindauer Straße"
 housenumber: 31

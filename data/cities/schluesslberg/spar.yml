@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2265712
 longitude: 13.851365600000001
-postcode: 4707
+postcode: "4707"
 city: Schlüßlberg
 street: "Handelspark"
 housenumber: 8

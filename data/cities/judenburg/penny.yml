@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1768087
 longitude: 14.6655473
-postcode: 8750
+postcode: "8750"
 city: Judenburg
 street: "Gabelhoferstraße"
 housenumber: 1

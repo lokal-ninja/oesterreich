@@ -1,12 +1,12 @@
-id: 5267765823
+id: 5267793021
 type: node
 shop: Drogerie
-latitude: 48.250040600000005
-longitude: 16.444156800000002
-postcode: 1220
+latitude: 48.2380871
+longitude: 16.477754100000002
+postcode: "1220"
 city: Wien
-street: "Kagraner Platz"
-housenumber: 1-3
+street: "Ziegelhofstraße"
+housenumber: 26
 phone: ""
 opening_hours: ""
 website: ""

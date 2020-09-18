@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 47.0691044
 longitude: 15.438519500000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Raubergasse"
 housenumber: 11

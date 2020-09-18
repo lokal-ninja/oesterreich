@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.6754315
 longitude: 15.933851700000002
-postcode: 2640
+postcode: "2640"
 city: Gloggnitz
 street: "Hauptstraße"
 housenumber: 36

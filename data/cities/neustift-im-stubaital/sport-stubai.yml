@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.1135887
 longitude: 11.311148900000001
-postcode: 6167
+postcode: "6167"
 city: Neustift im Stubaital
 street: "Stubaitalstraße"
 housenumber: 62

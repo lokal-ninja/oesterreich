@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1856531
 longitude: 16.301229
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Am Platz"
 housenumber: 3

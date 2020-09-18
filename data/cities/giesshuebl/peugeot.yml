@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0985505
 longitude: 16.2419051
-postcode: 2372
+postcode: "2372"
 city: Gießhübl
 street: "Hauptstraße"
 housenumber: 59

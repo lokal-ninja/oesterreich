@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 47.263062700000006
 longitude: 11.4288088
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Amraser-See-Straße"
 housenumber: 56b
 phone: "+43 512 394194"
 opening_hours: "Mo-We 09:00-19:00; Th-Fr 09:00-20:00; Sa 09:00-18:00; PH off"
-website: "http://deichmann.at"
+website: "https://stores.deichmann.com/at-de/tirol/innsbruck/amraserseestrasse-56-b.html"

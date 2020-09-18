@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.9689181
 longitude: 16.8391548
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Altenburger Straße"
 housenumber: 110

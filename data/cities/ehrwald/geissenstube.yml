@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.4028639
 longitude: 10.922641
-postcode: 6632
+postcode: "6632"
 city: Ehrwald
 street: "Lähngraben Umgebung"
 housenumber: 10a

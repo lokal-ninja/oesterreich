@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2646961
 longitude: 11.4114558
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Gumppstraße"
 housenumber: 25

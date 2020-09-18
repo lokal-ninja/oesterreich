@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9269052
 longitude: 13.789270700000001
-postcode: 4810
+postcode: "4810"
 city: Gmunden
 street: "Druckereistraße"
 housenumber: 26

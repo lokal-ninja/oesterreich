@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.238626700000005
 longitude: 16.3547111
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Döblinger Hauptstraße"
 housenumber: 60

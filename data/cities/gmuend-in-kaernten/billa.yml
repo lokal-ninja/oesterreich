@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.9060871
 longitude: 13.5304871
-postcode: 9853
+postcode: "9853"
 city: Gmünd in Kärnten
 street: "Holztratte"
 housenumber: 30

@@ -3,10 +3,10 @@ type: node
 shop: Wein
 latitude: 48.3666831
 longitude: 15.4183581
-postcode: 3620
+postcode: "3620"
 city: Spitz
 street: "Kremserstraße"
 housenumber: 8
-phone: "004327132209"
+phone: "+43 2713 2209"
 opening_hours: ""
-website: "http://www.hirtzberger.com"
+website: "http://www.hirtzberger.com/"

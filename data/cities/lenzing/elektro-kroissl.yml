@@ -3,10 +3,10 @@ type: node
 shop: Elektronik
 latitude: 47.973498400000004
 longitude: 13.604730100000001
-postcode: 4860
+postcode: "4860"
 city: Lenzing
 street: "Hauptplatz"
 housenumber: 7
-phone: "07672 92880"
+phone: "+43 7672 92880"
 opening_hours: ""
 website: "http://www.elektrokroissl.at"

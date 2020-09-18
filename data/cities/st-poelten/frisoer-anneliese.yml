@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2042602
 longitude: 15.6262202
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Kremser Gasse"
 housenumber: 20

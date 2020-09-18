@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.4144656
 longitude: 9.7434697
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Eisengasse"
 housenumber: 4

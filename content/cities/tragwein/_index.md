@@ -1,6 +1,6 @@
 ---
 title: Tragwein
 url: /tragwein/
-latitude: 48.3320408
-longitude: 14.621236000000001
+latitude: 48.331295700000005
+longitude: 14.6220747
 ---

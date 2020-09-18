@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.2677951
 longitude: 11.234999400000001
-postcode: 6170
+postcode: "6170"
 city: Zirl
 street: "Bahnhofstraße"
 housenumber: 37b
-phone: ""
-opening_hours: "Mo-Th 07:40-19:00; Fr 07:40-20:00; Sa 07:40-18:00"
-website: ""
+phone: "+43 50321 928064"
+opening_hours: "Mo-Th 07:40-19:00; Fr 07:40-20:00; Sa 07:40-18:00; PH off"
+website: "https://www.mpreis.at/sp/standorte"

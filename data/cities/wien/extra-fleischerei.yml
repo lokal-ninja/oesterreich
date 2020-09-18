@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.180852400000006
 longitude: 16.3331777
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Meidlinger Markt Stand"
 housenumber: 23-24

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.0546201
 longitude: 14.6420291
-postcode: 3352
+postcode: "3352"
 city: St. Peter in der Au
 street: "An der Bahn"
 housenumber: 25

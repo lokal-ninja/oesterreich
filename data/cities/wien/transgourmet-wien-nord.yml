@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 48.2592343
 longitude: 16.4734257
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Sverigestraße"
 housenumber: 11

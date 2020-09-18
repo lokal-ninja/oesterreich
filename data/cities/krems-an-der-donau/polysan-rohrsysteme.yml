@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 48.413195400000006
 longitude: 15.629356000000001
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Lerchenfelderstraße"
 housenumber: 22

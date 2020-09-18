@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.3057651
 longitude: 10.9773373
-postcode: 6414
+postcode: "6414"
 city: Mieming
 street: "Obermieming"
 housenumber: 204

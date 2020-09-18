@@ -1,12 +1,12 @@
-id: 4652763426
+id: 4843829721
 type: node
 shop: Supermarkt
-latitude: 48.2512751
-longitude: 16.431223600000003
-postcode: 1220
+latitude: 48.2371574
+longitude: 16.3492032
+postcode: "1190"
 city: Wien
-street: "Donaufelder Straße"
-housenumber: 77
-phone: ""
-opening_hours: ""
-website: ""
+street: "Billrothstraße"
+housenumber: 22
+phone: "+43 1 3671505"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off"
+website: "https://www.billa.at/"

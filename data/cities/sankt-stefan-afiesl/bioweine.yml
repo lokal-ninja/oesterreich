@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.567970200000005
 longitude: 14.108272600000001
-postcode: 4170
+postcode: "4170"
 city: Sankt Stefan-Afiesl
 street: "Sankt Stefan am Walde"
 housenumber: 6

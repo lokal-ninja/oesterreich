@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.826165800000005
 longitude: 16.2511979
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Pottendorfer Straße"
 housenumber: 39

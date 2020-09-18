@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6036651
 longitude: 15.818081800000002
-postcode: 3730
+postcode: "3730"
 city: Burgschleinitz-Kühnring
 street: "Kirchenheidestraße"
 housenumber: 18

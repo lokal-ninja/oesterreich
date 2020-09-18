@@ -3,7 +3,7 @@ type: way
 shop: Tickets
 latitude: 47.4131772
 longitude: 12.4545168
-postcode: 6371
+postcode: "6371"
 city: Aurach bei Kitzbühel
 street: "Wildparkweg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.012100000000004
 longitude: 14.972800000000001
-postcode: 3263
+postcode: "3263"
 city: Randegg
 street: "Randegg"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8447582
 longitude: 16.2449818
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Wiener Straße"
 housenumber: 127

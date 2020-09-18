@@ -1,12 +1,12 @@
-id: 5596295967
+id: 7660568718
 type: node
 shop: Friseur
-latitude: 47.1678093
-longitude: 14.6626577
-postcode: 8750
+latitude: 47.168311700000004
+longitude: 14.657518600000001
+postcode: "8750"
 city: Judenburg
-street: "Wickenburgstraße"
-housenumber: 8
+street: ""
+housenumber: 
 phone: "+43 3572 83303"
-opening_hours: ""
+opening_hours: "Tu 08:00-12:00; We-Fr 07:00-17:15; Sa 07:00-12:00"
 website: ""

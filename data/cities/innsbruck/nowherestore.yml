@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2646019
 longitude: 11.3910835
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Anichstraße"
 housenumber: 20

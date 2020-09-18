@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.189705200000006
 longitude: 14.751331500000001
-postcode: 8740
+postcode: "8740"
 city: Zeltweg
 street: "Bahnhofstraße"
 housenumber: 55

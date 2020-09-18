@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 47.1875846
 longitude: 11.411932
-postcode: 6
+postcode: "6"
 city: Schönberg im Stubaital
 street: "Zeigerweg"
 housenumber: 23

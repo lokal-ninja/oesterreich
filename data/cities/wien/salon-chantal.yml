@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2016411
 longitude: 16.3696966
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Bösendorferstraße"
 housenumber: 1

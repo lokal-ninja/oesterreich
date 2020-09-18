@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.2659328
 longitude: 11.3952466
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Sparkassenplatz"
 housenumber: 2

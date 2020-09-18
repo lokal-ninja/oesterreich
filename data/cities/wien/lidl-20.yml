@@ -1,12 +1,12 @@
-id: 94008511
+id: 31612828
 type: way
 shop: Supermarkt
-latitude: 48.166966200000005
-longitude: 16.386931
-postcode: 1100
+latitude: 48.270324300000006
+longitude: 16.4091719
+postcode: "1210"
 city: Wien
-street: "Laaer-Berg-Straße"
-housenumber: 42
+street: ""
+housenumber: 
 phone: ""
-opening_hours: ""
-website: "https://www.lidl.at/"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+website: ""

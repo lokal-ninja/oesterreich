@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.2292865
 longitude: 16.470734500000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Aspernstraße"
 housenumber: 15-21

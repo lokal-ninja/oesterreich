@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 48.1686855
 longitude: 16.2842208
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Speisinger Straße"
 housenumber: 54

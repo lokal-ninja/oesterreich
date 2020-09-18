@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 47.260516
 longitude: 11.418529900000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Amraser Straße"
 housenumber: 118a

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.0630158
 longitude: 15.088336300000002
-postcode: 8580
+postcode: "8580"
 city: Köflach
 street: "Grazerstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 46.6154741
 longitude: 14.2928318
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Waidmannsdorfer Straße"
 housenumber: 70

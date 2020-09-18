@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.057481200000005
 longitude: 15.443417100000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Obere Bahnstraße"
 housenumber: 63

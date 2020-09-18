@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.010761
 longitude: 15.4976184
-postcode: 8074
+postcode: "8074"
 city: Raaba-Grambach
 street: "Rosenhain"
 housenumber: 5

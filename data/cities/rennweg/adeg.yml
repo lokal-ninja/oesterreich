@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0184847
 longitude: 13.612171900000002
-postcode: 9863
+postcode: "9863"
 city: Rennweg
 street: "Rennweg"
 housenumber: 46

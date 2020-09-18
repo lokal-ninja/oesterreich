@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.187795400000006
 longitude: 16.3646587
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 81

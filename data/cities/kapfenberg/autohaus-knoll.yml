@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.4663558
 longitude: 15.3387895
-postcode: 8605
+postcode: "8605"
 city: Kapfenberg
 street: "Siegfried-Marcus-Straße"
 housenumber: 

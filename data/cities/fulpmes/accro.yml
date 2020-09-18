@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.1528994
 longitude: 11.3494126
-postcode: 6166
+postcode: "6166"
 city: Fulpmes
 street: "Riehlstraße"
 housenumber: 7

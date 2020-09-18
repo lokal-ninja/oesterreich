@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.3950278
 longitude: 15.578409100000002
-postcode: 3512
+postcode: "3512"
 city: Mautern an der Donau
 street: "Burggartengasse"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.164874600000005
 longitude: 14.0118679
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Ferdinand-Vielguth-Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.952421
 longitude: 15.900322300000001
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Dr.-Senekowitsch-Straße"
 housenumber: 6

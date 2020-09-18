@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.4004733
 longitude: 13.425602900000001
-postcode: 4975
+postcode: "4975"
 city: Suben
 street: ""
 housenumber: 125

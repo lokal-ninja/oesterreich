@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.0743377
 longitude: 16.3166929
-postcode: 2351
+postcode: "2351"
 city: Wiener Neudorf
 street: "Straße 2"
 housenumber: 3-6

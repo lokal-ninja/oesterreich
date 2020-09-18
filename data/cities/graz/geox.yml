@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.0710956
 longitude: 15.4387795
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Hauptplatz"
 housenumber: 16

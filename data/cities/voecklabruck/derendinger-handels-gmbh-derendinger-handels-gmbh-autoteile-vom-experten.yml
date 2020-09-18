@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.0065784
 longitude: 13.6618259
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Industriestraße"
 housenumber: 25

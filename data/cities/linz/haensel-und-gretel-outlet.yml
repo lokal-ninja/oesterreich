@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2985355
 longitude: 14.292344100000001
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Bürgerstraße"
 housenumber: 6

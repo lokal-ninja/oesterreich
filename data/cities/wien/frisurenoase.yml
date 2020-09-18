@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.222082900000004
 longitude: 16.3649819
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Pramergasse"
 housenumber: 21

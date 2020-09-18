@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.5205129
 longitude: 12.4256887
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Speckbacherstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 48.2280883
 longitude: 16.3689395
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Klosterneuburger Straße"
 housenumber: 14

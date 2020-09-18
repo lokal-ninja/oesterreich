@@ -1,12 +1,12 @@
-id: 3639251892
+id: 3428426887
 type: node
 shop: Drogerie
-latitude: 47.0701614
-longitude: 15.404339700000001
-postcode: 8020
+latitude: 47.0676259
+longitude: 15.4442912
+postcode: "8010"
 city: Graz
-street: "Eggenberger Allee"
-housenumber: 33a
-phone: "+43 316 205280"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00; Su, PH off"
-website: "https://www.dm-drogeriemarkt.at/"
+street: "Jakominiplatz"
+housenumber: 12
+phone: "+43 316 837277-12"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+website: ""

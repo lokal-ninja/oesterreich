@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 47.9722219
 longitude: 16.8395791
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Wiener Straße"
 housenumber: 122

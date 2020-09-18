@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4415782
 longitude: 15.811518200000002
-postcode: 3481
+postcode: "3481"
 city: Fels am Wagram
 street: "An der Bundesstraße"
 housenumber: 1a

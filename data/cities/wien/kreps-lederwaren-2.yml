@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.215089500000005
 longitude: 16.3483637
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Alser Straße"
 housenumber: 35

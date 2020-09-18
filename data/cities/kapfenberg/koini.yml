@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4458251
 longitude: 15.2975004
-postcode: 8605
+postcode: "8605"
 city: Kapfenberg
 street: "Wiener Straße"
 housenumber: 63a

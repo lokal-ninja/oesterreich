@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.4322888
 longitude: 12.215616
-postcode: 6363
+postcode: "6363"
 city: Westendorf
 street: "Schulgasse"
 housenumber: 1

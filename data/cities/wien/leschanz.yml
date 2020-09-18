@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.2093056
 longitude: 16.3706859
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Freisingergasse"
 housenumber: 1

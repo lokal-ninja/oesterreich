@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.108133800000004
 longitude: 14.833893400000001
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Carl-Benz-Straße"
 housenumber: 8

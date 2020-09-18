@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.192677
 longitude: 16.364924000000002
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Große Neugasse"
 housenumber: 16

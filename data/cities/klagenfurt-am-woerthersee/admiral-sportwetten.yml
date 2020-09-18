@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 46.6245868
 longitude: 14.308027300000001
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Dr.-Arthur-Lemisch-Platz"
 housenumber: 4

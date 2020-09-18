@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.2677902
 longitude: 14.0277352
-postcode: 4612
+postcode: "4612"
 city: Scharten
 street: ""
 housenumber: 22

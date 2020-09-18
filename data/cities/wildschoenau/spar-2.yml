@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4098642
 longitude: 12.037707600000001
-postcode: 6313
+postcode: "6313"
 city: Wildschönau
 street: "Schrattentalweg, Auffach"
 housenumber: 54

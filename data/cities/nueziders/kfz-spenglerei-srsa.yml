@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.167475
 longitude: 9.7918547
-postcode: 6714
+postcode: "6714"
 city: Nüziders
 street: "In der Enge"
 housenumber: 20

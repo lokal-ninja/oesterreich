@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.469402300000006
 longitude: 15.343068400000002
-postcode: 8642
+postcode: "8642"
 city: Gemeinde Sankt Lorenzen im Mürztal
 street: "Doktor-Reinhard-Machold-Straße"
 housenumber: 7

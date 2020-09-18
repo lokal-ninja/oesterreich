@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.261715200000005
 longitude: 16.436263500000003
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Leopoldauer Straße"
 housenumber: 180

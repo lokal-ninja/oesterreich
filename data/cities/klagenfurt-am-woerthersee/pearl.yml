@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.6247806
 longitude: 14.3076124
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Kramergasse"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.1526907
 longitude: 9.8131895
-postcode: 6706
+postcode: "6706"
 city: Bürs
 street: "Herrenau"
 housenumber: 3a

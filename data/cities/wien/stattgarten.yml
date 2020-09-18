@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.195596200000004
 longitude: 16.3604249
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Kettenbrückengasse"
 housenumber: 14

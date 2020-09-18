@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.168279500000004
 longitude: 16.3483643
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Triester Straße"
 housenumber: 64

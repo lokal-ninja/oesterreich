@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 48.24942050000001
 longitude: 14.636568100000002
-postcode: 4320
+postcode: "4320"
 city: Perg
 street: "Herrenstraße"
 housenumber: 13
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:30-12:15, 14:15-18:00; Sa 07:00-12:00"
 website: ""

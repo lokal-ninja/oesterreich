@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.0677633
 longitude: 15.4419126
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Jakominiplatz"
 housenumber: 1-4

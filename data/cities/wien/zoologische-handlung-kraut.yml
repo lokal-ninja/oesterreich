@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.2564074
 longitude: 16.3660775
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Heiligenstädter Straße"
 housenumber: 165

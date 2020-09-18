@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.194886000000004
 longitude: 14.741759600000002
-postcode: 8740
+postcode: "8740"
 city: Zeltweg
 street: "Bundesstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.329281
 longitude: 13.153875900000001
-postcode: 5621
+postcode: "5621"
 city: Sankt Veit im Pongau
 street: "Markt"
 housenumber: 12

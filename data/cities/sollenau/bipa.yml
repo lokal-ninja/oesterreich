@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.8976739
 longitude: 16.249859400000002
-postcode: 2601
+postcode: "2601"
 city: Sollenau
 street: "Hauptplatz"
 housenumber: 2

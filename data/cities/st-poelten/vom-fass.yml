@@ -3,10 +3,10 @@ type: node
 shop: Allgemein
 latitude: 48.2045218
 longitude: 15.624737300000001
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Wiener Straße"
 housenumber: 4
 phone: "+43 2742 49109"
-opening_hours: "Mo-Fr 09:30-18:00, Sa. 09:30-13:00"
+opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
 website: "https://www.vomfass.at/stpoelten/"

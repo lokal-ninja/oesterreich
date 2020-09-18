@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.0706658
 longitude: 15.438926
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Herrengasse"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.580157400000004
 longitude: 15.490361900000002
-postcode: 8663
+postcode: "8663"
 city: Sankt Barbara im Mürztal
 street: "Carl-Beel-Gasse"
 housenumber: 4

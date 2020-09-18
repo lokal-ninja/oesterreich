@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2812284
 longitude: 11.503955600000001
-postcode: 6060
+postcode: "6060"
 city: Hall in Tirol
 street: "Stadtgraben"
 housenumber: 1

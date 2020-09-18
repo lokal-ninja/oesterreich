@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.192688600000004
 longitude: 16.360522500000002
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretenstraße"
 housenumber: 72

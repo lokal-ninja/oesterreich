@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.810117000000005
 longitude: 16.259594800000002
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Nestroystraße"
 housenumber: 30

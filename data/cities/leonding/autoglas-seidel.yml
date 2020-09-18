@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2696186
 longitude: 14.266760900000001
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Welser Straße"
 housenumber: 40

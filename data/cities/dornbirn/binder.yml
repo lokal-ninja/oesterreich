@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.4124895
 longitude: 9.7425324
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Marktstraße"
 housenumber: 12

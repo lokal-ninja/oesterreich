@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.5905557
 longitude: 13.187897000000001
-postcode: 5440
+postcode: "5440"
 city: Golling an der Salzach
 street: "Obergäu"
 housenumber: 195

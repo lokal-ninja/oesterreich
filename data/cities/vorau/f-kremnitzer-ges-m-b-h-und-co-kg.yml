@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.404335100000004
 longitude: 15.879021400000001
-postcode: 8250
+postcode: "8250"
 city: Vorau
 street: "Hauptstraße"
 housenumber: 285

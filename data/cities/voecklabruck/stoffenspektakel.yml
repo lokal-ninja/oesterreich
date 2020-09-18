@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.005842
 longitude: 13.6753551
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Linzer Straße"
 housenumber: 65

@@ -3,7 +3,7 @@ type: way
 shop: Wettbüro
 latitude: 48.2155348
 longitude: 14.278024400000001
-postcode: 4052
+postcode: "4052"
 city: Ansfelden
 street: "Traunuferstraße"
 housenumber: 114

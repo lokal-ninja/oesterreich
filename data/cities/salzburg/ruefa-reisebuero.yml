@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.803559400000005
 longitude: 13.018715700000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Innsbrucker Bundesstraße"
 housenumber: 41

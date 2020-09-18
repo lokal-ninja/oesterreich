@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.6557298
 longitude: 14.736285700000002
-postcode: 8931
+postcode: "8931"
 city: Landl
 street: ""
 housenumber: 149

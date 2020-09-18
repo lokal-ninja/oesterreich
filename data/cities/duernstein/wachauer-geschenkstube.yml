@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.3948831
 longitude: 15.5207876
-postcode: 3601
+postcode: "3601"
 city: Dürnstein
 street: ""
 housenumber: 19

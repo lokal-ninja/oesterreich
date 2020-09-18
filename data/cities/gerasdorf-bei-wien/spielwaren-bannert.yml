@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 48.3300415
 longitude: 16.453808600000002
-postcode: 2201
+postcode: "2201"
 city: Gerasdorf bei Wien
 street: "Brünner Straße"
 housenumber: 180

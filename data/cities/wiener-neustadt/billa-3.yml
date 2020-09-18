@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8050897
 longitude: 16.212081400000002
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Gerasdorfer Gasse"
 housenumber: 31

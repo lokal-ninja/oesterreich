@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.262365200000005
 longitude: 11.4128232
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Dr.Glatz-Straße"
 housenumber: 2

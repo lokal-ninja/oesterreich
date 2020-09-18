@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.1923466
 longitude: 16.356163600000002
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Pilgramgasse"
 housenumber: 16

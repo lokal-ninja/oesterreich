@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3396503
 longitude: 15.013477600000002
-postcode: 8770
+postcode: "8770"
 city: Sankt Michael in Obersteiermark
 street: "Bundesstraße"
 housenumber: 26

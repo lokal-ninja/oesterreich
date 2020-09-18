@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.263673700000005
 longitude: 16.394082100000002
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: ""
 housenumber: 33

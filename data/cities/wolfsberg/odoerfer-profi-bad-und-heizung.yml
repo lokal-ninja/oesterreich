@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 46.8183589
 longitude: 14.843940900000002
-postcode: 9400
+postcode: "9400"
 city: Wolfsberg
 street: "Auenfischerstraße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3538761
 longitude: 9.6560453
-postcode: 6844
+postcode: "6844"
 city: Altach
 street: "Achstraße"
 housenumber: 22a

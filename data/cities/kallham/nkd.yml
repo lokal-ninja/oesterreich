@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.2789105
 longitude: 13.720156000000001
-postcode: 4720
+postcode: "4720"
 city: Kallham
 street: "Kallham"
 housenumber: 150

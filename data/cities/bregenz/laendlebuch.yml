@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.5040471
 longitude: 9.7450005
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Bahnhofstraße"
 housenumber: 10

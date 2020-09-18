@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.105222000000005
 longitude: 15.7095832
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Hauptplatz"
 housenumber: 1

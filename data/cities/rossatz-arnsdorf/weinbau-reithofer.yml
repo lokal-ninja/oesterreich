@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.396048900000004
 longitude: 15.5055583
-postcode: 3602
+postcode: "3602"
 city: Rossatz-Arnsdorf
 street: ""
 housenumber: 76

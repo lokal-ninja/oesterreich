@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5969661
 longitude: 13.167545
-postcode: 5440
+postcode: "5440"
 city: Golling
 street: "Markt"
 housenumber: 82

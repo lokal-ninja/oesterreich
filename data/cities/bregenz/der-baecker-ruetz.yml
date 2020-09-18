@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5033266
 longitude: 9.7461464
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Kaiserstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.322464700000005
 longitude: 12.7978415
-postcode: 5700
+postcode: "5700"
 city: Zell am See
 street: "Bahnhofstraße"
 housenumber: 6

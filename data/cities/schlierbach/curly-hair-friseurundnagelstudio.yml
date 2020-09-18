@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9400606
 longitude: 14.1272876
-postcode: 4553
+postcode: "4553"
 city: Schlierbach
 street: "Fürstenhagenstraße"
 housenumber: 1

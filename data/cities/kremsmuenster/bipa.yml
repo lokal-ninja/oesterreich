@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.052830400000005
 longitude: 14.1311823
-postcode: 4550
+postcode: "4550"
 city: Kremsmünster
 street: "Marktplatz"
 housenumber: 29

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8092777
 longitude: 16.259369500000002
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Nestroystraße"
 housenumber: 36

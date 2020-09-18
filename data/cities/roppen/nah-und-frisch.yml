@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.2177791
 longitude: 10.820846900000001
-postcode: 6426
+postcode: "6426"
 city: Roppen
 street: "Kirchplatz"
 housenumber: 8

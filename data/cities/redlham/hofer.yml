@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0482078
 longitude: 13.763192900000002
-postcode: 4846
+postcode: "4846"
 city: Redlham
 street: "Salzburgerstraße"
 housenumber: 27

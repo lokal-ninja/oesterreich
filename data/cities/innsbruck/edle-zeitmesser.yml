@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 47.2644359
 longitude: 11.3943996
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maria-Theresien-Straße"
 housenumber: 38

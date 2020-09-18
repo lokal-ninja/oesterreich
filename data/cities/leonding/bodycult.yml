@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.258765800000006
 longitude: 14.2536745
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Reither Straße"
 housenumber: 1

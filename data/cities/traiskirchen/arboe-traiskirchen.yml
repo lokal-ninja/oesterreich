@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.022282800000006
 longitude: 16.2982282
-postcode: 2514
+postcode: "2514"
 city: Traiskirchen
 street: "Karl Adlitzer-Straße"
 housenumber: 5

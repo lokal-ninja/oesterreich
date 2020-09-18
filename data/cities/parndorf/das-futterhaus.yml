@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.975325000000005
 longitude: 16.8554229
-postcode: 7111
+postcode: "7111"
 city: Parndorf
 street: "Richard-Erlinger-Platz"
 housenumber: 1

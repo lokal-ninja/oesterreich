@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.978720200000005
 longitude: 13.6962554
-postcode: 4844
+postcode: "4844"
 city: Regau
 street: "Amselweg"
 housenumber: 10

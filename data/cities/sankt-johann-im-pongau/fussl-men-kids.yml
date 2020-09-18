@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.349833000000004
 longitude: 13.196121300000001
-postcode: 5600
+postcode: "5600"
 city: Sankt Johann im Pongau
 street: "Industriestraße"
 housenumber: 1

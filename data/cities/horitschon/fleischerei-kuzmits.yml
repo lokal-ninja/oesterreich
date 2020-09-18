@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.5908371
 longitude: 16.5824466
-postcode: 7312
+postcode: "7312"
 city: Horitschon
 street: "Weingartenstraße"
 housenumber: 1

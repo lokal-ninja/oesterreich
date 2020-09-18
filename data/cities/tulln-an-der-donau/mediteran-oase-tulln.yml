@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 48.3297031
 longitude: 16.0542252
-postcode: 3430
+postcode: "3430"
 city: Tulln an der Donau
 street: "Bahnhofstraße"
 housenumber: 19

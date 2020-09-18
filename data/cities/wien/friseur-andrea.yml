@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2455699
 longitude: 16.375649000000003
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Leystraße"
 housenumber: 23

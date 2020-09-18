@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1149518
 longitude: 16.4500181
-postcode: 2326
+postcode: "2326"
 city: Lanzendorf
 street: "Untere Hauptstraße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: node
 shop: Außenstelle
 latitude: 48.1655079
 longitude: 16.365905100000003
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Raxstraße"
 housenumber: 6-8/1

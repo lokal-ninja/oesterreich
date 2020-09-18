@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.321328900000005
 longitude: 16.6542223
-postcode: 2231
+postcode: "2231"
 city: Strasshof an der Nordbahn
 street: "Hauptstraße"
 housenumber: 315-325

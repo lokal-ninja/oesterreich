@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1988774
 longitude: 15.9011016
-postcode: 3040
+postcode: "3040"
 city: Neulengbach
 street: "Tullner Straße"
 housenumber: 29

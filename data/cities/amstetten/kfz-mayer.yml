@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.1053653
 longitude: 14.8772774
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: ""
 housenumber: 42

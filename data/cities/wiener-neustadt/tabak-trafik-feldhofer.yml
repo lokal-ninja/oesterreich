@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.8089109
 longitude: 16.24368
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Neunkirchner Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 47.876413500000005
 longitude: 16.2344034
-postcode: 2603
+postcode: "2603"
 city: Felixdorf
 street: "Hauptstraße"
 housenumber: 89

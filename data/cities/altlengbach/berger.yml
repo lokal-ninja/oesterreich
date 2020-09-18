@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.153252300000005
 longitude: 15.929945900000002
-postcode: 3033
+postcode: "3033"
 city: Altlengbach
 street: "Hauptstraße"
 housenumber: 9

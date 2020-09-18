@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.221242100000005
 longitude: 9.7189729
-postcode: 6822
+postcode: "6822"
 city: Düns
 street: "Düns"
 housenumber: 60

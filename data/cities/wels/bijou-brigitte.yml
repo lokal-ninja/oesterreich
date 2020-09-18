@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.1582078
 longitude: 14.0249445
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Schmidtgasse"
 housenumber: 30

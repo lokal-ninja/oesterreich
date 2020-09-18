@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.011684200000005
 longitude: 16.2537971
-postcode: 2500
+postcode: "2500"
 city: Baden
 street: "Dammgasse"
 housenumber: 62

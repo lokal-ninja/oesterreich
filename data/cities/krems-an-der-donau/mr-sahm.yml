@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.4110012
 longitude: 15.6005836
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Täglicher Markt"
 housenumber: 2

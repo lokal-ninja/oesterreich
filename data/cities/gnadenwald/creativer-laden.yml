@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.322256
 longitude: 11.5860017
-postcode: 6069
+postcode: "6069"
 city: Gnadenwald
 street: "Gnadenwald"
 housenumber: 35a

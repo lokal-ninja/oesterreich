@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.389476300000005
 longitude: 13.4473464
-postcode: 4774
+postcode: "4774"
 city: Sankt Marienkirchen bei Schärding
 street: "Schärdinger Straße"
 housenumber: 23

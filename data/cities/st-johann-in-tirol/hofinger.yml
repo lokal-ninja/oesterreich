@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.522216900000004
 longitude: 12.426913800000001
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Kaiserstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.823503200000005
 longitude: 16.2128038
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Libellengasse"
 housenumber: 1

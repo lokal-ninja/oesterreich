@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.3227344
 longitude: 14.2874279
-postcode: 4040
+postcode: "4040"
 city: Linz
 street: "Lindengasse"
 housenumber: 16

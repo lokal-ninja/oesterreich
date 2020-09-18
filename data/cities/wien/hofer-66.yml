@@ -1,12 +1,12 @@
-id: 59275883
+id: 47031348
 type: way
 shop: Supermarkt
-latitude: 48.2381642
-longitude: 16.4765094
-postcode: 1220
+latitude: 48.2508968
+longitude: 16.4695034
+postcode: "1220"
 city: Wien
-street: "Ziegelhofstraße"
-housenumber: 24
+street: "Breitenleer Straße"
+housenumber: 104
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+website: "https://www.hofer.at/"

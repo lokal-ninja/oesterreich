@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.328145500000005
 longitude: 11.187603600000001
-postcode: 6100
+postcode: "6100"
 city: Seefeld in Tirol
 street: "Innsbrucker Straße"
 housenumber: 24

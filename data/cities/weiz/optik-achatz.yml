@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.2193252
 longitude: 15.6324167
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Birkfelder Straße"
 housenumber: 51

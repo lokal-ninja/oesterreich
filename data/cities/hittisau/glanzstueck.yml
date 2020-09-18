@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.4581815
 longitude: 9.959209900000001
-postcode: 6952
+postcode: "6952"
 city: Hittisau
 street: "Platz"
 housenumber: 348

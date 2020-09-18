@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.1042051
 longitude: 15.705104400000002
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Bürgergasse"
 housenumber: 40

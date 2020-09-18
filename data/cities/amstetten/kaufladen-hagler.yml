@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.1077652
 longitude: 14.8686486
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Bozener Straße"
 housenumber: 2

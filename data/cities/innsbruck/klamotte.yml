@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2741157
 longitude: 11.4178683
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Reichenauer Straße"
 housenumber: 80

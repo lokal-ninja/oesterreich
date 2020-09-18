@@ -1,12 +1,12 @@
 id: 180344523
 type: way
 shop: Supermarkt
-latitude: 46.5668578
-longitude: 13.810250000000002
-postcode: 9586
+latitude: 46.5668414
+longitude: 13.810250100000001
+postcode: "9586"
 city: Fürnitz
 street: "Rosentalstraße"
 housenumber: 2
-phone: ""
+phone: "+43 4257 29016"
 opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: ""
+website: "https://www.spar.at"

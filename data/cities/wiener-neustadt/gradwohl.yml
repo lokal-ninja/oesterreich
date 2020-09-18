@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8137174
 longitude: 16.2431842
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Hauptplatz"
 housenumber: 12

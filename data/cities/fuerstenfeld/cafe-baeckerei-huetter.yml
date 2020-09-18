@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.0505669
 longitude: 16.0774648
-postcode: 8280
+postcode: "8280"
 city: Fürstenfeld
 street: "Dr.A.-Heinrich-Straße"
 housenumber: 1

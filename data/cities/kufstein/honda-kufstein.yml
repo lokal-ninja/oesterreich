@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.585665500000005
 longitude: 12.161838900000001
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Schubertstraße"
 housenumber: 27

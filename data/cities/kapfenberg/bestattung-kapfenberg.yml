@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 47.4464868
 longitude: 15.288815900000001
-postcode: 8605
+postcode: "8605"
 city: Kapfenberg
 street: "Friedhofweg"
 housenumber: 10

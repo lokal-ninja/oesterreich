@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1602856
 longitude: 14.024692400000001
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Kaiser-Josef-Platz"
 housenumber: 53

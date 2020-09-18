@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.249977200000004
 longitude: 16.4422107
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Donaufelder Straße"
 housenumber: 248

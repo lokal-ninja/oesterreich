@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.3469567
 longitude: 15.0100917
-postcode: 8770
+postcode: "8770"
 city: Sankt Michael in Obersteiermark
 street: "Bahnhofplatz"
 housenumber: 2

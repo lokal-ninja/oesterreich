@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 47.2622925
 longitude: 11.370829500000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Fürstenweg"
 housenumber: 84

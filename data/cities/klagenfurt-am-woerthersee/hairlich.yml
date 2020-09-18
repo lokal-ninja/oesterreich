@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.6145354
 longitude: 14.3087239
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Kinoplatz"
 housenumber: 4

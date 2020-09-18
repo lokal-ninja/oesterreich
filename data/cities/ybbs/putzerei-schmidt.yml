@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.17719820000001
 longitude: 15.0846663
-postcode: 3370
+postcode: "3370"
 city: Ybbs
 street: "Franz-Kirch-Straße"
 housenumber: 1

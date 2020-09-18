@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1503889
 longitude: 13.9857878
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Westring"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1355805
 longitude: 16.3556739
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Laxenburger Straße"
 housenumber: 248A

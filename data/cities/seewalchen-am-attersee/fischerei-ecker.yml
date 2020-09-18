@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 47.9456836
 longitude: 13.5725838
-postcode: 4863
+postcode: "4863"
 city: Seewalchen am Attersee
 street: ""
 housenumber: 17

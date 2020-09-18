@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.853802800000004
 longitude: 15.5673425
-postcode: 3193
+postcode: "3193"
 city: St.Aegyd am Neuwalde
 street: "Hauptstraße"
 housenumber: 10

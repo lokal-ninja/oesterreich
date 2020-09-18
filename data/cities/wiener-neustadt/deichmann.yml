@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.8207278
 longitude: 16.2189531
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Zehnergürtel"
 housenumber: 8-10

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.479187100000004
 longitude: 10.7220394
-postcode: 6600
+postcode: "6600"
 city: Reutte
 street: "Ehrenbergstraße"
 housenumber: 43

@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 47.257184900000006
 longitude: 11.391671
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Andreas-Hofer-Straße"
 housenumber: 40
 phone: "+43 664 5397030"
-opening_hours: "Mo-Th 08:00-21:00; Fr 09:00-15:00; PH off"
+opening_hours: "Mo-Th 08:00-21:00; Fr 09:00-19:00; PH off"
 website: "http://salonangelini.at"

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.951078800000005
 longitude: 16.8374126
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Obere Hauptstraße"
 housenumber: 50

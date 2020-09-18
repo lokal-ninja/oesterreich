@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2023335
 longitude: 14.1541908
-postcode: 4614
+postcode: "4614"
 city: Marchtrenk
 street: "Linzer Straße"
 housenumber: 185

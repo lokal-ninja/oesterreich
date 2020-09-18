@@ -1,12 +1,12 @@
-id: 409444911
-type: way
+id: 7216309091
+type: node
 shop: Bäckerei
-latitude: 48.206547400000005
-longitude: 16.360082300000002
-postcode: 1010
+latitude: 48.1867804
+longitude: 16.327938
+postcode: "1150"
 city: Wien
-street: ""
-housenumber: 
-phone: ""
-opening_hours: "Mo,Th,Fr 05:00-19:30, We,Sa,Su 05:30-17:00"
-website: ""
+street: "Sechshauserstraße"
+housenumber: 61
+phone: "018952170"
+opening_hours: "Mo-Fr 06:00-18:00;Sa 07:00-12:00"
+website: "https://www.ankerbrot.at"

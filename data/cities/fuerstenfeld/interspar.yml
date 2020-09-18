@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.058373800000005
 longitude: 16.0751679
-postcode: 8280
+postcode: "8280"
 city: Fürstenfeld
 street: "Burgauer Straße"
 housenumber: 2

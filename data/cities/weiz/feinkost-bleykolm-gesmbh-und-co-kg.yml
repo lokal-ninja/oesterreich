@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.2184121
 longitude: 15.626702600000002
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Europa-Allee"
 housenumber: 10

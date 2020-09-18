@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.276858000000004
 longitude: 11.4128328
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Ing.-Etzel-Straße"
 housenumber: 149

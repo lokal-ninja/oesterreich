@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.7742717
 longitude: 17.034633200000002
-postcode: 7163
+postcode: "7163"
 city: Andau
 street: "Hauptgasse"
 housenumber: 31

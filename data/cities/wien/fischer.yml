@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2353612
 longitude: 16.423181200000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Wagramer Straße"
 housenumber: 36A

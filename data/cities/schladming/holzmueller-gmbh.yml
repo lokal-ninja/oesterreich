@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 47.390955500000004
 longitude: 13.685856600000001
-postcode: 8970
+postcode: "8970"
 city: Schladming
 street: "Salzburgerstraße"
 housenumber: 105

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.8134433
 longitude: 16.240044400000002
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Herzog-Leopold-Straße"
 housenumber: 23

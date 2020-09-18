@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.939197400000005
 longitude: 16.145256800000002
-postcode: 8380
+postcode: "8380"
 city: Jennersdorf
 street: "Eisenstädter Straße"
 housenumber: 10

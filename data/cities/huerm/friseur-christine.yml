@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.1563506
 longitude: 15.412411200000001
-postcode: 3383
+postcode: "3383"
 city: Hürm
 street: "Marktstraße"
 housenumber: 1

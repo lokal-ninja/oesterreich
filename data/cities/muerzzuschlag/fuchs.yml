@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.606027000000005
 longitude: 15.6725171
-postcode: 8680
+postcode: "8680"
 city: Mürzzuschlag
 street: "Wiener Straße"
 housenumber: 5

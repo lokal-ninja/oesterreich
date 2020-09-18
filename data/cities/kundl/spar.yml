@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.465514500000005
 longitude: 11.983471600000001
-postcode: 6250
+postcode: "6250"
 city: Kundl
 street: "Biochemiestraße"
 housenumber: 70

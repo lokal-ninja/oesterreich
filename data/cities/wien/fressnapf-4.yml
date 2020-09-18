@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.2373278
 longitude: 16.3716486
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Stromstraße"
 housenumber: 5-9

@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 48.226128800000005
 longitude: 13.8504293
-postcode: 4707
+postcode: "4707"
 city: Schlüßlberg
 street: "Handelspark"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.0859321
 longitude: 16.2850655
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Freiheitsplatz"
 housenumber: 1

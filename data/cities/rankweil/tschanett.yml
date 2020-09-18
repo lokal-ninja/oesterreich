@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.2714337
 longitude: 9.6443071
-postcode: 6830
+postcode: "6830"
 city: Rankweil
 street: "Ringstraße"
 housenumber: 26

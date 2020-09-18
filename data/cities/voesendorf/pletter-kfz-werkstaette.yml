@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1326085
 longitude: 16.3265302
-postcode: 2331
+postcode: "2331"
 city: Vösendorf
 street: "Schönbrunner Allee"
 housenumber: 41

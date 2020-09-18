@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.567319000000005
 longitude: 13.8985657
-postcode: 8983
+postcode: "8983"
 city: Bad Mitterndorf
 street: ""
 housenumber: 96

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.154919500000005
 longitude: 9.822470800000001
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Werdenbergerstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.2133618
 longitude: 16.3798356
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Taborstraße"
 housenumber: 4

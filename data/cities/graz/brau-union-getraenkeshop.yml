@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.030416
 longitude: 15.4322762
-postcode: 8055
+postcode: "8055"
 city: Graz
 street: "Triester Straße"
 housenumber: 359

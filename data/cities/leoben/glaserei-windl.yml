@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 47.377237300000004
 longitude: 15.091615500000001
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Waasenstraße"
 housenumber: 25

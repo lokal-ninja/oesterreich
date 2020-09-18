@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.0694924
 longitude: 15.436536700000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Andreas-Hofer-Platz"
 housenumber: 7

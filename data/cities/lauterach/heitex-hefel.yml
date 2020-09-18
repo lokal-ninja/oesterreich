@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.4842169
 longitude: 9.716440200000001
-postcode: 6923
+postcode: "6923"
 city: Lauterach
 street: "Harderstraße"
 housenumber: 74

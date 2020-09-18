@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 47.2001476
 longitude: 14.447323200000001
-postcode: 8800
+postcode: "8800"
 city: Unzmarkt-Frauenburg
 street: "Kirchengasse"
 housenumber: 12

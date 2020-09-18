@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.3913206
 longitude: 13.4249521
-postcode: 4774
+postcode: "4774"
 city: St. Marienkirchen bei Schärding
 street: ""
 housenumber: 8

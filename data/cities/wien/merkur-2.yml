@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.191101800000006
 longitude: 16.279953600000002
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Amalienstraße"
 housenumber: 65-67

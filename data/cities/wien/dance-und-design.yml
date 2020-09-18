@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.186336600000004
 longitude: 16.3462237
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretenstraße"
 housenumber: 151

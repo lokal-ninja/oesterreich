@@ -3,7 +3,7 @@ type: node
 shop: Maschinen
 latitude: 47.8865362
 longitude: 16.2510979
-postcode: 2601
+postcode: "2601"
 city: Sollenau
 street: "Wiener Neustädter Straße"
 housenumber: 65

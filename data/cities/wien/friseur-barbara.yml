@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.196553900000005
 longitude: 16.2871183
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Zehetnergasse"
 housenumber: 44

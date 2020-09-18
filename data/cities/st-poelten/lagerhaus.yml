@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.220438900000005
 longitude: 15.6433642
-postcode: 3107
+postcode: "3107"
 city: St. Pölten
 street: "Dr.-Doch-Gasse"
 housenumber: 1

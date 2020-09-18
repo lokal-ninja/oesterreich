@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.2313011
 longitude: 16.3535545
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Währinger Gürtel"
 housenumber: 168

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.267396000000005
 longitude: 11.3964937
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Angerzellgasse"
 housenumber: 4

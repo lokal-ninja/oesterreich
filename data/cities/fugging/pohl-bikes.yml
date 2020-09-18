@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2879208
 longitude: 15.6336975
-postcode: 3123
+postcode: "3123"
 city: Fugging
 street: "Statzendorfer Straße"
 housenumber: 1

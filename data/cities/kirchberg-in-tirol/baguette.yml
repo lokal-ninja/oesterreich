@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4475446
 longitude: 12.3128314
-postcode: 6365
+postcode: "6365"
 city: Kirchberg in Tirol
 street: "Dorfstraße"
 housenumber: 7

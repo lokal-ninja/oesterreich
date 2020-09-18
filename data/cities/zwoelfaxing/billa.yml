@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1090299
 longitude: 16.4624165
-postcode: 2322
+postcode: "2322"
 city: Zwölfaxing
 street: "Himberger Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.6159472
 longitude: 14.0438474
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Europaplatz"
 housenumber: 3

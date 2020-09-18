@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.068377600000005
 longitude: 15.4545925
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Nibelungengasse"
 housenumber: 13

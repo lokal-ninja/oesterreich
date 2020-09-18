@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.318009200000006
 longitude: 14.4738114
-postcode: 4223
+postcode: "4223"
 city: Katsdorf
 street: "Ortsplatz"
 housenumber: 4

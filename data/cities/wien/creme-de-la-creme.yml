@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.214356
 longitude: 16.3511798
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Lange Gasse"
 housenumber: 76

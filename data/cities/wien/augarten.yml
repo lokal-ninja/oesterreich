@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.2078416
 longitude: 16.3705821
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Spiegelgasse"
 housenumber: 3

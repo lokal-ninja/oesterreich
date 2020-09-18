@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2112995
 longitude: 16.3213581
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Thaliastraße"
 housenumber: 88

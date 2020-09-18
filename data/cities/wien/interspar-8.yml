@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.184740100000006
 longitude: 16.3763675
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Am Hauptbahnhof"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.968283500000005
 longitude: 16.8360476
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Rot-Kreuz-Gasse"
 housenumber: 10

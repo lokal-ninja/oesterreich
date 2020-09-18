@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.0155164
 longitude: 16.2750968
-postcode: 2511
+postcode: "2511"
 city: Pfaffstätten
 street: "Wiener Straße"
 housenumber: 99

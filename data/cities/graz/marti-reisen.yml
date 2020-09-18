@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.0658777
 longitude: 15.4312482
-postcode: 
+postcode: ""
 city: Graz
 street: "Griesplatz"
 housenumber: 29

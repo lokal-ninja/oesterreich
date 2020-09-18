@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1543731
 longitude: 16.2962518
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Walter-Jurmann-Gasse"
 housenumber: 11

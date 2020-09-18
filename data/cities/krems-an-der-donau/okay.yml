@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.409076600000006
 longitude: 15.604748500000001
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Bahnhofplatz"
 housenumber: 1

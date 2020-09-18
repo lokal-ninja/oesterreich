@@ -3,7 +3,7 @@ type: way
 shop: Mieten
 latitude: 47.1049407
 longitude: 15.414927
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Am Andritzbach"
 housenumber: 34

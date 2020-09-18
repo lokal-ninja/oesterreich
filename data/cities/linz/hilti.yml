@@ -3,7 +3,7 @@ type: way
 shop: Werkzeuge
 latitude: 48.242084000000006
 longitude: 14.293219500000001
-postcode: 4030
+postcode: "4030"
 city: Linz
 street: "Franzosenhausweg"
 housenumber: 61

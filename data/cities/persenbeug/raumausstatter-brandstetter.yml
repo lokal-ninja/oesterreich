@@ -3,7 +3,7 @@ type: way
 shop: Gardinen
 latitude: 48.189003400000004
 longitude: 15.0927804
-postcode: 3680
+postcode: "3680"
 city: Persenbeug
 street: "Nibelungenstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 47.9048938
 longitude: 16.8990918
-postcode: 7122
+postcode: "7122"
 city: Gols
 street: "Obere Hauptstraße"
 housenumber: 106

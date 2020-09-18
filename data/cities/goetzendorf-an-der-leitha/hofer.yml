@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0167579
 longitude: 16.5817492
-postcode: 2434
+postcode: "2434"
 city: Götzendorf an der Leitha
 street: "Am Eisteich"
 housenumber: 1

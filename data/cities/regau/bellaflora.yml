@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.993949900000004
 longitude: 13.682078800000001
-postcode: 4844
+postcode: "4844"
 city: Regau
 street: "Betriebsstraße"
 housenumber: 1

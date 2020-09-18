@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.147786
 longitude: 16.3421467
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Richard-Strauss-Straße"
 housenumber: 4

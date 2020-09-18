@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 46.605417100000004
 longitude: 13.871363100000002
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Gewerbezeile"
 housenumber: 6

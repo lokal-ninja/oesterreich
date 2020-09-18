@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.102495000000005
 longitude: 13.1442793
-postcode: 5230
+postcode: "5230"
 city: Mattighofen
 street: "Moosstraße"
 housenumber: 13

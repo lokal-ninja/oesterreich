@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.931202400000004
 longitude: 13.4970727
-postcode: 4880
+postcode: "4880"
 city: St. Georgen im Attergau
 street: "Thern"
 housenumber: 15

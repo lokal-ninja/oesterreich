@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 46.7990608
 longitude: 13.7047544
-postcode: 9545
+postcode: "9545"
 city: Radenthein
 street: "Stadionstraße"
 housenumber: 9

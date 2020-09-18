@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.216862500000005
 longitude: 15.626424100000001
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Lederergasse"
 housenumber: 16

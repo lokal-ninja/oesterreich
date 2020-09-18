@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.2721357
 longitude: 10.939380700000001
-postcode: 6424
+postcode: "6424"
 city: Silz
 street: "Plonerweg"
 housenumber: 1

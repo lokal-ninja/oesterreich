@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.2422334
 longitude: 16.4367767
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Donaustadtstraße"
 housenumber: 1

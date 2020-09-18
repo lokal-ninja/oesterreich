@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3710656
 longitude: 15.08895
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Zirkusstraße"
 housenumber: 15

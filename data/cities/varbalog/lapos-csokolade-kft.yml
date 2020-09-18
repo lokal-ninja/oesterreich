@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 47.8614327
 longitude: 17.033036600000003
-postcode: 9243
+postcode: "9243"
 city: Várbalog
 street: "Futrinka utca"
 housenumber: 1

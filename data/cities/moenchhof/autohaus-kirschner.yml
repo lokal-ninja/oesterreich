@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.86948760000001
 longitude: 16.943633900000002
-postcode: 7123
+postcode: "7123"
 city: Mönchhof
 street: "Neustiftgasse"
 housenumber: 75

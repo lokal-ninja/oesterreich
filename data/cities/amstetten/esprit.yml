@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.122339100000005
 longitude: 14.8694906
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Waidhofner Strasse"
 housenumber: 1

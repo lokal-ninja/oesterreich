@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.7053044
 longitude: 13.9461922
-postcode: 4161
+postcode: "4161"
 city: Ulrichsberg
 street: "Schöneben"
 housenumber: 9

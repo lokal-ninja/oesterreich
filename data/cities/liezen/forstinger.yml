@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.5597373
 longitude: 14.2560637
-postcode: 8940
+postcode: "8940"
 city: Liezen
 street: "Gesäusestraße"
 housenumber: 26

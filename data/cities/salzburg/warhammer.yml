@@ -3,7 +3,7 @@ type: node
 shop: Videospiele
 latitude: 47.8054301
 longitude: 13.0519417
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Schallmooser Hauptstraße"
 housenumber: 14

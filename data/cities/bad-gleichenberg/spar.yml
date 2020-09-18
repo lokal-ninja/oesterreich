@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.863556200000005
 longitude: 15.904465900000002
-postcode: 8344
+postcode: "8344"
 city: Bad Gleichenberg
 street: "Kapfensteiner Straße"
 housenumber: 2

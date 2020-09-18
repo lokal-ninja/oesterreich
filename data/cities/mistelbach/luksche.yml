@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.5671781
 longitude: 16.571125000000002
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Bahnstraße"
 housenumber: 4

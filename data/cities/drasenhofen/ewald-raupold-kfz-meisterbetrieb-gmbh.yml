@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.769561100000004
 longitude: 16.642807400000002
-postcode: 2165
+postcode: "2165"
 city: Drasenhofen
 street: "Betriebsgebiet Nord"
 housenumber: 1

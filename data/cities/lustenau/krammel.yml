@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.418248000000006
 longitude: 9.6634087
-postcode: 6890
+postcode: "6890"
 city: Lustenau
 street: "Dornbirner Straße"
 housenumber: 16a

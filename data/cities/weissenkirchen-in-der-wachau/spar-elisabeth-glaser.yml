@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.432388800000005
 longitude: 15.432922300000001
-postcode: 3610
+postcode: "3610"
 city: Weißenkirchen in der Wachau
 street: "Weinzierl am Wald"
 housenumber: 16

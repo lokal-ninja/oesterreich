@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.1569768
 longitude: 13.106720000000001
-postcode: 5630
+postcode: "5630"
 city: Bad Hofgastein
 street: "Weitmoserstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.2556406
 longitude: 11.3023863
-postcode: 6176
+postcode: "6176"
 city: Kematen in Tirol
 street: "Michelfeld"
 housenumber: 7

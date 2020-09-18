@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1384515
 longitude: 13.733103600000002
-postcode: 4673
+postcode: "4673"
 city: Gaspoltshofen
 street: "Jeding"
 housenumber: 17

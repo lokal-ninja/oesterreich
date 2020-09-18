@@ -3,7 +3,7 @@ type: node
 shop: Kräuter
 latitude: 48.1552036
 longitude: 12.829928800000001
-postcode: 84489
+postcode: "84489"
 city: Burghausen
 street: "In den Grüben"
 housenumber: 187

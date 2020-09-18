@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.330956400000005
 longitude: 16.0516709
-postcode: 3430
+postcode: "3430"
 city: Tulln an der Donau
 street: "Hauptplatz"
 housenumber: 8

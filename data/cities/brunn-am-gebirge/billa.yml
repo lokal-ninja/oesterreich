@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1026311
 longitude: 16.2937803
-postcode: 2345
+postcode: "2345"
 city: Brunn am Gebirge
 street: "Bahnstraße"
 housenumber: 44

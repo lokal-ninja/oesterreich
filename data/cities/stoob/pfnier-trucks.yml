@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.510296800000006
 longitude: 16.496186700000003
-postcode: 7344
+postcode: "7344"
 city: Stoob
 street: ""
 housenumber: 26

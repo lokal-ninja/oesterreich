@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.111789900000005
 longitude: 13.1328925
-postcode: 5640
+postcode: "5640"
 city: Bad Gastein
 street: "Pyrkershöhenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.221337000000005
 longitude: 15.640109
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Herzogenburger Straße"
 housenumber: 105

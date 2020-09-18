@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.756974500000005
 longitude: 12.526902300000001
-postcode: 9913
+postcode: "9913"
 city: Abfaltersbach
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.1069204
 longitude: 16.2853928
-postcode: 2345
+postcode: "2345"
 city: Brunn am Gebirge
 street: "Kirchengasse"
 housenumber: 12a

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.4485778
 longitude: 12.3118263
-postcode: 6365
+postcode: "6365"
 city: Kirchberg in Tirol
 street: "Bahnhofstraße"
 housenumber: 4

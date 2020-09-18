@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2661947
 longitude: 14.807821100000002
-postcode: 4362
+postcode: "4362"
 city: Bad Kreuzen
 street: "Bad Kreuzen"
 housenumber: 5

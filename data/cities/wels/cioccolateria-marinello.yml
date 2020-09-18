@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1583162
 longitude: 14.024423400000002
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Ringstraße"
 housenumber: 14

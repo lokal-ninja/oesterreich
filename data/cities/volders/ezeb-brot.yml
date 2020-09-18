@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2872366
 longitude: 11.565623700000002
-postcode: 6111
+postcode: "6111"
 city: Volders
 street: "Schulgasse"
 housenumber: 1

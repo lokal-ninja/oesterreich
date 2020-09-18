@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.320984200000005
 longitude: 16.6543205
-postcode: 2231
+postcode: "2231"
 city: Strasshof an der Nordbahn
 street: "Hauptstraße"
 housenumber: 311

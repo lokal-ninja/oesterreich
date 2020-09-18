@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.4480422
 longitude: 15.3102154
-postcode: 8605
+postcode: "8605"
 city: Kapfenberg
 street: "Johann-Böhm-Straße"
 housenumber: 35a

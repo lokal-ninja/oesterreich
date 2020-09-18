@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2026114
 longitude: 16.391034
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: ""
 housenumber: 5

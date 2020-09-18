@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.7129394
 longitude: 13.622866100000001
-postcode: 4820
+postcode: "4820"
 city: Bad Ischl
 street: "Kaiser-Franz-Josef-Straße"
 housenumber: 14

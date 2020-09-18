@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.2888894
 longitude: 14.119199600000002
-postcode: 4072
+postcode: "4072"
 city: Alkoven
 street: "Tulpenstraße"
 housenumber: 1

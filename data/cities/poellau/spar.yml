@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3037465
 longitude: 15.8388915
-postcode: 8225
+postcode: "8225"
 city: Pöllau
 street: "Schloffereckstraße"
 housenumber: 556

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.5031842
 longitude: 9.743676
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Bahnhofstraße"
 housenumber: 13

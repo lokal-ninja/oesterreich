@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.259697
 longitude: 11.396411800000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Leopoldstraße"
 housenumber: 30

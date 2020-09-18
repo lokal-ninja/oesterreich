@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.488703300000005
 longitude: 9.689258200000001
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Landstraße"
 housenumber: 9

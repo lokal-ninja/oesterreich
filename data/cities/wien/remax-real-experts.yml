@@ -3,7 +3,7 @@ type: node
 shop: Immobilien
 latitude: 48.2262445
 longitude: 16.3473577
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Gentzgasse"
 housenumber: 13/1

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.1883258
 longitude: 16.334506
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Sechshauser Straße"
 housenumber: 17

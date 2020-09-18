@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.275303300000004
 longitude: 16.4186467
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Scottgasse"
 housenumber: 21

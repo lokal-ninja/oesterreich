@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.0067609
 longitude: 16.2013247
-postcode: 7562
+postcode: "7562"
 city: Eltendorf
 street: "Hauptstraße"
 housenumber: 6

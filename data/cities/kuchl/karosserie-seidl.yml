@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.610064900000005
 longitude: 13.1410747
-postcode: 5431
+postcode: "5431"
 city: Kuchl
 street: ""
 housenumber: 96

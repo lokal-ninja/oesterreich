@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.282621400000004
 longitude: 14.1153489
-postcode: 4072
+postcode: "4072"
 city: Alkoven
 street: "Parzweg"
 housenumber: 2

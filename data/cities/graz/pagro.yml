@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.0642172
 longitude: 15.465520600000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Plüddemanngasse"
 housenumber: 59

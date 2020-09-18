@@ -3,10 +3,10 @@ type: way
 shop: Schlüsseldienst
 latitude: 48.148834300000004
 longitude: 16.2894762
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Gatterederstraße"
 housenumber: 19
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:30-12:00, Mo-Th 14:00-16:30"
 website: "http://www.schlosserei-junasek.at/"

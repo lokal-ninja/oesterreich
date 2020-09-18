@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 48.192031
 longitude: 16.3665895
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 54

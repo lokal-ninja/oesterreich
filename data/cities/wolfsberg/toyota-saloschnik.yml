@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.8175399
 longitude: 14.8427012
-postcode: 9400
+postcode: "9400"
 city: Wolfsberg
 street: "Auenfischerstraße"
 housenumber: 40

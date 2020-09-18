@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.082830400000006
 longitude: 15.432976000000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Hasnerplatz"
 housenumber: 

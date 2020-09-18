@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.887584100000005
 longitude: 14.240144200000001
-postcode: 4592
+postcode: "4592"
 city: Leonstein
 street: "Bahnhofstraße"
 housenumber: 6

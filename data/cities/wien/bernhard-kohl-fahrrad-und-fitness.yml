@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1324392
 longitude: 16.322167500000003
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Triester Straße"
 housenumber: 282-284

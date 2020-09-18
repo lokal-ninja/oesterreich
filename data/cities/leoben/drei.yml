@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.380069000000006
 longitude: 15.0946484
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Hauptplatz"
 housenumber: 10

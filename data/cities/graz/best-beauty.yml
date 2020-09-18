@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.114057
 longitude: 15.422062
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Sankt-Veiter-Straße"
 housenumber: 6

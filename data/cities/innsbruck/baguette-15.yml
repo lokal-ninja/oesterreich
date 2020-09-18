@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2625289
 longitude: 11.3940365
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maximilianstraße"
 housenumber: 3

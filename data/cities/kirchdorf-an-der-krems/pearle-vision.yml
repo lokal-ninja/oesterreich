@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.8997479
 longitude: 14.1268761
-postcode: 4560
+postcode: "4560"
 city: Kirchdorf an der Krems
 street: "Am Anger"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 47.8811662
 longitude: 13.113093600000001
-postcode: 5201
+postcode: "5201"
 city: Seekirchen am Wallersee
 street: "Mayerlehen"
 housenumber: 108

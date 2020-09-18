@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.242964300000004
 longitude: 16.437616600000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0795736
 longitude: 15.4672239
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Stiftingtalstraße"
 housenumber: 3-7

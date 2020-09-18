@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.211232100000004
 longitude: 16.3714695
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Schultergasse"
 housenumber: 2

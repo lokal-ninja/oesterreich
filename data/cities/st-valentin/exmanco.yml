@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.1930111
 longitude: 14.521855200000001
-postcode: 4300
+postcode: "4300"
 city: St. Valentin
 street: "Handelsstraße"
 housenumber: 1

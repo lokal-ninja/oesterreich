@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.971917600000005
 longitude: 16.8411666
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Altenburger Straße"
 housenumber: 20

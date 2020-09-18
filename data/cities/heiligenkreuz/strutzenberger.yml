@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.034390200000004
 longitude: 16.1379561
-postcode: 2532
+postcode: "2532"
 city: Heiligenkreuz
 street: ""
 housenumber: 34

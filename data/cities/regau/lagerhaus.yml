@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.9949498
 longitude: 13.6835049
-postcode: 4844
+postcode: "4844"
 city: Regau
 street: "Vöcklabrucker Straße"
 housenumber: 19

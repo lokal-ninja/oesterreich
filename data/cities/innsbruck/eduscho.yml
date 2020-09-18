@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.266839000000004
 longitude: 11.393945800000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maria Theresienstraße"
 housenumber: 1

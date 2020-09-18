@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2424564
 longitude: 16.3788464
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Marchfeldstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.6866545
 longitude: 15.240989800000001
-postcode: 8552
+postcode: "8552"
 city: Eibiswald
 street: ""
 housenumber: 119

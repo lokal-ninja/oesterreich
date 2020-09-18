@@ -3,7 +3,7 @@ type: way
 shop: Klempner
 latitude: 48.524597
 longitude: 14.2905767
-postcode: 4190
+postcode: "4190"
 city: Bad Leonfelden
 street: "Passauer Straße"
 housenumber: 13

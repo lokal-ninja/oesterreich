@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2693329
 longitude: 15.321437800000002
-postcode: 8130
+postcode: "8130"
 city: Frohnleiten
 street: "Römerpark"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.2017086
 longitude: 16.3479062
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Westbahnstraße"
 housenumber: 3

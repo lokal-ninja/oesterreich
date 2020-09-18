@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.4980198
 longitude: 16.230248800000002
-postcode: 2002
+postcode: "2002"
 city: Großmugl
 street: "Marktplatz"
 housenumber: 81

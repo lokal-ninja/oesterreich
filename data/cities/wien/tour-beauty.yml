@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.258127900000005
 longitude: 16.3972994
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Am Spitz"
 housenumber: 1

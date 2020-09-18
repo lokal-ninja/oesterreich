@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2148568
 longitude: 14.827228400000001
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Kapuzinerplatz"
 housenumber: 11

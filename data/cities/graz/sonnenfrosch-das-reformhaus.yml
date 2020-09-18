@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.075409
 longitude: 15.447276100000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Zinzendorfgasse"
 housenumber: 5

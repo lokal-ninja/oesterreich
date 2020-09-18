@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.842023600000005
 longitude: 16.9284313
-postcode: 7132
+postcode: "7132"
 city: Frauenkirchen
 street: "Mönchhoferstraße"
 housenumber: 5

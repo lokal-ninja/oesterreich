@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 48.172671300000005
 longitude: 14.516975200000001
-postcode: 4300
+postcode: "4300"
 city: St. Valentin
 street: "Langenharterstraße"
 housenumber: 46

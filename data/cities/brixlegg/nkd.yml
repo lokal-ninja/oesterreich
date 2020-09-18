@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.4296713
 longitude: 11.879103
-postcode: 6230
+postcode: "6230"
 city: Brixlegg
 street: "Römerstraße"
 housenumber: 8

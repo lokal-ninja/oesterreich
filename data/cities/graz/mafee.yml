@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.0858435
 longitude: 15.4806273
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Kollonitschstraße"
 housenumber: 50a

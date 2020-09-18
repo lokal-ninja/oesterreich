@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.924905100000004
 longitude: 16.556441200000002
-postcode: 2451
+postcode: "2451"
 city: Au am Leithaberge
 street: "Untere Hauptstraße"
 housenumber: 2

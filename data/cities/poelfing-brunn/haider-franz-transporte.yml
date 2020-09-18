@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 46.7248005
 longitude: 15.292901700000002
-postcode: 8544
+postcode: "8544"
 city: Pölfing-Brunn
 street: "Gewerbepark"
 housenumber: 1

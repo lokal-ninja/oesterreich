@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.119442500000005
 longitude: 14.7166049
-postcode: 8741
+postcode: "8741"
 city: Weißkirchen in Steiermark
 street: ""
 housenumber: 39

@@ -3,10 +3,10 @@ type: node
 shop: Waffen
 latitude: 47.0712994
 longitude: 15.4371428
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Murgasse"
 housenumber: 1a
-phone: "+43316 829183"
+phone: ""
 opening_hours: "Mo-Fr 08:30-12:30, 14:30-18:00; Sa 08:30-12:30"
-website: "http://www.scala-murgasse.at"
+website: ""

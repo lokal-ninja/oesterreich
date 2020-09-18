@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.2606606
 longitude: 11.391890400000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Andreas-Hofer-Straße"
 housenumber: 15

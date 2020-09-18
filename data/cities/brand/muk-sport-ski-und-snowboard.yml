@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 47.1085445
 longitude: 9.7428947
-postcode: 6708
+postcode: "6708"
 city: Brand
 street: "Mühledörfle"
 housenumber: 85

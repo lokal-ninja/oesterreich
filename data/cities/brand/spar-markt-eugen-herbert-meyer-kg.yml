@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.108446400000005
 longitude: 9.7426402
-postcode: 6708
+postcode: "6708"
 city: Brand
 street: "Mühledörfle"
 housenumber: 87

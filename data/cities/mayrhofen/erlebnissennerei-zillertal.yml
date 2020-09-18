@@ -3,7 +3,7 @@ type: way
 shop: Milch
 latitude: 47.1790663
 longitude: 11.8707381
-postcode: 6290
+postcode: "6290"
 city: Mayrhofen
 street: "Hollenzen"
 housenumber: 116

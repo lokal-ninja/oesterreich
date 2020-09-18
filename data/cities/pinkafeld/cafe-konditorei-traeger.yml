@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 47.371279
 longitude: 16.122116600000002
-postcode: 7423
+postcode: "7423"
 city: Pinkafeld
 street: "Bruckgasse"
 housenumber: 3

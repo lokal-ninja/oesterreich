@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.033415000000005
 longitude: 15.4413806
-postcode: 8055
+postcode: "8055"
 city: Graz
 street: "Puchstraße"
 housenumber: 199

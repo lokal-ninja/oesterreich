@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2416423
 longitude: 14.621026
-postcode: 4320
+postcode: "4320"
 city: Perg
 street: "Kramelsbergstraße"
 housenumber: 8

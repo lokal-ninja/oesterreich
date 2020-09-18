@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.069020800000004
 longitude: 15.439010600000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Schmiedgasse"
 housenumber: 16

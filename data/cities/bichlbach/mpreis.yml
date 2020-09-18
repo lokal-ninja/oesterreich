@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4226478
 longitude: 10.7837546
-postcode: 6621
+postcode: "6621"
 city: Bichlbach
 street: "Gipfl"
 housenumber: 187

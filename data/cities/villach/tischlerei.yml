@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.614058
 longitude: 13.885606800000001
-postcode: 9524
+postcode: "9524"
 city: Villach
 street: "St.Magdalener Straße"
 housenumber: 91

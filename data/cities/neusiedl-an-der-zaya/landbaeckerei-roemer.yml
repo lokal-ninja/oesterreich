@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6017121
 longitude: 16.7861772
-postcode: 2183
+postcode: "2183"
 city: Neusiedl an der Zaya
 street: "Bahnstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.8596359
 longitude: 15.1207691
-postcode: 3860
+postcode: "3860"
 city: Heidenreichstein
 street: "Schremserstraße"
 housenumber: 31

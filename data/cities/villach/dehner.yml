@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 46.6032439
 longitude: 13.867254
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Bruno-Kreisky-Straße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.177989600000004
 longitude: 16.0563013
-postcode: 3021
+postcode: "3021"
 city: Preßbaum
 street: "Hauptstraße"
 housenumber: 119

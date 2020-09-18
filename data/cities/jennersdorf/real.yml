@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.938968700000004
 longitude: 16.1431796
-postcode: 8380
+postcode: "8380"
 city: Jennersdorf
 street: "Raxer Straße"
 housenumber: 2

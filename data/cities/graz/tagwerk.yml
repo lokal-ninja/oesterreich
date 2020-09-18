@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.0722869
 longitude: 15.433393500000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Mariahilferstraße"
 housenumber: 13

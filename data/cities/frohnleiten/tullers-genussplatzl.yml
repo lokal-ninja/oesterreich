@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.2708444
 longitude: 15.325586800000002
-postcode: 8130
+postcode: "8130"
 city: Frohnleiten
 street: "Hauptplatz"
 housenumber: 21

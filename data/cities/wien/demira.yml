@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.232992
 longitude: 16.3662168
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Klosterneuburger Straße"
 housenumber: 66

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.1583884
 longitude: 14.024799300000002
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Schmidtgasse"
 housenumber: 34

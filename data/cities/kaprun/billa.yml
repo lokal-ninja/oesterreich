@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2681674
 longitude: 12.749887800000002
-postcode: 5710
+postcode: "5710"
 city: Kaprun
 street: "Umfahrungsstraße"
 housenumber: 4

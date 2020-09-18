@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.6242072
 longitude: 14.3104259
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Burggasse"
 housenumber: 8

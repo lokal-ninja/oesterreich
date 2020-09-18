@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 47.3363585
 longitude: 9.641658300000001
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Bahnhofstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.483066
 longitude: 15.7199825
-postcode: 8673
+postcode: "8673"
 city: Ratten
 street: ""
 housenumber: 84

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 46.991070300000004
 longitude: 15.904060000000001
-postcode: 8333
+postcode: "8333"
 city: Riegersburg
 street: ""
 housenumber: 147

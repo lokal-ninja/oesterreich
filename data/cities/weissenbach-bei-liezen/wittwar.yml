@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.5692241
 longitude: 14.212965100000002
-postcode: 8940
+postcode: "8940"
 city: Weißenbach bei Liezen
 street: "Knaufstraße"
 housenumber: 3

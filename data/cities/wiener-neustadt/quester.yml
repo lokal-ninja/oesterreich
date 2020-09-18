@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.8226656
 longitude: 16.220110000000002
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Flugfeldgürtel"
 housenumber: 1

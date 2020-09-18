@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.155347000000006
 longitude: 9.819814800000001
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Mühlgasse"
 housenumber: 9

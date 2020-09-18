@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5179357
 longitude: 14.2955942
-postcode: 4190
+postcode: "4190"
 city: Bad Leonfelden
 street: "Linzer Straße"
 housenumber: 33

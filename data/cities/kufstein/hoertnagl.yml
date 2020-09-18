@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.5845464
 longitude: 12.1714848
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Kaiserbergstraße"
 housenumber: 1

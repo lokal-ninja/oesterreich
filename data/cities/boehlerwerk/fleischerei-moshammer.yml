@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.985204
 longitude: 14.749913300000001
-postcode: 3333
+postcode: "3333"
 city: Böhlerwerk
 street: "Waidhofner Straße"
 housenumber: 5

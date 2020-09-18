@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.6482292
 longitude: 15.8225709
-postcode: 3730
+postcode: "3730"
 city: Eggenburg
 street: "Industriestraße"
 housenumber: 1

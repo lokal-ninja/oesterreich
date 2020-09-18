@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.8289732
 longitude: 12.768450600000001
-postcode: 9900
+postcode: "9900"
 city: Lienz
 street: "Europaplatz"
 housenumber: 1

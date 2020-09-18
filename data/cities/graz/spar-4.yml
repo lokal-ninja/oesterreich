@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.075555200000004
 longitude: 15.458750900000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Leonhardstraße"
 housenumber: 95

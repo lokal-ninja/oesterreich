@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 47.7797021
 longitude: 13.0056145
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Kendlerstraße"
 housenumber: 128

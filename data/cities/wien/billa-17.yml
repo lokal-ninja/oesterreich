@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.192211900000004
 longitude: 16.360121
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretenstraße"
 housenumber: 67

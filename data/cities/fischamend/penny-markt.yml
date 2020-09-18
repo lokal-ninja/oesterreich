@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1126069
 longitude: 16.6148633
-postcode: 2401
+postcode: "2401"
 city: Fischamend
 street: "Enzersdorferstraße"
 housenumber: 51a

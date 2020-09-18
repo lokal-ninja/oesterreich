@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.966206400000004
 longitude: 16.2735892
-postcode: 2524
+postcode: "2524"
 city: Teesdorf
 street: "Gewerbepark B17/II/Straße 1"
 housenumber: 2

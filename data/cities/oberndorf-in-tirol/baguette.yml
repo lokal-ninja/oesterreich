@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4962497
 longitude: 12.388037800000001
-postcode: 6372
+postcode: "6372"
 city: Oberndorf in Tirol
 street: "Bahnhofstraße"
 housenumber: 11

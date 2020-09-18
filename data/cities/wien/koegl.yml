@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.1989321
 longitude: 16.3128833
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Hütteldorfer Straße"
 housenumber: 113A

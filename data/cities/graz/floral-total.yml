@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.0788974
 longitude: 15.439204400000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Jahngasse"
 housenumber: 9

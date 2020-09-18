@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.2357499
 longitude: 10.7421542
-postcode: 6460
+postcode: "6460"
 city: Imst
 street: "Meraner Straße"
 housenumber: 9

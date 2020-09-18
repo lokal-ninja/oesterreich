@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.188315700000004
 longitude: 14.1848164
-postcode: 4055
+postcode: "4055"
 city: Pucking
 street: "Puckinger Straße"
 housenumber: 3

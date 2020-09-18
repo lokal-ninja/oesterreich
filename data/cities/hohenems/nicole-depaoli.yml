@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.364383000000004
 longitude: 9.6853253
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Graf-Maximilian-Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Gasflaschen
 latitude: 48.2656481
 longitude: 16.466456100000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Percostraße"
 housenumber: 15

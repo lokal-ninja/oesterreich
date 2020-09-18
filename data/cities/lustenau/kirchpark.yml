@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.426039
 longitude: 9.6583234
-postcode: 6890
+postcode: "6890"
 city: Lustenau
 street: "Kaiser-Franz-Josef-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.1253934
 longitude: 15.1480811
-postcode: 3250
+postcode: "3250"
 city: Wieselburg
 street: "Teichweg"
 housenumber: 6

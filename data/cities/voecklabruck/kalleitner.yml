@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.0066325
 longitude: 13.6578736
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Gmundner Straße"
 housenumber: 33

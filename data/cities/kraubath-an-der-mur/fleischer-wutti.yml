@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.306963100000004
 longitude: 14.9377782
-postcode: 8714
+postcode: "8714"
 city: Kraubath an der Mur
 street: "Hauptstraße"
 housenumber: 10

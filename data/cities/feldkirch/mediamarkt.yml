@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.2706601
 longitude: 9.613060200000001
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Königshofstraße"
 housenumber: 79

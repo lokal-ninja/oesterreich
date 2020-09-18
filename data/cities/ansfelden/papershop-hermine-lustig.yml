@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.202894400000005
 longitude: 14.2534854
-postcode: 4053
+postcode: "4053"
 city: Ansfelden
 street: "Kirchenstraße"
 housenumber: 28

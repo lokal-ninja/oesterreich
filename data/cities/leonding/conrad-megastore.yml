@@ -3,10 +3,10 @@ type: node
 shop: Elektronik
 latitude: 48.260347900000006
 longitude: 14.257237100000001
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Kornstraße"
 housenumber: 4
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su off"
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su off"
 website: ""

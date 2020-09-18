@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5142092
 longitude: 15.509014800000001
-postcode: 3542
+postcode: "3542"
 city: Gföhl
 street: "Gewerbepark"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 46.8147205
 longitude: 15.212897000000002
-postcode: 8530
+postcode: "8530"
 city: Deutschlandsberg
 street: "Hauptplatz"
 housenumber: 24

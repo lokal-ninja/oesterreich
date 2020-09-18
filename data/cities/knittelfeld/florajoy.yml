@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.2143577
 longitude: 14.8254543
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Gaaler Straße"
 housenumber: 1

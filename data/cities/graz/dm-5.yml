@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.0605394
 longitude: 15.426255000000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Lazarettgürtel"
 housenumber: 55

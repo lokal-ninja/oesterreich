@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 48.217530200000006
 longitude: 16.3365245
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Jörgerstraße"
 housenumber: 31
-phone: ""
+phone: "+43 1 403015112"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-13:00"
 website: "http://pbike.at/"

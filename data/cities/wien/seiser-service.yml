@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.202372600000004
 longitude: 16.3812012
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Am Heumarkt"
 housenumber: 7

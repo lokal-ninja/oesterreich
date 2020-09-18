@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3058338
 longitude: 14.288381500000002
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Pfarrgasse"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.009366400000005
 longitude: 13.656589400000001
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Vorstadt"
 housenumber: 7

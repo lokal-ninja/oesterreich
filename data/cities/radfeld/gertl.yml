@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.4516263
 longitude: 11.936259900000001
-postcode: 6241
+postcode: "6241"
 city: Radfeld
 street: "Maukenbach"
 housenumber: 16c

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.1529436
 longitude: 9.8189814
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Hermann-Sanderstraße"
 housenumber: 21

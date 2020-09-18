@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.799337200000004
 longitude: 16.2275107
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Waldschulgasse"
 housenumber: 1a

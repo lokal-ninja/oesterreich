@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.054695800000005
 longitude: 15.840618500000001
-postcode: 8311
+postcode: "8311"
 city: Markt Hartmannsdorf
 street: ""
 housenumber: 

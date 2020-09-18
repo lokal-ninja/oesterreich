@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.5220472
 longitude: 14.2934946
-postcode: 4190
+postcode: "4190"
 city: Bad Leonfelden
 street: "Hauptplatz"
 housenumber: 29

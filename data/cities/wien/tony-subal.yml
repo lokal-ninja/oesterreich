@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.206902500000005
 longitude: 16.3732985
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Weihburggasse"
 housenumber: 11

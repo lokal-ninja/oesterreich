@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.284366000000006
 longitude: 15.990934500000002
-postcode: 8230
+postcode: "8230"
 city: Hartberg
 street: "Ferdinand-Leihs-Straße"
 housenumber: 47

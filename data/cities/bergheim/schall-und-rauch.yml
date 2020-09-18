@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.8423992
 longitude: 13.044502900000001
-postcode: 5101
+postcode: "5101"
 city: Bergheim
 street: "Plainbachstraße"
 housenumber: 8

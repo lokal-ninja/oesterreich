@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.359087800000005
 longitude: 9.6828242
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "August-Reis-Straße"
 housenumber: 10

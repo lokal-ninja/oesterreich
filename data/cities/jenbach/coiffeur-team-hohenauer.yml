@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.3909529
 longitude: 11.7731706
-postcode: 6200
+postcode: "6200"
 city: Jenbach
 street: "Achenseestraße"
 housenumber: 29

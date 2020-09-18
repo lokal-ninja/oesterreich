@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5003553
 longitude: 12.559055800000001
-postcode: 6392
+postcode: "6392"
 city: St. Jakob in Haus
 street: "Dorf"
 housenumber: 10

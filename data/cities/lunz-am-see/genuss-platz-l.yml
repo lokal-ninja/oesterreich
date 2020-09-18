@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.860539700000004
 longitude: 15.027113600000002
-postcode: 3293
+postcode: "3293"
 city: Lunz am See
 street: "Kirchenplatz"
 housenumber: 3

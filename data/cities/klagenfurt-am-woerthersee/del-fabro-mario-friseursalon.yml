@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.612531100000005
 longitude: 14.308480300000001
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "St. Ruprechter Straße"
 housenumber: 44

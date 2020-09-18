@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.2939001
 longitude: 9.687109900000001
-postcode: 6835
+postcode: "6835"
 city: Zwischenwasser
 street: "Lindenbodenweg"
 housenumber: 2

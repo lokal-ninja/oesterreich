@@ -3,7 +3,7 @@ type: way
 shop: Fußböden
 latitude: 48.120097200000004
 longitude: 16.2938112
-postcode: 2345
+postcode: "2345"
 city: Brunn am Gebirge
 street: "Wolfholzgasse"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 47.0092269
 longitude: 15.4111761
-postcode: 8054
+postcode: "8054"
 city: Seiersberg/Graz
 street: "Werschweg"
 housenumber: 3

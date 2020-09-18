@@ -1,12 +1,12 @@
 id: 93987541
 type: way
-shop: Eisenwaren
+shop: Werkzeuge
 latitude: 46.6311716
 longitude: 14.367255700000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Schülerweg"
 housenumber: 41
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-15:00"
+website: "https://www.hilti.at/stores/klagenfurt"

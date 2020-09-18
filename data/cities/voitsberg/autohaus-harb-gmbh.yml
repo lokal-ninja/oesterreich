@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 47.0377784
 longitude: 15.1675854
-postcode: 8572
+postcode: "8572"
 city: Voitsberg
 street: "Grazer Vorstadt"
 housenumber: 128
-phone: "+433142 23923"
+phone: ""
 opening_hours: ""
-website: "http://www.autohaus-harb.at/"
+website: "http://autozentrum-harb.com/"

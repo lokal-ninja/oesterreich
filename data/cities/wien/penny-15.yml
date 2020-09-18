@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1859509
 longitude: 16.356092200000003
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Spengergasse"
 housenumber: 29

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1606904
 longitude: 14.714873
-postcode: 3313
+postcode: "3313"
 city: Wallsee-Sindelburg
 street: "Kaiserstraße"
 housenumber: 1

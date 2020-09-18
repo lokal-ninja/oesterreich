@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.793151300000005
 longitude: 15.0711645
-postcode: 3943
+postcode: "3943"
 city: Schrems
 street: "Hauptplatz"
 housenumber: 15

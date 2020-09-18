@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.8295766
 longitude: 15.239536800000002
-postcode: 8523
+postcode: "8523"
 city: Frauental an der Laßnitz
 street: "Laßnitzer-Ring"
 housenumber: 14

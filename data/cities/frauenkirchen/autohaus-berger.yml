@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.8414178
 longitude: 16.9299287
-postcode: 7132
+postcode: "7132"
 city: Frauenkirchen
 street: "Mönchhoferstraße"
 housenumber: 4

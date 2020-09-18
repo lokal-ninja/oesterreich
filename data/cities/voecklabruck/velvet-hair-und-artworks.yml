@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.008135900000006
 longitude: 13.657181000000001
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Gmundner Straße"
 housenumber: 2

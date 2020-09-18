@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4110859
 longitude: 15.6002734
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Obere Landstraße"
 housenumber: 1

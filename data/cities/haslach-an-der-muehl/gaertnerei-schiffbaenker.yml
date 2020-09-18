@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.5796161
 longitude: 14.044594300000002
-postcode: 4170
+postcode: "4170"
 city: Haslach an der Mühl
 street: "Mühlwiesen"
 housenumber: 10

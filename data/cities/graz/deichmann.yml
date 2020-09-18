@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.1002365
 longitude: 15.415556200000001
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Am Arlandgrund"
 housenumber: 2

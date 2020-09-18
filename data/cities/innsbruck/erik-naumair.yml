@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 47.2604545
 longitude: 11.390037900000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Speckbacherstraße"
 housenumber: 21

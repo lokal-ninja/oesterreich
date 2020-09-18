@@ -1,9 +1,9 @@
 id: 3016752735
 type: node
 shop: Supermarkt
-latitude: 48.2042444
-longitude: 16.3532988
-postcode: 1070
+latitude: 48.2042653
+longitude: 16.3532978
+postcode: "1070"
 city: Wien
 street: "Burggasse"
 housenumber: 20

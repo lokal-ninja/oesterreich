@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.963288600000006
 longitude: 16.4038633
-postcode: 2483
+postcode: "2483"
 city: Ebreichsdorf
 street: "Bahnstraße"
 housenumber: 8

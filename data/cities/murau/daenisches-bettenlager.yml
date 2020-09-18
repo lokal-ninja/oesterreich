@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.1124759
 longitude: 14.1656177
-postcode: 8850
+postcode: "8850"
 city: Murau
 street: "Märzenkeller"
 housenumber: 5a

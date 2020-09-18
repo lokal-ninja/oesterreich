@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 46.723713100000005
 longitude: 14.088074
-postcode: 9560
+postcode: "9560"
 city: Feldkirchen in Kärnten
 street: "Kindergartenstraße"
 housenumber: 5

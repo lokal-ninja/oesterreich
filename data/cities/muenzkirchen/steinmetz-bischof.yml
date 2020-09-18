@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.4820402
 longitude: 13.553242000000001
-postcode: 4792
+postcode: "4792"
 city: Münzkirchen
 street: "Passauer Straße"
 housenumber: 4

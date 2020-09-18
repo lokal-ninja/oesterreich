@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.9060524
 longitude: 13.532176900000001
-postcode: 9853
+postcode: "9853"
 city: Gmünd
 street: "Untere Vorstadt"
 housenumber: 27

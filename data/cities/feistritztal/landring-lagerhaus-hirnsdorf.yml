@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.1922937
 longitude: 15.821888800000002
-postcode: 8221
+postcode: "8221"
 city: Feistritztal
 street: ""
 housenumber: 87

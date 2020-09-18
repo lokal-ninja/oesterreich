@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.22371690000001
 longitude: 13.850410700000001
-postcode: 4707
+postcode: "4707"
 city: Schlüßlberg
 street: ""
 housenumber: 20

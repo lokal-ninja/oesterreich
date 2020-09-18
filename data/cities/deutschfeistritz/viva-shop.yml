@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.205661500000005
 longitude: 15.315928900000001
-postcode: 8121
+postcode: "8121"
 city: Deutschfeistritz
 street: ""
 housenumber: 

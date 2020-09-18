@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 47.046705700000004
 longitude: 15.408341000000002
-postcode: 8053
+postcode: "8053"
 city: Graz
 street: "Harter Straße"
 housenumber: 99

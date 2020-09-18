@@ -3,7 +3,7 @@ type: node
 shop: Nahrungsergänzung
 latitude: 48.207836900000004
 longitude: 16.3416321
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Lerchenfelder Straße"
 housenumber: 115

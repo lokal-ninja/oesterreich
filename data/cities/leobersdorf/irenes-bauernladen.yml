@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.926309100000005
 longitude: 16.213060300000002
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "Wiesengasse"
 housenumber: 3

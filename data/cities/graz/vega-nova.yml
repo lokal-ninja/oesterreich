@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.0669222
 longitude: 15.443165100000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Klosterwiesgasse"
 housenumber: 1

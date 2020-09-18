@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1906192
 longitude: 14.745111000000001
-postcode: 8740
+postcode: "8740"
 city: Zeltweg
 street: "Hauptstraße"
 housenumber: 125

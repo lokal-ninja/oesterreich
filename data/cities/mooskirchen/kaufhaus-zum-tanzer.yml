@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.985387700000004
 longitude: 15.2806609
-postcode: 
+postcode: ""
 city: Mooskirchen
 street: "Oberer Markt"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.0758834
 longitude: 16.210800900000002
-postcode: 7543
+postcode: "7543"
 city: Kukmirn
 street: "Marktplatz"
 housenumber: 10

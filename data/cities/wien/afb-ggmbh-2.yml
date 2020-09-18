@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.1455082
 longitude: 16.354166
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Jochen-Rindt-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.3639323
 longitude: 9.681857800000001
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Bahnhofstraße"
 housenumber: 28

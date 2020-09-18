@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.300012800000005
 longitude: 16.5685922
-postcode: 2232
+postcode: "2232"
 city: Deutsch-Wagram
 street: "Gänserndorfer Straße"
 housenumber: 32

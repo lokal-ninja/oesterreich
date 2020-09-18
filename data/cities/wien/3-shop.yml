@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.225506700000004
 longitude: 16.3603235
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Julius-Tandler-Platz"
 housenumber: 2

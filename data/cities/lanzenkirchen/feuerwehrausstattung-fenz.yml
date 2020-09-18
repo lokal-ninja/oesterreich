@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.748751500000004
 longitude: 16.2500602
-postcode: 2821
+postcode: "2821"
 city: Lanzenkirchen
 street: "Wiener Neustädter Straße"
 housenumber: 

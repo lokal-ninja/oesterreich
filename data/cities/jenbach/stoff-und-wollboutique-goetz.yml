@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.3922024
 longitude: 11.7727555
-postcode: 6200
+postcode: "6200"
 city: Jenbach
 street: "Achenseestraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0665221
 longitude: 14.4205646
-postcode: 4407
+postcode: "4407"
 city: Steyr-Gleink
 street: "Gleinker Hauptstraße"
 housenumber: 

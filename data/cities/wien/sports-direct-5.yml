@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.2468024
 longitude: 16.4628865
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Gewerbeparkstraße"
 housenumber: 

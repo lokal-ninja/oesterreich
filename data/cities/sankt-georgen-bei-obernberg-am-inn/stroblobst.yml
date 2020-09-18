@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.295447200000005
 longitude: 13.3302153
-postcode: 4983
+postcode: "4983"
 city: Sankt Georgen bei Obernberg am Inn
 street: ""
 housenumber: 48

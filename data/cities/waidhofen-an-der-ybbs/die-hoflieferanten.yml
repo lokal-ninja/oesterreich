@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.9614266
 longitude: 14.7746396
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Oberer Stadtplatz"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.344058700000005
 longitude: 9.6069139
-postcode: 6842
+postcode: "6842"
 city: Koblach
 street: "Kutzen"
 housenumber: 5

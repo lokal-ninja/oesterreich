@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.1858517
 longitude: 15.6173511
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Porschestraße"
 housenumber: 3

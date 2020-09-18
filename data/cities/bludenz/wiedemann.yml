@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 47.1553119
 longitude: 9.8197322
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Mühlgasse"
 housenumber: 11

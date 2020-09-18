@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 48.201214400000005
 longitude: 16.396916700000002
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Erdbergstraße"
 housenumber: 50

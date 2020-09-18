@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.2669622
 longitude: 16.434739800000003
-postcode: 7472
+postcode: "7472"
 city: Schachendorf
 street: ""
 housenumber: 16

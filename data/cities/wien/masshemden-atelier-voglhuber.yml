@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.224399600000005
 longitude: 16.342101200000002
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Martinstraße"
 housenumber: 74

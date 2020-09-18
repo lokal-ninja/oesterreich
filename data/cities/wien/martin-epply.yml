@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.216725800000006
 longitude: 16.3877586
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Praterstraße"
 housenumber: 51

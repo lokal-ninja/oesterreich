@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.3778364
 longitude: 12.5917268
-postcode: 5754
+postcode: "5754"
 city: Saalbach-Hinterglemm
 street: "Dorfstraße"
 housenumber: 39

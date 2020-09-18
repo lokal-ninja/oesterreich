@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.0051537
 longitude: 13.645012900000001
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Salzburger Straße"
 housenumber: 30

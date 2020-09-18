@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.263850000000005
 longitude: 11.3870263
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Anichstraße"
 housenumber: 46

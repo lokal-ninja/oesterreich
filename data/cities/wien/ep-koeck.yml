@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 48.214452
 longitude: 16.5071508
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Groß-Enzersdorfer Straße"
 housenumber: 92

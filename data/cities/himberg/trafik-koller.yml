@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 48.0835311
 longitude: 16.4394895
-postcode: 2325
+postcode: "2325"
 city: Himberg
 street: "Hauptstraße"
 housenumber: 38

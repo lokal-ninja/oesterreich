@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.205425600000005
 longitude: 16.2251805
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Holzhausenplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2679738
 longitude: 11.4250292
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Langer Weg"
 housenumber: 15

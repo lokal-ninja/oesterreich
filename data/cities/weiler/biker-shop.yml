@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.300083900000004
 longitude: 9.6515161
-postcode: 6837
+postcode: "6837"
 city: Weiler
 street: "Walgaustraße"
 housenumber: 22

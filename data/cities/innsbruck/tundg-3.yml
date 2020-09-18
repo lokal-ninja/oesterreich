@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.2644893
 longitude: 11.375780200000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Bachlechnerstraße"
 housenumber: 46

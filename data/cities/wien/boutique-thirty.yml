@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2094566
 longitude: 16.3493172
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Josefstädter Straße"
 housenumber: 31

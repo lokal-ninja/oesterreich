@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 47.821482
 longitude: 16.2559733
-postcode: 2700
+postcode: "2700"
 city: Wr. Neustadt
 street: "Giltschwertgasse"
 housenumber: 82

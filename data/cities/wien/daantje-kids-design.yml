@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 48.2016706
 longitude: 16.3487842
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Westbahnstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 47.1841364
 longitude: 14.5984563
-postcode: 8755
+postcode: "8755"
 city: Sankt Peter ob Judenburg
 street: ""
 housenumber: 27

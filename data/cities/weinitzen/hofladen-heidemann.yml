@@ -3,10 +3,10 @@ type: way
 shop: Hofladen
 latitude: 47.143775000000005
 longitude: 15.5000753
-postcode: 8044
+postcode: "8044"
 city: Weinitzen
 street: "Niederschöcklstraße"
 housenumber: 29
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo, Di, Do Fr 8-18 Uhr, Sa 8-14 Uhr"
+website: "https://www.heidemann.at/"

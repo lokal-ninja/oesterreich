@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.351072900000005
 longitude: 14.532015300000001
-postcode: 4230
+postcode: "4230"
 city: Pregarten
 street: "Pregartfeld"
 housenumber: 2

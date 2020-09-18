@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.223354400000005
 longitude: 15.6372946
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Weizbergstraße"
 housenumber: 38

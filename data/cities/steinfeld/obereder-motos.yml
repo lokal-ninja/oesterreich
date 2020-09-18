@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 46.7516751
 longitude: 13.252415500000001
-postcode: 9754
+postcode: "9754"
 city: Steinfeld
 street: "Josef Fräß Ehrfeldstraße"
 housenumber: 18b

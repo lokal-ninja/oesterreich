@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.2048658
 longitude: 14.2511615
-postcode: 4053
+postcode: "4053"
 city: Ansfelden
 street: "Hauptplatz"
 housenumber: 34

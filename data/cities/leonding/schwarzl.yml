@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 48.2504306
 longitude: 14.265197800000001
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Lahholdstraße"
 housenumber: 24

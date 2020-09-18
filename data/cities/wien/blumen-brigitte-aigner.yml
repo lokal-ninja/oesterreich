@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.2017097
 longitude: 16.347121700000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Westbahnstraße"
 housenumber: 5a

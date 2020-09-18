@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.6389202
 longitude: 14.2940967
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Feldkirchner Straße"
 housenumber: 112

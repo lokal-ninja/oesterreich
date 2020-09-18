@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 46.6191362
 longitude: 14.3138515
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Gasometergasse"
 housenumber: 5

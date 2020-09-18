@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.213838300000006
 longitude: 16.373508100000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Salztorgasse"
 housenumber: 7

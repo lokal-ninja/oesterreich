@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.1960277
 longitude: 16.3965536
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Landstraßer Hauptstraße"
 housenumber: 123

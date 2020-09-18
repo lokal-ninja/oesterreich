@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.9274409
 longitude: 16.861128700000002
-postcode: 7121
+postcode: "7121"
 city: Weiden am See
 street: "Sportplatzgasse"
 housenumber: 29a

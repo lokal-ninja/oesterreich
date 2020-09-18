@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.189307500000005
 longitude: 16.3726549
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Favoritenstraße"
 housenumber: 27

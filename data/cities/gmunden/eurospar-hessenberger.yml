@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9240585
 longitude: 13.8081951
-postcode: 4810
+postcode: "4810"
 city: Gmunden
 street: "Scharnsteinerstraße"
 housenumber: 1

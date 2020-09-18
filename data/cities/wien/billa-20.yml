@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2059389
 longitude: 16.3429361
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Schottenfeldgasse"
 housenumber: 87

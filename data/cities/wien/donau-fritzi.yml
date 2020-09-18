@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2636504
 longitude: 16.3669066
-postcode: 
+postcode: ""
 city: Wien
 street: "Donaupromenade am Radweg"
 housenumber: 

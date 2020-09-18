@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 46.6145878
 longitude: 13.8482569
-postcode: 9500
+postcode: "9500"
 city: VIllach
 street: "Gerbergasse"
 housenumber: 11

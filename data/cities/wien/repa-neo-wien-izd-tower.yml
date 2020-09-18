@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.2348792
 longitude: 16.421164700000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Wagramer Straße"
 housenumber: 19

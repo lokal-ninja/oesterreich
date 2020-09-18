@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.277638100000004
 longitude: 9.639452
-postcode: 6830
+postcode: "6830"
 city: Rankweil
 street: "Vorderlandstraße"
 housenumber: 4

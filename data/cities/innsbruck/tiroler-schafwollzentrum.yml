@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.2657144
 longitude: 11.3974509
-postcode: 
+postcode: ""
 city: Innsbruck
 street: "Wilhelm-Greil-Straße"
 housenumber: 

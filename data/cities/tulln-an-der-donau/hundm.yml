@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3309365
 longitude: 16.049817100000002
-postcode: 3430
+postcode: "3430"
 city: Tulln an der Donau
 street: "Hauptplatz"
 housenumber: 19-20

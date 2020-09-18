@@ -3,10 +3,10 @@ type: node
 shop: Haushaltsartikel
 latitude: 47.2648645
 longitude: 11.3929992
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Anichstraße"
 housenumber: 7
-phone: "+43 0512 359032"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+phone: "+43 512 359032"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
 website: "https://at.flyingtiger.com/de-AT"

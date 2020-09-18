@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.163160700000006
 longitude: 14.0153631
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Carl-Richter-Straße"
 housenumber: 2

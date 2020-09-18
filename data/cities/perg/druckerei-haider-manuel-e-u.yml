@@ -3,10 +3,10 @@ type: node
 shop: Kopieren
 latitude: 48.249448400000006
 longitude: 14.637198300000001
-postcode: 4320
+postcode: "4320"
 city: Perg
 street: "Herrenstraße"
 housenumber: 17
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Tu 08:30-12:00, 14:00-18:00; We 08:30-12:00; Th 08:30-12:00, 14:00-18:00; Fr 08:30-12:00"
 website: "www.haider-druck.at"

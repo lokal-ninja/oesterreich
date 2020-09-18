@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.812977000000004
 longitude: 13.0246709
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "General-Arnold-Straße"
 housenumber: 6

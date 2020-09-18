@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.6465362
 longitude: 13.9713404
-postcode: 4160
+postcode: "4160"
 city: Aigen-Schlägl
 street: "Marktplatz"
 housenumber: 13

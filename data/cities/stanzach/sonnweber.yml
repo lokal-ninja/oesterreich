@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.3836506
 longitude: 10.5610674
-postcode: 6642
+postcode: "6642"
 city: Stanzach
 street: "Dorf"
 housenumber: 5

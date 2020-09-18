@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.3048884
 longitude: 11.0703493
-postcode: 6410
+postcode: "6410"
 city: telfs
 street: "Weißenbachgasse"
 housenumber: 9

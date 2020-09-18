@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.2586437
 longitude: 11.4055461
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Josef-Thoman-Straße"
 housenumber: 8

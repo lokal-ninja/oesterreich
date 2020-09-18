@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.3341611
 longitude: 16.457434600000003
-postcode: 2201
+postcode: "2201"
 city: Hagenbrunn
 street: "Industriestraße"
 housenumber: 11

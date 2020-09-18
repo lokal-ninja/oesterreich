@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.2667498
 longitude: 11.3982086
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Museumstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2611749
 longitude: 16.4527264
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Lieblgasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.115626500000005
 longitude: 16.3477781
-postcode: 7540
+postcode: "7540"
 city: Güssing
 street: "Punitz"
 housenumber: 57

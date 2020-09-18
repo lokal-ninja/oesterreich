@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.073103
 longitude: 14.749526000000001
-postcode: 3361
+postcode: "3361"
 city: Aschbach-Markt
 street: "Rathausplatz"
 housenumber: 6a

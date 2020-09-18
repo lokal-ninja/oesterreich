@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 48.239045000000004
 longitude: 16.354266300000003
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Gatterburggasse"
 housenumber: 25/3

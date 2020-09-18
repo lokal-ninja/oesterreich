@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 47.970472400000006
 longitude: 13.102900400000001
-postcode: 5163
+postcode: "5163"
 city: Mattsee
 street: "Tassiloweg"
 housenumber: 10/6

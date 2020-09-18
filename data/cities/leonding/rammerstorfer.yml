@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 48.276527800000004
 longitude: 14.224934800000002
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Fritz-Störk-Straße"
 housenumber: 8

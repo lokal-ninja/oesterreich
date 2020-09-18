@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8653558
 longitude: 16.381499
-postcode: 2491
+postcode: "2491"
 city: Neufeld an der Leitha
 street: "Eisenstädter Straße"
 housenumber: 18

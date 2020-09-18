@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 47.638088200000006
 longitude: 13.143300900000002
-postcode: 5431
+postcode: "5431"
 city: Kuchl
 street: ""
 housenumber: 48

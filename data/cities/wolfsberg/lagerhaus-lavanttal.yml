@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.843991
 longitude: 14.8403287
-postcode: 9400
+postcode: "9400"
 city: Wolfsberg
 street: "Tanglstraße"
 housenumber: 2

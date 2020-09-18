@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.2188292
 longitude: 16.331750500000002
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Elterleinplatz"
 housenumber: 12/Top 15

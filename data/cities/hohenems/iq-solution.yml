@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.360411600000006
 longitude: 9.6655213
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Fischerweg"
 housenumber: 1

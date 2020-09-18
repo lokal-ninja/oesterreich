@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.217264300000004
 longitude: 16.379238100000002
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Tandelmarktgasse"
 housenumber: 9

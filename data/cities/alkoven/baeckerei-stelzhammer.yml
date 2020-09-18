@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.2816107
 longitude: 14.1130335
-postcode: 4072
+postcode: "4072"
 city: Alkoven
 street: "Dorfstraße"
 housenumber: 3

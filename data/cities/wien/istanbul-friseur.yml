@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.176217900000005
 longitude: 16.3667261
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Quellenstraße"
 housenumber: 116

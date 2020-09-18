@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1836311
 longitude: 16.337251000000002
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Arndtstraße"
 housenumber: 39

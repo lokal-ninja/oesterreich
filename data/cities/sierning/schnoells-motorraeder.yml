@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.011209400000006
 longitude: 14.3039751
-postcode: 4523
+postcode: "4523"
 city: Sierning
 street: "Steyrtalstraße"
 housenumber: 127a

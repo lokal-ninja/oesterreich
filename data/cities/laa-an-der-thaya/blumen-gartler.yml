@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.7190287
 longitude: 16.383071700000002
-postcode: 2136
+postcode: "2136"
 city: Laa an der Thaya
 street: "Nordbahnstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.756067800000004
 longitude: 16.6664961
-postcode: 7072
+postcode: "7072"
 city: Mörbisch am See
 street: "Herrengasse"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.0666535
 longitude: 15.427460700000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Rösselmühlgasse"
 housenumber: 28

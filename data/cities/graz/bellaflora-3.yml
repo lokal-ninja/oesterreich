@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.036744500000005
 longitude: 15.4824841
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Sankt-Peter-Gürtel"
 housenumber: 9

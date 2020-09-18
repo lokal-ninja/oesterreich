@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 47.283992700000006
 longitude: 12.4873191
-postcode: 5730
+postcode: "5730"
 city: Mittersill
 street: "Zeller Straße"
 housenumber: 14
-phone: ""
+phone: "+43656220362"
 opening_hours: ""
-website: ""
+website: "http://www.fussl.at/de/"

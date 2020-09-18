@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.191955400000005
 longitude: 16.3595466
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretenstraße"
 housenumber: 71-73

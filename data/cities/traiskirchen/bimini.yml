@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 48.0131917
 longitude: 16.2942441
-postcode: 2514
+postcode: "2514"
 city: Traiskirchen
 street: "Hauptplatz"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 46.614038400000005
 longitude: 14.042609700000002
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Am Corso"
 housenumber: 27

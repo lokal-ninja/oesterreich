@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.165294800000005
 longitude: 14.041145100000001
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Linzer Straße"
 housenumber: 99

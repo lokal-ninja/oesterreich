@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 46.667280500000004
 longitude: 15.4690259
-postcode: 8463
+postcode: "8463"
 city: Leutschach an der Weinstraße
 street: "Marburger Straße"
 housenumber: 5

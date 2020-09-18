@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 46.794784
 longitude: 15.5569871
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Wasserwerkstraße"
 housenumber: 30d

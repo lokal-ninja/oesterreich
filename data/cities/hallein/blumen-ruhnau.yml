@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.68279810000001
 longitude: 13.0979986
-postcode: 5400
+postcode: "5400"
 city: Hallein
 street: "Henry-Wall-Davis-Str."
 housenumber: 2

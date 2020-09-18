@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3746371
 longitude: 9.6754692
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Diepoldsauer Straße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: way
 shop: Steine
 latitude: 48.1800336
 longitude: 16.360191
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Gudrunstraße"
 housenumber: 196a

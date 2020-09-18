@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.056792
 longitude: 16.0716825
-postcode: 8280
+postcode: "8280"
 city: Fürstenfeld
 street: "Ledergasse"
 housenumber: 17

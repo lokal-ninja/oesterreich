@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2181876
 longitude: 16.3770975
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Leopoldsgasse"
 housenumber: 28

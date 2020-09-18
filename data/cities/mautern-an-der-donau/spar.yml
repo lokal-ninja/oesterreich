@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.392855700000005
 longitude: 15.581418500000002
-postcode: 3512
+postcode: "3512"
 city: Mautern an der Donau
 street: "Kastellstraße"
 housenumber: 1

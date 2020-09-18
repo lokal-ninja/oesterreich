@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.3217517
 longitude: 16.208462400000002
-postcode: 3423
+postcode: "3423"
 city: St. Andrä - Wördern
 street: "Greifensteiner Straße"
 housenumber: 9

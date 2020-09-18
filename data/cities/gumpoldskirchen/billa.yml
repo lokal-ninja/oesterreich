@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0406799
 longitude: 16.2839043
-postcode: 2352
+postcode: "2352"
 city: Gumpoldskirchen
 street: "Bahngasse"
 housenumber: 1a

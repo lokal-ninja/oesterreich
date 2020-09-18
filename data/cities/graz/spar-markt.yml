@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.066292700000005
 longitude: 15.4471863
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Dietrichsteinplatz"
 housenumber: 12

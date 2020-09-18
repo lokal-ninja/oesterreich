@@ -1,12 +1,12 @@
-id: 2439457020
+id: 2402321305
 type: node
 shop: Supermarkt
-latitude: 48.1848321
-longitude: 16.3337088
-postcode: 1150
+latitude: 48.2503547
+longitude: 16.443010400000002
+postcode: "1220"
 city: Wien
-street: "Storchengasse"
-housenumber: 2
-phone: "+43 1 8923559"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 08:30-18:00"
-website: "https://www.spar.at/standorte/spar-wien-1150-storchengasse-2"
+street: "Donaufelder Straße"
+housenumber: 263
+phone: ""
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+website: ""

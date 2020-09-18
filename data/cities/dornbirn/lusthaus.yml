@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.4112571
 longitude: 9.7426283
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Marktstraße"
 housenumber: 37

@@ -1,12 +1,12 @@
 id: 3930901057
 type: node
 shop: Antiquitäten
-latitude: 48.1968121
-longitude: 16.3349704
-postcode: 1150
+latitude: 48.1971239
+longitude: 16.334648400000003
+postcode: "1150"
 city: Wien
 street: "Felberstraße"
 housenumber: 3
 phone: "+43 1 494 34 90"
-opening_hours: "Tu-Fr 14:00-19:00; Sa 10:00-14:00"
+opening_hours: "Tu 10:00-19:00; We-Fr 14:00-19:00; Sa 10:00-17:00"
 website: "https://www.glasfabrik.at/"

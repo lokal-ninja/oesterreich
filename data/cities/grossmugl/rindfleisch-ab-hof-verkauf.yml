@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.52449
 longitude: 16.1988422
-postcode: 2002
+postcode: "2002"
 city: Großmugl
 street: "Füllersdorf"
 housenumber: 22

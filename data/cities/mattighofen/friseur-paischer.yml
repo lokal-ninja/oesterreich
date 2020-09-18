@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 48.103035500000004
 longitude: 13.1501526
-postcode: 5230
+postcode: "5230"
 city: Mattighofen
 street: "Stadtplatz"
 housenumber: 50
 phone: "+43 7742 61114"
 opening_hours: "Tu-Th 09:00-18:00; Fr 09:00-20:00; Sa 08:00-14:00"
-website: "www.friseurpaischer.at"
+website: "http://www.friseurpaischer.at"

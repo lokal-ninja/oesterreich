@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.493907500000006
 longitude: 14.9559107
-postcode: 3925
+postcode: "3925"
 city: Arbesbach
 street: ""
 housenumber: 79

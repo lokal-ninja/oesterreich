@@ -1,12 +1,12 @@
-id: 38838973
+id: 26217974
 type: way
 shop: Supermarkt
-latitude: 48.2143639
-longitude: 16.5109111
-postcode: 1220
+latitude: 48.207549500000006
+longitude: 16.2221732
+postcode: "1140"
 city: Wien
-street: "Esslinger Hauptstraße"
-housenumber: 4-6
-phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-wien-1220-esslinger-hauptstrasse-4-6"
+street: "Albert-Schweitzer-Gasse"
+housenumber: 2a
+phone: "+43 1 5774980"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+website: ""

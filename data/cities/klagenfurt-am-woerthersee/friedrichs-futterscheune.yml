@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 46.6481477
 longitude: 14.292678400000002
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Suppanstraße"
 housenumber: 69

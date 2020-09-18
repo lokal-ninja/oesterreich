@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.2510965
 longitude: 13.2335343
-postcode: 4950
+postcode: "4950"
 city: Altheim
 street: "Bahnhofstraße"
 housenumber: 14

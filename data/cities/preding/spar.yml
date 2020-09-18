@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8536498
 longitude: 15.4101075
-postcode: 8504
+postcode: "8504"
 city: Preding
 street: "Gewerbepark Ost"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 47.2657955
 longitude: 11.394662
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Sparkassenplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 47.2670374
 longitude: 11.392923300000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Marktgraben"
 housenumber: 27

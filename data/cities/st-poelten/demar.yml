@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.209634400000006
 longitude: 15.6443784
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Wiener Straße"
 housenumber: 135

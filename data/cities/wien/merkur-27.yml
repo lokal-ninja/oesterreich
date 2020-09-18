@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.208597600000004
 longitude: 16.310112
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Spetterbrücke"
 housenumber: 2

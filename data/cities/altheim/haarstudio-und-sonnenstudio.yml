@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2399156
 longitude: 13.2379487
-postcode: 4950
+postcode: "4950"
 city: Altheim
 street: "Ach-Siedlung"
 housenumber: 57

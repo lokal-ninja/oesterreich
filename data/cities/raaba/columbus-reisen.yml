@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.0269696
 longitude: 15.487509200000002
-postcode: 8074
+postcode: "8074"
 city: Raaba
 street: "Dr.-Auner-Straße"
 housenumber: 22

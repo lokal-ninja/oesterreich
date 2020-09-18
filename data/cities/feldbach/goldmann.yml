@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.9532262
 longitude: 15.8898632
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Bürgergasse"
 housenumber: 22

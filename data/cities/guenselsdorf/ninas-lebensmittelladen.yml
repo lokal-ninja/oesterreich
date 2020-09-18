@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.943808000000004
 longitude: 16.2596753
-postcode: 2525
+postcode: "2525"
 city: Günselsdorf
 street: "Europaplatz"
 housenumber: 1

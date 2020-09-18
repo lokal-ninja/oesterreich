@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.911852200000006
 longitude: 16.3863887
-postcode: 2486
+postcode: "2486"
 city: Pottendorf
 street: "Wiener Straße"
 housenumber: 5

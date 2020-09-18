@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.208698600000005
 longitude: 16.3368775
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Thaliastraße"
 housenumber: 7

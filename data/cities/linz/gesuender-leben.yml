@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.301606500000005
 longitude: 14.296766000000002
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Volksfeststraße"
 housenumber: 14

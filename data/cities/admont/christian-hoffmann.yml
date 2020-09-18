@@ -3,7 +3,7 @@ type: way
 shop: Zeitungen
 latitude: 47.573266700000005
 longitude: 14.463650300000001
-postcode: 8911
+postcode: "8911"
 city: Admont
 street: "Bahnhofstraße"
 housenumber: 179

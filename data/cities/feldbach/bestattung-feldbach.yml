@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 46.9500485
 longitude: 15.8876641
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Schillerstraße"
 housenumber: 15

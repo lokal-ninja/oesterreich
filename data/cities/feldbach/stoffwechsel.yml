@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.9514075
 longitude: 15.8902298
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Ungarstraße"
 housenumber: 6

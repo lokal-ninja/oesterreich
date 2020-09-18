@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.251479700000004
 longitude: 16.4889809
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Breitenleer Straße"
 housenumber: 213-215

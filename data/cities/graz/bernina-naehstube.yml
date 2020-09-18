@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 47.072084000000004
 longitude: 15.4334988
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Mariahilferstraße"
 housenumber: 11

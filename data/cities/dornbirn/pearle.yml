@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.4125875
 longitude: 9.7415511
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Schulgasse"
 housenumber: 11

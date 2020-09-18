@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2574337
 longitude: 16.397713500000002
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Am Spitz"
 housenumber: 5

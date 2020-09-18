@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.067981
 longitude: 15.4445884
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Gleisdorfer Gasse"
 housenumber: 11

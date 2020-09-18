@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 47.231078800000006
 longitude: 11.278856600000001
-postcode: 6094
+postcode: "6094"
 city: Axams
 street: "Sylvester-Jordan-Straße"
 housenumber: 3
-phone: "+43503218314"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
-website: "https://www.mpreis.at/"
+phone: "+43 50321 923314"
+opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; PH off"
+website: "https://www.mpreis.at"

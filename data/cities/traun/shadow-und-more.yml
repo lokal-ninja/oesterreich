@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.2141485
 longitude: 14.2060124
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Traunerstraße"
 housenumber: 100

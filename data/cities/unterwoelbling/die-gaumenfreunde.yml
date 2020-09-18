@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.3234384
 longitude: 15.609878400000001
-postcode: 3124
+postcode: "3124"
 city: Unterwölbling
 street: ""
 housenumber: 51

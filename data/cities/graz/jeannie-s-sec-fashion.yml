@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.055504400000004
 longitude: 15.473539400000002
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Sankt-Peter-Hauptstraße"
 housenumber: 75a

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.154045
 longitude: 16.3005883
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 164

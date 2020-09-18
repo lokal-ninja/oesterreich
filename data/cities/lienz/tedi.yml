@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 46.832958700000006
 longitude: 12.7806888
-postcode: 9900
+postcode: "9900"
 city: Lienz
 street: "Kärntner Straße"
 housenumber: 67b

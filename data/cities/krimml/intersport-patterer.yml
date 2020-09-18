@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.2199995
 longitude: 12.1743865
-postcode: 5743
+postcode: "5743"
 city: Krimml
 street: "Oberkrimml"
 housenumber: 95

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.9925
 longitude: 15.5056168
-postcode: 8071
+postcode: "8071"
 city: Hausmannstätten
 street: "Grazer Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1999281
 longitude: 16.3525445
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kirchengasse"
 housenumber: 3

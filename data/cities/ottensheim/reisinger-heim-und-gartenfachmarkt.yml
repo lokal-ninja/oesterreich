@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.339836600000005
 longitude: 14.169142
-postcode: 4100
+postcode: "4100"
 city: Ottensheim
 street: "Hostauerstraße"
 housenumber: 62-68

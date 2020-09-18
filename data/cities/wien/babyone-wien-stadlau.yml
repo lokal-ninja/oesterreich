@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 48.249749200000004
 longitude: 16.4680426
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Zwerchäckerweg"
 housenumber: 4

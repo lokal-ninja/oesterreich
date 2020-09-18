@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.7901826
 longitude: 12.973379600000001
-postcode: 5071
+postcode: "5071"
 city: Wals-Siezenheim
 street: "Walserfeldstraße"
 housenumber: 13

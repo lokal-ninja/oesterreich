@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2185574
 longitude: 14.827841200000002
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Wiener Straße"
 housenumber: 25

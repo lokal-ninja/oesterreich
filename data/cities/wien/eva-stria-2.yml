@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.182360800000005
 longitude: 16.4070642
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Simmeringer Hauptstraße"
 housenumber: 20b

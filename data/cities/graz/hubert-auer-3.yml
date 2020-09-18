@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.0720899
 longitude: 15.4508375
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Lichtenfelsgasse"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 46.6063939
 longitude: 13.864873500000002
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Maria-Gailer-Straße"
 housenumber: 33

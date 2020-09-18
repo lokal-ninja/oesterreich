@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.0958951
 longitude: 13.6332625
-postcode: 
+postcode: ""
 city: Sankt Michael im Lungau
 street: "Gewerbestraße"
 housenumber: 580
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-We,Fr 08:00-18:00; Sa 08:00-13:00; Th, Su, PH off"
 website: ""

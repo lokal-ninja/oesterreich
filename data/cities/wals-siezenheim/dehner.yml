@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.817295400000006
 longitude: 12.9853009
-postcode: 5072
+postcode: "5072"
 city: Wals-Siezenheim
 street: "Bayernstraße"
 housenumber: 4

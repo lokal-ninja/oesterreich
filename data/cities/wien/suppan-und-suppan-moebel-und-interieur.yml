@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.190349600000005
 longitude: 16.3622032
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Mittersteig"
 housenumber: 22

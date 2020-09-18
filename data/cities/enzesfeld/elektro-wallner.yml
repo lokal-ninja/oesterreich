@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.920796700000004
 longitude: 16.183834400000002
-postcode: 2551
+postcode: "2551"
 city: Enzesfeld
 street: "Schimmelgasse"
 housenumber: 2

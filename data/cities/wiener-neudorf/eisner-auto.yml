@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0815837
 longitude: 16.314118
-postcode: 2351
+postcode: "2351"
 city: Wiener Neudorf
 street: "Triesterstraße"
 housenumber: 11

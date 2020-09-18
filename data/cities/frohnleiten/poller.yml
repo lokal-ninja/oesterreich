@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.2708888
 longitude: 15.326892
-postcode: 8130
+postcode: "8130"
 city: Frohnleiten
 street: "Hauptplatz"
 housenumber: 30

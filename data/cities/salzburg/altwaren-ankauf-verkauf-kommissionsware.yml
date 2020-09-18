@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 47.805383600000006
 longitude: 13.0518339
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Schallmooser Hauptstraße"
 housenumber: 12

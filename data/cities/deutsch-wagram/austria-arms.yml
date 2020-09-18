@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 48.30153120000001
 longitude: 16.5620014
-postcode: 2232
+postcode: "2232"
 city: Deutsch-Wagram
 street: "Lagerhausgasse"
 housenumber: 2

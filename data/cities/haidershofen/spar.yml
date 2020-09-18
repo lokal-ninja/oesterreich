@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0930277
 longitude: 14.4795124
-postcode: 4431
+postcode: "4431"
 city: Haidershofen
 street: "Dorf an der Enns"
 housenumber: 55

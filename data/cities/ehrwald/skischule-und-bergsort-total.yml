@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 47.3982551
 longitude: 10.9194999
-postcode: 6632
+postcode: "6632"
 city: Ehrwald
 street: "Kirchplatz"
 housenumber: 14a

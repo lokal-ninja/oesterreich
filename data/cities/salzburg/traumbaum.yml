@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.797836600000004
 longitude: 13.0492716
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Chiemseegasse"
 housenumber: 3

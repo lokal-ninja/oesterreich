@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.054380200000004
 longitude: 15.1169241
-postcode: 8582
+postcode: "8582"
 city: Rosental an der Kainach
 street: "Hauptstraße"
 housenumber: 63

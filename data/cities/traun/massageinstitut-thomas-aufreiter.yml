@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.21394960000001
 longitude: 14.206275100000001
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Traunerstraße"
 housenumber: 100

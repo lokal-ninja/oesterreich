@@ -1,12 +1,12 @@
-id: 83464328
-type: way
+id: 7574658927
+type: node
 shop: Foto
-latitude: 47.0628535
-longitude: 15.4512958
-postcode: 8010
+latitude: 47.0631125
+longitude: 15.4506975
+postcode: "8010"
 city: Graz
-street: "Münzgrabenstraße"
-housenumber: 53
+street: "Steyrergasse"
+housenumber: 39
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,15:00-18:00; Sa 09:00-12:00"
-website: "www.foto-koeberl.at"
+website: ""

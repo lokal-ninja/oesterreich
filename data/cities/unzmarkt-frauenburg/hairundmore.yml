@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.198399
 longitude: 14.4447054
-postcode: 8800
+postcode: "8800"
 city: Unzmarkt-Frauenburg
 street: "Kärntnerstraße"
 housenumber: 4

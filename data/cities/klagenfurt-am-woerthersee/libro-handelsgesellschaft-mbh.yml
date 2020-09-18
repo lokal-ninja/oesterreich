@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.623975900000005
 longitude: 14.3053983
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Doktor-Herrmann-Gasse"
 housenumber: 2

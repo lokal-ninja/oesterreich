@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.4761262
 longitude: 15.670457200000001
-postcode: 3550
+postcode: "3550"
 city: Langenlois
 street: "Schiltener Straße"
 housenumber: 25

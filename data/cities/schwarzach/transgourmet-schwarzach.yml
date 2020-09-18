@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 47.438510900000004
 longitude: 9.755560800000001
-postcode: 6858
+postcode: "6858"
 city: Schwarzach
 street: "Gutenbergstraße"
 housenumber: 1a

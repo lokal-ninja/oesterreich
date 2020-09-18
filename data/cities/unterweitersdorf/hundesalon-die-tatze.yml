@@ -3,7 +3,7 @@ type: way
 shop: Tiersalon
 latitude: 48.3849195
 longitude: 14.4877932
-postcode: 4210
+postcode: "4210"
 city: Unterweitersdorf
 street: "Lehenfeld"
 housenumber: 9

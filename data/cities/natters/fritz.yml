@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.234109100000005
 longitude: 11.3736052
-postcode: 6161
+postcode: "6161"
 city: Natters
 street: "Dorfplatz"
 housenumber: 6

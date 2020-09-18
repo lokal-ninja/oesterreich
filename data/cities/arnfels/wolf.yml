@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.6761886
 longitude: 15.401005300000001
-postcode: 8454
+postcode: "8454"
 city: Arnfels
 street: "Eibiswalder Straße"
 housenumber: 55

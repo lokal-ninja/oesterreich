@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.1280571
 longitude: 15.6187678
-postcode: 8063
+postcode: "8063"
 city: Eggersdorf bei Graz
 street: "Wetterkreuzweg"
 housenumber: 1

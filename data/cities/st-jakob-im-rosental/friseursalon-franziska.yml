@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.546379
 longitude: 14.0615815
-postcode: 9184
+postcode: "9184"
 city: St. Jakob im Rosental
 street: "St.-Jakob im Rosental"
 housenumber: 202

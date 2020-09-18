@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2379819
 longitude: 16.3786823
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Dresdner Straße"
 housenumber: 45

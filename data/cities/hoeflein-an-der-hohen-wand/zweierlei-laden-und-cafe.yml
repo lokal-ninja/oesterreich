@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.8001926
 longitude: 16.0311281
-postcode: 2732
+postcode: "2732"
 city: Höflein an der Hohen Wand
 street: "Quellenstraße"
 housenumber: 5

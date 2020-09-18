@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.881812000000004
 longitude: 15.8182162
-postcode: 8342
+postcode: "8342"
 city: Gnas
 street: ""
 housenumber: 175

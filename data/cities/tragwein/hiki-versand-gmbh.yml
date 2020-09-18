@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 48.3329691
 longitude: 14.573833
-postcode: 4284
+postcode: "4284"
 city: Tragwein
 street: "Mistlberg"
 housenumber: 100

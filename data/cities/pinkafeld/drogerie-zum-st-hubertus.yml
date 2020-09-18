@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.371754700000004
 longitude: 16.1226038
-postcode: 7423
+postcode: "7423"
 city: Pinkafeld
 street: "Hauptplatz"
 housenumber: 12-13

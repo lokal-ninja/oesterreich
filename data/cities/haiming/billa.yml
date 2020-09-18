@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.255512100000004
 longitude: 10.8806767
-postcode: 6425
+postcode: "6425"
 city: Haiming
 street: "Siedlungsstraße"
 housenumber: 8a

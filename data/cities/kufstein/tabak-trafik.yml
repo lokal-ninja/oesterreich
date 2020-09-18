@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.5899243
 longitude: 12.174889700000001
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Oskar Pirlo-Straße"
 housenumber: 42a

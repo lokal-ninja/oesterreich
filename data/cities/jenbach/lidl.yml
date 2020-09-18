@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3880002
 longitude: 11.781425700000002
-postcode: 6200
+postcode: "6200"
 city: Jenbach
 street: "Austraße"
 housenumber: 21a

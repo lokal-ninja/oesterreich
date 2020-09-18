@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 46.9457346
 longitude: 15.837779500000002
-postcode: 8341
+postcode: "8341"
 city: Paldau
 street: ""
 housenumber: 1

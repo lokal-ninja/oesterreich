@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.258591
 longitude: 11.395671
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Franz-Fischer-Straße"
 housenumber: 8

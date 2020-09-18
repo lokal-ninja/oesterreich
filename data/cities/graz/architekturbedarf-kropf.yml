@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.0707901
 longitude: 15.452069000000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Gartengasse"
 housenumber: 15

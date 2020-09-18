@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.6212138
 longitude: 14.4506425
-postcode: 9131
+postcode: "9131"
 city: Grafenstein
 street: "10.-Oktober-Straße"
 housenumber: 5

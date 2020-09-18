@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4201319
 longitude: 10.7915007
-postcode: 6621
+postcode: "6621"
 city: Bichlbach
 street: "Kirchhof"
 housenumber: 34

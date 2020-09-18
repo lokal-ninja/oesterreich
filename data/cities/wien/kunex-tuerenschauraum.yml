@@ -3,7 +3,7 @@ type: node
 shop: Türen
 latitude: 48.252850300000006
 longitude: 16.3924148
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: ""
 housenumber: 

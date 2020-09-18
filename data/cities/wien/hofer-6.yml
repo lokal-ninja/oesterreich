@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1861887
 longitude: 16.3400413
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Schönbrunner Straße"
 housenumber: 173

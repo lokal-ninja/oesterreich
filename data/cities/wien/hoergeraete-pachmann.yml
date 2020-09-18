@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.216802300000005
 longitude: 16.3594315
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Währinger Straße"
 housenumber: 5-7

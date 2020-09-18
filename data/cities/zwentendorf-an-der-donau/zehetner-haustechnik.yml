@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.342500400000006
 longitude: 15.911994600000002
-postcode: 3435
+postcode: "3435"
 city: Zwentendorf an der Donau
 street: "Tullner Straße"
 housenumber: 4

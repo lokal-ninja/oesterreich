@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2388862
 longitude: 14.6220221
-postcode: 4320
+postcode: "4320"
 city: Perg
 street: "Kramelsbergstraße"
 housenumber: 7

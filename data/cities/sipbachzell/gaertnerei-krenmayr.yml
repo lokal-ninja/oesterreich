@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.109062800000004
 longitude: 14.1019473
-postcode: 4621
+postcode: "4621"
 city: Sipbachzell
 street: "Welser Straße"
 housenumber: 11

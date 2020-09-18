@@ -1,12 +1,12 @@
-id: 3428426887
+id: 3428426886
 type: node
 shop: Drogerie
-latitude: 47.0676259
-longitude: 15.4442912
-postcode: 8010
+latitude: 47.0404835
+longitude: 15.462514400000002
+postcode: "8041"
 city: Graz
-street: "Jakominiplatz"
-housenumber: 12
-phone: "+43 316 837277-12"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+street: "Ostbahnstraße"
+housenumber: 3
+phone: ""
+opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.2892462
 longitude: 16.207353100000002
-postcode: 7400
+postcode: "7400"
 city: Oberwart
 street: "Lehargasse"
 housenumber: 6-8

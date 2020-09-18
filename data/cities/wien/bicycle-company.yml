@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.200239700000004
 longitude: 16.365125300000003
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Getreidemarkt"
 housenumber: 1

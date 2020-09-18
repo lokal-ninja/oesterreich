@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.068317900000004
 longitude: 13.492040200000002
-postcode: 4873
+postcode: "4873"
 city: Frankenburg
 street: "Marktplatz"
 housenumber: 3

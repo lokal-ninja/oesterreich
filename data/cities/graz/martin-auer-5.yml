@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.0564565
 longitude: 15.4728054
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Sankt-Peter-Hauptstraße"
 housenumber: 63

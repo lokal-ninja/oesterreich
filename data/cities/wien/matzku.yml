@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.2642217
 longitude: 16.4590052
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Dassanowskyweg"
 housenumber: 2

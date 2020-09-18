@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.1151795
 longitude: 16.4494772
-postcode: 2326
+postcode: "2326"
 city: Lanzendorf
 street: "Untere Hauptstraße"
 housenumber: 2a

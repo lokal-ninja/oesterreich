@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 47.324026
 longitude: 12.7990375
-postcode: 5700
+postcode: "5700"
 city: Zell am See
 street: "Seegasse"
 housenumber: 8

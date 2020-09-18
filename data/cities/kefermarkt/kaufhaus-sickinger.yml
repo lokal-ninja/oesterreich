@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.442826700000005
 longitude: 14.538962300000001
-postcode: 4292
+postcode: "4292"
 city: Kefermarkt
 street: "Oberer Markt"
 housenumber: 3

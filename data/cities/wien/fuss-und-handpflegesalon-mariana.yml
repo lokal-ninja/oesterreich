@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.192182700000004
 longitude: 16.3652439
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Große Neugasse"
 housenumber: 11

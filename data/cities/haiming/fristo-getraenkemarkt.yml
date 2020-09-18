@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.230930900000004
 longitude: 10.854421100000001
-postcode: 6430
+postcode: "6430"
 city: Haiming
 street: "Ötztaler Höhe"
 housenumber: 6

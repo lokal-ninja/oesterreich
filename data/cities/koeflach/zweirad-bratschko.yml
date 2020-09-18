@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 47.0644185
 longitude: 15.085288100000001
-postcode: 8580
+postcode: "8580"
 city: Köflach
 street: ""
 housenumber: 

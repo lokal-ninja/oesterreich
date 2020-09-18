@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.132103900000004
 longitude: 16.4379259
-postcode: 2320
+postcode: "2320"
 city: Schwechat
 street: "Klederinger Straße"
 housenumber: 88

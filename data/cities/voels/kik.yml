@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 47.258015300000004
 longitude: 11.323162400000001
-postcode: 6176
+postcode: "6176"
 city: Völs
 street: "Cytastraße"
 housenumber: 5
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
+website: "https://www.kik.at/filialfinder/3171/V%C3%B6ls/Cytastr._5"

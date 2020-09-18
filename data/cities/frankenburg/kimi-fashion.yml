@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0678374
 longitude: 13.490463400000001
-postcode: 4873
+postcode: "4873"
 city: Frankenburg
 street: "Hauptstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.20765
 longitude: 16.3936305
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Löwengasse"
 housenumber: 39

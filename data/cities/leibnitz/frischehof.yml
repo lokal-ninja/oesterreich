@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.798692900000006
 longitude: 15.556980800000002
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Im Lagerfeld"
 housenumber: 11

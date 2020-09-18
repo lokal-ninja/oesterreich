@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 47.1627804
 longitude: 9.8113255
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Alte Landstraße"
 housenumber: 56

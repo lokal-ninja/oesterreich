@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.324492400000004
 longitude: 11.199063500000001
-postcode: 6100
+postcode: "6100"
 city: Reith bei Seefeld
 street: "Krinz"
 housenumber: 34

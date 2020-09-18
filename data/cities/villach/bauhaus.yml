@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.5907616
 longitude: 13.8352477
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Triglavstraße"
 housenumber: 28

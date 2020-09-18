@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.1614483
 longitude: 16.3034524
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Hervicusgasse"
 housenumber: 44

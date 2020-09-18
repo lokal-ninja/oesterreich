@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.0722061
 longitude: 15.4516208
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Leonhardstraße"
 housenumber: 24

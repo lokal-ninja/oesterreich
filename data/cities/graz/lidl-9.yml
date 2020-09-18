@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.089576300000004
 longitude: 15.4111966
-postcode: 8051
+postcode: "8051"
 city: Graz
 street: "Wiener Straße"
 housenumber: 196

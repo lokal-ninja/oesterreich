@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.5678611
 longitude: 16.5710541
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Franz Josef-Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.220706500000006
 longitude: 16.3228978
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Hernalser Hauptstraße"
 housenumber: 123

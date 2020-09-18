@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.0040053
 longitude: 13.637450300000001
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Salzburger Straße"
 housenumber: 48

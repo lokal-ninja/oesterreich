@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.563545600000005
 longitude: 14.242783800000002
-postcode: 8940
+postcode: "8940"
 city: Liezen
 street: "Bahnhofweg"
 housenumber: 7

@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 48.4106876
 longitude: 15.598910900000002
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Obere Landstraße"
 housenumber: 11
 phone: "+43 2732 851 91"
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00; PH off"
 website: "https://www.dm-drogeriemarkt.at/"

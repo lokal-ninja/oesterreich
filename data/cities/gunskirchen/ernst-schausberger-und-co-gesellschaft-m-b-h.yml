@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.134154800000005
 longitude: 13.9489411
-postcode: 4623
+postcode: "4623"
 city: Gunskirchen
 street: "Heidestraße"
 housenumber: 19

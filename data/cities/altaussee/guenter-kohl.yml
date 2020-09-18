@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.6419949
 longitude: 13.769284800000001
-postcode: 8992
+postcode: "8992"
 city: Altaussee
 street: "Fischerndorf"
 housenumber: 13

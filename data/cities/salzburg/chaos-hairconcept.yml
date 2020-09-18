@@ -1,12 +1,12 @@
-id: 5341510646
+id: 7546629426
 type: node
 shop: Friseur
-latitude: 47.804223300000004
-longitude: 13.018883
-postcode: 5020
+latitude: 47.8019679
+longitude: 13.0190414
+postcode: "5020"
 city: Salzburg
 street: "Innsbrucker Bundesstraße"
-housenumber: 37
+housenumber: 47
 phone: "+43 662 425761"
-opening_hours: ""
-website: "https://chaos.at/"
+opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-15:00"
+website: "http://www.chaos.at"

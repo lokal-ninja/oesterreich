@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 48.0156245
 longitude: 13.725953100000002
-postcode: 4800
+postcode: "4800"
 city: Attnang-Puchheim
 street: "Waldstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.544700500000005
 longitude: 14.143626000000001
-postcode: 4184
+postcode: "4184"
 city: Helfenberg
 street: "Leonfelder Straße"
 housenumber: 15

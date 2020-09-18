@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3690441
 longitude: 16.0153146
-postcode: 8233
+postcode: "8233"
 city: Lafnitz
 street: ""
 housenumber: 253

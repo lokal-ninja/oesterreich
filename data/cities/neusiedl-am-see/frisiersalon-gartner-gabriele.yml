@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9407562
 longitude: 16.8518216
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Untere Hauptstraße"
 housenumber: 174

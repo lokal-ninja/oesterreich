@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.040936200000004
 longitude: 12.8342427
-postcode: 9844
+postcode: "9844"
 city: Heiligenblut am Großglockner
 street: "Winkl"
 housenumber: 98

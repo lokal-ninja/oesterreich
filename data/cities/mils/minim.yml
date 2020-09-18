@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.287351
 longitude: 11.5313774
-postcode: 6068
+postcode: "6068"
 city: Mils
 street: "Kirchstraße"
 housenumber: 7

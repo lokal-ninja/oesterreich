@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.052691800000005
 longitude: 14.419071700000002
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Ennser Straße"
 housenumber: 23

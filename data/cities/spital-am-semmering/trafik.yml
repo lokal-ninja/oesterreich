@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.6159387
 longitude: 15.753710900000002
-postcode: 8684
+postcode: "8684"
 city: Spital am Semmering
 street: "Bundesstraße"
 housenumber: 15a

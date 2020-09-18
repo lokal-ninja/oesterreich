@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.832979900000005
 longitude: 12.7805152
-postcode: 9900
+postcode: "9900"
 city: Lienz
 street: "Kärntner Straße"
 housenumber: 67a

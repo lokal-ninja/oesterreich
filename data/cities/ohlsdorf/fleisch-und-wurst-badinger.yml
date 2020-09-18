@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.9591526
 longitude: 13.789826900000001
-postcode: 4694
+postcode: "4694"
 city: Ohlsdorf
 street: "Hauptstraße"
 housenumber: 3

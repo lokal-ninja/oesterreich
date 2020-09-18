@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.2108068
 longitude: 16.3755494
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Rotenturmstraße"
 housenumber: 16-18

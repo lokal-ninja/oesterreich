@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.3010904
 longitude: 14.290658
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Landstraße"
 housenumber: 35

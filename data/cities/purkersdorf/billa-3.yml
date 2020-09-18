@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1871567
 longitude: 16.1245631
-postcode: 3011
+postcode: "3011"
 city: Purkersdorf
 street: "An der Stadlhütte"
 housenumber: 1e

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1976888
 longitude: 16.330754000000002
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Goldschlagstraße"
 housenumber: 36

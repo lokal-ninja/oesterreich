@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2670072
 longitude: 11.3963754
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Erlerstraße"
 housenumber: 1

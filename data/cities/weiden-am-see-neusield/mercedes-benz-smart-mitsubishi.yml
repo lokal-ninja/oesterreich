@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9369688
 longitude: 16.8560805
-postcode: 7121
+postcode: "7121"
 city: Weiden am See-Neusield
 street: "Obere Hauptstraße"
 housenumber: 92

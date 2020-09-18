@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.209234200000004
 longitude: 11.873135000000001
-postcode: 6284
+postcode: "6284"
 city: Ramsau im Zillertal
 street: "Ramsau"
 housenumber: 160

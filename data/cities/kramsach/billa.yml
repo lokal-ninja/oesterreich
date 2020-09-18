@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4464581
 longitude: 11.883478100000001
-postcode: 6233
+postcode: "6233"
 city: Kramsach
 street: "Kuglgasse"
 housenumber: 40

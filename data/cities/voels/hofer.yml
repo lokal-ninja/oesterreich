@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.256113500000005
 longitude: 11.324907300000001
-postcode: 6176
+postcode: "6176"
 city: Völs
 street: "Cytastraße"
 housenumber: 1

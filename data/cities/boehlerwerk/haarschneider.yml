@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9869597
 longitude: 14.7445348
-postcode: 3333
+postcode: "3333"
 city: Böhlerwerk
 street: "Dr.-Theodor-Körner-Hof"
 housenumber: 7

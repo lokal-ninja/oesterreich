@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.170895200000004
 longitude: 14.0324515
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Friedhofstraße"
 housenumber: 61

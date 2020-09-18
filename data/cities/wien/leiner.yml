@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.2605316
 longitude: 16.4745887
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Hermann-Gebauer-Straße"
 housenumber: 4

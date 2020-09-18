@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2688311
 longitude: 15.327685700000002
-postcode: 8130
+postcode: "8130"
 city: Frohnleiten
 street: "Josef-Ortis-Straße"
 housenumber: 12

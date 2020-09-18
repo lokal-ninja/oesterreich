@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3038479
 longitude: 15.344358900000001
-postcode: 3643
+postcode: "3643"
 city: Maria Laach am Jauerling
 street: ""
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.7250634
 longitude: 12.4992493
-postcode: 9941
+postcode: "9941"
 city: Kartitsch
 street: ""
 housenumber: 84a

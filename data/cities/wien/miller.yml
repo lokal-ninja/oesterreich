@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.185188000000004
 longitude: 16.3000261
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Altgasse"
 housenumber: 5

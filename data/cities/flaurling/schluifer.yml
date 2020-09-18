@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.290961900000006
 longitude: 11.124378
-postcode: 6403
+postcode: "6403"
 city: Flaurling
 street: "Salzstraße"
 housenumber: 6

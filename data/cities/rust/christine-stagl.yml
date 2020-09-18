@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.8005287
 longitude: 16.674036100000002
-postcode: 7071
+postcode: "7071"
 city: Rust
 street: "Conradplatz"
 housenumber: 3

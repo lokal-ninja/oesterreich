@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1406773
 longitude: 15.2813677
-postcode: 3244
+postcode: "3244"
 city: Ruprechtshofen
 street: "Hauptstraße"
 housenumber: 33

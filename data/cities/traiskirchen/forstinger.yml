@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.011218
 longitude: 16.296503700000002
-postcode: 2514
+postcode: "2514"
 city: Traiskirchen
 street: "Wiener Neustädter Straße"
 housenumber: 26

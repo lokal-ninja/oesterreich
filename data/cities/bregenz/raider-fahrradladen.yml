@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.5010891
 longitude: 9.736602000000001
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Bahnhofstraße"
 housenumber: 53

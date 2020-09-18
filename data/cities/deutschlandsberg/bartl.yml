@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.815052200000004
 longitude: 15.2146281
-postcode: 8530
+postcode: "8530"
 city: Deutschlandsberg
 street: "Hauptplatz"
 housenumber: 12

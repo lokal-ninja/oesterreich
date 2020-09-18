@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 47.0688503
 longitude: 15.4470597
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Kaiser-Josef-Platz"
 housenumber: 2

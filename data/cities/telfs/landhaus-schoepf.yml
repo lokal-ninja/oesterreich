@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3115827
 longitude: 11.1460231
-postcode: 6100
+postcode: "6100"
 city: Telfs
 street: "Möserer Dorfstraße"
 housenumber: 7

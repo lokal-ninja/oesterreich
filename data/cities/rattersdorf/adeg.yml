@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4109672
 longitude: 16.4988339
-postcode: 7443
+postcode: "7443"
 city: Rattersdorf
 street: "Esterhazyplatz"
 housenumber: 1

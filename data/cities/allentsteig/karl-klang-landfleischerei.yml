@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.6991718
 longitude: 15.319863000000002
-postcode: 3804
+postcode: "3804"
 city: Allentsteig
 street: "Zwettlerstraße"
 housenumber: 44

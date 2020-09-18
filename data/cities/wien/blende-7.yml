@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.2017249
 longitude: 16.3416174
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Westbahnstraße"
 housenumber: 31

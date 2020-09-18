@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.240314700000006
 longitude: 14.0577149
-postcode: 4613
+postcode: "4613"
 city: Buchkirchen
 street: "Mistelbacher Straße"
 housenumber: 9

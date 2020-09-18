@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.138184800000005
 longitude: 16.4792756
-postcode: 2320
+postcode: "2320"
 city: Schwechat
 street: "Franz Schubert-Straße"
 housenumber: 5-7

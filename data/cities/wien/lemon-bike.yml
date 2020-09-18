@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1783925
 longitude: 16.3796892
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Sonnwendgasse"
 housenumber: 38

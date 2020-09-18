@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.268337700000004
 longitude: 16.7151046
-postcode: 2283
+postcode: "2283"
 city: Obersiebenbrunn
 street: "Josef Slavik-Straße"
 housenumber: 1

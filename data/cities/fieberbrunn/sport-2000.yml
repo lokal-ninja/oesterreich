@@ -3,7 +3,7 @@ type: way
 shop: Ski
 latitude: 47.4680777
 longitude: 12.551043600000002
-postcode: 6391
+postcode: "6391"
 city: Fieberbrunn
 street: "Lindau"
 housenumber: 16b

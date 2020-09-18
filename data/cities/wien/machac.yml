@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.228107900000005
 longitude: 16.4558499
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Genochplatz"
 housenumber: 4

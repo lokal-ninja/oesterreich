@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.4977479
 longitude: 10.7191387
-postcode: 6600
+postcode: "6600"
 city: Reutte
 street: "Allgäuer Straße"
 housenumber: 45

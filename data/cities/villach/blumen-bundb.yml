@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 46.6124219
 longitude: 13.856261300000002
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Ossiacher Zeile"
 housenumber: 49

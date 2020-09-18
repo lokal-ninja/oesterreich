@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.9616052
 longitude: 14.772427100000002
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Unter der Burg"
 housenumber: 17

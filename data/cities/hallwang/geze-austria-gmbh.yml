@@ -1,12 +1,12 @@
 id: 255507620
 type: way
-shop: Allgemein
+shop: Eisenwaren
 latitude: 47.8558164
 longitude: 13.107892300000001
-postcode: 5300
+postcode: "5300"
 city: Hallwang
 street: "Wiener Bundesstraße"
 housenumber: 85
 phone: ""
 opening_hours: ""
-website: "www.geze.at"
+website: "https://www.geze.at"

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.330368400000005
 longitude: 14.318343800000001
-postcode: 4040
+postcode: "4040"
 city: Linz
 street: "Altenberger Straße"
 housenumber: 4

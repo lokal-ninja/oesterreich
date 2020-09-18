@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.731045900000005
 longitude: 13.834128000000002
-postcode: 4164
+postcode: "4164"
 city: Schwarzenberg am Böhmerwald
 street: "Hauptstraße"
 housenumber: 7

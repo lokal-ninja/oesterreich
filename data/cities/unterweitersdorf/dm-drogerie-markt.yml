@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.357392700000005
 longitude: 14.475149300000002
-postcode: 4210
+postcode: "4210"
 city: Unterweitersdorf
 street: "Betriebsstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1704791
 longitude: 14.0479458
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Hans-Sachs-Straße"
 housenumber: 128

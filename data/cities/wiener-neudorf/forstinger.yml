@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.079083600000004
 longitude: 16.3244976
-postcode: 2351
+postcode: "2351"
 city: Wiener Neudorf
 street: "Griesfeldstraße"
 housenumber: 13

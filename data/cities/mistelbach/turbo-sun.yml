@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.5672129
 longitude: 16.569441700000002
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Quergasse"
 housenumber: 4

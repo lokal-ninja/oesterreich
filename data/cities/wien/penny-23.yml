@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 48.229182300000005
 longitude: 16.367756200000002
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Klosterneuburger Straße"
 housenumber: 23-27
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
 website: ""

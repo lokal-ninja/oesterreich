@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.685502
 longitude: 15.383427600000001
-postcode: 8454
+postcode: "8454"
 city: Oberhaag
 street: ""
 housenumber: 73

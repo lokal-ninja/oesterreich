@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.3257763
 longitude: 16.055516100000002
-postcode: 3430
+postcode: "3430"
 city: Tulln an der Donau
 street: "Frauentorgasse"
 housenumber: 16

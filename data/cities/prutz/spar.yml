@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.0815403
 longitude: 10.661923600000001
-postcode: 6522
+postcode: "6522"
 city: Prutz
 street: "Reschen Straße"
 housenumber: 18

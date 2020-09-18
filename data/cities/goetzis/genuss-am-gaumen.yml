@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 47.3365505
 longitude: 9.649872700000001
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Im Buch"
 housenumber: 15

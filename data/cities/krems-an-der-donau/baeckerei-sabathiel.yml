@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4024255
 longitude: 15.584169200000002
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Steiner Donaulände"
 housenumber: 50

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.201713600000005
 longitude: 16.3465995
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Westbahnstraße"
 housenumber: 7

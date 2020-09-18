@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.340383200000005
 longitude: 14.1687635
-postcode: 4100
+postcode: "4100"
 city: Gemeinde Ottensheim
 street: "Hostauerstraße"
 housenumber: 62-68

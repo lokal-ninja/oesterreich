@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3482472
 longitude: 15.691080300000001
-postcode: 8190
+postcode: "8190"
 city: Birkfeld
 street: "Gasener-Straße"
 housenumber: 3

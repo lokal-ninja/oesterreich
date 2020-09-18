@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.3979124
 longitude: 11.8189851
-postcode: 6261
+postcode: "6261"
 city: Strass im Zillertal
 street: ""
 housenumber: 

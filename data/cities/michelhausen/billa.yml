@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2927509
 longitude: 15.932970300000001
-postcode: 3451
+postcode: "3451"
 city: Michelhausen
 street: "Rusterstraße"
 housenumber: 34

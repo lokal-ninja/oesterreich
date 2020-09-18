@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.2274584
 longitude: 16.5030639
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Ilse-Arlt-Straße"
 housenumber: 39

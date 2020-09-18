@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 46.6230185
 longitude: 14.3118321
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "8.-Mai-Straße"
 housenumber: 36

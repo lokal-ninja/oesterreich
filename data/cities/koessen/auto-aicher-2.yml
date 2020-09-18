@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.661815100000005
 longitude: 12.412888800000001
-postcode: 6345
+postcode: "6345"
 city: Kössen
 street: "Hütte"
 housenumber: 15

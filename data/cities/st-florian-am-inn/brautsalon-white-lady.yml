@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.4315341
 longitude: 13.444668400000001
-postcode: 4782
+postcode: "4782"
 city: St. Florian am Inn
 street: ""
 housenumber: 34

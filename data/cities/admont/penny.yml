@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.580614700000005
 longitude: 14.4594038
-postcode: 8911
+postcode: "8911"
 city: Admont
 street: "Hauptstraße"
 housenumber: 23

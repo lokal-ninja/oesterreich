@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.204298300000005
 longitude: 16.3502122
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Burggasse"
 housenumber: 42/4

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4109208
 longitude: 15.615578800000002
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Hohensteinstraße"
 housenumber: 72

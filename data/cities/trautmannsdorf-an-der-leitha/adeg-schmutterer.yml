@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.022244
 longitude: 16.6369459
-postcode: 2454
+postcode: "2454"
 city: Trautmannsdorf an der Leitha
 street: "Hauptstraße"
 housenumber: 68

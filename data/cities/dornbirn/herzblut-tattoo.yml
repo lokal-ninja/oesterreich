@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.4025383
 longitude: 9.7384854
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Hatlerstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8135859
 longitude: 16.2434873
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Hauptplatz"
 housenumber: 13

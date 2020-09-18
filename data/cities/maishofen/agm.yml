@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3519153
 longitude: 12.8009015
-postcode: 5751
+postcode: "5751"
 city: Maishofen
 street: "Zellerstraße"
 housenumber: 27

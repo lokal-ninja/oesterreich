@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1899214
 longitude: 16.362264500000002
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Ziegelofengasse"
 housenumber: 19/2

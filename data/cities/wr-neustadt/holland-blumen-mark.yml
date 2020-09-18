@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.8245504
 longitude: 16.2447714
-postcode: 2700
+postcode: "2700"
 city: Wr. Neustadt
 street: "Wiener Straße"
 housenumber: 75

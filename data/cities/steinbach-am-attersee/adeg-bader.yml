@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8310346
 longitude: 13.5484354
-postcode: 4853
+postcode: "4853"
 city: Steinbach am Attersee
 street: "Steinbach"
 housenumber: 8

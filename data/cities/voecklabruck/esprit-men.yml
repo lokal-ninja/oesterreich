@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0085112
 longitude: 13.6551284
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Stadtplatz"
 housenumber: 13

@@ -3,10 +3,10 @@ type: node
 shop: Kiosk
 latitude: 47.960393800000006
 longitude: 14.775997
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Ybbstorgasse"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:00-12:15, 14:00-18:15; Sa 06:30-12:15"
 website: ""

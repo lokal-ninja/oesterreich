@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.464274800000005
 longitude: 13.989741400000002
-postcode: 8960
+postcode: "8960"
 city: Öblarn
 street: ""
 housenumber: 163

@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 47.271179000000004
 longitude: 9.641430900000001
-postcode: 6830
+postcode: "6830"
 city: Rankweil
 street: "Bahnhofstraße"
 housenumber: 10

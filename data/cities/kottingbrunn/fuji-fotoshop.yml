@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 47.9355187
 longitude: 16.2194965
-postcode: 2542
+postcode: "2542"
 city: Kottingbrunn
 street: "Grenzgasse"
 housenumber: 3

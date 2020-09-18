@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.003261
 longitude: 13.6499386
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Friedhofstraße"
 housenumber: 8

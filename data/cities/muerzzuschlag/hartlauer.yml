@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.6066191
 longitude: 15.6736924
-postcode: 8680
+postcode: "8680"
 city: Mürzzuschlag
 street: "Stadtplatz"
 housenumber: 9

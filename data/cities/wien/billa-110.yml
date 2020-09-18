@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.226443100000004
 longitude: 16.400489500000003
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Engerthstraße"
 housenumber: 160-178

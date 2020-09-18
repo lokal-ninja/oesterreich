@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.462962600000004
 longitude: 13.2578294
-postcode: 5453
+postcode: "5453"
 city: Werfenweng
 street: "Weng"
 housenumber: 151

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2620451
 longitude: 11.416170500000002
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Amraser Straße"
 housenumber: 75

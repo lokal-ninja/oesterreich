@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2547416
 longitude: 14.2798674
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Wegscheider Straße"
 housenumber: 20

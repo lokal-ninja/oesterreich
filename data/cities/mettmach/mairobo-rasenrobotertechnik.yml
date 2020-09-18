@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.1725707
 longitude: 13.345407100000001
-postcode: 4931
+postcode: "4931"
 city: Mettmach
 street: "Rieder Straße"
 housenumber: 7

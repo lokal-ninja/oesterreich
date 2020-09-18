@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 46.6124966
 longitude: 13.8444924
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Widmanngasse"
 housenumber: 43

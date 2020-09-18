@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 47.496262900000005
 longitude: 9.734454900000001
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Arlbergstraße"
 housenumber: 65

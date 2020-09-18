@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.116633
 longitude: 15.3415773
-postcode: 8111
+postcode: "8111"
 city: Gratwein-Straßengel
 street: "Gratweiner Straße"
 housenumber: 23

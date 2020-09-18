@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1619645
 longitude: 16.3199124
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Sagedergasse"
 housenumber: 18-22

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.538678600000004
 longitude: 15.189185700000001
-postcode: 3913
+postcode: "3913"
 city: Großgöttfritz
 street: ""
 housenumber: 45

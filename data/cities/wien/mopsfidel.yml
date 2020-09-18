@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.1810295
 longitude: 16.3332769
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Meidlinger Markt Stand"
 housenumber: 4-5

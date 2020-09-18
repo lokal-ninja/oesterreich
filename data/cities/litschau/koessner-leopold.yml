@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 48.944079
 longitude: 15.0461159
-postcode: 3874
+postcode: "3874"
 city: Litschau
 street: "Stadtplatz"
 housenumber: 28

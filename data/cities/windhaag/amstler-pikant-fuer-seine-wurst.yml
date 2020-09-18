@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.284016300000005
 longitude: 14.6825921
-postcode: 4322
+postcode: "4322"
 city: Windhaag
 street: "Eva-Magdalena-Straße"
 housenumber: 12

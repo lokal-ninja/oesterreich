@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3258358
 longitude: 11.866193
-postcode: 6271
+postcode: "6271"
 city: Uderns
 street: "Am Giessen"
 housenumber: 3

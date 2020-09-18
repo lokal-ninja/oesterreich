@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3814921
 longitude: 15.094626900000002
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Dominikanergasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2343859
 longitude: 13.073165000000001
-postcode: 5280
+postcode: "5280"
 city: St. Peter am Hart
 street: ""
 housenumber: 63

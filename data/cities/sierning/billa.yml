@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0479302
 longitude: 14.318052300000002
-postcode: 4522
+postcode: "4522"
 city: Sierning
 street: "Steyrer Straße"
 housenumber: 54a

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.057718400000006
 longitude: 15.4306531
-postcode: 
+postcode: ""
 city: Graz
 street: "Triester Straße"
 housenumber: 11-13

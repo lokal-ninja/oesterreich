@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0526004
 longitude: 14.128207600000001
-postcode: 4550
+postcode: "4550"
 city: Kremsmünster
 street: "Hauptstraße"
 housenumber: 19

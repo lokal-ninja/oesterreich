@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.258949900000005
 longitude: 13.035228900000002
-postcode: 5280
+postcode: "5280"
 city: Braunau am Inn
 street: "Stadtplatz"
 housenumber: 49

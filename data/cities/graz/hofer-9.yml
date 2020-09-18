@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.02773800000001
 longitude: 15.3998883
-postcode: 8054
+postcode: "8054"
 city: Graz
 street: "Weiberfelderweg"
 housenumber: 1

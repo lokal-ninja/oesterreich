@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 47.4761955
 longitude: 12.545116100000001
-postcode: 6391
+postcode: "6391"
 city: Fieberbrunn
 street: "Dorfstraße"
 housenumber: 26

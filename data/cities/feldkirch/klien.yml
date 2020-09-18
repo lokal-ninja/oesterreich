@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.248406200000005
 longitude: 9.5838497
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Illstraße"
 housenumber: 51

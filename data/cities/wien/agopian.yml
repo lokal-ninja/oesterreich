@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2075424
 longitude: 16.370122900000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Spiegelgasse"
 housenumber: 4

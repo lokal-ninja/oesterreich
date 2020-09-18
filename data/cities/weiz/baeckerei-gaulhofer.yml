@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2196538
 longitude: 15.623713400000002
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Kapfensteinergasse"
 housenumber: 9

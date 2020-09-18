@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.076942900000006
 longitude: 15.4444663
-postcode: 
+postcode: ""
 city: Graz
 street: "Glacisstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.0250573
 longitude: 13.2918316
-postcode: 5212
+postcode: "5212"
 city: Lengau
 street: "Kobernaußerwaldstraße"
 housenumber: 15

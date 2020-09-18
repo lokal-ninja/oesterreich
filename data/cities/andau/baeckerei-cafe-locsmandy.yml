@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.7759621
 longitude: 17.0328455
-postcode: 7163
+postcode: "7163"
 city: Andau
 street: "Andreas-Mayerplatz"
 housenumber: 2

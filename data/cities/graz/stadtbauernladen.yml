@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.069113400000006
 longitude: 15.442947100000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Hamerlinggasse"
 housenumber: 3

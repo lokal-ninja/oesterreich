@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.1405966
 longitude: 13.411803800000001
-postcode: 4923
+postcode: "4923"
 city: Lohnsburg am Kobernaußerwald
 street: ""
 housenumber: 178

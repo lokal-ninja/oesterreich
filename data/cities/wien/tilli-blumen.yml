@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.2282008
 longitude: 16.4559167
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: ""
 housenumber: 

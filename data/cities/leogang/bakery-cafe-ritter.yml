@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4400598
 longitude: 12.763761
-postcode: 5771
+postcode: "5771"
 city: Leogang
 street: "Leogang"
 housenumber: 82

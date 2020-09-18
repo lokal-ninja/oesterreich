@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.828308
 longitude: 16.524996400000003
-postcode: 7000
+postcode: "7000"
 city: Eisenstadt
 street: "Siegfried Markus Gasse"
 housenumber: 4

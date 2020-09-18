@@ -1,12 +1,12 @@
-id: 2577022337
+id: 2568626439
 type: node
 shop: Supermarkt
-latitude: 48.2467419
-longitude: 16.4524753
-postcode: 1220
+latitude: 48.2578735
+longitude: 16.452455800000003
+postcode: "1220"
 city: Wien
-street: "Hirschstettner Straße"
-housenumber: 13
-phone: "+43 1 2022841"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-wien-1220-hirschstettner-strasse-13"
+street: "Rennbahnweg"
+housenumber: 
+phone: ""
+opening_hours: "Mo-Th 07:30-19:00; Fr 07:30-19:30; Sa 07:30-18:00"
+website: ""

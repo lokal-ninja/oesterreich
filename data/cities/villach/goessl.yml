@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.614421500000006
 longitude: 13.8471881
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Hauptplatz"
 housenumber: 7

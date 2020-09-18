@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2875735
 longitude: 14.105824100000001
-postcode: 4072
+postcode: "4072"
 city: Alkoven
 street: "Prägartnerhofstraße"
 housenumber: 1

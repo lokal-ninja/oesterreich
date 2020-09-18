@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.973773200000004
 longitude: 16.6022407
-postcode: 2452
+postcode: "2452"
 city: Mannersdorf
 street: "Hauptstraße"
 housenumber: 41

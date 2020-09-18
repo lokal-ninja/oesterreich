@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.937541200000005
 longitude: 12.921114800000002
-postcode: 83410
+postcode: "83410"
 city: Laufen
 street: "Tittmoninger Straße"
 housenumber: 55

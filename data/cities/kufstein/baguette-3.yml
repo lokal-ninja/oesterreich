@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.574358100000005
 longitude: 12.1573659
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Salurner Straße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.4701996
 longitude: 15.6634512
-postcode: 3550
+postcode: "3550"
 city: Langenlois
 street: "Großer Buriweg"
 housenumber: 26

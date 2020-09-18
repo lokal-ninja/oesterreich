@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 47.385104600000005
 longitude: 15.121413100000002
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Kärntner Straße"
 housenumber: 18

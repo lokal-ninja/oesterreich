@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.1504613
 longitude: 16.3326171
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Willendorfer Gasse"
 housenumber: 11

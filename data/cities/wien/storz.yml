@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.1911174
 longitude: 16.3999545
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Landstraßer Hauptstraße"
 housenumber: 148

@@ -1,12 +1,12 @@
-id: 3705225193
+id: 7762500295
 type: node
 shop: Supermarkt
-latitude: 47.499449000000006
-longitude: 9.7324781
-postcode: 6900
+latitude: 47.495474800000004
+longitude: 9.714268
+postcode: "6900"
 city: Bregenz
-street: "Mariahilfstraße"
-housenumber: 2
+street: "Rheinstraße"
+housenumber: 72
 phone: ""
 opening_hours: "Mo-Fr 07:30-19:45; Sa 07:15-18:00"
 website: ""

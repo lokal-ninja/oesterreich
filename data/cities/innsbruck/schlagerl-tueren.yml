@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.2671287
 longitude: 11.4453232
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Archenweg"
 housenumber: 54

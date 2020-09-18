@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0245012
 longitude: 15.4314218
-postcode: 3204
+postcode: "3204"
 city: Kichberg an der Pielach
 street: "Friedenstraße"
 housenumber: 12

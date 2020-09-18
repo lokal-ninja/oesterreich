@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.182453800000005
 longitude: 14.672651600000002
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf-Gabelhofen
 street: "Bundesstraße"
 housenumber: 30

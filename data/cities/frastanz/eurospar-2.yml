@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.218682300000005
 longitude: 9.6365142
-postcode: 6820
+postcode: "6820"
 city: Frastanz
 street: "Bahnhofstraße"
 housenumber: 44

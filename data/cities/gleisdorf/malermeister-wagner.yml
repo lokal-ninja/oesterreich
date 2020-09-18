@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 47.1008335
 longitude: 15.7109801
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Gartengasse"
 housenumber: 25

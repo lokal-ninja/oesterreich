@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 48.226431500000004
 longitude: 16.3443194
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Währinger Straße"
 housenumber: 112

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.6792947
 longitude: 14.3470583
-postcode: 9063
+postcode: "9063"
 city: Maria Saal
 street: "Maria Saaler Berg Weg"
 housenumber: 8

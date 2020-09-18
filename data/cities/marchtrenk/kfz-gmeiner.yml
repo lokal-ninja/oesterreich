@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1991712
 longitude: 14.1492891
-postcode: 4614
+postcode: "4614"
 city: Marchtrenk
 street: "Forellenstraße"
 housenumber: 1

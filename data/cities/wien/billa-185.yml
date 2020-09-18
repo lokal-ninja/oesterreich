@@ -1,12 +1,12 @@
-id: 26633486
-type: way
+id: 7851431339
+type: node
 shop: Supermarkt
-latitude: 48.239417200000005
-longitude: 16.4291285
-postcode: 1220
+latitude: 48.209072500000005
+longitude: 16.3553512
+postcode: "1010"
 city: Wien
-street: "Wagramer Straße"
-housenumber: 53
+street: "Rathausstraße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:50, Sa 07:40-18:00"
-website: ""
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+website: "https://www.billa.at/"

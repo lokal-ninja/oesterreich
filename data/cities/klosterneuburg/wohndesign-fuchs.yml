@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.308466900000006
 longitude: 16.3220679
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Stadtplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 46.9677145
 longitude: 11.0081293
-postcode: 6450
+postcode: "6450"
 city: Sölden
 street: "Dorfstraße"
 housenumber: 21

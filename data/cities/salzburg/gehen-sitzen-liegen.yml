@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.806266300000004
 longitude: 13.047152100000002
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Schrannengasse"
 housenumber: 12

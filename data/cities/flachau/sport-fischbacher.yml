@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.3595732
 longitude: 13.3831535
-postcode: 5542
+postcode: "5542"
 city: Flachau
 street: "Liftstraße"
 housenumber: 281

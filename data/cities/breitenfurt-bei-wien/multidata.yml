@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 48.1363763
 longitude: 16.1916847
-postcode: 2384
+postcode: "2384"
 city: Breitenfurt bei Wien
 street: "Georg Sigl-Straße"
 housenumber: 14

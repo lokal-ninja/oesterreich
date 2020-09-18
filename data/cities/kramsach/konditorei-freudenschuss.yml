@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.4465426
 longitude: 11.8845179
-postcode: 6233
+postcode: "6233"
 city: Kramsach
 street: "Zentrum"
 housenumber: 38

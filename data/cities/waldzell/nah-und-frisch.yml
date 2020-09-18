@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.136654400000005
 longitude: 13.424816400000001
-postcode: 4924
+postcode: "4924"
 city: Waldzell
 street: "Winterbahn"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.212135
 longitude: 16.5223957
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Schlachthammerstraße"
 housenumber: 76

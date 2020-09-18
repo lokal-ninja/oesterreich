@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8104792
 longitude: 13.0015917
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Etrichstraße"
 housenumber: 31

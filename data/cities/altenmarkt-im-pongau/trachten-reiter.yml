@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.379627400000004
 longitude: 13.420588400000002
-postcode: 5541
+postcode: "5541"
 city: Altenmarkt im Pongau
 street: "Obere Marktstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8060284
 longitude: 16.2069689
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Puchbergerstraße"
 housenumber: 31

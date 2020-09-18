@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.599833100000005
 longitude: 13.8262213
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Villacher Schächtestraße"
 housenumber: 39

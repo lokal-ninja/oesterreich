@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 46.9528784
 longitude: 15.889046
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: ""
 housenumber: 9

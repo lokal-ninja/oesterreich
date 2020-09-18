@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 46.801562200000006
 longitude: 15.759170500000002
-postcode: 8093
+postcode: "8093"
 city: Sankt Peter am Ottersbach
 street: "Hauptstraße"
 housenumber: 15

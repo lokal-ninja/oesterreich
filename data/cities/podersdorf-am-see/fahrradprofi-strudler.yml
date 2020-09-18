@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.8511808
 longitude: 16.8264141
-postcode: 7141
+postcode: "7141"
 city: Podersdorf am See
 street: "Satzgasse"
 housenumber: 22

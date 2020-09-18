@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1891383
 longitude: 16.3635428
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Ziegelofengasse"
 housenumber: 4

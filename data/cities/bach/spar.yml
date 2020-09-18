@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2685564
 longitude: 10.401593100000001
-postcode: 6653
+postcode: "6653"
 city: Bach
 street: ""
 housenumber: 89

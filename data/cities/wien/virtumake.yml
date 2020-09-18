@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.2314802
 longitude: 16.3616453
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Spittelauer Lände"
 housenumber: 10/3

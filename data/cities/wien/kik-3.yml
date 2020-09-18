@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3016682
 longitude: 16.4240268
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Brünner Straße"
 housenumber: 

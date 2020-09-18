@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.202795
 longitude: 15.344845200000002
-postcode: 8120
+postcode: "8120"
 city: Peggau
 street: "Grazer Straße"
 housenumber: 28

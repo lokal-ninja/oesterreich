@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 48.1201821
 longitude: 14.8708258
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Roseggerstraße"
 housenumber: 2

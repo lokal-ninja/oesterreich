@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5050034
 longitude: 14.1040363
-postcode: 8952
+postcode: "8952"
 city: Irdning-Donnersbachtal
 street: "Klostergasse"
 housenumber: 4

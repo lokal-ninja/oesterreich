@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.9709853
 longitude: 13.104962800000001
-postcode: 5163
+postcode: "5163"
 city: Mattsee
 street: "Seestraße"
 housenumber: 3

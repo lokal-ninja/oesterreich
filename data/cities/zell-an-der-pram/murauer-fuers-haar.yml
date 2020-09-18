@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.317089700000004
 longitude: 13.628679
-postcode: 4755
+postcode: "4755"
 city: Zell an der Pram
 street: "Bahnstraße"
 housenumber: 2

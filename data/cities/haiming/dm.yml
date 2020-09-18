@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.2305222
 longitude: 10.856679000000002
-postcode: 6430
+postcode: "6430"
 city: Haiming
 street: "Ötztaler Höhe"
 housenumber: 11

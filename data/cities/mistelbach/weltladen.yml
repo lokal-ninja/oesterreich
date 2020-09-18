@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.5682884
 longitude: 16.5714823
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Marktgasse"
 housenumber: 1-3

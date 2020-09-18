@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0036786
 longitude: 13.6587191
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Linzer Straße"
 housenumber: 15

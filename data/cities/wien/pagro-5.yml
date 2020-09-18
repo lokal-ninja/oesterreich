@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.1325938
 longitude: 16.3218672
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Triester Straße"
 housenumber: 282-284

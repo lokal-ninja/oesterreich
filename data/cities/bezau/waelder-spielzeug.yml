@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.382356300000005
 longitude: 9.8967334
-postcode: 6870
+postcode: "6870"
 city: Bezau
 street: ""
 housenumber: 148

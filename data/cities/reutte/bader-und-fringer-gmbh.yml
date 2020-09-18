@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.4849029
 longitude: 10.720147
-postcode: 6600
+postcode: "6600"
 city: Reutte
 street: "Kög"
 housenumber: 2

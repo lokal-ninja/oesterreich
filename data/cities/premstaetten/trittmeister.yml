@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 46.9627664
 longitude: 15.4172811
-postcode: 8141
+postcode: "8141"
 city: Premstätten
 street: "Bierbaum"
 housenumber: 44

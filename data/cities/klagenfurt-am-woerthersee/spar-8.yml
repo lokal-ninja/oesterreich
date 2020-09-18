@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.6128073
 longitude: 14.283170700000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Maria-Platzer-Straße"
 housenumber: 8

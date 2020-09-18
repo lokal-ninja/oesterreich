@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 47.800306500000005
 longitude: 13.042634000000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Getreidegasse"
 housenumber: 18a

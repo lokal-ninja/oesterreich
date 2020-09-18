@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.9914654
 longitude: 16.2762153
-postcode: 2512
+postcode: "2512"
 city: Schafflerhofsiedlung
 street: "Oberwaltersdorfer Straße"
 housenumber: 202

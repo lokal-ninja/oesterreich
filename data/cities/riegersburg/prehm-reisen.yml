@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.0265141
 longitude: 15.8895026
-postcode: 8312
+postcode: "8312"
 city: Riegersburg
 street: ""
 housenumber: 13

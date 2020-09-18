@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.26677290000001
 longitude: 13.564993500000002
-postcode: 4753
+postcode: "4753"
 city: Taiskirchen im Innkreis
 street: ""
 housenumber: 1

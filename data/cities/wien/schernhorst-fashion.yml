@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.192947800000006
 longitude: 16.333885000000002
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Mariahilfer Straße"
 housenumber: 167

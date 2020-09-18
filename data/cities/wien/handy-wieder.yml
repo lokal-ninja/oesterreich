@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 48.1966854
 longitude: 16.365573
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Margaretenstraße"
 housenumber: 11

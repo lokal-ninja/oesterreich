@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.2806864
 longitude: 9.6188845
-postcode: 6830
+postcode: "6830"
 city: Rankweil
 street: "Appenzeller Straße"
 housenumber: 20

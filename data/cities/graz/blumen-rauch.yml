@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.078188100000006
 longitude: 15.464042300000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Leonhardplatz"
 housenumber: 1

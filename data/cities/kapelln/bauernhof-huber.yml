@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.261993600000004
 longitude: 15.7826824
-postcode: 3141
+postcode: "3141"
 city: Kapelln
 street: ""
 housenumber: 1

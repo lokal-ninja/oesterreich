@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.8044826
 longitude: 13.0492526
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Linzer Gasse"
 housenumber: 74

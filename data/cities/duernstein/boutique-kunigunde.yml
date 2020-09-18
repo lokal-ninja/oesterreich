@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.3949152
 longitude: 15.520569900000002
-postcode: 3601
+postcode: "3601"
 city: Dürnstein
 street: ""
 housenumber: 11

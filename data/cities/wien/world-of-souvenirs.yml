@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.209133
 longitude: 16.3724786
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Stephansplatz"
 housenumber: 8

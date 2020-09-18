@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.0386353
 longitude: 15.412583600000001
-postcode: 8053
+postcode: "8053"
 city: Graz
 street: "Kärntner Straße"
 housenumber: 233

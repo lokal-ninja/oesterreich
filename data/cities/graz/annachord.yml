@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.0698803
 longitude: 15.436052900000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Neutorgasse"
 housenumber: 30

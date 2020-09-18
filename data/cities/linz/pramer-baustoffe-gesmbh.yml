@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.312605700000006
 longitude: 14.2804982
-postcode: 4040
+postcode: "4040"
 city: Linz
 street: "Stadlbauerstraße"
 housenumber: 3

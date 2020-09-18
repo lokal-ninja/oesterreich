@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3170306
 longitude: 9.9997483
-postcode: 6883
+postcode: "6883"
 city: Au
 street: "Lugen"
 housenumber: 189

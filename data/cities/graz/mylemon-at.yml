@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.058484400000005
 longitude: 15.4303951
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Triester Straße"
 housenumber: 2

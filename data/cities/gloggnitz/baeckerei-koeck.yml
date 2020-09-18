@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.675048000000004
 longitude: 15.940257700000002
-postcode: 2640
+postcode: "2640"
 city: Gloggnitz
 street: "Wiener Straße"
 housenumber: 8

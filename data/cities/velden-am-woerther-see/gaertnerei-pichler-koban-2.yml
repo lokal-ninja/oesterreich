@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 46.624634900000004
 longitude: 14.0448746
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Göriacher Straße"
 housenumber: 24

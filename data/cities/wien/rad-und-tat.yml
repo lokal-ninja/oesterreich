@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.250658800000004
 longitude: 16.4117445
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Fultonstraße"
 housenumber: 5-11/7/R1

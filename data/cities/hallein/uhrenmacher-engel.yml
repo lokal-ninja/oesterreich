@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.684228000000004
 longitude: 13.098438400000001
-postcode: 5400
+postcode: "5400"
 city: Hallein
 street: "Bahnhofstraße"
 housenumber: 4

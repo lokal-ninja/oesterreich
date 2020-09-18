@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.1672942
 longitude: 14.023275400000001
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Wallerer Straße"
 housenumber: 8

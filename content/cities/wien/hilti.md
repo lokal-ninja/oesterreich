@@ -1,4 +1,4 @@
 ---
-title: "Hilti"
+title: "HILTI"
 url: /wien/hilti/
 ---

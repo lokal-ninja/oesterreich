@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsartikel
 latitude: 48.3435878
 longitude: 14.439826900000002
-postcode: 4209
+postcode: "4209"
 city: Engerwitzdorf
 street: "Engerwitzdorfer Straße"
 housenumber: 40

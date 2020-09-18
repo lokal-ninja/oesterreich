@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.0705125
 longitude: 15.441076500000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Stempfergasse"
 housenumber: 3

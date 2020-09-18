@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3876925
 longitude: 16.186092600000002
-postcode: 2000
+postcode: "2000"
 city: Stockerau
 street: "Horner Straße"
 housenumber: 74

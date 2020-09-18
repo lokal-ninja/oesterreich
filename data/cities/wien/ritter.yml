@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 48.1958059
 longitude: 16.3478076
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Schmalzhofgasse"
 housenumber: 1

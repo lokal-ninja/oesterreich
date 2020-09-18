@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 47.112176100000006
 longitude: 14.186024300000001
-postcode: 8850
+postcode: "8850"
 city: Murau
 street: ""
 housenumber: 87

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0853825
 longitude: 16.358944
-postcode: 2362
+postcode: "2362"
 city: Biedermannsdorf
 street: "Siegfried Marcus-Straße"
 housenumber: 18

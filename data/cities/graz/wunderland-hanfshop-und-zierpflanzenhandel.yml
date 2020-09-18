@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.026707200000004
 longitude: 15.4329131
-postcode: 8055
+postcode: "8055"
 city: Graz
 street: "Berschenygasse"
 housenumber: 8

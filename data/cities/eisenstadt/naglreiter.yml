@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.8469616
 longitude: 16.5315483
-postcode: 7000
+postcode: "7000"
 city: Eisenstadt
 street: "Neusiedler Straße"
 housenumber: 40

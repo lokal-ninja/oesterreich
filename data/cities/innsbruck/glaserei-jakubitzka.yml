@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 47.2689011
 longitude: 11.402618400000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Viaduktbogen"
 housenumber: 28-29

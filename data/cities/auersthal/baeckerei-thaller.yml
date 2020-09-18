@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3727388
 longitude: 16.640605
-postcode: 2214
+postcode: "2214"
 city: Auersthal
 street: "Hauptstraße"
 housenumber: 117

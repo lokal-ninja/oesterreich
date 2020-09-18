@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.2151371
 longitude: 16.3468214
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Alser Straße"
 housenumber: 45

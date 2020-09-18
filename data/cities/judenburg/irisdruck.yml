@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 47.169146000000005
 longitude: 14.665549100000002
-postcode: 8750
+postcode: "8750"
 city: Judenburg
 street: "Martiniplatz"
 housenumber: 1

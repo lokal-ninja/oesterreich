@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 47.053158800000006
 longitude: 15.4759481
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Sankt-Peter-Hauptstraße"
 housenumber: 

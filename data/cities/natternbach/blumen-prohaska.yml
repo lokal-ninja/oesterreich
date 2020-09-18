@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.384747100000006
 longitude: 13.752224
-postcode: 4723
+postcode: "4723"
 city: Natternbach
 street: "Hauserstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.9131316
 longitude: 16.7018765
-postcode: 7083
+postcode: "7083"
 city: Purbach am Neusiedler See
 street: "Angergasse"
 housenumber: 23A

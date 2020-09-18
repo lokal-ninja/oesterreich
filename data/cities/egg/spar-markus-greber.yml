@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.430801800000005
 longitude: 9.8975015
-postcode: 6863
+postcode: "6863"
 city: Egg
 street: "Loco"
 housenumber: 910

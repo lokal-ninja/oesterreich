@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.994552500000005
 longitude: 16.3405709
-postcode: 2521
+postcode: "2521"
 city: Trumau
 street: "Schloßgasse"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.355386100000004
 longitude: 11.7134937
-postcode: 6130
+postcode: "6130"
 city: Schwaz
 street: "Mag.-Außerhofer-Straße"
 housenumber: 8

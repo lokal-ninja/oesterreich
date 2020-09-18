@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 46.8849327
 longitude: 15.742838
-postcode: 8083
+postcode: "8083"
 city: Sankt Stefan im Rosental
 street: ""
 housenumber: 22

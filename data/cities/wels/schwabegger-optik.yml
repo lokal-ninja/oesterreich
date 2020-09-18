@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1580443
 longitude: 14.023669100000001
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Ringstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.281645100000006
 longitude: 11.5054113
-postcode: 6060
+postcode: "6060"
 city: Hall in Tirol
 street: "Waldaufstraße"
 housenumber: 8

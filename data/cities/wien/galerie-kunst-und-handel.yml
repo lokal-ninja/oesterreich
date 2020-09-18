@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.2046416
 longitude: 16.3752077
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Himmelpfortgasse"
 housenumber: 22

@@ -1,12 +1,12 @@
-id: 60604776
+id: 47032314
 type: way
 shop: Supermarkt
-latitude: 48.206895100000004
-longitude: 16.222620600000003
-postcode: 1140
+latitude: 48.2602324
+longitude: 16.409540800000002
+postcode: "1210"
 city: Wien
-street: "Albert-Schweitzer-Gasse"
-housenumber: 1a
-phone: "+43 1 5772440"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+street: "Leopoldauer Straße"
+housenumber: 45
+phone: ""
+opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 47.0530734
 longitude: 15.414059900000002
-postcode: 8053
+postcode: "8053"
 city: Graz
 street: "Harter Straße"
 housenumber: 48

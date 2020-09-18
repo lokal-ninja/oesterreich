@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.8237152
 longitude: 16.2575597
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Stadionstraße"
 housenumber: 4-12

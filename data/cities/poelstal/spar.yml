@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2806197
 longitude: 14.4806948
-postcode: 8763
+postcode: "8763"
 city: Pölstal
 street: "Hauptstraße"
 housenumber: 7

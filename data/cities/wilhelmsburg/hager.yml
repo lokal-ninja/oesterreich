@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1050283
 longitude: 15.605505500000001
-postcode: 3150
+postcode: "3150"
 city: Wilhelmsburg
 street: "Hauptplatz"
 housenumber: 1

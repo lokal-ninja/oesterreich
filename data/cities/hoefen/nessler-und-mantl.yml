@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.4744869
 longitude: 10.689403400000002
-postcode: 6604
+postcode: "6604"
 city: Höfen
 street: "Bergbahnstraße"
 housenumber: 5

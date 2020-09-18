@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.831468
 longitude: 16.1671739
-postcode: 2721
+postcode: "2721"
 city: Bad Fischau
 street: "Wiener Neustädter Straße"
 housenumber: 3

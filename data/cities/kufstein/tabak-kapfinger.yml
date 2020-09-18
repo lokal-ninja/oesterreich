@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.5829876
 longitude: 12.171542700000002
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Kreuzgasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.162385300000004
 longitude: 15.488680800000001
-postcode: 8061
+postcode: "8061"
 city: Sankt Radegund bei Graz
 street: "Rinnegger Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 48.0354989
 longitude: 14.207588500000002
-postcode: 4540
+postcode: "4540"
 city: Bad Hall
 street: "Kirchenstraße"
 housenumber: 15

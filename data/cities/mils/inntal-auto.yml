@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.2812363
 longitude: 11.5344698
-postcode: 6068
+postcode: "6068"
 city: Mils
 street: "Bundesstraße"
 housenumber: 16

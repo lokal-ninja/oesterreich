@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.151870800000005
 longitude: 13.9835559
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Löwenzahnstraße"
 housenumber: 6

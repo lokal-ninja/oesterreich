@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.1990927
 longitude: 13.9539614
-postcode: 4631
+postcode: "4631"
 city: Krenglbach
 street: "Krenglbacher Straße"
 housenumber: 40

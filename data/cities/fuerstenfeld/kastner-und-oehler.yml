@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.0508966
 longitude: 16.0772835
-postcode: 8280
+postcode: "8280"
 city: Fürstenfeld
 street: "Hauptplatz"
 housenumber: 9

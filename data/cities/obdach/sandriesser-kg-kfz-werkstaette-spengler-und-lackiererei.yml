@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.072106600000005
 longitude: 14.6826313
-postcode: 8742
+postcode: "8742"
 city: Obdach
 street: "Rötsch"
 housenumber: 30

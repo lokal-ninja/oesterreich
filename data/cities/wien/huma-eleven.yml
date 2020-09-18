@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.1688247
 longitude: 16.471669900000002
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Landwehrstraße"
 housenumber: 6

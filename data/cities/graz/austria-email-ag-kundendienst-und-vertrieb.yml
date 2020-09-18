@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.0377942
 longitude: 15.413005000000002
-postcode: 8054
+postcode: "8054"
 city: Graz
 street: "Dr.-Heschl-Weg"
 housenumber: 6

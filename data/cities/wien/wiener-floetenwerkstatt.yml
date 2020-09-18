@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.1992112
 longitude: 16.3889949
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Neulinggasse"
 housenumber: 20

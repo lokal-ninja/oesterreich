@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8448397
 longitude: 16.2435867
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Johann Giefing-Straße"
 housenumber: 

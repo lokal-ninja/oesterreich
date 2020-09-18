@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2659299
 longitude: 11.388286
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Innrain"
 housenumber: 30b

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 46.5896763
 longitude: 14.018325800000001
-postcode: 9232
+postcode: "9232"
 city: Rosegg
 street: "Rosegger Straße"
 housenumber: 24

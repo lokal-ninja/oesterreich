@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.5288046
 longitude: 12.4273301
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Salzburgerstraße"
 housenumber: 22a

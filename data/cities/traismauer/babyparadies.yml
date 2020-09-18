@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 48.350292800000005
 longitude: 15.745298700000001
-postcode: 3133
+postcode: "3133"
 city: Traismauer
 street: "Wienerstraße"
 housenumber: 17

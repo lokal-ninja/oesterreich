@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.8934136
 longitude: 15.265926700000001
-postcode: 8510
+postcode: "8510"
 city: Stainz
 street: ""
 housenumber: 12

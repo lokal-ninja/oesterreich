@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.328637900000004
 longitude: 16.055803400000002
-postcode: 3430
+postcode: "3430"
 city: Tulln an der Donau
 street: "Bahnhofstraße"
 housenumber: 29

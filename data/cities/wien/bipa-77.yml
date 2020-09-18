@@ -1,12 +1,12 @@
-id: 3508598757
+id: 3512425400
 type: node
 shop: Drogerie
-latitude: 48.2166866
-longitude: 16.377727500000002
-postcode: 1020
+latitude: 48.137724500000004
+longitude: 16.299674
+postcode: "1230"
 city: Wien
-street: "Hollandstrasse"
-housenumber: 20
+street: "Perfektastraße"
+housenumber: 106
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-18:00; PH off"
+website: "https://www.bipa.at/"

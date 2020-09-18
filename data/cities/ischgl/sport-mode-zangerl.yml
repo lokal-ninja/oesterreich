@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.0112103
 longitude: 10.2908135
-postcode: 6561
+postcode: "6561"
 city: Ischgl
 street: "Dorfstraße"
 housenumber: 63

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.201979800000004
 longitude: 16.3628463
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Getreidemarkt"
 housenumber: 14

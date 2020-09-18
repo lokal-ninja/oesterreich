@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.3700373
 longitude: 15.607663400000002
-postcode: 3511
+postcode: "3511"
 city: Aigen
 street: "Aignerstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.2105631
 longitude: 16.4224527
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Olympiaplatz"
 housenumber: 2

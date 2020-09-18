@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.065708
 longitude: 15.4444911
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Grazbachgasse"
 housenumber: 27

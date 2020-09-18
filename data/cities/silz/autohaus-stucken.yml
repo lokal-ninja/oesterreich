@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.268118400000006
 longitude: 10.9365843
-postcode: 6424
+postcode: "6424"
 city: Silz
 street: "Tiroler Straße"
 housenumber: 25

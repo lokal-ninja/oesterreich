@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.060778000000006
 longitude: 14.453702300000002
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Haager Straße"
 housenumber: 60

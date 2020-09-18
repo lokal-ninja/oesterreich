@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.020830600000004
 longitude: 9.972927700000001
-postcode: 6791
+postcode: "6791"
 city: St. Gallenkirch
 street: ""
 housenumber: 

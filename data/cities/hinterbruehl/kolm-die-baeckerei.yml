@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0863267
 longitude: 16.247127600000002
-postcode: 2371
+postcode: "2371"
 city: Hinterbrühl
 street: "Beethovengasse"
 housenumber: 2

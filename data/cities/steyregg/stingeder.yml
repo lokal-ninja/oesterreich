@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.282188700000006
 longitude: 14.366719000000002
-postcode: 4221
+postcode: "4221"
 city: Steyregg
 street: "Gewerbeallee"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.0120013
 longitude: 13.721990400000001
-postcode: 4800
+postcode: "4800"
 city: Attnang-Puchheim
 street: "Doktor Karl Renner-Platz"
 housenumber: 3

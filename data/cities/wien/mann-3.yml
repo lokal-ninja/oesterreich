@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.135371600000006
 longitude: 16.2835587
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Liesinger Platz"
 housenumber: 1

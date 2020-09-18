@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.192658
 longitude: 16.3985436
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Landstraßer Hauptstraße"
 housenumber: 146

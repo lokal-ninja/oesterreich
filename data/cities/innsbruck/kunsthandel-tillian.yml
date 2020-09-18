@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.262667
 longitude: 11.393888800000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maximilianstraße"
 housenumber: 2a

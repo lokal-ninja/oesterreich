@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.3106906
 longitude: 16.4930871
-postcode: 2201
+postcode: "2201"
 city: Kapellerfeld
 street: "Wiener Straße"
 housenumber: 50

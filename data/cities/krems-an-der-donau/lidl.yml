@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.412610300000004
 longitude: 15.6096526
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Wachaustraße"
 housenumber: 15-31

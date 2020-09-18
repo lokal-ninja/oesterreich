@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 47.9306478
 longitude: 16.218248300000003
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "Hauptstraße"
 housenumber: 8

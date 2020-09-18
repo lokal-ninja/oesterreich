@@ -3,7 +3,7 @@ type: way
 shop: Wohnwagen
 latitude: 46.753592600000005
 longitude: 15.217205700000001
-postcode: 8541
+postcode: "8541"
 city: Schwanberg
 street: "Wieser Straße"
 housenumber: 79

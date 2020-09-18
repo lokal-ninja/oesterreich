@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.418851100000005
 longitude: 15.6581059
-postcode: 3495
+postcode: "3495"
 city: Rohrendorf bei Krems
 street: "Untere Hauptstraße"
 housenumber: 5

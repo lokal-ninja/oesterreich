@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 47.0568255
 longitude: 15.4724707
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Sankt-Peter-Hauptstraße"
 housenumber: 61

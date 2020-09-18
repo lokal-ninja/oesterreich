@@ -1,12 +1,12 @@
-id: 30039422
+id: 29388567
 type: way
 shop: Supermarkt
-latitude: 48.2032396
-longitude: 16.302605
-postcode: 1140
+latitude: 48.137891700000004
+longitude: 16.298598300000002
+postcode: "1230"
 city: Wien
-street: "Maroltingergasse"
-housenumber: 1
+street: "Brunner Straße"
+housenumber: 71
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off"
+website: "https://www.hofer.at/"

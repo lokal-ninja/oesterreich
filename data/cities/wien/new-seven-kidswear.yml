@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.242902900000004
 longitude: 16.341548
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Sonnbergplatz"
 housenumber: 7

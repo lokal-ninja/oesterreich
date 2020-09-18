@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2085026
 longitude: 16.3051803
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Wernhardtstraße"
 housenumber: 24

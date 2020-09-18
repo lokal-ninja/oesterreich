@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.0421229
 longitude: 14.6316141
-postcode: 3353
+postcode: "3353"
 city: Seitenstetten
 street: "Gewerbepark Pölla"
 housenumber: 9

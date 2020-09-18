@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.282853700000004
 longitude: 12.48229
-postcode: 5730
+postcode: "5730"
 city: Mittersill
 street: "Zeller Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.617239500000004
 longitude: 14.045909400000001
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Gendarmerieplatz"
 housenumber: 3

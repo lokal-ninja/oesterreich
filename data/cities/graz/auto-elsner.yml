@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 47.0646095
 longitude: 15.4035354
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Reininghausstraße"
 housenumber: 32
 phone: ""
 opening_hours: ""
-website: "www.autoelsner.at"
+website: "https://www.autoelsner.at/"

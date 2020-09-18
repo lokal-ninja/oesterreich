@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2038851
 longitude: 16.3077915
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Huttengasse"
 housenumber: 15

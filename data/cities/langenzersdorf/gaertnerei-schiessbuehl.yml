@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.3232524
 longitude: 16.3530048
-postcode: 2103
+postcode: "2103"
 city: Langenzersdorf
 street: "Korneuburger Strasse"
 housenumber: 165-167

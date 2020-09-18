@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0664929
 longitude: 16.6053933
-postcode: 2431
+postcode: "2431"
 city: Enzersdorf an der Fischa
 street: "An der Bundesstraße 10"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1970431
 longitude: 16.3021251
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Ameisgasse"
 housenumber: 44

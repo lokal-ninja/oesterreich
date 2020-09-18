@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.261966
 longitude: 11.392335500000002
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Glasmalereistraße"
 housenumber: 2

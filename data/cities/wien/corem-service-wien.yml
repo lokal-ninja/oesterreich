@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.2063323
 longitude: 16.387095300000002
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Untere Viaduktgasse"
 housenumber: 53

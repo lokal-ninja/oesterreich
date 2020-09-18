@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5612408
 longitude: 16.5604014
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Ernstbrunnerstraße"
 housenumber: 2

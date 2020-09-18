@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.257375800000005
 longitude: 11.3249841
-postcode: 6176
+postcode: "6176"
 city: Völs
 street: "Cytastraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1297518
 longitude: 16.3092669
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Dr.-Hanswenzel-Gasse"
 housenumber: 20

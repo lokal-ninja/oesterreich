@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.889320000000005
 longitude: 14.259874100000001
-postcode: 4591
+postcode: "4591"
 city: Molln
 street: "Hafnerstraße"
 housenumber: 16

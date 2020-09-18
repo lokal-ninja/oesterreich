@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.1978292
 longitude: 16.367763
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Rilkeplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 47.821271100000004
 longitude: 13.0442613
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Itzlinger Hauptstraße"
 housenumber: 23

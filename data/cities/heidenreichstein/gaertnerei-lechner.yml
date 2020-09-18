@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.863566500000005
 longitude: 15.1191414
-postcode: 3860
+postcode: "3860"
 city: Heidenreichstein
 street: "Bahnhofstraße"
 housenumber: 3

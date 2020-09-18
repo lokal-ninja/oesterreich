@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2916443
 longitude: 16.416422700000002
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Brünner Straße"
 housenumber: 219

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.505102400000006
 longitude: 14.1033521
-postcode: 8952
+postcode: "8952"
 city: Irdning-Donnersbachtal
 street: "Irdning Trautenfelserstraße"
 housenumber: 12

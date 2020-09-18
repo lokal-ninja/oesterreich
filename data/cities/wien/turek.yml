@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.217099000000005
 longitude: 16.3363556
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Hernalser Hauptstraße"
 housenumber: 44-46

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.2002387
 longitude: 16.3593333
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Theobaldgasse"
 housenumber: 16

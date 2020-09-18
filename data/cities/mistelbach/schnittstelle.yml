@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5666652
 longitude: 16.568802700000003
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Bahnstraße"
 housenumber: 24

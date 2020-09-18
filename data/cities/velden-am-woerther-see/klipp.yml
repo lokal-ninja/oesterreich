@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.6048811
 longitude: 14.035022600000001
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Fichtenhainstraße"
 housenumber: 2

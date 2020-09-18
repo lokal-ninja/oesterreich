@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2087657
 longitude: 16.2240577
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Hauptstraße"
 housenumber: 33-35

@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.633096200000004
 longitude: 12.3909053
-postcode: 6385
+postcode: "6385"
 city: Schwendt
 street: "Dorfstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.8005821
 longitude: 13.043259800000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Griesgasse"
 housenumber: 13

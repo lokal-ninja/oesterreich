@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1848791
 longitude: 16.3751846
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Am Hauptbahnhof"
 housenumber: 1

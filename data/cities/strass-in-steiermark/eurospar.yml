@@ -3,9 +3,9 @@ type: way
 shop: Supermarkt
 latitude: 46.7397745
 longitude: 15.6044838
-postcode: 
+postcode: ""
 city: Straß in Steiermark
-street: "Reichsstraße, Vogau"
+street: "Reichsstraße"
 housenumber: 91
 phone: ""
 opening_hours: ""

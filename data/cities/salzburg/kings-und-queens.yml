@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.818283300000004
 longitude: 13.0446553
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Elisabethstraße"
 housenumber: 40

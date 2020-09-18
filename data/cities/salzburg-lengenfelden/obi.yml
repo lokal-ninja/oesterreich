@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.8393485
 longitude: 13.0578231
-postcode: 5101
+postcode: "5101"
 city: Salzburg-Lengenfelden
 street: "Moosfeldstraße"
 housenumber: 6

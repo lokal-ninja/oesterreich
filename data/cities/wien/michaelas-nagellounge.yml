@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.2252342
 longitude: 16.4984754
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Ilse-Arlt-Straße"
 housenumber: 12/301

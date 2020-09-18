@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2184442
 longitude: 16.3382802
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Jörgerstraße"
 housenumber: 24

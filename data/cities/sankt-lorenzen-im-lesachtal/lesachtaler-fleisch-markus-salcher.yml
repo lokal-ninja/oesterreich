@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.7018044
 longitude: 12.7852066
-postcode: 9654
+postcode: "9654"
 city: Sankt Lorenzen im Lesachtal
 street: "Gailtal Bundesstraße"
 housenumber: 

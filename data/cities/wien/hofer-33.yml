@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2307513
 longitude: 16.354152600000003
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Nussdorfer Straße"
 housenumber: 73

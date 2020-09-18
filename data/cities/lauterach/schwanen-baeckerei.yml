@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.472687400000005
 longitude: 9.7290846
-postcode: 6923
+postcode: "6923"
 city: Lauterach
 street: "Bundesstraße"
 housenumber: 82

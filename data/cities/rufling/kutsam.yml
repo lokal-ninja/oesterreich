@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.2761372
 longitude: 14.231179800000001
-postcode: 4060
+postcode: "4060"
 city: Rufling
 street: "Ruflinger Straße"
 housenumber: 97

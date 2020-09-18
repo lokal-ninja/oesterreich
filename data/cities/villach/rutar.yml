@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 46.6121953
 longitude: 13.8550971
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Dreschnigstraße"
 housenumber: 31

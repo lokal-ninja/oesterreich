@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.069766900000005
 longitude: 15.4015737
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Karl-Morre-Straße"
 housenumber: 34

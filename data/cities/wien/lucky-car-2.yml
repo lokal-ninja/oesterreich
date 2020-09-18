@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.2070328
 longitude: 16.387201700000002
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Untere Viaduktgasse"
 housenumber: 6

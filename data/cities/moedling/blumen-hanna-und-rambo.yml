@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.086339800000005
 longitude: 16.2927959
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Hauptstraße"
 housenumber: 15

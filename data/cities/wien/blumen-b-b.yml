@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.165367200000006
 longitude: 16.3668523
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Raxstraße"
 housenumber: 6-8

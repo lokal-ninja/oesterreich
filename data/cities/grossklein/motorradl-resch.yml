@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 46.7342564
 longitude: 15.452678100000002
-postcode: 8452
+postcode: "8452"
 city: Großklein
 street: "Nestelberg"
 housenumber: 65a

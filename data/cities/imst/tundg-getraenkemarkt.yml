@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.2323278
 longitude: 10.7433923
-postcode: 6460
+postcode: "6460"
 city: Imst
 street: "Langgasse"
 housenumber: 27

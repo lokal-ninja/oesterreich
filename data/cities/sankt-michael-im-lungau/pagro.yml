@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.0962897
 longitude: 13.6321943
-postcode: 5582
+postcode: "5582"
 city: Sankt Michael im Lungau
 street: "Gewerbestraße"
 housenumber: 582

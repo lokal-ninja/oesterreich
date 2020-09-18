@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 46.741248000000006
 longitude: 15.322211900000001
-postcode: 8543
+postcode: "8543"
 city: St. Martin im Sulmtal
 street: ""
 housenumber: 13

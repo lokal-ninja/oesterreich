@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.272313800000006
 longitude: 16.4070277
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Brünner Straße"
 housenumber: 82

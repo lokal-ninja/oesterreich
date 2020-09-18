@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 47.2468493
 longitude: 9.609129000000001
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Roseggergasse"
 housenumber: 2

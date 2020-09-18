@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 47.2146756
 longitude: 14.8277262
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Herrengasse"
 housenumber: 12

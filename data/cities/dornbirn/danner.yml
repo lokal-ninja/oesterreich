@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 47.4027192
 longitude: 9.7382179
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Hatlerstraße"
 housenumber: 24

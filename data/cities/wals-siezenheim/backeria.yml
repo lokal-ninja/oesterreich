@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.8157372
 longitude: 12.9902802
-postcode: 5071
+postcode: "5071"
 city: Wals-Siezenheim
 street: "Mielestraße"
 housenumber: 8

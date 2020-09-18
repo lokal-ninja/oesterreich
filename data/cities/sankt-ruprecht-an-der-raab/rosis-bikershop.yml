@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.1549162
 longitude: 15.672119100000002
-postcode: 8181
+postcode: "8181"
 city: Sankt Ruprecht an der Raab
 street: "Grenzstraße"
 housenumber: 302

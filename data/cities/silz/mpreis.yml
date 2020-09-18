@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 47.269367300000006
 longitude: 10.9411622
-postcode: 6424
+postcode: "6424"
 city: Silz
 street: "Michael-Lung-Weg"
 housenumber: 1
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+43 50321 928071"
+opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; PH off"
+website: "https://www.mpreis.at/sp/standorte"

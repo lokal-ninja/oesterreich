@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.2311898
 longitude: 11.409128500000001
-postcode: 6080
+postcode: "6080"
 city: Innsbruck
 street: "Grätschenwinkelweg"
 housenumber: 1

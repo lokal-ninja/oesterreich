@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.2599588
 longitude: 11.391960500000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Andreas-Hofer-Straße"
 housenumber: 19

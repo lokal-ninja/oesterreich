@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.197485900000004
 longitude: 16.3231764
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Meiselstraße"
 housenumber: 4

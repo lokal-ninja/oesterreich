@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.227415
 longitude: 13.474412000000001
-postcode: 4971
+postcode: "4971"
 city: Aurolzmünster
 street: "Altenried"
 housenumber: 8

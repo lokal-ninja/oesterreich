@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 46.711769700000005
 longitude: 15.4340217
-postcode: 8453
+postcode: "8453"
 city: Sankt Johann
 street: ""
 housenumber: 28

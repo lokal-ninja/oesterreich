@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9479671
 longitude: 13.5963522
-postcode: 4861
+postcode: "4861"
 city: Schörfling am Attersee
 street: "Agerstraße"
 housenumber: 36

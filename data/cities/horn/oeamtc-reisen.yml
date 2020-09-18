@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.6631671
 longitude: 15.6562823
-postcode: 3580
+postcode: "3580"
 city: Horn
 street: "Hauptplatz"
 housenumber: 6

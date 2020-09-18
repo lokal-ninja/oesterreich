@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.339615200000004
 longitude: 14.1681813
-postcode: 4100
+postcode: "4100"
 city: Ottensheim
 street: "Hostauerstraße"
 housenumber: 62-68

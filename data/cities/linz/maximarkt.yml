@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2434706
 longitude: 14.276433200000001
-postcode: 4030
+postcode: "4030"
 city: Linz
 street: "Bäckermühlweg"
 housenumber: 61

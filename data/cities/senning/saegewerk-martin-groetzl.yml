@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 48.4530498
 longitude: 16.211380300000002
-postcode: 2011
+postcode: "2011"
 city: Senning
 street: ""
 housenumber: 75

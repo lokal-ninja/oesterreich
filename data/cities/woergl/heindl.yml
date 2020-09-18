@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.4871889
 longitude: 12.062262400000002
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "KR Martin Pichler-Straße"
 housenumber: 7

@@ -1,12 +1,12 @@
-id: 34943618
-type: way
-shop: Supermarkt
-latitude: 48.1666462
-longitude: 16.271958700000003
-postcode: 1130
+id: 7728215738
+type: node
+shop: Lebensmittel
+latitude: 48.154522300000004
+longitude: 16.3193905
+postcode: "1230"
 city: Wien
-street: "Dr.-Schober-Straße"
-housenumber: 2
+street: "Altmannsdorfer Straße"
+housenumber: 150
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/de_AT/index/standorte/11/wien_13_1150.html"
+opening_hours: "Mo-Su 06:00-24:00"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.011222100000005
 longitude: 13.723490600000002
-postcode: 4800
+postcode: "4800"
 city: Attnang-Puchheim
 street: "Römerstraße"
 housenumber: 33

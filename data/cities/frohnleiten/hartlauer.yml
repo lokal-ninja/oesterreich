@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.27056210000001
 longitude: 15.3259532
-postcode: 8130
+postcode: "8130"
 city: Frohnleiten
 street: "Hauptplatz"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.120425000000004
 longitude: 16.3151349
-postcode: 2334
+postcode: "2334"
 city: Vösendorf
 street: "Fachmarktstraße"
 housenumber: 6

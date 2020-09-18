@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.442714200000005
 longitude: 16.0681969
-postcode: 8243
+postcode: "8243"
 city: Pinggau
 street: "Raiffeisenstraße"
 housenumber: 15

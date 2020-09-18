@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3953945
 longitude: 13.6781644
-postcode: 8970
+postcode: "8970"
 city: Schladming
 street: "Gewerbestraße"
 housenumber: 687

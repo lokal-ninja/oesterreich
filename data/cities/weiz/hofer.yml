@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2057457
 longitude: 15.6395853
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Bundesstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.209542400000004
 longitude: 16.3684666
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Graben"
 housenumber: 19

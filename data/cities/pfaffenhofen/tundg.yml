@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.300145900000004
 longitude: 11.0797466
-postcode: 6405
+postcode: "6405"
 city: Pfaffenhofen
 street: "Bahnweg"
 housenumber: 90

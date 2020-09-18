@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.494685100000005
 longitude: 9.6922476
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Steinlochstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 47.0647813
 longitude: 15.082743500000001
-postcode: 8580
+postcode: "8580"
 city: Köflach
 street: "Judenburgerstraße"
 housenumber: 2

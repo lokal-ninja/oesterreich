@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.221795
 longitude: 12.1742904
-postcode: 5743
+postcode: "5743"
 city: Krimml
 street: ""
 housenumber: 73

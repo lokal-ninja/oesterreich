@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 47.805405
 longitude: 14.9290517
-postcode: 3345
+postcode: "3345"
 city: Göstling an der Ybbs
 street: ""
 housenumber: 19

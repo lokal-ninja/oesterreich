@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2379648
 longitude: 14.6252952
-postcode: 4320
+postcode: "4320"
 city: Perg
 street: "Gewerbestraße"
 housenumber: 1

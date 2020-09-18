@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.138249
 longitude: 16.3961206
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Oberlaaer Straße"
 housenumber: 91-93

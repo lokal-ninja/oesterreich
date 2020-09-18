@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4792111
 longitude: 12.539879200000001
-postcode: 6391
+postcode: "6391"
 city: Fieberbrunn
 street: "Spielbergstraße"
 housenumber: 7

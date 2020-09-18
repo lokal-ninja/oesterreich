@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5627763
 longitude: 16.5776434
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Mitschastraße"
 housenumber: 37

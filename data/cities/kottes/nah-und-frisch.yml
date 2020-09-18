@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4151607
 longitude: 15.302420300000001
-postcode: 3623
+postcode: "3623"
 city: Kottes
 street: ""
 housenumber: 4

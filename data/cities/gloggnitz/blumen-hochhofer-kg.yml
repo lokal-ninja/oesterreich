@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.676233200000006
 longitude: 15.937350200000001
-postcode: 2640
+postcode: "2640"
 city: Gloggnitz
 street: "Hauptstraße"
 housenumber: 16

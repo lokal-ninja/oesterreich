@@ -1,4 +1,4 @@
 ---
-title: "SOUNDFACTORY"
+title: "Soundfactory"
 url: /salzburg/soundfactory/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.331886600000004
 longitude: 16.049451
-postcode: 3430
+postcode: "3430"
 city: Tulln an der Donau
 street: "Minoritenplatz"
 housenumber: 6

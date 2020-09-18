@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.1048089
 longitude: 15.7074826
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Bürgergasse"
 housenumber: 25

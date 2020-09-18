@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.0717422
 longitude: 15.4341787
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Lendkai"
 housenumber: 9

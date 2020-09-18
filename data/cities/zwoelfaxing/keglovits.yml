@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1166101
 longitude: 16.4668642
-postcode: 2322
+postcode: "2322"
 city: Zwölfaxing
 street: "Schwechater Straße"
 housenumber: 59-71

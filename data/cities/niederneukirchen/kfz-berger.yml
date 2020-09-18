@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1643434
 longitude: 14.339449700000001
-postcode: 4491
+postcode: "4491"
 city: Niederneukirchen
 street: "Ipftal"
 housenumber: 2

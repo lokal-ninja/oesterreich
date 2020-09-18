@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.4071207
 longitude: 12.9009394
-postcode: 5761
+postcode: "5761"
 city: Maria Alm am Steinernen Meer
 street: "Bachstraße"
 housenumber: 15

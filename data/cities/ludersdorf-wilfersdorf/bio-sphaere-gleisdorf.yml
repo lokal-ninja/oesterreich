@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1008008
 longitude: 15.685549700000001
-postcode: 8200
+postcode: "8200"
 city: Ludersdorf - Wilfersdorf
 street: ""
 housenumber: 85

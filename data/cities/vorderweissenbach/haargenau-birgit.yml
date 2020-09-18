@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.552793300000005
 longitude: 14.218103600000001
-postcode: 4191
+postcode: "4191"
 city: Vorderweißenbach
 street: "Hauptstraße"
 housenumber: 17

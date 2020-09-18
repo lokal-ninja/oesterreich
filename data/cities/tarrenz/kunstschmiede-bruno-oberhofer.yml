@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 47.2672795
 longitude: 10.757110500000001
-postcode: 6464
+postcode: "6464"
 city: Tarrenz
 street: "Schulgasse"
 housenumber: 23

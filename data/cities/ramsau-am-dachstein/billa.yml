@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.418057000000005
 longitude: 13.670109900000002
-postcode: 8972
+postcode: "8972"
 city: Ramsau am Dachstein
 street: ""
 housenumber: 349

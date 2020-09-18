@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.3197084
 longitude: 15.8872929
-postcode: 3452
+postcode: "3452"
 city: Trasdorf
 street: "Gewerbepark"
 housenumber: 6

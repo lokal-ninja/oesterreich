@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.200211700000004
 longitude: 16.3811061
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Salesianergasse"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.213893600000006
 longitude: 16.392649000000002
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Helenengasse"
 housenumber: 1-5

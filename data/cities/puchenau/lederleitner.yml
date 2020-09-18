@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.3120817
 longitude: 14.2349992
-postcode: 4048
+postcode: "4048"
 city: Puchenau
 street: "Karl-Leitl-Straße"
 housenumber: 1

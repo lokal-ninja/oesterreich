@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.3794637
 longitude: 15.0936646
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Straußgasse"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.343464600000004
 longitude: 16.3330509
-postcode: 2100
+postcode: "2100"
 city: Korneuburg
 street: "Hauptplatz"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.206606300000004
 longitude: 16.377399
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "An der Hülben"
 housenumber: 1

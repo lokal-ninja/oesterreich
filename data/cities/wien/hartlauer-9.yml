@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.2121913
 longitude: 16.3695072
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Wipplingerstraße"
 housenumber: 15

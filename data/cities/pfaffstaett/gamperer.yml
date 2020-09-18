@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.082258700000004
 longitude: 13.146209
-postcode: 5223
+postcode: "5223"
 city: Pfaffstätt
 street: "Hauptstraße"
 housenumber: 26

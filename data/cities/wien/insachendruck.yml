@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.213081100000004
 longitude: 16.3640994
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Helferstorferstraße"
 housenumber: 2

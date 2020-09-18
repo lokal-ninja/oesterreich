@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.821386700000005
 longitude: 13.043727100000002
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Andreas-Hofer-Straße"
 housenumber: 21

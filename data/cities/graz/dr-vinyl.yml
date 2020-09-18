@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.0299569
 longitude: 15.4047187
-postcode: 8054
+postcode: "8054"
 city: Graz
 street: "Kärntner Straße"
 housenumber: 329

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 46.948567600000004
 longitude: 15.916876100000001
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: ""
 housenumber: 437

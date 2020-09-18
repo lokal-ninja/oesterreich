@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.1445512
 longitude: 16.4709061
-postcode: 2320
+postcode: "2320"
 city: Schwechat
 street: "Wiener Straße"
 housenumber: 42

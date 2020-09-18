@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9762992
 longitude: 15.022641
-postcode: 3264
+postcode: "3264"
 city: Gresten
 street: "Spörken"
 housenumber: 40

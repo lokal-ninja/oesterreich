@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.047677300000004
 longitude: 13.7811053
-postcode: 4690
+postcode: "4690"
 city: Schwanenstadt
 street: "Vor der Au"
 housenumber: 5

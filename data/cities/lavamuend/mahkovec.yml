@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 46.6421792
 longitude: 14.9410129
-postcode: 9473
+postcode: "9473"
 city: Lavamünd
 street: "Lavamünd"
 housenumber: 44

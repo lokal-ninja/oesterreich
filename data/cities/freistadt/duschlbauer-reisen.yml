@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.4968695
 longitude: 14.498074
-postcode: 4240
+postcode: "4240"
 city: Freistadt
 street: "Werndlstraße"
 housenumber: 8

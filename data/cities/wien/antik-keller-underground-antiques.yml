@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.2134608
 longitude: 16.3582726
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Liebiggasse"
 housenumber: 4

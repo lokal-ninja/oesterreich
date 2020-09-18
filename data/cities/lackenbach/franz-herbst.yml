@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.5885751
 longitude: 16.4654504
-postcode: 7322
+postcode: "7322"
 city: Lackenbach
 street: "Schlossgasse"
 housenumber: 2

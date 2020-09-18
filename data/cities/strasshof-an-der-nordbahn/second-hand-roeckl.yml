@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.3152253
 longitude: 16.664780800000003
-postcode: 2231
+postcode: "2231"
 city: Strasshof an der Nordbahn
 street: "Flugfeldstraße"
 housenumber: 93

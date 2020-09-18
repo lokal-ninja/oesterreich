@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.269092
 longitude: 9.642618500000001
-postcode: 6830
+postcode: "6830"
 city: Rankweil
 street: "Sigmund-Nachbaur-Straße"
 housenumber: 2

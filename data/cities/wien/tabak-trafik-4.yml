@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 48.1296553
 longitude: 16.3103786
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Basler Gasse"
 housenumber: 84

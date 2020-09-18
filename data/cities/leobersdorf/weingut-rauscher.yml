@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.9254924
 longitude: 16.2171568
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "Heugasse"
 housenumber: 4

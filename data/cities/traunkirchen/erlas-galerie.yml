@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.8451916
 longitude: 13.7916325
-postcode: 4801
+postcode: "4801"
 city: Traunkirchen
 street: "Klosterplatz"
 housenumber: 11

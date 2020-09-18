@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8464649
 longitude: 16.5245855
-postcode: 7000
+postcode: "7000"
 city: Eisenstadt
 street: "Hauptstraße"
 housenumber: 38a

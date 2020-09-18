@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.0553946
 longitude: 14.6555528
-postcode: 3354
+postcode: "3354"
 city: Wolfsbach
 street: ""
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.265639900000004
 longitude: 11.3970961
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Wilhelm-Greil-Straße"
 housenumber: 12

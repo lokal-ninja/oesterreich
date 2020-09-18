@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3157377
 longitude: 16.576747700000002
-postcode: 2232
+postcode: "2232"
 city: Deutsch-Wagram
 street: "Bockfließerstraße"
 housenumber: 146

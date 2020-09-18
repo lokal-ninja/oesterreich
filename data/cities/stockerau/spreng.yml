@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3839221
 longitude: 16.2375858
-postcode: 2000
+postcode: "2000"
 city: Stockerau
 street: "Rudolf Hirsch-Straße"
 housenumber: 1

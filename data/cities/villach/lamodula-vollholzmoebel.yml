@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 46.6112155
 longitude: 13.8427606
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Italiener Straße"
 housenumber: 10a

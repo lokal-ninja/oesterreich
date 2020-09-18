@@ -3,7 +3,7 @@ type: node
 shop: Klempner
 latitude: 48.4060519
 longitude: 15.602875200000001
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Bertschingerstraße"
 housenumber: 6

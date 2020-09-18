@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.1545496
 longitude: 9.819212700000001
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Pulverturmstraße"
 housenumber: 16

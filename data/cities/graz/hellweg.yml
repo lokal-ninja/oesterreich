@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.067778700000005
 longitude: 15.407283900000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Eckertstraße"
 housenumber: 7

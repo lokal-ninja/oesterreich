@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.0508481
 longitude: 15.851293700000001
-postcode: 8311
+postcode: "8311"
 city: Markt Hartmannsdorf
 street: ""
 housenumber: 

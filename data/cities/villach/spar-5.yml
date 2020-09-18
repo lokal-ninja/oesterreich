@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.604360500000006
 longitude: 13.8498491
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Auer-v.-Welsbach-Straße"
 housenumber: 22

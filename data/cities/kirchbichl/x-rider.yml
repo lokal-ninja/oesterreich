@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.4939053
 longitude: 12.080585600000001
-postcode: 6322
+postcode: "6322"
 city: Kirchbichl
 street: "Grattenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.168547000000004
 longitude: 14.662820000000002
-postcode: 8750
+postcode: "8750"
 city: Judenburg
 street: "Liechtensteingasse"
 housenumber: 10

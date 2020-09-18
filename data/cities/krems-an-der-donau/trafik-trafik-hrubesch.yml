@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 48.4137932
 longitude: 15.635476700000002
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Lerchenfelder Hauptplatz"
 housenumber: 10

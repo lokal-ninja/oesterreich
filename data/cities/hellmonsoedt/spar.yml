@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.431925
 longitude: 14.300087600000001
-postcode: 4202
+postcode: "4202"
 city: Hellmonsödt
 street: "Marktplatz"
 housenumber: 13

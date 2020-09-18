@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.3812337
 longitude: 15.093880700000001
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Timmersdorfergasse"
 housenumber: 4

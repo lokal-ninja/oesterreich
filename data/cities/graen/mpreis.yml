@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.495785700000006
 longitude: 10.5561641
-postcode: 6673
+postcode: "6673"
 city: Grän
 street: "Hafenegger-Weg"
 housenumber: 1

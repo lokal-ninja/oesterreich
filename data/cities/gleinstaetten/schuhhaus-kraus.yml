@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 46.7546338
 longitude: 15.367025300000002
-postcode: 8443
+postcode: "8443"
 city: Gleinstätten
 street: ""
 housenumber: 85

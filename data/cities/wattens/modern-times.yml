@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2945331
 longitude: 11.582507000000001
-postcode: 6112
+postcode: "6112"
 city: Wattens
 street: "Dr.-Karl-Stainer-Straße"
 housenumber: 31

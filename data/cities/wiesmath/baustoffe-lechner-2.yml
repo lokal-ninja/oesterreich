@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 47.6129444
 longitude: 16.2891672
-postcode: 2811
+postcode: "2811"
 city: Wiesmath
 street: "Hauptstraße"
 housenumber: 31

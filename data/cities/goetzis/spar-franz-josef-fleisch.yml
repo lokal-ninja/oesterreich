@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 47.3324573
 longitude: 9.643641200000001
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Junker-Jonas-Platz"
 housenumber: 7
-phone: "05523/62392"
+phone: "+43 5523 62392"
 opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-17:00"
 website: "http://www.fleisch-spar.at/"

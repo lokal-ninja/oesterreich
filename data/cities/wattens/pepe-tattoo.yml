@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.294795
 longitude: 11.587730500000001
-postcode: 6112
+postcode: "6112"
 city: Wattens
 street: "Dr.-Karl-Stainer-Straße"
 housenumber: 4

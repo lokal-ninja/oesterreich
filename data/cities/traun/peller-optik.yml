@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.2452647
 longitude: 14.260097300000002
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Wiener Bundesstraße"
 housenumber: 15

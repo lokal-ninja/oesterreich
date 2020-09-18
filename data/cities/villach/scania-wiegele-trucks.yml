@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.597279900000004
 longitude: 13.847777700000002
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Handwerkstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.0439292
 longitude: 14.719552700000001
-postcode: 8742
+postcode: "8742"
 city: Obdach
 street: ""
 housenumber: 24

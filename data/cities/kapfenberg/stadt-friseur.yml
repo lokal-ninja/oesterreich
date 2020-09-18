@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.447499500000006
 longitude: 15.304771500000001
-postcode: 8605
+postcode: "8605"
 city: Kapfenberg
 street: "Wiener Straße"
 housenumber: 96

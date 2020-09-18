@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.1488479
 longitude: 16.9493182
-postcode: 2410
+postcode: "2410"
 city: Hainburg
 street: "Dr.-Wlasak-Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.560432500000005
 longitude: 14.6426052
-postcode: 4251
+postcode: "4251"
 city: Sandl
 street: "Sandl"
 housenumber: 10

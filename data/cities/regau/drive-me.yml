@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.996861200000005
 longitude: 13.684495100000001
-postcode: 4844
+postcode: "4844"
 city: Regau
 street: "Handelsstraße"
 housenumber: 1

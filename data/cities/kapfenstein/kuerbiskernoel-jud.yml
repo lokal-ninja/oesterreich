@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 46.8522711
 longitude: 15.996717700000001
-postcode: 8353
+postcode: "8353"
 city: Kapfenstein
 street: ""
 housenumber: 31

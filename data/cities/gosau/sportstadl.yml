@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.58424410000001
 longitude: 13.5343288
-postcode: 4824
+postcode: "4824"
 city: Gosau
 street: "Vordertalstraße"
 housenumber: 12

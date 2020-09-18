@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 48.231404000000005
 longitude: 16.354130100000003
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Nussdorfer Straße"
 housenumber: 79

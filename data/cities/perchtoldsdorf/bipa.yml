@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.118065400000006
 longitude: 16.2654435
-postcode: 2380
+postcode: "2380"
 city: Perchtoldsdorf
 street: "Marktplatz"
 housenumber: 20

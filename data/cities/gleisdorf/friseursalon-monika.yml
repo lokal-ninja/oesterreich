@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.1048703
 longitude: 15.7087172
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Bürgergasse"
 housenumber: 8

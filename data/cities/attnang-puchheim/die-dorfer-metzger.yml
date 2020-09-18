@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.0127168
 longitude: 13.7221837
-postcode: 4800
+postcode: "4800"
 city: Attnang-Puchheim
 street: "Kirchenstraße"
 housenumber: 4a

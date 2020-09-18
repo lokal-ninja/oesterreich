@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.2486285
 longitude: 14.3675613
-postcode: 4030
+postcode: "4030"
 city: Linz
 street: "Falterweg"
 housenumber: 66

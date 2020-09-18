@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.605766100000004
 longitude: 15.6746364
-postcode: 8680
+postcode: "8680"
 city: Mürzzuschlag
 street: "Wiener Straße"
 housenumber: 46

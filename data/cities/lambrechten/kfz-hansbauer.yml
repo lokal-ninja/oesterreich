@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.3149582
 longitude: 13.521464900000002
-postcode: 4772
+postcode: "4772"
 city: Lambrechten
 street: ""
 housenumber: 130

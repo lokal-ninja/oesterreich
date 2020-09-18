@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 46.7415711
 longitude: 15.8416922
-postcode: 8483
+postcode: "8483"
 city: Deutsch Goritz
 street: ""
 housenumber: 28

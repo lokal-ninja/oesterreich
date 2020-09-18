@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.1371162
 longitude: 16.286920300000002
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 385

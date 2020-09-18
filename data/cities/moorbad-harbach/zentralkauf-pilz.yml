@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7089678
 longitude: 14.7974127
-postcode: 3970
+postcode: "3970"
 city: Moorbad Harbach
 street: "Harbach"
 housenumber: 36

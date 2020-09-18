@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.325487200000005
 longitude: 16.1854707
-postcode: 3424
+postcode: "3424"
 city: Zeiselmauer
 street: "Gewerbestraße"
 housenumber: 1

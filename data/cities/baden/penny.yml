@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.004072
 longitude: 16.237117400000002
-postcode: 2500
+postcode: "2500"
 city: Baden
 street: "Kaiser-Franz-Joseph-Ring"
 housenumber: 15

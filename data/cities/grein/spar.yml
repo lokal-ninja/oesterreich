@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.228692800000005
 longitude: 14.857081200000001
-postcode: 4360
+postcode: "4360"
 city: Grein
 street: "Hauptstraße"
 housenumber: 27

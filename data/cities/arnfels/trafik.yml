@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 46.676368700000005
 longitude: 15.401839400000002
-postcode: 8454
+postcode: "8454"
 city: Arnfels
 street: "Kirchplatz"
 housenumber: 45

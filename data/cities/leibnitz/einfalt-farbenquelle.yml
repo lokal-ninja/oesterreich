@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.792269000000005
 longitude: 15.551232700000002
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Sailergasse"
 housenumber: 61

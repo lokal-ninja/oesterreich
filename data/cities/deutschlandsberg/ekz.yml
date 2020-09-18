@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 46.8198748
 longitude: 15.225628200000001
-postcode: 8530
+postcode: "8530"
 city: Deutschlandsberg
 street: ""
 housenumber: 

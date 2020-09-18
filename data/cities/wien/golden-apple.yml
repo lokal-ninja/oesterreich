@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.178474200000004
 longitude: 16.369763900000002
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Gudrunstraße"
 housenumber: 163

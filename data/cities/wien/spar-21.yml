@@ -1,12 +1,12 @@
-id: 742643135
+id: 653114269
 type: node
-shop: Supermarkt
-latitude: 48.2348275
-longitude: 16.370486
-postcode: 1200
+shop: Lebensmittel
+latitude: 48.2077821
+longitude: 16.3788175
+postcode: "1010"
 city: Wien
-street: "Jägerstraße"
-housenumber: 58
-phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: ""
+street: "Wollzeile"
+housenumber: 39
+phone: "+43 1 5134879"
+opening_hours: "Mo-Fr 07:15-19:30"
+website: "https://www.spar.at/standorte/spar-wien-1010-wollzeile-39"

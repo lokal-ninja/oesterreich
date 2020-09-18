@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.3494571
 longitude: 11.7022776
-postcode: 6130
+postcode: "6130"
 city: Schwaz
 street: "Bahnhofstraße"
 housenumber: 16

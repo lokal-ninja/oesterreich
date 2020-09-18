@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1162244
 longitude: 16.281513200000003
-postcode: 2380
+postcode: "2380"
 city: Perchtoldsdorf
 street: "Eisenhüttelgasse"
 housenumber: 85

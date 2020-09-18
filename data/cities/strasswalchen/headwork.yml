@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.97684700000001
 longitude: 13.254037100000001
-postcode: 5204
+postcode: "5204"
 city: Straßwalchen
 street: "Mondseerstraße"
 housenumber: 3

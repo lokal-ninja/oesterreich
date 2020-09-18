@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.2622396
 longitude: 11.391465400000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maximilianstraße"
 housenumber: 21

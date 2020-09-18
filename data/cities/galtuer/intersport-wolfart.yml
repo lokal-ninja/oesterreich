@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.9674605
 longitude: 10.1820357
-postcode: 6563
+postcode: "6563"
 city: Galtür
 street: "Galtür"
 housenumber: 21a

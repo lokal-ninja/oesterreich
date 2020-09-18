@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1707283
 longitude: 13.2714998
-postcode: 5251
+postcode: "5251"
 city: Höhnhart
 street: "Höhnhart"
 housenumber: 79

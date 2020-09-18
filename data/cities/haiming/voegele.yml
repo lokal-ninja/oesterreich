@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.230721
 longitude: 10.8564377
-postcode: 6430
+postcode: "6430"
 city: Haiming
 street: "Ötztaler Höhe"
 housenumber: 11

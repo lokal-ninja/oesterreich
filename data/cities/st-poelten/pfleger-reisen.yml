@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.1747517
 longitude: 15.616800800000002
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Porschestraße"
 housenumber: 31

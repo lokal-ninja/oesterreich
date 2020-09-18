@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.175896400000006
 longitude: 16.3717495
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Quellenstraße"
 housenumber: 90

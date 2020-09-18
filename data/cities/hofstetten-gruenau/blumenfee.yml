@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.095207900000005
 longitude: 15.509337400000001
-postcode: 3202
+postcode: "3202"
 city: Hofstetten-Grünau
 street: "Mariazeller Straße"
 housenumber: 13

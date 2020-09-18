@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 48.4442036
 longitude: 15.7398716
-postcode: 3492
+postcode: "3492"
 city: Etsdorf am Kamp
 street: "Schlossstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""
-website: "www.baeckerei-braun.at"
+website: "http://www.baeckerei-braun.at/"

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.044576500000005
 longitude: 11.3516635
-postcode: 6150
+postcode: "6150"
 city: Gschnitz
 street: "Pitzens"
 housenumber: 101

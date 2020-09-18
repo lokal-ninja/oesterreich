@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.0967563
 longitude: 16.2866454
-postcode: 7544
+postcode: "7544"
 city: Tobaj
 street: "Kroatisch Tschantschendorf"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2108483
 longitude: 13.356141500000001
-postcode: 4932
+postcode: "4932"
 city: Kirchheim im Innkreis
 street: "Alleenweg"
 housenumber: 2

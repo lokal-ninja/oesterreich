@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.3555964
 longitude: 15.811662100000001
-postcode: 3454
+postcode: "3454"
 city: Zwentendorf an der Donau
 street: ""
 housenumber: 25A

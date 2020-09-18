@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1995847
 longitude: 16.3124334
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Breitenseer Straße"
 housenumber: 6

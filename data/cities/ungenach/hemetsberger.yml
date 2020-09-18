@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0464149
 longitude: 13.6120102
-postcode: 4841
+postcode: "4841"
 city: Ungenach
 street: "Ungenach"
 housenumber: 17

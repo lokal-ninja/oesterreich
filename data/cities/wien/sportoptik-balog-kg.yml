@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.208075300000004
 longitude: 16.340400900000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Lerchenfelder Straße"
 housenumber: 135

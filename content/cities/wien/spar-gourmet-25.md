@@ -1,4 +1,4 @@
 ---
-title: "Spar Gourmet"
+title: "SPAR Gourmet"
 url: /wien/spar-gourmet-25/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2582977
 longitude: 16.3988127
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Schloßhofer Straße"
 housenumber: 3

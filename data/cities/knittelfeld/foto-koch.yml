@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 47.2138239
 longitude: 14.8298988
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Kirchengasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.204349
 longitude: 15.3425933
-postcode: 8120
+postcode: "8120"
 city: Peggau
 street: "Wilhelm-Jentsch-Str."
 housenumber: 2

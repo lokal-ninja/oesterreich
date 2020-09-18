@@ -3,7 +3,7 @@ type: node
 shop: Nahrungsergänzung
 latitude: 48.258501800000005
 longitude: 16.396330000000003
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Prager Straße"
 housenumber: 1

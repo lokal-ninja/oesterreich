@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 47.9347208
 longitude: 13.4889811
-postcode: 4880
+postcode: "4880"
 city: St. Georgen im Attergau
 street: "Attergaustraße"
 housenumber: 32a

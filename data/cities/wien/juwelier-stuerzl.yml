@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.1359082
 longitude: 16.2817851
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 360

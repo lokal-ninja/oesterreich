@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 47.0795812
 longitude: 15.993265000000001
-postcode: 8263
+postcode: "8263"
 city: Großwilfersdorf
 street: ""
 housenumber: 67

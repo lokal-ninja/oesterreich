@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.240517100000005
 longitude: 13.3447557
-postcode: 4942
+postcode: "4942"
 city: Gurten
 street: "Hofmark"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.0341795
 longitude: 14.209704
-postcode: 4540
+postcode: "4540"
 city: Bad Hall
 street: "Hauptplatz"
 housenumber: 18

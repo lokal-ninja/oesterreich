@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.9595702
 longitude: 15.8714072
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: ""
 housenumber: 325

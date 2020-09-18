@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.9385782
 longitude: 14.9305163
-postcode: 9451
+postcode: "9451"
 city: Preitenegg
 street: ""
 housenumber: 83

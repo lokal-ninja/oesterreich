@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.3560013
 longitude: 15.417678100000002
-postcode: 3621
+postcode: "3621"
 city: Oberarnsdorf
 street: ""
 housenumber: 58

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.588303700000004
 longitude: 12.6938194
-postcode: 5090
+postcode: "5090"
 city: Lofer
 street: ""
 housenumber: 142

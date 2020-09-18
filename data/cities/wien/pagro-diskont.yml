@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.1427824
 longitude: 16.292544200000002
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 329

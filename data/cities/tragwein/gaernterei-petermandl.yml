@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.3317813
 longitude: 14.6196809
-postcode: 4284
+postcode: "4284"
 city: Tragwein
 street: "Pregartener Straße"
 housenumber: 1a/2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.057585700000004
 longitude: 16.2121755
-postcode: 2531
+postcode: "2531"
 city: Gaaden
 street: "Berggasse"
 housenumber: 1a

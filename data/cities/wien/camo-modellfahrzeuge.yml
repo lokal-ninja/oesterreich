@@ -1,12 +1,12 @@
 id: 7026359355
 type: node
-shop: Spielzeug
+shop: Modellbau
 latitude: 48.198145600000004
 longitude: 16.3708099
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Karlsgasse"
 housenumber: 3
-phone: "0664/88100998"
-opening_hours: "Di-Fr 09:30-18:30, Sa 9:30-15:30"
-website: "www.camo-modellfahrzeuge.at"
+phone: ""
+opening_hours: "Mo-Fr 09:30-18:30; Sa 9:30-12:00"
+website: ""

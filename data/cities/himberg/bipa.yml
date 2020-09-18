@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.0865304
 longitude: 16.4347818
-postcode: 2325
+postcode: "2325"
 city: Himberg
 street: "Wienerstraße"
 housenumber: 33

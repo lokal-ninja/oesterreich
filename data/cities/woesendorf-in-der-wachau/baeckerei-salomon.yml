@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.380405800000005
 longitude: 15.4550099
-postcode: 3610
+postcode: "3610"
 city: Wösendorf in der Wachau
 street: "Hauptstraße"
 housenumber: 71

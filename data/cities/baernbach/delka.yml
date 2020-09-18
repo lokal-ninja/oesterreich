@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.053444600000006
 longitude: 15.1301669
-postcode: 8572
+postcode: "8572"
 city: Bärnbach
 street: "Packer Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.268302500000004
 longitude: 11.392092700000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Innrain"
 housenumber: 1

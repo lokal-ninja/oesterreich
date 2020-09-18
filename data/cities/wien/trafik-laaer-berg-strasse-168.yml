@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.155710400000004
 longitude: 16.3955799
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Laaer-Berg-Straße"
 housenumber: 168

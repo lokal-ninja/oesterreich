@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 46.8304459
 longitude: 12.809966000000001
-postcode: 9990
+postcode: "9990"
 city: Nussdorf-Debant
 street: "Glocknerstraße"
 housenumber: 12

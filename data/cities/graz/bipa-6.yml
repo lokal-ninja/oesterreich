@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.070021800000006
 longitude: 15.403513100000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Gaswerkstraße"
 housenumber: 3

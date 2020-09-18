@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2748836
 longitude: 14.2926652
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Hatschekstraße"
 housenumber: 14

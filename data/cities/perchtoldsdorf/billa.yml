@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1246227
 longitude: 16.265586900000002
-postcode: 2380
+postcode: "2380"
 city: Perchtoldsdorf
 street: "Donauwörther Straße"
 housenumber: 46-48

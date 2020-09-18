@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.2270114
 longitude: 16.5036189
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Janis-Joplin-Promenade"
 housenumber: 6

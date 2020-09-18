@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.490406
 longitude: 9.689783400000001
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Kirchstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.2585757
 longitude: 11.393149600000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Franz-Fischer-Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.0699946
 longitude: 15.4288468
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Kernstockgasse"
 housenumber: 20

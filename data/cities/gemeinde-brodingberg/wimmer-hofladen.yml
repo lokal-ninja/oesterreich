@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.114099700000004
 longitude: 15.6523193
-postcode: 8200
+postcode: "8200"
 city: Gemeinde Brodingberg
 street: "Bergweg"
 housenumber: 20

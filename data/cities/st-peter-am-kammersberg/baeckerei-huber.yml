@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.1876801
 longitude: 14.1843973
-postcode: 8843
+postcode: "8843"
 city: St. Peter am Kammersberg
 street: ""
 housenumber: 202

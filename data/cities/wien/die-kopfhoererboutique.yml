@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.190798300000004
 longitude: 16.355578100000002
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Schönbrunner Straße"
 housenumber: 65

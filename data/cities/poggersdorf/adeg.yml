@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.6417237
 longitude: 14.4513365
-postcode: 9130
+postcode: "9130"
 city: Poggersdorf
 street: "Marktplatz"
 housenumber: 3

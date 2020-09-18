@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.2355807
 longitude: 13.826854200000001
-postcode: 4710
+postcode: "4710"
 city: Grieskirchen
 street: "Oberer Stadtplatz"
 housenumber: 6

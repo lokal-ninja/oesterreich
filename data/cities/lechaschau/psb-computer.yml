@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.489696800000004
 longitude: 10.7080642
-postcode: 6600
+postcode: "6600"
 city: Lechaschau
 street: "Mühlbachweg"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Pokal
 latitude: 48.194568100000005
 longitude: 16.3611678
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Kettenbrückengasse"
 housenumber: 5

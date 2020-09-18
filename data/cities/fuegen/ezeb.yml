@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.333731900000004
 longitude: 11.8618597
-postcode: 6263
+postcode: "6263"
 city: Fügen
 street: "Gießenweg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Videothek
 latitude: 48.1486359
 longitude: 16.306884200000002
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Erlaaer Straße"
 housenumber: 65

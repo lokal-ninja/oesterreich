@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 47.2085547
 longitude: 15.6322594
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Gleisdorfer Straße"
 housenumber: 114

@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.329344500000005
 longitude: 16.194042500000002
-postcode: 3423
+postcode: "3423"
 city: Gemeinde St. Andrä-Wördern
 street: "gewerbestraße"
 housenumber: 14

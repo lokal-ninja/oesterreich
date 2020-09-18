@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.421987300000005
 longitude: 9.7357417
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Forachstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.199521600000004
 longitude: 16.3941957
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Landstraßer Hauptstraße"
 housenumber: 89

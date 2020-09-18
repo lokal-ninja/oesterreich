@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.8960093
 longitude: 16.9126368
-postcode: 7122
+postcode: "7122"
 city: Gols
 street: "Untere Hauptstraße"
 housenumber: 73

@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 47.250270900000004
 longitude: 15.6989116
-postcode: 8184
+postcode: "8184"
 city: Anger
 street: ""
 housenumber: 103

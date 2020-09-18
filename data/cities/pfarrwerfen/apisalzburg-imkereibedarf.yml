@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.4556904
 longitude: 13.208959400000001
-postcode: 5452
+postcode: "5452"
 city: Pfarrwerfen
 street: "Dorfwerfen"
 housenumber: 8

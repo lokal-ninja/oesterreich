@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.812201200000004
 longitude: 13.0051161
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Kleßheimer Allee"
 housenumber: 98

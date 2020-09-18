@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.1843834
 longitude: 14.6806982
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Arena am Waldfeld"
 housenumber: 

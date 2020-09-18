@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.6433965
 longitude: 16.7207094
-postcode: 2143
+postcode: "2143"
 city: Großkrut
 street: "Warendorfer Straße"
 housenumber: 3

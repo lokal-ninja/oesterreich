@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3950595
 longitude: 13.692313700000001
-postcode: 8970
+postcode: "8970"
 city: Schladming
 street: "Erzherzog Johann Straße"
 housenumber: 213

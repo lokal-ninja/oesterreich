@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 46.9537392
 longitude: 15.889725
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Bürgergasse"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1486546
 longitude: 15.896606700000001
-postcode: 8265
+postcode: "8265"
 city: Großsteinbach
 street: ""
 housenumber: 71

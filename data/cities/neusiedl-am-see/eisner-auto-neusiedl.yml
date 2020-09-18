@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.973340400000005
 longitude: 16.8431704
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Erwin-Schrödinger-Straße"
 housenumber: 1

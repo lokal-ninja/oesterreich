@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.8010122
 longitude: 16.672316300000002
-postcode: 7071
+postcode: "7071"
 city: Rust
-street: "Oggauerstraße"
-housenumber: 3
+street: "Franz-Josefs-Platz"
+housenumber: 13
 phone: ""
 opening_hours: ""
 website: ""

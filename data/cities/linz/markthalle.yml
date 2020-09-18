@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.305203500000005
 longitude: 14.284288
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Altstadt"
 housenumber: 12

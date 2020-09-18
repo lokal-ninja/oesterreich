@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.0686162
 longitude: 15.4420111
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Am Eisernen Tor"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.346396500000004
 longitude: 14.0569746
-postcode: 4101
+postcode: "4101"
 city: Feldkirchen an der Donau
 street: "Hauptstraße"
 housenumber: 18

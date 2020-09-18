@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.211298400000004
 longitude: 16.3350186
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Neulerchenfelder Straße"
 housenumber: 32

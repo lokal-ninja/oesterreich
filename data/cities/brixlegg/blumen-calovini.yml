@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.4365778
 longitude: 11.882700300000002
-postcode: 6230
+postcode: "6230"
 city: Brixlegg
 street: "Niederfeldweg"
 housenumber: 9f

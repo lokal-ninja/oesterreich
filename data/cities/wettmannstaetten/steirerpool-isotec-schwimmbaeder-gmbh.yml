@@ -3,7 +3,7 @@ type: way
 shop: Pool
 latitude: 46.8190668
 longitude: 15.3985988
-postcode: 8521
+postcode: "8521"
 city: Wettmannstätten
 street: ""
 housenumber: 65

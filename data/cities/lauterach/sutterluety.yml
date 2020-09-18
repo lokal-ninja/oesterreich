@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4848209
 longitude: 9.7312551
-postcode: 6923
+postcode: "6923"
 city: Lauterach
 street: "Dammstraße"
 housenumber: 4

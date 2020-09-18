@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 47.0305273
 longitude: 15.401424400000002
-postcode: 8054
+postcode: "8054"
 city: Graz
 street: "Weblinger Straße"
 housenumber: 35

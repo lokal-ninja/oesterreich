@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.572604000000005
 longitude: 16.571999
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Oberhoferstraße"
 housenumber: 36

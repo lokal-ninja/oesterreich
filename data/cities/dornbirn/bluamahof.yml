@@ -3,10 +3,10 @@ type: way
 shop: Hofladen
 latitude: 47.405469200000006
 longitude: 9.7149459
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Lange Mähder"
 housenumber: 44
-phone: ""
+phone: "+43 664 4009488"
 opening_hours: ""
-website: ""
+website: "http://www.bluamahof.at"

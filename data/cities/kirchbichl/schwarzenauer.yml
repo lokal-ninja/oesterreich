@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.494292900000005
 longitude: 12.0904304
-postcode: 6322
+postcode: "6322"
 city: Kirchbichl
 street: "Lofererstraße"
 housenumber: 26

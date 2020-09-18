@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.56530780000001
 longitude: 16.5772681
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Mitschastraße"
 housenumber: 25

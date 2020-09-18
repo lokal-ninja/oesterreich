@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 48.147558800000006
 longitude: 16.343800400000003
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Sterngasse"
 housenumber: 3

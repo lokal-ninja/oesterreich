@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.0566338
 longitude: 16.1924359
-postcode: 2531
+postcode: "2531"
 city: Gaaden bei Mödling
 street: "Sittendorfer Straße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.881530000000005
 longitude: 14.1297236
-postcode: 4563
+postcode: "4563"
 city: Micheldorf in OÖ
 street: "Gradenstraße"
 housenumber: 9

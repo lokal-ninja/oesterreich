@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0669241
 longitude: 14.419561000000002
-postcode: 4407
+postcode: "4407"
 city: Steyr
 street: "Gleinker Hauptstraße"
 housenumber: 1d

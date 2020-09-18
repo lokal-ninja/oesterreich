@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.066921900000004
 longitude: 13.4814789
-postcode: 4873
+postcode: "4873"
 city: Frankenburg
 street: "Vöcklamarkter Straße"
 housenumber: 2A

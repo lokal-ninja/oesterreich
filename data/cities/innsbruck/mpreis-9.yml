@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.260465
 longitude: 11.3820472
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Innrain"
 housenumber: 70

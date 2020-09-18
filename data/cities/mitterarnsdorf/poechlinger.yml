@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.365712300000006
 longitude: 15.438422300000001
-postcode: 3621
+postcode: "3621"
 city: Mitterarnsdorf
 street: ""
 housenumber: 72

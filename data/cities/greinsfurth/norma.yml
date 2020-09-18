@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.109418500000004
 longitude: 14.8390272
-postcode: 3300
+postcode: "3300"
 city: Greinsfurth
 street: "Waidhofner Straße"
 housenumber: 42a

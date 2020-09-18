@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.030796800000005
 longitude: 14.083180200000001
-postcode: 4551
+postcode: "4551"
 city: Ried im Traunkreis
 street: ""
 housenumber: 32

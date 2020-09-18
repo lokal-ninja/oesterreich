@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1746938
 longitude: 16.4033607
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Geiselbergstraße"
 housenumber: 34-36

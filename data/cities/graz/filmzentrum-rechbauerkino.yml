@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 47.0698962
 longitude: 15.4492168
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Rechbauerstraße"
 housenumber: 6

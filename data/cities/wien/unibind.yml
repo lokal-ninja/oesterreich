@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.1401242
 longitude: 16.2931254
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Carlbergergasse"
 housenumber: 38

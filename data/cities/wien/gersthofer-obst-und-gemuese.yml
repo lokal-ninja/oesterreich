@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.2310765
 longitude: 16.3292785
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Simonygasse"
 housenumber: 12

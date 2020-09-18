@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.1902648
 longitude: 14.746836100000001
-postcode: 8740
+postcode: "8740"
 city: Zeltweg
 street: "Hauptstraße"
 housenumber: 113a

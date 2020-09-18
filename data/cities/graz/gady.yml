@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.043181800000006
 longitude: 15.457884400000001
-postcode: 8041
+postcode: "8041"
 city: Graz
 street: "Liebenauer Hauptstraße"
 housenumber: 64

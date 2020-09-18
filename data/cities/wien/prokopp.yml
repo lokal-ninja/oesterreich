@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.242894
 longitude: 16.3416417
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Sonnbergplatz"
 housenumber: 7

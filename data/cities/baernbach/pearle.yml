@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.0536582
 longitude: 15.129786800000002
-postcode: 8572
+postcode: "8572"
 city: Bärnbach
 street: "Packer Straße"
 housenumber: 18

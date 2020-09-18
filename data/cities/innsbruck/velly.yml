@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2629704
 longitude: 11.3967249
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Salurner Straße"
 housenumber: 16

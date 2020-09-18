@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4729492
 longitude: 9.7500851
-postcode: 6922
+postcode: "6922"
 city: Wolfurt
 street: "Unterlinden"
 housenumber: 27

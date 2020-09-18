@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.667070300000006
 longitude: 15.5747517
-postcode: 8692
+postcode: "8692"
 city: Neuberg an der Mürz
 street: "Hauptplatz"
 housenumber: 9

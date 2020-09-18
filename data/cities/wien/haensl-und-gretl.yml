@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.228217900000004
 longitude: 16.3677752
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: ""
 housenumber: 

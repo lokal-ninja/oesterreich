@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 46.6313333
 longitude: 13.827290600000001
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Badstubenweg"
 housenumber: 68

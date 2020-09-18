@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.1837147
 longitude: 14.681108
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Arena am Waldfeld"
 housenumber: 5

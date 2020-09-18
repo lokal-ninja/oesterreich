@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.074699700000004
 longitude: 14.391028400000001
-postcode: 4493
+postcode: "4493"
 city: Wolfern
 street: "Bleistraße"
 housenumber: 4

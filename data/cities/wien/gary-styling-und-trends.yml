@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1889024
 longitude: 16.304147
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Nisselgasse"
 housenumber: 11

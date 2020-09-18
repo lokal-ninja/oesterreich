@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 48.208747300000006
 longitude: 16.371379400000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Goldschmiedgasse"
 housenumber: 6

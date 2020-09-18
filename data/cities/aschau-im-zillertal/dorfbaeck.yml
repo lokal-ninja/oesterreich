@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2627171
 longitude: 11.895433800000001
-postcode: 6274
+postcode: "6274"
 city: Aschau im Zillertal
 street: "Dorfplatz"
 housenumber: 7

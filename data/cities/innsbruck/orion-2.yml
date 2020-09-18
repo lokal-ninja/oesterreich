@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 47.257796400000004
 longitude: 11.3968205
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Leopoldstraße"
 housenumber: 40

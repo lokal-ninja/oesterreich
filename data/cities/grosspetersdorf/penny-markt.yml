@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.242181900000006
 longitude: 16.3105559
-postcode: 7503
+postcode: "7503"
 city: Grosspetersdorf
 street: "Hauptstrasse"
 housenumber: 99

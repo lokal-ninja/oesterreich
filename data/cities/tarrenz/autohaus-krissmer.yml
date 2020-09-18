@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.2604429
 longitude: 10.758871200000002
-postcode: 6464
+postcode: "6464"
 city: Tarrenz
 street: "Hauptstraße"
 housenumber: 71

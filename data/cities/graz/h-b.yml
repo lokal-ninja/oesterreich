@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.0666212
 longitude: 15.4471553
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Dietrichsteinplatz"
 housenumber: 2

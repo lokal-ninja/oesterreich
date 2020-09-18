@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3241906
 longitude: 13.1744543
-postcode: 5621
+postcode: "5621"
 city: Sankt Veit im Pongau
 street: "Gewerbestraße"
 housenumber: 6

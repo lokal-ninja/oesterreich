@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.139777300000006
 longitude: 15.909891600000002
-postcode: 3052
+postcode: "3052"
 city: Neustift-Innermanzing
 street: "Hauptstraße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.9584381
 longitude: 14.772783800000001
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Eberhard-Platz"
 housenumber: 7

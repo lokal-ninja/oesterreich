@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 47.4782461
 longitude: 12.0438937
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "Innsbrucker Straße"
 housenumber: 99

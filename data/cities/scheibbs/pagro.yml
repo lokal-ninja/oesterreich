@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.012897200000005
 longitude: 15.1575097
-postcode: 3270
+postcode: "3270"
 city: Scheibbs
 street: "Gewerbestraße"
 housenumber: 3

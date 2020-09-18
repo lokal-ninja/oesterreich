@@ -3,10 +3,10 @@ type: way
 shop: Metzgerei
 latitude: 48.1195492
 longitude: 13.1604579
-postcode: 5231
+postcode: "5231"
 city: Schalchen
 street: "Hauptstraße"
 housenumber: 56
-phone: ""
+phone: "07742 2629"
 opening_hours: ""
-website: ""
+website: "http://dorfmetzgerei-dreher.at"

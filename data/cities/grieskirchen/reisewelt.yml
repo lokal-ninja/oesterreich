@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.235454600000004
 longitude: 13.827178300000002
-postcode: 4710
+postcode: "4710"
 city: Grieskirchen
 street: "Oberer Stadtplatz"
 housenumber: 4

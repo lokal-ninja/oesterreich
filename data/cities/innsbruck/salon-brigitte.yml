@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.258201
 longitude: 11.39015
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Speckbacherstraße"
 housenumber: 41

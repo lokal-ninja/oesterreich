@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.424457000000004
 longitude: 9.762031
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Stüben"
 housenumber: 6

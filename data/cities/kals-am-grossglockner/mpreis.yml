@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.0024061
 longitude: 12.6451246
-postcode: 9981
+postcode: "9981"
 city: Kals am Großglockner
 street: ""
 housenumber: 23

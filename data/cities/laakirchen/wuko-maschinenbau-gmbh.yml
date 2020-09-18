@@ -3,10 +3,10 @@ type: way
 shop: Baumarkt
 latitude: 47.955519200000005
 longitude: 13.8179163
-postcode: 4664
+postcode: "4664"
 city: Laakirchen
 street: "Dr. Maleta-Straße"
 housenumber: 1
-phone: "07612 775000"
+phone: "+43 7612 775000"
 opening_hours: ""
 website: ""

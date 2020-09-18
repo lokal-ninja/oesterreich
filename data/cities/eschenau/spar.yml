@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.048641800000006
 longitude: 15.5679797
-postcode: 3153
+postcode: "3153"
 city: Eschenau
 street: "Inzenreithstraße"
 housenumber: 1

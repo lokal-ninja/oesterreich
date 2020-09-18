@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.365541900000004
 longitude: 9.6883019
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Schweizer Straße"
 housenumber: 10

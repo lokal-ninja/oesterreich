@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3666679
 longitude: 13.567809
-postcode: 4770
+postcode: "4770"
 city: Andorf
 street: "Wilhelm-Redl-Straße"
 housenumber: 1

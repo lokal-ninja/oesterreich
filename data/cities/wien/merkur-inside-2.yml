@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1915324
 longitude: 16.2798337
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Hietzinger Kai"
 housenumber: 133-135

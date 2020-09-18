@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 46.8175006
 longitude: 15.243657200000001
-postcode: 8530
+postcode: "8530"
 city: Deutschlandsberg
 street: "Wirtschaftspark"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1107248
 longitude: 16.6891396
-postcode: 2402
+postcode: "2402"
 city: Maria Ellend an der Donau
 street: "Hauptplatz"
 housenumber: 1

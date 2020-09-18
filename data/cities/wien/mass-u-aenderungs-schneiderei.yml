@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1975993
 longitude: 16.3660712
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Operngasse"
 housenumber: 23

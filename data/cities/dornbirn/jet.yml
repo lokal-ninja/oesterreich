@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.392231800000005
 longitude: 9.727708400000001
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Wallenmahd"
 housenumber: 22

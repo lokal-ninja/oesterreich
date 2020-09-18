@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.580420600000004
 longitude: 15.492017800000001
-postcode: 8663
+postcode: "8663"
 city: Sankt Barbara im Mürztal
 street: "Obere Hauptstraße"
 housenumber: 10

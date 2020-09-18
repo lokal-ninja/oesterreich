@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4433511
 longitude: 11.880002000000001
-postcode: 6233
+postcode: "6233"
 city: Kramsach
 street: "Amerling"
 housenumber: 5

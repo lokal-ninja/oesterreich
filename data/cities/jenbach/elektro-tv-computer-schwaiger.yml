@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 47.3928382
 longitude: 11.772169700000001
-postcode: 6200
+postcode: "6200"
 city: Jenbach
 street: "Achenseestraße"
 housenumber: 47

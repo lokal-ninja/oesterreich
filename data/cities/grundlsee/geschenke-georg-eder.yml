@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.623257200000005
 longitude: 13.8294969
-postcode: 8993
+postcode: "8993"
 city: Grundlsee
 street: ""
 housenumber: 21

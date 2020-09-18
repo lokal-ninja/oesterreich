@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 47.849093100000005
 longitude: 14.348495300000002
-postcode: 4591
+postcode: "4591"
 city: Molln
 street: ""
 housenumber: 109

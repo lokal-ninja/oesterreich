@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1948377
 longitude: 16.3629857
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Margaretenstraße"
 housenumber: 39

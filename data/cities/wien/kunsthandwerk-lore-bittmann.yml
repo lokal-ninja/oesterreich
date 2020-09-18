@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.206943900000006
 longitude: 16.3769715
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Jakobergasse"
 housenumber: 4

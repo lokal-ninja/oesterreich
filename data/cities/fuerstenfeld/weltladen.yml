@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.0496964
 longitude: 16.078896800000003
-postcode: 8280
+postcode: "8280"
 city: Fürstenfeld
 street: "Hauptstraße"
 housenumber: 8

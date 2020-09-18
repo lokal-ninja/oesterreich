@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 48.0093782
 longitude: 16.2375686
-postcode: 2500
+postcode: "2500"
 city: Baden
 street: "Antonsgasse"
 housenumber: 4
 phone: "+43 2252 47207"
-opening_hours: ""
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00"
 website: "https://www.gradwohl.info"

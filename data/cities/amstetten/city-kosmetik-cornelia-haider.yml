@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.119289300000005
 longitude: 14.870540100000001
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Ybbsstraße"
 housenumber: 18

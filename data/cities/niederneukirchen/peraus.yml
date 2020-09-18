@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.1766732
 longitude: 14.3140876
-postcode: 4491
+postcode: "4491"
 city: Niederneukirchen
 street: "Obereglsee"
 housenumber: 30

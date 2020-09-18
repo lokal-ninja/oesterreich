@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4345104
 longitude: 9.7465575
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Dr. Walter Zumtobel Straße"
 housenumber: 7

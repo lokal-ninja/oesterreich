@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 46.8720288
 longitude: 15.902286900000002
-postcode: 8344
+postcode: "8344"
 city: Bad Gleichenberg
 street: "Grazer Straße"
 housenumber: 12

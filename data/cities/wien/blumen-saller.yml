@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1347315
 longitude: 16.2834209
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Liesinger Platz"
 housenumber: 2a

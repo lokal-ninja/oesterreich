@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.700699
 longitude: 15.400186900000001
-postcode: 8453
+postcode: "8453"
 city: Sankt Johann im Saggautal
 street: ""
 housenumber: 88a

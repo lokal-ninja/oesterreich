@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 47.1577617
 longitude: 9.806208700000001
-postcode: 6706
+postcode: "6706"
 city: Bürs
 street: "Quadrella"
 housenumber: 10

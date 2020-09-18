@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.282468800000004
 longitude: 11.5084654
-postcode: 6060
+postcode: "6060"
 city: Hall in Tirol
 street: "Arbesgasse"
 housenumber: 4
 phone: "+43 5223 56758"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-14:00"
+opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-15:30; Aug Sa[1, 5] off; Sep-Nov Sa[2, 4] off; PH off"
 website: "https://friseur-happ.at"

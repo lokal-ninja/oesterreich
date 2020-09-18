@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7056692
 longitude: 16.238968800000002
-postcode: 2063
+postcode: "2063"
 city: Zwingendorf
 street: ""
 housenumber: 207

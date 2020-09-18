@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.224249
 longitude: 16.4013588
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Vorgartenstraße"
 housenumber: 144

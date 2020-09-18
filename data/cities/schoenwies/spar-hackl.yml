@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.1964289
 longitude: 10.655328500000001
-postcode: 6491
+postcode: "6491"
 city: Schönwies
 street: "Dorf"
 housenumber: 42

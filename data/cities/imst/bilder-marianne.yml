@@ -3,7 +3,7 @@ type: way
 shop: Rahmen
 latitude: 47.2469733
 longitude: 10.7414038
-postcode: 6460
+postcode: "6460"
 city: Imst
 street: "Lehngasse"
 housenumber: 6

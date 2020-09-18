@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.240123600000004
 longitude: 16.375593600000002
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: ""
 housenumber: 

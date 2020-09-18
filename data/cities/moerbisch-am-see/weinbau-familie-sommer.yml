@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.756420600000006
 longitude: 16.6642522
-postcode: 7072
+postcode: "7072"
 city: Mörbisch am See
 street: "Sankt Margarether Straße"
 housenumber: 30

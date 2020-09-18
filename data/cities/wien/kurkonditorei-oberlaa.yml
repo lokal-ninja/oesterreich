@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1425478
 longitude: 16.4026719
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Kurbadstraße"
 housenumber: 12

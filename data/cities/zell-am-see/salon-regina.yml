@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.306062000000004
 longitude: 12.7992705
-postcode: 5700
+postcode: "5700"
 city: Zell am See
 street: "Karl-Vogt-Straße"
 housenumber: 33

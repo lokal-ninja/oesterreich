@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.07052
 longitude: 11.022371000000001
-postcode: 6444
+postcode: "6444"
 city: Längenfeld
 street: "Gries"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.281446800000005
 longitude: 11.504551300000001
-postcode: 6060
+postcode: "6060"
 city: Hall in Tirol
 street: "Salvatorgasse"
 housenumber: 27

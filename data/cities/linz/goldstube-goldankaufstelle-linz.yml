@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.3003919
 longitude: 14.2907395
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Landstraße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.226911
 longitude: 9.583317300000001
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Liechtensteiner Straße"
 housenumber: 90

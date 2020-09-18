@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.142982
 longitude: 15.282439700000001
-postcode: 3243
+postcode: "3243"
 city: St. Leonhard am Forst
 street: "Hauptplatz"
 housenumber: 13

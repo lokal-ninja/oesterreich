@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.1508356
 longitude: 15.5445083
-postcode: 3200
+postcode: "3200"
 city: Ober-Grafendorf
 street: "Hauptplatz"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.0586734
 longitude: 15.4603643
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Inffeldgasse"
 housenumber: 10

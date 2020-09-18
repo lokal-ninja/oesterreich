@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1985151
 longitude: 16.3193482
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Hütteldorfer Straße"
 housenumber: 81B

@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 47.26073400000001
 longitude: 11.3954996
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Leopoldstraße"
 housenumber: 13

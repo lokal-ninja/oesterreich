@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.1834756
 longitude: 14.6752389
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Marktstraße"
 housenumber: 1

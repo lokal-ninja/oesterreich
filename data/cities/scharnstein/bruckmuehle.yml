@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9027599
 longitude: 13.9570038
-postcode: 4644
+postcode: "4644"
 city: Scharnstein
 street: "Hauptstraße"
 housenumber: 30

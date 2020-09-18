@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.065476800000006
 longitude: 15.4416214
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Schönaugasse"
 housenumber: 13

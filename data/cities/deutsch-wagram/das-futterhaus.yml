@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.304780300000004
 longitude: 16.5767789
-postcode: 2232
+postcode: "2232"
 city: Deutsch-Wagram
 street: "Dr. Leopold Figl-Gasse"
 housenumber: 7

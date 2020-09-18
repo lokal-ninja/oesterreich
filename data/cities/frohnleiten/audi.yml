@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.2683715
 longitude: 15.333695500000001
-postcode: 8130
+postcode: "8130"
 city: Frohnleiten
 street: "Rechberg Straße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.5329108
 longitude: 14.271497100000001
-postcode: 9162
+postcode: "9162"
 city: Ferlach
 street: "Kirschentheuer"
 housenumber: 62

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.4572799
 longitude: 15.8991634
-postcode: 8252
+postcode: "8252"
 city: Waldbach-Mönichwald
 street: ""
 housenumber: 61

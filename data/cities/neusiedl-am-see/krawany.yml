@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.968411800000005
 longitude: 16.8363716
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Rot-Kreuz-Gasse"
 housenumber: 10

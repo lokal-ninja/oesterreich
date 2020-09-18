@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.210418600000004
 longitude: 16.344453
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Josefstädter Straße"
 housenumber: 71

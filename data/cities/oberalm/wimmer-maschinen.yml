@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.6995732
 longitude: 13.0992691
-postcode: 5411
+postcode: "5411"
 city: Oberalm
 street: "Halleiner Landesstraße"
 housenumber: 47

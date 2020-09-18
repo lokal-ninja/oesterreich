@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.824015300000006
 longitude: 16.2126674
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Fischauer Gasse"
 housenumber: 162

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.2117839
 longitude: 16.3735961
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Sterngasse"
 housenumber: 2

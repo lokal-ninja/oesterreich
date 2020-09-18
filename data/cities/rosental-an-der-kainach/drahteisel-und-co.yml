@@ -1,12 +1,12 @@
-id: 5899961210
-type: node
+id: 176332674
+type: way
 shop: Fahrrad
-latitude: 47.052362300000006
-longitude: 15.125649800000001
-postcode: 8582
+latitude: 47.0524825
+longitude: 15.125462700000002
+postcode: "8582"
 city: Rosental an der Kainach
 street: "Hauptstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.drahteisel.at/unser-geschaeft.html"
+website: "http://www.drahteisel.at"

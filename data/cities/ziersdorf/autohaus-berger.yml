@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.5260982
 longitude: 15.931969800000001
-postcode: 3710
+postcode: "3710"
 city: Ziersdorf
 street: "Wiener Straße"
 housenumber: 31

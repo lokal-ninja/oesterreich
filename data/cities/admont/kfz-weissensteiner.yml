@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.5741901
 longitude: 14.469323900000001
-postcode: 8911
+postcode: "8911"
 city: Admont
 street: "Bahnhofstraße"
 housenumber: 231

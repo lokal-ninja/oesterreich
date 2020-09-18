@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3627411
 longitude: 13.3826718
-postcode: 5542
+postcode: "5542"
 city: Flachau
 street: "Feuersang"
 housenumber: 319

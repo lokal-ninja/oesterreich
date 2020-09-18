@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 47.9782487
 longitude: 14.078099700000001
-postcode: 4552
+postcode: "4552"
 city: Wartberg an der Krems
 street: ""
 housenumber: 7
-phone: ""
+phone: "+43 7587 7755"
 opening_hours: ""
-website: ""
+website: "https://www.seat-egger.at/"

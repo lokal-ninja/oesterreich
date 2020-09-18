@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 46.875598800000006
 longitude: 15.8920183
-postcode: 8343
+postcode: "8343"
 city: Bad Gleichenberg
 street: ""
 housenumber: 104

@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 46.574669300000004
 longitude: 14.658189100000001
-postcode: 9141
+postcode: "9141"
 city: Eberndorf
 street: ""
 housenumber: 23

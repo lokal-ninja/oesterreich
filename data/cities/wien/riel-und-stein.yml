@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.226483800000004
 longitude: 16.3426444
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Währinger Straße"
 housenumber: 107

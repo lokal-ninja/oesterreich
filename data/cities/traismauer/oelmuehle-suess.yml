@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.3388696
 longitude: 15.8055941
-postcode: 3133
+postcode: "3133"
 city: Traismauer
 street: "Ortsstraße"
 housenumber: 15

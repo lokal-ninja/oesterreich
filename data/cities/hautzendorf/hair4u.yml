@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4484189
 longitude: 16.492454000000002
-postcode: 2123
+postcode: "2123"
 city: Hautzendorf
 street: "Kirchenstraße"
 housenumber: 30

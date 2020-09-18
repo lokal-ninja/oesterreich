@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.260153200000005
 longitude: 11.398665000000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Mentlgasse"
 housenumber: 7

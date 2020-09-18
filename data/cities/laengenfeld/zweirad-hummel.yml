@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.0680789
 longitude: 10.968536
-postcode: 6444
+postcode: "6444"
 city: Längenfeld
 street: "Oberlängenfeld"
 housenumber: 96

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.006506800000004
 longitude: 16.2361764
-postcode: 2500
+postcode: "2500"
 city: Baden
 street: "Wassergasse"
 housenumber: 17

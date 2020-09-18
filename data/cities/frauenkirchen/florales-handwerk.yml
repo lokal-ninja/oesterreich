@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.835379200000006
 longitude: 16.924811300000002
-postcode: 7132
+postcode: "7132"
 city: Frauenkirchen
 street: "Franziskanerstraße"
 housenumber: 21

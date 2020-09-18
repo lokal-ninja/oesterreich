@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.1560222
 longitude: 9.8192994
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Sturnengasse"
 housenumber: 1

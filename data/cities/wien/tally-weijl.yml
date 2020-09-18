@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.175706500000004
 longitude: 16.3300404
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Meidlinger Hauptstraße"
 housenumber: 76

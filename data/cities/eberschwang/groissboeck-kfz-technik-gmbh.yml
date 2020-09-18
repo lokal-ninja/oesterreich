@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.16720350000001
 longitude: 13.554155100000001
-postcode: 4906
+postcode: "4906"
 city: Eberschwang
 street: ""
 housenumber: 13

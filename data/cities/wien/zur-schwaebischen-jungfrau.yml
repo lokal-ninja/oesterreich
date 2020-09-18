@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.2089823
 longitude: 16.369633800000003
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Graben"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.0790377
 longitude: 15.442891600000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Hilgergasse"
 housenumber: 6

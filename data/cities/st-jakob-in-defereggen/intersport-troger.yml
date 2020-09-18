@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.9160978
 longitude: 12.3323067
-postcode: 9963
+postcode: "9963"
 city: St. Jakob in Defereggen
 street: ""
 housenumber: 33

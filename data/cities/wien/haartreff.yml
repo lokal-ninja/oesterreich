@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2225551
 longitude: 16.457158800000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Langobardenstraße"
 housenumber: 44

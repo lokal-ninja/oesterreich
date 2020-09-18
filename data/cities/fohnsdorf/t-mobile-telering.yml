@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.184470600000004
 longitude: 14.685039900000001
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Arena am Waldfeld"
 housenumber: 28

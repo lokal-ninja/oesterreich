@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.0719985
 longitude: 15.4476434
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Leonhardstraße"
 housenumber: 2

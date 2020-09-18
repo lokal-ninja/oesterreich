@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.390154800000005
 longitude: 9.7235701
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Wallenmahd"
 housenumber: 40

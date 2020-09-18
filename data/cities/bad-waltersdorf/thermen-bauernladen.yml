@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.169605700000005
 longitude: 16.0075422
-postcode: 8271
+postcode: "8271"
 city: Bad Waltersdorf
 street: "Hauptplatz"
 housenumber: 4/1

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.3897501
 longitude: 11.7653572
-postcode: 6200
+postcode: "6200"
 city: Jenbach
 street: "Am Gießen"
 housenumber: 12

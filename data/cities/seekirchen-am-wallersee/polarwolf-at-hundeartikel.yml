@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 47.897262600000005
 longitude: 13.121043400000001
-postcode: 5201
+postcode: "5201"
 city: Seekirchen am Wallersee
 street: "Gartenstraße"
 housenumber: 3

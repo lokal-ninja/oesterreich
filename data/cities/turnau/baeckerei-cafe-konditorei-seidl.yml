@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.5583638
 longitude: 15.336544600000002
-postcode: 8625
+postcode: "8625"
 city: Turnau
 street: ""
 housenumber: 8

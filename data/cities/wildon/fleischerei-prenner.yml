@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.8872161
 longitude: 15.514129700000002
-postcode: 8410
+postcode: "8410"
 city: Wildon
 street: "Hauptplatz"
 housenumber: 46

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.443435400000006
 longitude: 14.5367209
-postcode: 4292
+postcode: "4292"
 city: Kefermarkt
 street: "Oberer Markt"
 housenumber: 11a

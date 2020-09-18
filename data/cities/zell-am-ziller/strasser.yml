@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.2332237
 longitude: 11.8816532
-postcode: 6280
+postcode: "6280"
 city: Zell am Ziller
 street: "Gerlosstraße"
 housenumber: 2

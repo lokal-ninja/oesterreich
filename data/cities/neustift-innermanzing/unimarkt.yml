@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1516451
 longitude: 15.905260700000001
-postcode: 3052
+postcode: "3052"
 city: Neustift-Innermanzing
 street: "Gewerbepark Süd"
 housenumber: 1

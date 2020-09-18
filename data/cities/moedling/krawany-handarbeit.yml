@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.0856915
 longitude: 16.2850414
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Hauptstraße"
 housenumber: 83

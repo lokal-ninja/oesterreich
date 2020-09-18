@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2006973
 longitude: 16.343097500000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Schottenfeldgasse"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 48.191240300000004
 longitude: 16.3665127
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 60

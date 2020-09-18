@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 48.2861545
 longitude: 16.344599900000002
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Wiener Straße"
 housenumber: 53

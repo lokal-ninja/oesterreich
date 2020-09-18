@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.457037400000004
 longitude: 15.718508900000002
-postcode: 3493
+postcode: "3493"
 city: Hadersdorf-Kammern
 street: "Kremser Straße"
 housenumber: 10

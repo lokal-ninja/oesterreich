@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.6239579
 longitude: 14.3046603
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Heiligengeistplatz"
 housenumber: 3

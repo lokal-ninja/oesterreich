@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.114530300000006
 longitude: 15.334897000000002
-postcode: 3240
+postcode: "3240"
 city: Mank
 street: "Hörsdorf"
 housenumber: 31

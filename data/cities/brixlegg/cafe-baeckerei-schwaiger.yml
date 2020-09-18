@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4296057
 longitude: 11.8792851
-postcode: 6230
+postcode: "6230"
 city: Brixlegg
 street: "Römerstraße"
 housenumber: 8

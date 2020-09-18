@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.377096300000005
 longitude: 16.508186900000002
-postcode: 2120
+postcode: "2120"
 city: Wolkersdorf im Weinviertel
 street: "Winzerstraße"
 housenumber: 3

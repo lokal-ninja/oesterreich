@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2229905
 longitude: 16.362079700000002
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Seegasse"
 housenumber: 6

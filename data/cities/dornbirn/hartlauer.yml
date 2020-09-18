@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.411619
 longitude: 9.742239900000001
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Marktstraße"
 housenumber: 18a

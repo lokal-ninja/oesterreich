@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.609735300000004
 longitude: 13.7808106
-postcode: 8990
+postcode: "8990"
 city: Bad Aussee
 street: "Ischler Straße"
 housenumber: 209

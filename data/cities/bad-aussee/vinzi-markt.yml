@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 47.6110758
 longitude: 13.7866701
-postcode: 8990
+postcode: "8990"
 city: Bad Aussee
 street: "Kirchengasse"
 housenumber: 164

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.2178805
 longitude: 16.3805994
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Taborstraße"
 housenumber: 29

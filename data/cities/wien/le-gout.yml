@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.2047675
 longitude: 16.374947900000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Himmelpfortgasse"
 housenumber: 20

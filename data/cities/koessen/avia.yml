@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.6621395
 longitude: 12.4251944
-postcode: 6345
+postcode: "6345"
 city: Kössen
 street: "Kaltenbach"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.5021926
 longitude: 9.7478221
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Maurachgasse"
 housenumber: 

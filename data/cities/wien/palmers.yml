@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2078615
 longitude: 16.3785865
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Wollzeile"
 housenumber: 37

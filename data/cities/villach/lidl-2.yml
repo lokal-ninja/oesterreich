@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.606335300000005
 longitude: 13.8623293
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Maria-Gailer-Straße"
 housenumber: 21

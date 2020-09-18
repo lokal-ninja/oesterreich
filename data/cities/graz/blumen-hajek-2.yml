@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.0675645
 longitude: 15.442539100000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Jakominiplatz"
 housenumber: 

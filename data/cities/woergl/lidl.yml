@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4888385
 longitude: 12.072270300000001
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "Johann Federer-Straße"
 housenumber: 30

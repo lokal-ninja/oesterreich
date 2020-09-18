@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.447459200000004
 longitude: 9.7640013
-postcode: 6858
+postcode: "6858"
 city: Schwarzach
 street: "Am Dorfplatz"
 housenumber: 1

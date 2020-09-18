@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 47.4874103
 longitude: 9.6655613
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "In der Schanz"
 housenumber: 40a

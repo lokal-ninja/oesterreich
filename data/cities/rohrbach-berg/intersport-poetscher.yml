@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.5674283
 longitude: 13.981623800000001
-postcode: 4150
+postcode: "4150"
 city: Rohrbach-Berg
 street: "Volksfeststraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.0520799
 longitude: 15.447092300000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Raiffeisenstraße"
 housenumber: 48

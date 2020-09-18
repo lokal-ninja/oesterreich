@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 46.761524900000005
 longitude: 15.4015135
-postcode: 8443
+postcode: "8443"
 city: Gleinstätten
 street: ""
 housenumber: 13a

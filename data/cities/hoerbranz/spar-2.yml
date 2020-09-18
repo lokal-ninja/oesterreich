@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.535277900000004
 longitude: 9.7389796
-postcode: 6912
+postcode: "6912"
 city: Hörbranz
 street: "Seestraße"
 housenumber: 17

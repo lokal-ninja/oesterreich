@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 47.064037600000006
 longitude: 15.444205100000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Maygasse"
 housenumber: 15

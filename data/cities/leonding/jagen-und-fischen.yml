@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 48.2723997
 longitude: 14.2710375
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Welser Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.2524163
 longitude: 12.274711400000001
-postcode: 5741
+postcode: "5741"
 city: Neukirchen am Großvenediger
 street: "Marktstraße"
 housenumber: 199

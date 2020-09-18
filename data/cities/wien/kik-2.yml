@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2488977
 longitude: 16.3623924
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Heiligenstädter Straße"
 housenumber: 117

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.1525985
 longitude: 14.0418687
-postcode: 4600
+postcode: "4600"
 city: Thalheim bei Wels
 street: "KTM-Straße"
 housenumber: 1

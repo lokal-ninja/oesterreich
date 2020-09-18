@@ -3,7 +3,7 @@ type: way
 shop: Holz
 latitude: 47.1505073
 longitude: 9.8154602
-postcode: 6700
+postcode: "6700"
 city: Bürs
 street: "Bremschlstraße"
 housenumber: 8

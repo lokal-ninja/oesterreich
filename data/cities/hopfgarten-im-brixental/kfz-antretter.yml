@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.461035300000006
 longitude: 12.142033600000001
-postcode: 6361
+postcode: "6361"
 city: Hopfgarten im Brixental
 street: "Sonnwiesenweg"
 housenumber: 17c

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.058793200000004
 longitude: 15.452162200000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Münzgrabenstraße"
 housenumber: 102

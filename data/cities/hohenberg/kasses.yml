@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.9094532
 longitude: 15.619454500000002
-postcode: 3192
+postcode: "3192"
 city: Hohenberg
 street: "Markt"
 housenumber: 9

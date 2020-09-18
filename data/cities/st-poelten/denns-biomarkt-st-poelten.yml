@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1908765
 longitude: 15.6190221
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Mariazeller Straße"
 housenumber: 75

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.248275500000005
 longitude: 16.3286526
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Sieveringer Straße"
 housenumber: 76

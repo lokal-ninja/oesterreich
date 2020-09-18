@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.268478800000004
 longitude: 14.262480100000001
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Poststraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8166905
 longitude: 16.5477829
-postcode: 7061
+postcode: "7061"
 city: Trausdorf an der Wulka
 street: "Sportplatzgasse"
 housenumber: 1

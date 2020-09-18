@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.427906500000006
 longitude: 15.890407600000001
-postcode: 3470
+postcode: "3470"
 city: Dörfl
 street: "Sonnengasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.2062492
 longitude: 16.335270100000002
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Koppstraße"
 housenumber: 5

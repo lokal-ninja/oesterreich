@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.502762000000004
 longitude: 15.439334700000002
-postcode: 8650
+postcode: "8650"
 city: Kindberg
 street: "Grazer Straße"
 housenumber: 1c

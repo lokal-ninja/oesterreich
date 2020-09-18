@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 48.7495265
 longitude: 16.0005363
-postcode: 2074
+postcode: "2074"
 city: Kleinhöflein
 street: "Sommerseite"
 housenumber: 4

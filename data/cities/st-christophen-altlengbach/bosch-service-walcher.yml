@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1587401
 longitude: 15.895597500000001
-postcode: 3051
+postcode: "3051"
 city: St. Christophen / Altlengbach
 street: ""
 housenumber: 35

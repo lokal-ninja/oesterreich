@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.195252
 longitude: 16.355422
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Hamburgerstraße"
 housenumber: 15

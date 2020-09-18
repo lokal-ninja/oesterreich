@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.117701600000004
 longitude: 16.3155815
-postcode: 2334
+postcode: "2334"
 city: Vösendorf
 street: "Triester Straße"
 housenumber: 14

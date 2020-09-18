@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.19426300000001
 longitude: 14.248455000000002
-postcode: 4053
+postcode: "4053"
 city: Haid
 street: "Ikeaplatz"
 housenumber: 7

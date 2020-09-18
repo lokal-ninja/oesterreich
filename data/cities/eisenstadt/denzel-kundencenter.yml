@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.8306966
 longitude: 16.5234896
-postcode: 7000
+postcode: "7000"
 city: Eisenstadt
 street: "Mattersburger Straße"
 housenumber: 31

@@ -3,10 +3,10 @@ type: node
 shop: Sport
 latitude: 47.2611281
 longitude: 10.3449916
-postcode: 6654
+postcode: "6654"
 city: Holzgau
 street: "Holzgau"
 housenumber: 77
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.sportcenter-knitel.at/de"

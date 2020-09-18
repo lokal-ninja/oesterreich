@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.7884727
 longitude: 15.540709600000001
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Dechant Thaller-Straße"
 housenumber: 34

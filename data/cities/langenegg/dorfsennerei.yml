@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.467341000000005
 longitude: 9.897400000000001
-postcode: 6941
+postcode: "6941"
 city: Langenegg
 street: "Berkmann"
 housenumber: 116

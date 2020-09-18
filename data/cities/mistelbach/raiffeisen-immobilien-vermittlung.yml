@@ -3,7 +3,7 @@ type: node
 shop: Immobilien
 latitude: 48.570446700000005
 longitude: 16.571380700000002
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Museumgasse"
 housenumber: 3

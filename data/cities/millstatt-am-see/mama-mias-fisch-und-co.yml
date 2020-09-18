@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 46.8027967
 longitude: 13.571134800000001
-postcode: 9872
+postcode: "9872"
 city: Millstatt am See
 street: "Kaiser-Franz-Josef-Straße"
 housenumber: 59

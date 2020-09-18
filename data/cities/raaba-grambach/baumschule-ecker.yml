@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.0172912
 longitude: 15.502824100000002
-postcode: 8074
+postcode: "8074"
 city: Raaba-Grambach
 street: "Hauptstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.099826
 longitude: 15.4144207
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Am Arlandgrund"
 housenumber: 2

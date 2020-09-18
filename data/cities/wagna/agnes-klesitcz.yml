@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.778000000000006
 longitude: 15.566640000000001
-postcode: 8435
+postcode: "8435"
 city: Wagna
 street: "Leitringer Hauptstraße"
 housenumber: 44

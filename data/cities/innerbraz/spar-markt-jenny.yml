@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.145651300000004
 longitude: 9.9153438
-postcode: 6751
+postcode: "6751"
 city: Innerbraz
 street: "Arlbergstraße"
 housenumber: 55

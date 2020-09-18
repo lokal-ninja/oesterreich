@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.219206500000006
 longitude: 16.469263400000003
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Langobardenstraße"
 housenumber: 121

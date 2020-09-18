@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 47.0425929
 longitude: 15.4133981
-postcode: 8053
+postcode: "8053"
 city: Graz
 street: "Kärntner Straße"
 housenumber: 194

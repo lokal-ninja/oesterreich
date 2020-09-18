@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.309933
 longitude: 14.281446800000001
-postcode: 4040
+postcode: "4040"
 city: Linz
 street: "Bernaschekplatz"
 housenumber: 6

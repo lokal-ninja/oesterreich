@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 48.2025845
 longitude: 16.3561295
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Siebensterngasse"
 housenumber: 9/1

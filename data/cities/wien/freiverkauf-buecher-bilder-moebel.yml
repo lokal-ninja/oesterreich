@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.2041284
 longitude: 16.3527945
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Burggasse"
 housenumber: 33

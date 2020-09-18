@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.522965400000004
 longitude: 12.420841900000001
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Paß-Thurn-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.2270416
 longitude: 16.343408800000002
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Gentzgasse"
 housenumber: 38

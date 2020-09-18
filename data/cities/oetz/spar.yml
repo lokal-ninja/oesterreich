@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2012957
 longitude: 10.9002431
-postcode: 6433
+postcode: "6433"
 city: Ötz
 street: "Kühtaier Straße"
 housenumber: 2

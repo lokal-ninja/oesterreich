@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.4485461
 longitude: 12.314720300000001
-postcode: 6365
+postcode: "6365"
 city: Kirchberg in Tirol
 street: "Hauptstraße"
 housenumber: 24

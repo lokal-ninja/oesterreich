@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.362205200000005
 longitude: 9.6883692
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Schloßplatz"
 housenumber: 13

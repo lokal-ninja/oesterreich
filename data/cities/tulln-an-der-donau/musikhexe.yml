@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.323303200000005
 longitude: 16.058468100000002
-postcode: 3430
+postcode: "3430"
 city: Tulln an der Donau
 street: "Staasdorfer Straße"
 housenumber: 18-20

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.226088700000005
 longitude: 14.2316006
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Mitterfeldstraße"
 housenumber: 16

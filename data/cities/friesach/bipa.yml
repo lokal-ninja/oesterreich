@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 46.9529664
 longitude: 14.4135752
-postcode: 9360
+postcode: "9360"
 city: Friesach
 street: "Industriestraße"
 housenumber: 12

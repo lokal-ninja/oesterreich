@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.485827500000006
 longitude: 12.531835200000002
-postcode: 6391
+postcode: "6391"
 city: Fieberbrunn
 street: "Rosenegg"
 housenumber: 66

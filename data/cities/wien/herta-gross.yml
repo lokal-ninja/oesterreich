@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.202341000000004
 longitude: 16.3531883
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Siebensterngasse"
 housenumber: 

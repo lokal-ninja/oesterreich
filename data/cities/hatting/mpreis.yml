@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.2777199
 longitude: 11.1676541
-postcode: 6402
+postcode: "6402"
 city: Hatting
 street: "Oberdorfstraße"
 housenumber: 2
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+43 50321 923318"
+opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; PH off"
+website: "https://www.mpreis.at/sp/standorte"

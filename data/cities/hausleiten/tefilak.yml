@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 48.390986700000006
 longitude: 16.0916472
-postcode: 3464
+postcode: "3464"
 city: Hausleiten
 street: "J.-Ressel-Straße"
 housenumber: 7

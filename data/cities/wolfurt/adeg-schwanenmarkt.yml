@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4734774
 longitude: 9.751269
-postcode: 6922
+postcode: "6922"
 city: Wolfurt
 street: "Kellhofstraße"
 housenumber: 8

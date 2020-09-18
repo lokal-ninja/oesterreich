@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.784672400000005
 longitude: 13.052056400000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Nonntaler Hauptstraße"
 housenumber: 88

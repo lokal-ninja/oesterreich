@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 48.4418207
 longitude: 15.809811300000002
-postcode: 3481
+postcode: "3481"
 city: Fels am Wagram
 street: "Kremserstraße"
 housenumber: 53

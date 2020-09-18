@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.7518131
 longitude: 14.0346609
-postcode: 9562
+postcode: "9562"
 city: Himmelberg
 street: "Turracher Straße"
 housenumber: 34

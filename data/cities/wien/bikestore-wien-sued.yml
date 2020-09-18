@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1368183
 longitude: 16.3175366
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Perfektastraße"
 housenumber: 45

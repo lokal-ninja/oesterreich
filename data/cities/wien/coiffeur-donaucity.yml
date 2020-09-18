@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2351127
 longitude: 16.410921000000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Leonard-Bernstein-Straße"
 housenumber: 4-6/7

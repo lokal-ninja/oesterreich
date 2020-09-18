@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.523216000000005
 longitude: 15.2326376
-postcode: 8621
+postcode: "8621"
 city: Thörl
 street: ""
 housenumber: 144

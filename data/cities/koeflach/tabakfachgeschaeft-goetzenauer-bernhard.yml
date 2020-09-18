@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.0494118
 longitude: 15.071745100000001
-postcode: 8580
+postcode: "8580"
 city: Köflach
 street: "Packerstraße"
 housenumber: 61

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 46.863456500000005
 longitude: 15.901657100000001
-postcode: 8344
+postcode: "8344"
 city: Bad Gleichenberg
 street: "Gnaser Straße"
 housenumber: 5

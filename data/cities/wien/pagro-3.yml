@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.2374832
 longitude: 16.3722011
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Stromstraße"
 housenumber: 5-9

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1271775
 longitude: 16.4637819
-postcode: 2320
+postcode: "2320"
 city: Schwechat
 street: "Brauhausstraße"
 housenumber: 58

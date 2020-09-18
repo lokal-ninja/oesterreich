@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 46.788502300000005
 longitude: 15.538682600000001
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Grazer Straße"
 housenumber: 66

@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 47.4952036
 longitude: 10.5565692
-postcode: 6673
+postcode: "6673"
 city: Grän
 street: "Seestraße"
 housenumber: 1

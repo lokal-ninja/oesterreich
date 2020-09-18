@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.286549400000006
 longitude: 14.1441783
-postcode: 4072
+postcode: "4072"
 city: Straßham
 street: "Wehrgasse"
 housenumber: 1

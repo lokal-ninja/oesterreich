@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.2101005
 longitude: 16.3467959
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Josefstädter Straße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.212235500000006
 longitude: 15.2107661
-postcode: 3380
+postcode: "3380"
 city: Pöchlarn
 street: "Regensburgerstraße"
 housenumber: 6 / 2

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.6883452
 longitude: 15.930678400000001
-postcode: 2640
+postcode: "2640"
 city: Prigglitz
 street: "Silbersberg"
 housenumber: 13

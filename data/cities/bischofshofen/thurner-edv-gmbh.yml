@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 47.4056882
 longitude: 13.218036000000001
-postcode: 5500
+postcode: "5500"
 city: Bischofshofen
 street: "Gasteiner Straße"
 housenumber: 72b

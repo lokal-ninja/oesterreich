@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.987406
 longitude: 13.694631600000001
-postcode: 4844
+postcode: "4844"
 city: Regau
 street: "Am Unterfeld"
 housenumber: 1

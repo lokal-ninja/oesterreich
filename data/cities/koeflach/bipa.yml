@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.064376700000004
 longitude: 15.0816403
-postcode: 8580
+postcode: "8580"
 city: Köflach
 street: "Kärntnerstraße"
 housenumber: 1

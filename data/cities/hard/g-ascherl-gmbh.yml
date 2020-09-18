@@ -3,7 +3,7 @@ type: way
 shop: Boot
 latitude: 47.479097
 longitude: 9.6761531
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Industriestraße"
 housenumber: 43

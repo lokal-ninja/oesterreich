@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.4105797
 longitude: 15.6067271
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Wertheimstraße"
 housenumber: 2

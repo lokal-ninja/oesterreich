@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.962117600000006
 longitude: 14.0135242
-postcode: 4643
+postcode: "4643"
 city: Pettenbach
 street: "Vorchdorfer Straße"
 housenumber: 12

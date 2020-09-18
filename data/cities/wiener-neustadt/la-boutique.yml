@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8145418
 longitude: 16.2436288
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Domgasse"
 housenumber: 3

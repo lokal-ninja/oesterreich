@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.1429776
 longitude: 15.2853489
-postcode: 3243
+postcode: "3243"
 city: St. Leonhard am Forst
 street: "Loosdorfer Straße"
 housenumber: 1

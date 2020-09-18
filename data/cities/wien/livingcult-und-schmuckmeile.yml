@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.2040998
 longitude: 16.356471300000003
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Breite Gasse"
 housenumber: 19

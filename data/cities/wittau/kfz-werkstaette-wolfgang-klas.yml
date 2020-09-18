@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1818402
 longitude: 16.603437200000002
-postcode: 2301
+postcode: "2301"
 city: Wittau
 street: "Bundesstraße"
 housenumber: 72

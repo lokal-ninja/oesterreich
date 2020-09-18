@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.2399703
 longitude: 10.7394616
-postcode: 6460
+postcode: "6460"
 city: Imst
 street: "Dr.-Carl-Pfeiffenberger-Straße"
 housenumber: 4

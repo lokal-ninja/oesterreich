@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1955948
 longitude: 16.3449049
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Webgasse"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7187647
 longitude: 16.3876017
-postcode: 2136
+postcode: "2136"
 city: Laa an der Thaya
 street: "Eichamtsstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7693479
 longitude: 14.999242700000002
-postcode: 3950
+postcode: "3950"
 city: Gmünd
 street: "Schremser Straße"
 housenumber: 52a

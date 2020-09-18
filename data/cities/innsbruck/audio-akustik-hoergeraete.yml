@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.260353900000005
 longitude: 11.396148100000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Michael-Gaismair-Straße"
 housenumber: 5

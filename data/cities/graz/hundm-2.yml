@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.0685513
 longitude: 15.441344
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Am Eisernen Tor"
 housenumber: 11

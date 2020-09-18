@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.380227000000005
 longitude: 13.418786
-postcode: 5541
+postcode: "5541"
 city: Altenmarkt im Pongau
 street: "Obere Marktstraße"
 housenumber: 31

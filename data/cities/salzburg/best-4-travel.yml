@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.805421100000004
 longitude: 13.0444995
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Schrannengasse"
 housenumber: 2

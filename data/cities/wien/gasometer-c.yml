@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.184882400000006
 longitude: 16.420202500000002
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Guglgasse"
 housenumber: 12

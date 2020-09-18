@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 47.8976247
 longitude: 16.907158600000002
-postcode: 7122
+postcode: "7122"
 city: Gols
 street: "Hauptplatz"
 housenumber: 20

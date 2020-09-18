@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.5574518
 longitude: 13.798001300000001
-postcode: 9587
+postcode: "9587"
 city: Arnoldstein
 street: ""
 housenumber: 84

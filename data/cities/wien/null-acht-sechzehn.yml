@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.223304600000006
 longitude: 16.341677
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Martinstraße"
 housenumber: 59

@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.191748200000006
 longitude: 16.3559431
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Schönbrunner Straße"
 housenumber: 42

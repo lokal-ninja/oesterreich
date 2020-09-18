@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.9648534
 longitude: 16.2142428
-postcode: 2450
+postcode: "2450"
 city: Bad Vöslau
 street: "Wiener Neustädter Straße"
 housenumber: 9

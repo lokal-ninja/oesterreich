@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.520257900000004
 longitude: 12.4252648
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Speckbacherstraße"
 housenumber: 24

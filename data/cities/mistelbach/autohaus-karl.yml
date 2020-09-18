@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.565237700000004
 longitude: 16.571723300000002
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Gartengasse"
 housenumber: 13-15

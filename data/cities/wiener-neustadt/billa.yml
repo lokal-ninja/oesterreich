@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.813613800000006
 longitude: 16.2451517
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Grübelgasse"
 housenumber: 4-6

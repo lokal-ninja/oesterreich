@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.406049800000005
 longitude: 15.6021707
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Bertschingerstraße"
 housenumber: 4

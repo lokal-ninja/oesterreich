@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 47.8105088
 longitude: 16.2151669
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Brunner Straße"
 housenumber: 116

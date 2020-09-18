@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.2665501
 longitude: 16.3983414
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Ignaz-Köck-Straße"
 housenumber: 1

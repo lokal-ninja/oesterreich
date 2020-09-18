@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.060594800000004
 longitude: 14.851349
-postcode: 3364
+postcode: "3364"
 city: Neuhofen an der Ybbs
 street: ""
 housenumber: 

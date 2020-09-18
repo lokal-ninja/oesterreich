@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.825999200000005
 longitude: 16.250220600000002
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Stadionstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.2725122
 longitude: 9.616293200000001
-postcode: 6830
+postcode: "6830"
 city: Rankweil
 street: "Bundesstraße"
 housenumber: 20

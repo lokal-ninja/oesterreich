@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.8244765
 longitude: 16.2074244
-postcode: 2700
+postcode: "2700"
 city: Bad Fischau-Brunn
 street: "Bauhausstraße"
 housenumber: 1

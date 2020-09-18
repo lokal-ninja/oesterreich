@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.2247094
 longitude: 14.239756100000001
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Schulstraße"
 housenumber: 17

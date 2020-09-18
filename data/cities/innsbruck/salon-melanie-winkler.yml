@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2666843
 longitude: 11.3912426
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Innrain"
 housenumber: 11

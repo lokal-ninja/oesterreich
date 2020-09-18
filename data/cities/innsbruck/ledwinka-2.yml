@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2636618
 longitude: 11.3979792
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Adamgasse"
 housenumber: 6

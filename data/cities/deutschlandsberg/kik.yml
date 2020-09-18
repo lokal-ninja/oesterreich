@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.819746300000006
 longitude: 15.225969300000001
-postcode: 8530
+postcode: "8530"
 city: Deutschlandsberg
 street: "Frauentaler Straße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.291473700000004
 longitude: 11.591548900000001
-postcode: 6112
+postcode: "6112"
 city: Wattens
 street: "Andrä-Angerer-Gasse"
 housenumber: 7

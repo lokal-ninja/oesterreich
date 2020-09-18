@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.937595
 longitude: 16.141066000000002
-postcode: 8380
+postcode: "8380"
 city: Jennersdorf
 street: "Hauptplatz"
 housenumber: 3

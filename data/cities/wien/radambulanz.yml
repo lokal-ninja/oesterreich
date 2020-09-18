@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2226653
 longitude: 16.317442800000002
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Hernalser Hauptstraße"
 housenumber: 163

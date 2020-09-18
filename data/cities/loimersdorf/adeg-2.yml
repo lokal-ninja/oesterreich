@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1751109
 longitude: 16.8458134
-postcode: 2292
+postcode: "2292"
 city: Loimersdorf
 street: "Ortsstraße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.9345024
 longitude: 13.490396800000001
-postcode: 4880
+postcode: "4880"
 city: St. Georgen im Attergau
 street: "Joh. Beerstraße"
 housenumber: 3

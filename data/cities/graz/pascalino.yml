@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.0820476
 longitude: 15.4331153
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Theodor-Körner-Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.0323116
 longitude: 14.274449400000002
-postcode: 4595
+postcode: "4595"
 city: Waldneukirchen
 street: "Lagerhauspark"
 housenumber: 1

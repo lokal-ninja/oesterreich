@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.375846700000004
 longitude: 16.630175700000002
-postcode: 2214
+postcode: "2214"
 city: Auersthal
 street: "Schweinbarther Straße"
 housenumber: 4

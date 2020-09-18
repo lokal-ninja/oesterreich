@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.576007600000004
 longitude: 14.957222400000001
-postcode: 3920
+postcode: "3920"
 city: Gr. Gerungs
 street: "Gröblingerstraße"
 housenumber: 415

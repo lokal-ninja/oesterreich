@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1681485
 longitude: 14.6609464
-postcode: 8750
+postcode: "8750"
 city: Judenburg
 street: "Hauptplatz"
 housenumber: 18

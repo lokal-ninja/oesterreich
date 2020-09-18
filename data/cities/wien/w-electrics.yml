@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.1946474
 longitude: 16.3627784
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Margaretenstraße"
 housenumber: 41-43

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.388412
 longitude: 16.1818688
-postcode: 2000
+postcode: "2000"
 city: Stockerau
 street: "Horner Straße"
 housenumber: 99

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.809806300000005
 longitude: 13.0326696
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Gaswerkgasse"
 housenumber: 9

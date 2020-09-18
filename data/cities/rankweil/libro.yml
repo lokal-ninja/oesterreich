@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.272225000000006
 longitude: 9.616420600000001
-postcode: 6830
+postcode: "6830"
 city: Rankweil
 street: "Bundesstraße"
 housenumber: 20

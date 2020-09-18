@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.970136700000005
 longitude: 10.1914151
-postcode: 6563
+postcode: "6563"
 city: Galtür
 street: "Unterrain"
 housenumber: 77

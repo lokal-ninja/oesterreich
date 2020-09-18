@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5817095
 longitude: 12.579157700000001
-postcode: 6384
+postcode: "6384"
 city: Waidring
 street: "Unterwasser"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.721082100000004
 longitude: 14.329945
-postcode: 4580
+postcode: "4580"
 city: Windischgarsten
 street: "Pyhrnstraße"
 housenumber: 5

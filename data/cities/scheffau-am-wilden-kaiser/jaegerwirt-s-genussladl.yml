@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.5289112
 longitude: 12.249422200000001
-postcode: 6351
+postcode: "6351"
 city: Scheffau am Wilden Kaiser
 street: "Dorf"
 housenumber: 54

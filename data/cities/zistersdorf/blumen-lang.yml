@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.5454104
 longitude: 16.7615772
-postcode: 2225
+postcode: "2225"
 city: Zistersdorf
 street: "Hauptstraße"
 housenumber: 8

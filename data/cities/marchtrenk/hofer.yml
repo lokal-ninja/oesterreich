@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.189022900000005
 longitude: 14.1178068
-postcode: 4614
+postcode: "4614"
 city: Marchtrenk
 street: "Mauthausstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 46.794658000000005
 longitude: 15.5565601
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Wasserwerkstraße"
 housenumber: 30d

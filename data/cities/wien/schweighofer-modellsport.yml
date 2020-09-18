@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.169439000000004
 longitude: 16.3704478
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Laxenburger Straße"
 housenumber: 88

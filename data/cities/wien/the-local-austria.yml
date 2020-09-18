@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.2132955
 longitude: 16.3815619
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Praterstraße"
 housenumber: 14

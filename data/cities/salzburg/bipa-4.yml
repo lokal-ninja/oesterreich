@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.8298172
 longitude: 13.0047118
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Münchner Bundesstraße"
 housenumber: 116

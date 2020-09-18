@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 47.039439200000004
 longitude: 15.487838600000002
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Köglerweg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1199067
 longitude: 16.2669472
-postcode: 2380
+postcode: "2380"
 city: Perchtoldsdorf
 street: "Franz-Josef-Straße"
 housenumber: 10

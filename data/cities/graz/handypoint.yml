@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.0651153
 longitude: 15.442664
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Jakoministraße"
 housenumber: 27

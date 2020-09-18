@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.083074200000006
 longitude: 16.3489352
-postcode: 2362
+postcode: "2362"
 city: Biedermannsdorf
 street: "Ortsstraße"
 housenumber: 27

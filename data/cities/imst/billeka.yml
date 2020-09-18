@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2397992
 longitude: 10.739166500000001
-postcode: 6460
+postcode: "6460"
 city: Imst
 street: "Dr.-Carl-Pfeiffenberger-Straße"
 housenumber: 6

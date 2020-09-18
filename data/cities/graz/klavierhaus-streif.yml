@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.0792517
 longitude: 15.439484900000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Humboldtstraße"
 housenumber: 1,3

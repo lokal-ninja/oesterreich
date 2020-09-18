@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.215642100000004
 longitude: 16.3805327
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Taborstraße"
 housenumber: 18

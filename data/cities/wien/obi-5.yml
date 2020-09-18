@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.217399400000005
 longitude: 16.4950401
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Groß-Enzersdorfer Straße"
 housenumber: 39

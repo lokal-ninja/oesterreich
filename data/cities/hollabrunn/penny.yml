@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.574992900000005
 longitude: 16.0747606
-postcode: 2020
+postcode: "2020"
 city: Hollabrunn
 street: "Gewerbering"
 housenumber: 7

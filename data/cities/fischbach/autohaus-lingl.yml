@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.447532800000005
 longitude: 15.699351300000002
-postcode: 8673
+postcode: "8673"
 city: Fischbach
 street: ""
 housenumber: 64

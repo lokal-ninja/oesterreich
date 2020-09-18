@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1856293
 longitude: 16.3450412
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretengürtel"
 housenumber: 134

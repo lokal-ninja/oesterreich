@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 47.384405
 longitude: 16.0013018
-postcode: 8234
+postcode: "8234"
 city: Rohrbach an der Lafnitz
 street: "Untere Hauptstraße"
 housenumber: 7

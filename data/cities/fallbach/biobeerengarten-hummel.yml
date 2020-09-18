@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.6448747
 longitude: 16.450144400000003
-postcode: 2133
+postcode: "2133"
 city: Fallbach
 street: ""
 housenumber: 26

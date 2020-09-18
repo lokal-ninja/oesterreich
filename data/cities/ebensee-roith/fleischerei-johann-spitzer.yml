@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.793367100000005
 longitude: 13.758427500000002
-postcode: 4802
+postcode: "4802"
 city: Ebensee;Roith
 street: "Roitherstraße"
 housenumber: 43

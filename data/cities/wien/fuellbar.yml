@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.2064749
 longitude: 16.348195500000003
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Lerchenfelder Straße"
 housenumber: 55

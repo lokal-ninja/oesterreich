@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 47.3902051
 longitude: 11.764537800000001
-postcode: 6200
+postcode: "6200"
 city: Jenbach
 street: "Am Gießen"
 housenumber: 12

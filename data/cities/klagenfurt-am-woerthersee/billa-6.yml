@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.6197984
 longitude: 14.300528100000001
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Hans-Sachs-Straße"
 housenumber: 21

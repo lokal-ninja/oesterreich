@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsgeräte
 latitude: 48.4494747
 longitude: 13.437268000000001
-postcode: 4780
+postcode: "4780"
 city: Schärding
 street: "Joseph-Haydn-Straße"
 housenumber: 1

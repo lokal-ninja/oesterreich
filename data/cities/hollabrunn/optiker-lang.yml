@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.5655696
 longitude: 16.079705
-postcode: 2020
+postcode: "2020"
 city: Hollabrunn
 street: "Sparkassegasse"
 housenumber: 27

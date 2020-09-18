@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.2387285
 longitude: 16.3768386
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Stromstraße"
 housenumber: 28

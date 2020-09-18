@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.193008500000005
 longitude: 16.3330846
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Sperrgasse"
 housenumber: 1

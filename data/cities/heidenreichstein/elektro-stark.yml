@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 48.862534700000005
 longitude: 15.1243818
-postcode: 3860
+postcode: "3860"
 city: Heidenreichstein
 street: "Waidhofener Straße"
 housenumber: 10

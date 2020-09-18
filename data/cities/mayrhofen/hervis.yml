@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.1669124
 longitude: 11.861188100000001
-postcode: 6290
+postcode: "6290"
 city: Mayrhofen
 street: "Einfahrt Mitte"
 housenumber: 433

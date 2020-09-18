@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.267243300000004
 longitude: 11.3898647
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Herzog-Siegmund-Ufer"
 housenumber: 1-3

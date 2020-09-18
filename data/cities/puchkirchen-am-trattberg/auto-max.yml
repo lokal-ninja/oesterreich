@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.040617000000005
 longitude: 13.5809639
-postcode: 4849
+postcode: "4849"
 city: Puchkirchen am Trattberg
 street: "Gewerbepark"
 housenumber: 3

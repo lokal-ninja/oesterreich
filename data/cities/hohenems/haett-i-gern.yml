@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.360392000000004
 longitude: 9.686658000000001
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Kaiser-Franz-Josef-Straße"
 housenumber: 13

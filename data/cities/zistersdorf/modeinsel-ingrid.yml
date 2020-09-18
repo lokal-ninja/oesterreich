@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.5453248
 longitude: 16.7632647
-postcode: 2225
+postcode: "2225"
 city: Zistersdorf
 street: "Hauptstraße"
 housenumber: 20

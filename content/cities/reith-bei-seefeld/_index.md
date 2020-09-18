@@ -1,6 +1,6 @@
 ---
 title: Reith bei Seefeld
 url: /reith-bei-seefeld/
-latitude: 47.298979700000004
-longitude: 11.2041985
+latitude: 47.299091600000004
+longitude: 11.204359700000001
 ---

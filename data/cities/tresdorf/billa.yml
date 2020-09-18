@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.365419200000005
 longitude: 16.355437300000002
-postcode: 2111
+postcode: "2111"
 city: Tresdorf
 street: "Gewerbering"
 housenumber: 2

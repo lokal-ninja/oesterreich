@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.216607700000004
 longitude: 16.3855101
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Rotensterngasse"
 housenumber: 30

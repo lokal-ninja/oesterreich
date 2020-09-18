@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.8075429
 longitude: 15.869517700000001
-postcode: 8345
+postcode: "8345"
 city: Straden
 street: ""
 housenumber: 23

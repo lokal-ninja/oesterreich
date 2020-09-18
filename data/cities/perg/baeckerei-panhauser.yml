@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 48.249656
 longitude: 14.635737500000001
-postcode: 4320
+postcode: "4320"
 city: Perg
 street: "Herrenstraße"
 housenumber: 7
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 05:00-12:15, 14:00-18:00; Sa 05:10-12:00"
 website: ""

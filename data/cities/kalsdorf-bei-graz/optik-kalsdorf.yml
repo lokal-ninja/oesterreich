@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.964601
 longitude: 15.478357800000001
-postcode: 8401
+postcode: "8401"
 city: Kalsdorf bei Graz
 street: "Hauptplatz"
 housenumber: 1

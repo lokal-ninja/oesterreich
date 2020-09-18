@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.3920721
 longitude: 13.6895444
-postcode: 8970
+postcode: "8970"
 city: Schladming
 street: ""
 housenumber: 

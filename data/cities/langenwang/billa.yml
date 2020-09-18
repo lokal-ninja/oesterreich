@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5686492
 longitude: 15.6193486
-postcode: 8665
+postcode: "8665"
 city: Langenwang
 street: "Siglstraße"
 housenumber: 1

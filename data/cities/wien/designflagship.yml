@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.203244600000005
 longitude: 16.3752789
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Fichtegasse"
 housenumber: 5

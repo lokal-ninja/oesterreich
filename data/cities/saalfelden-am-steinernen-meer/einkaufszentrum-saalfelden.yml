@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.4310987
 longitude: 12.842624
-postcode: 5760
+postcode: "5760"
 city: Saalfelden am Steinernen Meer
 street: "Leogangerstraße"
 housenumber: 18

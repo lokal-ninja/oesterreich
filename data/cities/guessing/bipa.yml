@@ -3,9 +3,9 @@ type: node
 shop: Drogerie
 latitude: 47.059367800000004
 longitude: 16.327630900000003
-postcode: 7540
+postcode: "7540"
 city: Güssing
-street: "Faludistrasse"
+street: "Faludistraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

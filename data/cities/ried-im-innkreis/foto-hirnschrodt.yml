@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.2094031
 longitude: 13.486363800000001
-postcode: 4910
+postcode: "4910"
 city: Ried im Innkreis
 street: "Friedrich-Thurner-Straße"
 housenumber: 2-3

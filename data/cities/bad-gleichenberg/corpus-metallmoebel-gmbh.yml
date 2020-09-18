@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 46.8848524
 longitude: 15.897638
-postcode: 8344
+postcode: "8344"
 city: Bad Gleichenberg
 street: "Feldbacher Straße"
 housenumber: 77

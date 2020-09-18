@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.223946600000005
 longitude: 16.3156523
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Gräffergasse"
 housenumber: 1

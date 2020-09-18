@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.7574265
 longitude: 15.3741499
-postcode: 8443
+postcode: "8443"
 city: Gleinstätten
 street: ""
 housenumber: 193

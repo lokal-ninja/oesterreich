@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.0498303
 longitude: 15.148246
-postcode: 8570
+postcode: "8570"
 city: Voitsberg
 street: "Hauptplatz"
 housenumber: 8

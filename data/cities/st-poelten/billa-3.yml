@@ -1,12 +1,12 @@
-id: 178464841
-type: way
+id: 7728082115
+type: node
 shop: Supermarkt
-latitude: 48.18861810000001
-longitude: 15.6181052
-postcode: 3100
+latitude: 48.2030017
+longitude: 15.641881000000001
+postcode: "3100"
 city: St. Pölten
-street: "Mariazeller Straße"
-housenumber: 93
+street: "Josef-Zwetzbacher-Gasse"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: "Mo-Fr 06:45-19:00; Sa 07:15-18:00"
 website: ""

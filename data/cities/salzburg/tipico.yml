@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 47.811147000000005
 longitude: 13.0437069
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Rainerstraße"
 housenumber: 28

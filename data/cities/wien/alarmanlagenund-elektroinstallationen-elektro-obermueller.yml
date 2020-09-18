@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.219923200000004
 longitude: 16.4055646
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Hillerstraße"
 housenumber: 3

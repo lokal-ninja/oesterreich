@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.9583755
 longitude: 14.7730612
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Erhard Wild-Platz"
 housenumber: 1-3

@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 47.243709800000005
 longitude: 10.737716200000001
-postcode: 6460
+postcode: "6460"
 city: Imst
 street: "Malchbachgasse"
 housenumber: 11

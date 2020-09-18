@@ -3,7 +3,7 @@ type: way
 shop: Tabak
 latitude: 47.261909200000005
 longitude: 10.761830300000002
-postcode: 6464
+postcode: "6464"
 city: Tarrenz
 street: "Hauptstraße"
 housenumber: 39

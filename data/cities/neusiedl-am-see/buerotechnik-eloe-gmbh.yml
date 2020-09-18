@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 47.9695711
 longitude: 16.8401791
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Altenburger Straße"
 housenumber: 6

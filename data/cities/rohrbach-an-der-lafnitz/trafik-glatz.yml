@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.3933054
 longitude: 15.9924791
-postcode: 8234
+postcode: "8234"
 city: Rohrbach an der Lafnitz
 street: "Obere Hauptstraße"
 housenumber: 28

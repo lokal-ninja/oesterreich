@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.261501200000005
 longitude: 11.3953059
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Leopoldstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.245742400000005
 longitude: 14.6280829
-postcode: 4320
+postcode: "4320"
 city: Perg
 street: "Naarner Straße"
 housenumber: 38

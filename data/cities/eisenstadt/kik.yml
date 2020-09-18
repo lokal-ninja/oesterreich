@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.831781400000004
 longitude: 16.5214526
-postcode: 7000
+postcode: "7000"
 city: Eisenstadt
 street: "Winzerweg"
 housenumber: 1

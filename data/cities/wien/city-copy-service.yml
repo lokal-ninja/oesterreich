@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.1788345
 longitude: 16.3676532
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Gudrunstraße"
 housenumber: 160

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.2812847
 longitude: 12.482268600000001
-postcode: 5730
+postcode: "5730"
 city: Mittersill
 street: "Stadtplatz"
 housenumber: 16

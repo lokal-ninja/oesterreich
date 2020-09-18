@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.587584400000004
 longitude: 12.1723225
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Oskar Pirlo-Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.263893200000005
 longitude: 14.4542981
-postcode: 4222
+postcode: "4222"
 city: St. Georgen an der Gusen
 street: "Mauthausener Straße"
 housenumber: 80

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.996341900000004
 longitude: 16.344667700000002
-postcode: 2521
+postcode: "2521"
 city: Trumau
 street: "Dr. Renner-Straße"
 housenumber: 1a

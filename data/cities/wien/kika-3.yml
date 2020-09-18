@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.165406700000005
 longitude: 16.3705061
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Laxenburger Straße"
 housenumber: 145

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.060246400000004
 longitude: 16.0668532
-postcode: 8280
+postcode: "8280"
 city: Altenmarkt bei Fürstenfeld
 street: "Grazerstraße"
 housenumber: 16

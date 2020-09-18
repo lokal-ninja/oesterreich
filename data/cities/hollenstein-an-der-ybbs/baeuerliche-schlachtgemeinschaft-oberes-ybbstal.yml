@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.8564846
 longitude: 14.7771162
-postcode: 3343
+postcode: "3343"
 city: Hollenstein an der Ybbs
 street: ""
 housenumber: 11

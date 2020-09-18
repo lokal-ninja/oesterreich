@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.369260700000005
 longitude: 15.759399100000001
-postcode: 8190
+postcode: "8190"
 city: Miesenbach bei Birkfeld
 street: ""
 housenumber: 17

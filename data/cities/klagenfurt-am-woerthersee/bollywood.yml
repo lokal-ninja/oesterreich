@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.6229941
 longitude: 14.3094587
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "8.-Mai-Straße"
 housenumber: 14

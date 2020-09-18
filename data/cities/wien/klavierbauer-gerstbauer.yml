@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.1765811
 longitude: 16.356652500000003
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Triester Straße"
 housenumber: 15

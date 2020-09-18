@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 46.9632312
 longitude: 15.353511600000001
-postcode: 8501
+postcode: "8501"
 city: Lieboch
 street: "Johann Assl-Platz"
 housenumber: 1

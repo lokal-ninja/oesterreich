@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.6046161
 longitude: 14.0351674
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Fichtenhainstraße"
 housenumber: 2

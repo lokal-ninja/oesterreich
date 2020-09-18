@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.3941968
 longitude: 15.521194300000001
-postcode: 3601
+postcode: "3601"
 city: Dürnstein
 street: ""
 housenumber: 238

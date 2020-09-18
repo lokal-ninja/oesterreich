@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9810877
 longitude: 17.0067501
-postcode: 2424
+postcode: "2424"
 city: Zurndorf
 street: "Untere Hauptstraße"
 housenumber: 6

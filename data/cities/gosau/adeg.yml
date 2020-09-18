@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.584429400000005
 longitude: 13.534044100000001
-postcode: 4824
+postcode: "4824"
 city: Gosau
 street: "Vordertalstraße"
 housenumber: 3

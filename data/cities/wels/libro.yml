@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.183674200000006
 longitude: 14.0274335
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Dalistraße"
 housenumber: 3-5

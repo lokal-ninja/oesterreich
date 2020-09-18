@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2656368
 longitude: 11.3954853
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maria-Theresien-Straße"
 housenumber: 31

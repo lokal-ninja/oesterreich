@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.1378044
 longitude: 14.228272500000001
-postcode: 4501
+postcode: "4501"
 city: Neuhofen an der Krems
 street: "Marktplatz"
 housenumber: 17

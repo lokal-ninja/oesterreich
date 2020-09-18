@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 47.267916400000004
 longitude: 11.234919900000001
-postcode: 6170
+postcode: "6170"
 city: Zirl
 street: "Bahnhofstraße"
 housenumber: 37b
-phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 07:30-17:00"
-website: ""
+phone: "+43 50322 926064"
+opening_hours: "Mo-Th 07:30-19:00; Fr 07:30-19:30; Sa 07:30-18:00; Su 07:30-17:00"
+website: "https://www.baguette.at/handel/baguette/zirl-bahnhofstrasse-37b.html"

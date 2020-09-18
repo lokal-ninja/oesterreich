@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.3479413
 longitude: 15.648336200000001
-postcode: 3508
+postcode: "3508"
 city: Höbenbach
 street: "Theyernerstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.555494700000004
 longitude: 14.701056300000001
-postcode: 9142
+postcode: "9142"
 city: Globasnitz
 street: ""
 housenumber: 19

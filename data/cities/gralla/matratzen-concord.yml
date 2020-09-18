@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 46.8058922
 longitude: 15.561253700000002
-postcode: 8431
+postcode: "8431"
 city: Gralla
 street: "Gewerbepark Nord"
 housenumber: 15

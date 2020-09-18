@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1973112
 longitude: 16.3184535
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Johnstraße"
 housenumber: 49-53

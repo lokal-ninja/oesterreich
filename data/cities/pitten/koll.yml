@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.716357
 longitude: 16.186301
-postcode: 2823
+postcode: "2823"
 city: Pitten
 street: "Alleegasse"
 housenumber: 27

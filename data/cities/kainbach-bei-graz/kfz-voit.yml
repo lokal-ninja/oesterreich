@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.087806500000006
 longitude: 15.529182800000001
-postcode: 8047
+postcode: "8047"
 city: Kainbach bei Graz
 street: "Ragnitzstraße"
 housenumber: 377

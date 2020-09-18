@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1962083
 longitude: 16.3379401
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Europaplatz"
 housenumber: 3

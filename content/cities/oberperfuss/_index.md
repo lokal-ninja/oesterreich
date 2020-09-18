@@ -1,6 +1,6 @@
 ---
-title: Oberperfuß
+title: Oberperfuss
 url: /oberperfuss/
-latitude: 
-longitude: 
+latitude: 47.24378
+longitude: 11.2467684
 ---

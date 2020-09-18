@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.333572000000004
 longitude: 14.3417507
-postcode: 4209
+postcode: "4209"
 city: Engerwitzdorf
 street: "Baumgarten"
 housenumber: 35

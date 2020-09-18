@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2655578
 longitude: 11.393680600000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maria-Theresien-Straße"
 housenumber: 18

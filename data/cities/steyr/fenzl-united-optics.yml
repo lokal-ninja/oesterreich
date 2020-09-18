@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.041024300000004
 longitude: 14.4204623
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Enge Gasse"
 housenumber: 21

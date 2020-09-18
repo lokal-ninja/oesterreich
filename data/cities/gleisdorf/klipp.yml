@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.10638
 longitude: 15.706351300000001
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Ludwig-Binder-Straße"
 housenumber: 14

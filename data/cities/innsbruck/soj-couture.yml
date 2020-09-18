@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2597308
 longitude: 11.3965577
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Leopoldstraße"
 housenumber: 23

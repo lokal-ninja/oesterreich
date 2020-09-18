@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9915308
 longitude: 14.273053
-postcode: 4595
+postcode: "4595"
 city: Waldneukirchen
 street: "Hohe-Linde-Straße"
 housenumber: 1

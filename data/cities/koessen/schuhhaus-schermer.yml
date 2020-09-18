@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.6659586
 longitude: 12.4039663
-postcode: 6345
+postcode: "6345"
 city: Kössen
 street: "Alleestraße"
 housenumber: 26

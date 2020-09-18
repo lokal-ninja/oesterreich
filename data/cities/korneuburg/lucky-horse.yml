@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.338594400000005
 longitude: 16.3389828
-postcode: 2100
+postcode: "2100"
 city: Korneuburg
 street: "Wiener Straße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.025694
 longitude: 15.431555300000001
-postcode: 3204
+postcode: "3204"
 city: Kirchberg an der Pielach
 street: "Sankt Pöltner Straße"
 housenumber: 12

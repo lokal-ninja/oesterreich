@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.0607686
 longitude: 10.3750589
-postcode: 6555
+postcode: "6555"
 city: Kappl
 street: "Au"
 housenumber: 551

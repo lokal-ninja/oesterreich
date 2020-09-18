@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.9276156
 longitude: 16.861567100000002
-postcode: 7121
+postcode: "7121"
 city: Weiden am See
 street: "Sportplatzgasse"
 housenumber: 29a

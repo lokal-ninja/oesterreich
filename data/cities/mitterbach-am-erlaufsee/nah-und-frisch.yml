@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8138723
 longitude: 15.295235400000001
-postcode: 3224
+postcode: "3224"
 city: Mitterbach am Erlaufsee
 street: "Hauptstraße"
 housenumber: 11

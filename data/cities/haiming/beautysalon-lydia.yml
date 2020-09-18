@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2379699
 longitude: 10.8595068
-postcode: 6430
+postcode: "6430"
 city: Haiming
 street: "Bahnhofplatz"
 housenumber: 4

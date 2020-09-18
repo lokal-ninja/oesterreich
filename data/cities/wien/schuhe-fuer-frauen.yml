@@ -1,12 +1,12 @@
-id: 4214933187
+id: 1467108773
 type: node
 shop: Schuhe
-latitude: 48.2018348
-longitude: 16.351986800000002
-postcode: 1070
+latitude: 48.201926400000005
+longitude: 16.3492003
+postcode: "1070"
 city: Wien
-street: "Kirchengasse"
-housenumber: 28
+street: "Neubaugasse"
+housenumber: 44
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: ""
+opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-18:00"
+website: "https://schuhefuerfrauen.at/"

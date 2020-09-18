@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.106464300000006
 longitude: 14.8335526
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Leinerstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.0031782
 longitude: 13.6788197
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Max Planck-Straße"
 housenumber: 4

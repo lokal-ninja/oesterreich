@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4922964
 longitude: 9.878203300000001
-postcode: 6933
+postcode: "6933"
 city: Doren
 street: ""
 housenumber: 116

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2087158
 longitude: 16.374069300000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Stephansplatz"
 housenumber: 6

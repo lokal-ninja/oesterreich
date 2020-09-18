@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.1048671
 longitude: 15.704257900000002
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Grazer Straße"
 housenumber: 3

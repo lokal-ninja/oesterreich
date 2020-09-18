@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.810106700000006
 longitude: 13.009046900000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Kleßheimer Allee"
 housenumber: 77

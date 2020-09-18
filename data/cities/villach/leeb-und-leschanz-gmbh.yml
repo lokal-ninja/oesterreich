@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 46.615631900000004
 longitude: 13.8495021
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Nikolaigasse"
 housenumber: 5

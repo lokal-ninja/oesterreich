@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.264892200000006
 longitude: 11.3944317
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maria-Theresien-Straße"
 housenumber: 34

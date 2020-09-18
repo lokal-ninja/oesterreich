@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.796477
 longitude: 15.555451900000001
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Leopold-Figl-Straße"
 housenumber: 1-2

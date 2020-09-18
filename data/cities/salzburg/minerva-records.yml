@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 47.804949900000004
 longitude: 13.050624500000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Schallmooser Hauptstraße"
 housenumber: 6

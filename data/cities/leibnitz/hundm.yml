@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.7947342
 longitude: 15.556092300000001
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Wasserwerkstraße"
 housenumber: 30d

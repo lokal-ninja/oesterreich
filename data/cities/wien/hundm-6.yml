@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.242991700000005
 longitude: 16.435605300000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: ""
 housenumber: 

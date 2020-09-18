@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.521412700000006
 longitude: 12.4283701
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Speckbacherstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.615278100000005
 longitude: 14.5639979
-postcode: 9122
+postcode: "9122"
 city: St. Kanzian am Klopeiner See
 street: "Gewerbestraße I"
 housenumber: 1

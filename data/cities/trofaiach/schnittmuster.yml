@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.413412300000005
 longitude: 15.0259371
-postcode: 8793
+postcode: "8793"
 city: Trofaiach
 street: "Laintalstraße"
 housenumber: 5

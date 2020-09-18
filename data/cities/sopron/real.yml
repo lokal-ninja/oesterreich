@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.653246300000006
 longitude: 16.4888739
-postcode: 9408
+postcode: "9408"
 city: Sopron
 street: "Soproni út"
 housenumber: 26

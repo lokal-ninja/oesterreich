@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 46.7741033
 longitude: 15.569443300000001
-postcode: 8430
+postcode: "8430"
 city: Leitring
 street: "Leitringer Hauptstraße"
 housenumber: 26a

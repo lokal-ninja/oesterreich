@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2086976
 longitude: 16.352513300000002
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Lange Gasse"
 housenumber: 26

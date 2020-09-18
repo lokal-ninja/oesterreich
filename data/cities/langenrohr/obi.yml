@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.317519700000005
 longitude: 16.0184858
-postcode: 3442
+postcode: "3442"
 city: Langenrohr
 street: "Europastraße"
 housenumber: 13

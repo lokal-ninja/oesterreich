@@ -1,12 +1,12 @@
 id: 1711430518
 type: node
 shop: Friseur
-latitude: 48.2215472
-longitude: 16.3963343
-postcode: 1020
+latitude: 48.2216272
+longitude: 16.3978699
+postcode: "1020"
 city: Wien
 street: "Lassallestraße"
-housenumber: 5
-phone: "+43 1 21239-10"
+housenumber: 16
+phone: "+43 699 10983887"
 opening_hours: "Mo 14:00 - 18:00; Tu-Fr 09:00 - 18:00; Sa 08:00 - 13:00"
-website: "http://www.salon-michael.at"
+website: ""

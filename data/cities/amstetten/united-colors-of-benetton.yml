@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.122867500000005
 longitude: 14.877183100000002
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Wiener Straße"
 housenumber: 23a

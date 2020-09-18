@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.998038900000005
 longitude: 16.2492831
-postcode: 2500
+postcode: "2500"
 city: Baden
 street: "Schießgraben"
 housenumber: 1

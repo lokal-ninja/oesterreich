@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.870873200000005
 longitude: 16.9762005
-postcode: 7131
+postcode: "7131"
 city: Halbturn
 street: "Budapester Straße"
 housenumber: 19

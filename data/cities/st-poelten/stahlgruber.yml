@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.1740568
 longitude: 15.619401600000002
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Harlander Straße"
 housenumber: 7

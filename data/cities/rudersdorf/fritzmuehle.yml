@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.045891000000005
 longitude: 16.1195318
-postcode: 7571
+postcode: "7571"
 city: Rudersdorf
 street: "Am Mühlengrund"
 housenumber: 1a

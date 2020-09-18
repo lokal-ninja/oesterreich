@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.7157959
 longitude: 16.4275524
-postcode: 7222
+postcode: "7222"
 city: Rohrbach bei Mattersburg
 street: "Anton Sinowatz-Straße"
 housenumber: 1

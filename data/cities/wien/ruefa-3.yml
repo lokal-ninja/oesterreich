@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.201598100000005
 longitude: 16.3715373
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Kärntner Ring"
 housenumber: 10

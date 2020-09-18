@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.247181600000005
 longitude: 14.2372958
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Kramlehnerweg"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.205474800000005
 longitude: 16.5478951
-postcode: 2301
+postcode: "2301"
 city: Groß-Enzersdorf
 street: "Weinlingergasse"
 housenumber: 22

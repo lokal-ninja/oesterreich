@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2610839
 longitude: 16.4215288
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Leopoldauer Straße"
 housenumber: 90

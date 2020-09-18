@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2181939
 longitude: 16.3817971
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Glockengasse"
 housenumber: 9

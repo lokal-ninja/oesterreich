@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2153709
 longitude: 15.626996100000001
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Gleisdorfer Straße"
 housenumber: 14

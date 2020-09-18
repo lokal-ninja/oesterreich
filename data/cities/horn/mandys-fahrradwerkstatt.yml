@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.66503650000001
 longitude: 15.6559982
-postcode: 3580
+postcode: "3580"
 city: Horn
 street: "Florianigasse"
 housenumber: 13

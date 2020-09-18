@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.229079500000005
 longitude: 16.1515066
-postcode: 3003
+postcode: "3003"
 city: Gablitz
 street: "Hauptstraße"
 housenumber: 29a

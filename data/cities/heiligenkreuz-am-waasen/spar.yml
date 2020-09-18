@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.962885400000005
 longitude: 15.5849448
-postcode: 8081
+postcode: "8081"
 city: Heiligenkreuz am Waasen
 street: "Grazer Straße"
 housenumber: 54

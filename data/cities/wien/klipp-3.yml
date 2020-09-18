@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2177736
 longitude: 16.3589504
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Währinger Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1119889
 longitude: 16.363079600000003
-postcode: 2332
+postcode: "2332"
 city: Hennersdorf
 street: "Hauptplatz"
 housenumber: 6

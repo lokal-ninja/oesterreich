@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.391692500000005
 longitude: 13.688455500000002
-postcode: 8970
+postcode: "8970"
 city: Schladming
 street: "Hauptplatz"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.021027600000004
 longitude: 16.2675071
-postcode: 2511
+postcode: "2511"
 city: Pfaffstätten
 street: "Dr. Josef Dolp-Straße"
 housenumber: 49

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4509221
 longitude: 9.8344743
-postcode: 6861
+postcode: "6861"
 city: Alberschwende
 street: "Hof"
 housenumber: 15

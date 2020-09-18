@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.058183500000005
 longitude: 15.446320100000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Conrad-von-Hötzendorf-Straße"
 housenumber: 63

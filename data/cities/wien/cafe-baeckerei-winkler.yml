@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2319758
 longitude: 16.2931244
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Dornbacher Straße"
 housenumber: 103

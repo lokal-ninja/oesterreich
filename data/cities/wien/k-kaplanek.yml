@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 48.1811743
 longitude: 16.3742913
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Laxenburger Straße"
 housenumber: 25

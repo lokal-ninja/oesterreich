@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.20303070000001
 longitude: 16.38712
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Ungargasse"
 housenumber: 15

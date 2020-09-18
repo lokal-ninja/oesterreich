@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1837541
 longitude: 16.344582300000003
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Steinbauergasse"
 housenumber: 4-6

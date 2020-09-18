@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.047600800000005
 longitude: 12.830372400000002
-postcode: 5121
+postcode: "5121"
 city: Ostermiething
 street: "Alte Landstraße"
 housenumber: 19

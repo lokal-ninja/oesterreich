@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.201913000000005
 longitude: 16.3447503
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Westbahnstraße"
 housenumber: 24

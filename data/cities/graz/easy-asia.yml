@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.0633373
 longitude: 15.430826000000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Albert-Schweitzer-Gasse"
 housenumber: 49

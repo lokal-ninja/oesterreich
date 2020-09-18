@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.2037525
 longitude: 16.3566135
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Breite Gasse"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2623893
 longitude: 16.4238679
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Leopoldauer Straße"
 housenumber: 141

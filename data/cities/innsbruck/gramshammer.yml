@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.2639885
 longitude: 11.3969555
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Wilhelm-Greil-Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.159933
 longitude: 15.5336125
-postcode: 8062
+postcode: "8062"
 city: Kumberg
 street: "Meierhöfenstraße"
 housenumber: 1

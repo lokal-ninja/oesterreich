@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2314299
 longitude: 16.3685115
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Hannovergasse"
 housenumber: 21

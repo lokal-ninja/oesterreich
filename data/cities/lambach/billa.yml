@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0917371
 longitude: 13.8678284
-postcode: 4650
+postcode: "4650"
 city: Lambach
 street: "Robert-Sitter-Straße"
 housenumber: 2

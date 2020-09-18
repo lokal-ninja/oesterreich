@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2673891
 longitude: 11.408578100000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Pradler Straße"
 housenumber: 23

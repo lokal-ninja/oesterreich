@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.1477364
 longitude: 10.575548900000001
-postcode: 6500
+postcode: "6500"
 city: Landeck
 street: "Bahnhofstraße"
 housenumber: 3

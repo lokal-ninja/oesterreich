@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1695161
 longitude: 14.654283800000002
-postcode: 8750
+postcode: "8750"
 city: Judenburg
 street: "Frauengasse"
 housenumber: 2

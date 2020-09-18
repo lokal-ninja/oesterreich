@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.143234
 longitude: 13.406355000000001
-postcode: 4923
+postcode: "4923"
 city: Lohnsburg am Kobernaußerwald
 street: "Kobernaußer Straße"
 housenumber: 104

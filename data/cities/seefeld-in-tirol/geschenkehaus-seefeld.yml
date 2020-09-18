@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.3297814
 longitude: 11.1872941
-postcode: 6100
+postcode: "6100"
 city: Seefeld in Tirol
 street: "Olympiastraße"
 housenumber: 717

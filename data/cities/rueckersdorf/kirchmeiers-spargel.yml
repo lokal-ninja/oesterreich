@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.3946741
 longitude: 16.3740403
-postcode: 2111
+postcode: "2111"
 city: Rückersdorf
 street: "Mühlgasse"
 housenumber: 34

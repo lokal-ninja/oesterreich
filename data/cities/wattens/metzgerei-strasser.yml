@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.291843300000004
 longitude: 11.591581600000001
-postcode: 6112
+postcode: "6112"
 city: Wattens
 street: "Franz-Strickner-Straße"
 housenumber: 4

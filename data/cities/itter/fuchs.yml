@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.4658415
 longitude: 12.138924300000001
-postcode: 6305
+postcode: "6305"
 city: Itter
 street: "Brixentaler Straße"
 housenumber: 8

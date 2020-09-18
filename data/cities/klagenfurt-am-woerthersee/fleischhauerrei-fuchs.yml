@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.6244347
 longitude: 14.311898500000002
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Kardinalplatz"
 housenumber: 2

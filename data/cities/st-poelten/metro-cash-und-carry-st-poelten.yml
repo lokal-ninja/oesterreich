@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 48.1975112
 longitude: 15.642259300000001
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Stattersdorfer Hauptstraße"
 housenumber: 59

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.065724100000004
 longitude: 15.2162377
-postcode: 3281
+postcode: "3281"
 city: Oberndorf an der Melk
 street: "Wieselburger-Straße"
 housenumber: 2

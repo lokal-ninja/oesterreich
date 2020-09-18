@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.7008244
 longitude: 15.400668800000002
-postcode: 8453
+postcode: "8453"
 city: Sankt Johann im Saggautal
 street: ""
 housenumber: 102

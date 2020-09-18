@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.217981300000005
 longitude: 16.315268800000002
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Lienfeldergasse"
 housenumber: 58

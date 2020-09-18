@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.1772391
 longitude: 16.4115526
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Hauffgasse"
 housenumber: 4a

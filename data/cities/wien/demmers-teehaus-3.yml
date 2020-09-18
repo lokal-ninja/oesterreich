@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 48.225330500000005
 longitude: 16.3485245
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Währinger Straße"
 housenumber: 82

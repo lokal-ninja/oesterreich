@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 47.539333400000004
 longitude: 12.4423901
-postcode: 6382
+postcode: "6382"
 city: Kirchdorf in Tirol
 street: "Innsbrucker Straße"
 housenumber: 66

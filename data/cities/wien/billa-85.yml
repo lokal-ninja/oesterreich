@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1909615
 longitude: 16.3872642
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Kölblgasse"
 housenumber: 14

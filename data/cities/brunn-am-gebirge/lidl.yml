@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.112806500000005
 longitude: 16.2725946
-postcode: 2345
+postcode: "2345"
 city: Brunn am Gebirge
 street: "Leopold-Gattringer-Straße"
 housenumber: 115-117

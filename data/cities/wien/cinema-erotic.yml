@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 48.1861868
 longitude: 16.320691800000002
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Sechshauser Straße"
 housenumber: 128

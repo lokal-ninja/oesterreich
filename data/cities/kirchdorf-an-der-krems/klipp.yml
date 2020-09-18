@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8992772
 longitude: 14.1259492
-postcode: 4560
+postcode: "4560"
 city: Kirchdorf an der Krems
 street: "Doktor-Gaisbauer-Straße"
 housenumber: 1

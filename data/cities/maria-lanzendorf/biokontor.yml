@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.092892600000006
 longitude: 16.414417800000003
-postcode: 2326
+postcode: "2326"
 city: Maria-Lanzendorf
 street: "Achauer Straße"
 housenumber: 17

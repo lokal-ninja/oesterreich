@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3372204
 longitude: 15.8036968
-postcode: 3133
+postcode: "3133"
 city: Traismauer
 street: "Tullner Straße"
 housenumber: 11

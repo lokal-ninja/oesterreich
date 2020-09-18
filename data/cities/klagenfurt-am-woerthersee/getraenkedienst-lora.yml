@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 46.605658700000006
 longitude: 14.299057300000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Rosentaler Straße"
 housenumber: 143

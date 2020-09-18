@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.075127300000005
 longitude: 16.9496192
-postcode: 2472
+postcode: "2472"
 city: Prellenkirchen
 street: "Obere Hauptstraße"
 housenumber: 20

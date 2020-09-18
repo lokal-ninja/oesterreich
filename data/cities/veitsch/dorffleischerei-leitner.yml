@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.580138700000006
 longitude: 15.489791700000001
-postcode: 8663
+postcode: "8663"
 city: Veitsch
 street: "Carl-Beel-Gasse"
 housenumber: 7

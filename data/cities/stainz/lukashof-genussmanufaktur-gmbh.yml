@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 46.878483200000005
 longitude: 15.3215622
-postcode: 8510
+postcode: "8510"
 city: Stainz
 street: ""
 housenumber: 11

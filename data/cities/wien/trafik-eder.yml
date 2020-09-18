@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.176363800000004
 longitude: 16.413341000000003
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Enkplatz"
 housenumber: 6-7

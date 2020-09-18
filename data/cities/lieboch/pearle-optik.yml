@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.974334000000006
 longitude: 15.334641900000001
-postcode: 8501
+postcode: "8501"
 city: Lieboch
 street: "Packer Straße"
 housenumber: 111

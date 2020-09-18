@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.543320800000004
 longitude: 15.542528800000001
-postcode: 8670
+postcode: "8670"
 city: Krieglach
 street: "Freßnitzstraße"
 housenumber: 7

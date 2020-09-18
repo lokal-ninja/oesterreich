@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 47.3835866
 longitude: 11.7712433
-postcode: 6220
+postcode: "6220"
 city: Buch in Tirol
 street: "Sankt Margarethen"
 housenumber: 152h

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.965599700000006
 longitude: 16.2108296
-postcode: 2540
+postcode: "2540"
 city: Bad Vöslau
 street: "Schubertplatz"
 housenumber: 4

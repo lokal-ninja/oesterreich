@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.204194
 longitude: 16.343770300000003
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Burggasse"
 housenumber: 85-87

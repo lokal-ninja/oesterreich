@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 48.089900300000004
 longitude: 13.1476286
-postcode: 5230
+postcode: "5230"
 city: Mattighofen
 street: "Mattseerstraße"
 housenumber: 34a
 phone: "+43 7742 2716"
 opening_hours: ""
-website: "www.siegertsleithner.at"
+website: ""

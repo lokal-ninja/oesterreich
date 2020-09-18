@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.0117442
 longitude: 15.413914
-postcode: 8055
+postcode: "8055"
 city: Seiersberg
 street: "Shopping City Seiersberg"
 housenumber: 1-9

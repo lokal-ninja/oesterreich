@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.2814441
 longitude: 12.8238123
-postcode: 5671
+postcode: "5671"
 city: Bruck
 street: "Glocknerstraße"
 housenumber: 60A

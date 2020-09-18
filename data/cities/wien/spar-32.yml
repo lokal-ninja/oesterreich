@@ -1,12 +1,12 @@
-id: 1740416054
+id: 1731984961
 type: node
 shop: Supermarkt
-latitude: 48.195102000000006
-longitude: 16.261083
-postcode: 1130
+latitude: 48.19239
+longitude: 16.3685094
+postcode: "1040"
 city: Wien
-street: "Auhofstraße"
-housenumber: 192
-phone: ""
+street: "Mayerhofgasse"
+housenumber: 9
+phone: "+43 1 5035598"
 opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/"
+website: "https://www.spar.at/standorte/spar-wien-1040-mayerhofgasse-9"

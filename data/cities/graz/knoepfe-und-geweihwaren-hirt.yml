@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.0745182
 longitude: 15.435213000000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Kaiser-Franz-Josef-Kai"
 housenumber: 34

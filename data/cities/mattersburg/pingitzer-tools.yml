@@ -3,9 +3,9 @@ type: node
 shop: Baumarkt
 latitude: 47.7389111
 longitude: 16.399068
-postcode: 7210
+postcode: "7210"
 city: Mattersburg
-street: "Michael-Koch-Straße"
+street: "Michael Koch-Straße"
 housenumber: 33
 phone: ""
 opening_hours: ""

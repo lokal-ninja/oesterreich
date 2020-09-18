@@ -3,7 +3,7 @@ type: node
 shop: Hanf
 latitude: 48.3307337
 longitude: 16.052407300000002
-postcode: 3430
+postcode: "3430"
 city: Tulln an der Donau
 street: "Holzschuhpassage"
 housenumber: Top 6

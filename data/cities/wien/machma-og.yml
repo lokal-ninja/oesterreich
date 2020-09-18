@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2182977
 longitude: 16.378011700000002
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Große Sperlgasse"
 housenumber: 31

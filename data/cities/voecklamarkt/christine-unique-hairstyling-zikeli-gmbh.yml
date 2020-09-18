@@ -3,9 +3,9 @@ type: way
 shop: Friseur
 latitude: 48.0005541
 longitude: 13.490763600000001
-postcode: 4870
+postcode: "4870"
 city: Vöcklamarkt
-street: "Marktstraße"
+street: "Stelzhamerstraße"
 housenumber: 16
 phone: "07682 2311"
 opening_hours: ""

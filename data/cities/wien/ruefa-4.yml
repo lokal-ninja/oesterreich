@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.2055572
 longitude: 16.3867513
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Landstraßer Hauptstraße"
 housenumber: 7

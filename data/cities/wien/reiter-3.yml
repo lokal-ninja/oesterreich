@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.2584266
 longitude: 16.3973796
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Am Spitz"
 housenumber: 16

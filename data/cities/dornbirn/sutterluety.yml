@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4169702
 longitude: 9.7515408
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Am Kehlerpark"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.8008006
 longitude: 15.744017800000002
-postcode: 2091
+postcode: "2091"
 city: Oberhöflein
 street: "Oberhöflein"
 housenumber: 55

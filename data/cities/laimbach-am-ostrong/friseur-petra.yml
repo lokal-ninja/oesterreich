@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.317014400000005
 longitude: 15.117329400000001
-postcode: 3663
+postcode: "3663"
 city: Laimbach am Ostrong
 street: "Laimbach"
 housenumber: 85

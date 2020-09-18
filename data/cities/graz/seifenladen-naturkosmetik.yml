@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.106116
 longitude: 15.4879905
-postcode: 8044
+postcode: "8044"
 city: Graz
 street: "Mariatroster Straße"
 housenumber: 285

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.188445400000006
 longitude: 16.3767873
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Weyringergasse"
 housenumber: 21

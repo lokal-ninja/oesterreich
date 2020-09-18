@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.292656300000004
 longitude: 15.2645253
-postcode: 3653
+postcode: "3653"
 city: Weiten
 street: "Hauptstraße"
 housenumber: 45

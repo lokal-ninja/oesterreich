@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2072312
 longitude: 16.3444873
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Lerchenfelder Straße"
 housenumber: 83

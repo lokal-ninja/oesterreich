@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.177840100000004
 longitude: 16.3858031
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Artholdgasse"
 housenumber: 2/3/1A

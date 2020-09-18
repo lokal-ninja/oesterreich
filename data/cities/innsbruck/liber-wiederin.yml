@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.266498600000006
 longitude: 11.395834800000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Erlerstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.6672839
 longitude: 15.068001
-postcode: 3931
+postcode: "3931"
 city: Schweiggers
 street: "Sportplatzstraße"
 housenumber: 2

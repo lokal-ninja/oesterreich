@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.487824200000006
 longitude: 12.064267500000001
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "Bahnhofstraße"
 housenumber: 17

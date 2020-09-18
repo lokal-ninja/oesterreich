@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.1811805
 longitude: 16.3590796
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretengürtel"
 housenumber: 52-56

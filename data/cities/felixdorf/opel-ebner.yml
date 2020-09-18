@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8737969
 longitude: 16.2488105
-postcode: 2603
+postcode: "2603"
 city: Felixdorf
 street: "Schulstraße"
 housenumber: 59

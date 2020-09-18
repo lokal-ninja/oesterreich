@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0482055
 longitude: 14.4226366
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Anton-Plochberger-Straße"
 housenumber: 2

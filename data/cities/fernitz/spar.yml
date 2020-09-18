@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.971794200000005
 longitude: 15.494044
-postcode: 8072
+postcode: "8072"
 city: Fernitz
 street: "Kalsdorfer Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.1060146
 longitude: 15.420708000000001
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Andritzer Reichsstraße"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.886712
 longitude: 15.520656
-postcode: 8410
+postcode: "8410"
 city: Wildon
 street: "St.-Georgener-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.9725417
 longitude: 15.497567900000002
-postcode: 8072
+postcode: "8072"
 city: Fernitz
 street: "Peter-Rosegger-Straße"
 housenumber: 1

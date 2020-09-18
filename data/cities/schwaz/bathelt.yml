@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 47.347334800000006
 longitude: 11.7097318
-postcode: 6130
+postcode: "6130"
 city: Schwaz
-street: ""
-housenumber: 
-phone: ""
-opening_hours: "Mo-Fr 05:30-12:00; Sa 06:00-11:30"
+street: "Tannenberggasse"
+housenumber: 15
+phone: "+43 5242 63220"
+opening_hours: "Mo-Sa 06:00-11:00"
 website: "http://baeckerei-bathelt.at"

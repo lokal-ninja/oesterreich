@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 48.1896562
 longitude: 15.616878700000001
-postcode: 3100
+postcode: "3100"
 city: Sankt Pölten
 street: "Mariazeller Straße"
 housenumber: 120

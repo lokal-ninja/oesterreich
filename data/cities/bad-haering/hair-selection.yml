@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.509765800000004
 longitude: 12.1184524
-postcode: 6323
+postcode: "6323"
 city: Bad Häring
 street: "Franziskibadstraße"
 housenumber: 2

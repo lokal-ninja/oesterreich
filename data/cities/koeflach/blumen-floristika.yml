@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.050013400000005
 longitude: 15.0716189
-postcode: 8580
+postcode: "8580"
 city: Köflach
 street: "Weidenweg"
 housenumber: 2

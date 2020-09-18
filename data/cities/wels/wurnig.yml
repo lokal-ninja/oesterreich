@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.141734
 longitude: 13.9696859
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Jasminstraße"
 housenumber: 6

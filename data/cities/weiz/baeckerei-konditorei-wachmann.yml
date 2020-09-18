@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2044051
 longitude: 15.627914100000002
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Marburger Straße"
 housenumber: 155

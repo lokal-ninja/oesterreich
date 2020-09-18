@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.193726000000005
 longitude: 16.359218000000002
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Schönbrunner Straße"
 housenumber: 25

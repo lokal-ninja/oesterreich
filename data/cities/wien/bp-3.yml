@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.2131502
 longitude: 16.375003500000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Morzinplatz"
 housenumber: 1

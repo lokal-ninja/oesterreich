@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.4145868
 longitude: 11.880540700000001
-postcode: 6235
+postcode: "6235"
 city: Reith im Alpachtal
 street: "Dorf"
 housenumber: 33

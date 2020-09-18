@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4128733
 longitude: 9.740293600000001
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Mozartstraße"
 housenumber: 1

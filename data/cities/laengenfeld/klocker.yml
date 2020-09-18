@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.070956100000004
 longitude: 10.9707337
-postcode: 6444
+postcode: "6444"
 city: Längenfeld
 street: "Oberlängenfeld"
 housenumber: 7b

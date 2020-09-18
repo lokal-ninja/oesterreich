@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.212835000000005
 longitude: 9.652682200000001
-postcode: 6820
+postcode: "6820"
 city: Nenzing
 street: "Galinastraße"
 housenumber: 30

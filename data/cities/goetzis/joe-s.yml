@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.336644400000004
 longitude: 9.6313628
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Lastenstraße"
 housenumber: 3

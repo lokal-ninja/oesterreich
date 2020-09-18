@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.1030424
 longitude: 15.7076861
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Schillerstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.238034000000006
 longitude: 15.797570200000001
-postcode: 8223
+postcode: "8223"
 city: Stubenberg
 street: ""
 housenumber: 231

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.201592500000004
 longitude: 16.3872289
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Ungargasse"
 housenumber: 28

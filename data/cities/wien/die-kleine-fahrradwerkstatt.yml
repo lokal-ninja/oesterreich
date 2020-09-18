@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 48.2130541
 longitude: 16.33588
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Yppenplatz"
 housenumber: 6
-phone: ""
-opening_hours: ""
+phone: "+43 664 542 60 65"
+opening_hours: "Tu 07:30-10:00,17:00-19:30; We 14:00-18:00; Th 07:30-10:00,14:00-18:00; Fr 15:00-19:00; Mo,Sa,Su,PH off || nach Vereinbarung"
 website: "http://www.fahrradwerk.at"

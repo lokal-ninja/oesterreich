@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.1488728
 longitude: 13.733660500000001
-postcode: 4673
+postcode: "4673"
 city: Gaspoltshofen
 street: "Bernhartsdorf"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.223304500000005
 longitude: 16.6890576
-postcode: 2285
+postcode: "2285"
 city: Leopoldsdorf im Marchfelde
 street: "Kirchengasse"
 housenumber: 8

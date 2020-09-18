@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 47.2774706
 longitude: 15.967951200000002
-postcode: 8230
+postcode: "8230"
 city: Hartberg
 street: "Ressavarstraße"
 housenumber: 6

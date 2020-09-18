@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.1402778
 longitude: 16.2937094
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Seybelgasse"
 housenumber: 13

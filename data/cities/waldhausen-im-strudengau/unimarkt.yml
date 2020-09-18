@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2726893
 longitude: 14.9493305
-postcode: 4391
+postcode: "4391"
 city: Waldhausen im Strudengau
 street: "Markt"
 housenumber: 23f

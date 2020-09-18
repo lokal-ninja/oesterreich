@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1975483
 longitude: 16.3647908
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Schleifmühlgasse"
 housenumber: 15a

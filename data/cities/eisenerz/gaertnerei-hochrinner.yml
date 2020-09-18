@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.541278000000005
 longitude: 14.8915214
-postcode: 8790
+postcode: "8790"
 city: Eisenerz
 street: "Vordernberger Straße"
 housenumber: 15

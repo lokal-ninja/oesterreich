@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 47.8214662
 longitude: 16.2570003
-postcode: 2700
+postcode: "2700"
 city: Wr. Neustadt
 street: "Anton Bruckner-Gasse"
 housenumber: 12

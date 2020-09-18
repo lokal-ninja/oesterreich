@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.9292401
 longitude: 16.2174866
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "Hauptstraße"
 housenumber: 9-13

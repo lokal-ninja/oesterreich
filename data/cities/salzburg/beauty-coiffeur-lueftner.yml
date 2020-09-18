@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8076765
 longitude: 13.047507300000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Auerspergstraße"
 housenumber: 45

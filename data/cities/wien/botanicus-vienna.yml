@@ -3,7 +3,7 @@ type: node
 shop: Kräuter
 latitude: 48.1922233
 longitude: 16.3595969
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretenstraße"
 housenumber: 80

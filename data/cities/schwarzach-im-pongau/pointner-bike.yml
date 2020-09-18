@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.320731200000004
 longitude: 13.151352900000001
-postcode: 5620
+postcode: "5620"
 city: Schwarzach im Pongau
 street: "Brucknerstraße"
 housenumber: 1

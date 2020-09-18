@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.749856900000005
 longitude: 13.0643258
-postcode: 5081
+postcode: "5081"
 city: Anif
 street: "Aniferstraße"
 housenumber: 11

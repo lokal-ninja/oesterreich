@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.266720500000005
 longitude: 11.4036209
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Museumstraße"
 housenumber: 38

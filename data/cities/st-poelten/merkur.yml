@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2060784
 longitude: 15.6382943
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Willi-Gruber-Straße"
 housenumber: 2

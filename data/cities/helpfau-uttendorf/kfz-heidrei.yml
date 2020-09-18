@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.157215400000005
 longitude: 13.125606900000001
-postcode: 5261
+postcode: "5261"
 city: Helpfau-Uttendorf
 street: "Helpfau"
 housenumber: 50

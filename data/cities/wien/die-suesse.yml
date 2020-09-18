@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.189503300000005
 longitude: 16.3627606
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Ziegelofengasse"
 housenumber: 13

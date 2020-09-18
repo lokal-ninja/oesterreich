@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.361205700000006
 longitude: 14.034297
-postcode: 4101
+postcode: "4101"
 city: Feldkirchen an der Donau
 street: "Aschacher Straße"
 housenumber: 125

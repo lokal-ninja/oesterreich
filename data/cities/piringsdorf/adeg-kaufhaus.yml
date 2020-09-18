@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4466866
 longitude: 16.4160952
-postcode: 7373
+postcode: "7373"
 city: Piringsdorf
 street: "Bundesstraße"
 housenumber: 27

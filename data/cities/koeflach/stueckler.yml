@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.064131700000004
 longitude: 15.0838315
-postcode: 8580
+postcode: "8580"
 city: Köflach
 street: "Bahnhofstraße"
 housenumber: 1

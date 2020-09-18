@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.197144900000005
 longitude: 16.3249406
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Kardinal-Rauscher-Platz"
 housenumber: 2

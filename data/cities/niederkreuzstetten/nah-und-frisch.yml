@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4804217
 longitude: 16.4785764
-postcode: 2124
+postcode: "2124"
 city: Niederkreuzstetten
 street: "Kirchenplatz"
 housenumber: 1

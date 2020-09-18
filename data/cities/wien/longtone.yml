@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.2044104
 longitude: 16.3419747
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Burggasse"
 housenumber: 108

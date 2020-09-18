@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.318029900000006
 longitude: 11.5563173
-postcode: 6069
+postcode: "6069"
 city: Gnadenwald
 street: "Gnadenwald"
 housenumber: 9

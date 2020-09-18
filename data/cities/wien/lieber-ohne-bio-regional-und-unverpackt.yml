@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1957693
 longitude: 16.3490481
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Otto-Bauer-Gasse"
 housenumber: 10

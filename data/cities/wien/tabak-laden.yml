@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.2584492
 longitude: 16.4075713
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Leopoldauer Straße"
 housenumber: 19

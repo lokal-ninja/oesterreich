@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.484771800000004
 longitude: 14.0012693
-postcode: 4120
+postcode: "4120"
 city: Neufelden
 street: "Markt"
 housenumber: 11

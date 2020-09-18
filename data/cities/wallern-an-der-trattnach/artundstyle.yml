@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.232231500000005
 longitude: 13.9459511
-postcode: 4702
+postcode: "4702"
 city: Wallern an der Trattnach
 street: "Welser Straße"
 housenumber: 5

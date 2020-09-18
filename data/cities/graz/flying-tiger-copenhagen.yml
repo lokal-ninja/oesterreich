@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.06895
 longitude: 15.440777200000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Fischer-von-Erlach-Gasse"
 housenumber: 1

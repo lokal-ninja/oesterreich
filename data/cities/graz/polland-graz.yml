@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 47.0553297
 longitude: 15.445577400000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Fröhlichgasse"
 housenumber: 58

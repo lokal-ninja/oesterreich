@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.941240300000004
 longitude: 15.7859321
-postcode: 8341
+postcode: "8341"
 city: Paldau
 street: ""
 housenumber: 161

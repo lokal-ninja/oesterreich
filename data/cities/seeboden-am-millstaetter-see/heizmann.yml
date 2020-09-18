@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 46.818278600000006
 longitude: 13.517262
-postcode: 9871
+postcode: "9871"
 city: Seeboden am Millstätter See
 street: "Hauptstraße"
 housenumber: 76

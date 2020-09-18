@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.6557575
 longitude: 13.8794541
-postcode: 9521
+postcode: "9521"
 city: Treffen am Ossiacher See
 street: "Eichrainweg"
 housenumber: 1

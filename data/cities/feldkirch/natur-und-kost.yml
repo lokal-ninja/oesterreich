@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.236133
 longitude: 9.5967889
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Johannitergasse"
 housenumber: 6

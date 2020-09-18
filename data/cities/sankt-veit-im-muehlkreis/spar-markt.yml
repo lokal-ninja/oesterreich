@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.467412700000004
 longitude: 14.161598000000001
-postcode: 4173
+postcode: "4173"
 city: Sankt Veit im Mühlkreis
 street: "Schulstraße"
 housenumber: 1

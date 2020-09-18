@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.2514778
 longitude: 16.406370900000002
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Floridusgasse"
 housenumber: 13

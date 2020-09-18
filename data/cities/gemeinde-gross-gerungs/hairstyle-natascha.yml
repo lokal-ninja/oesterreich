@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6035053
 longitude: 14.908754700000001
-postcode: 3920
+postcode: "3920"
 city: Gemeinde Groß Gerungs
 street: ""
 housenumber: 17

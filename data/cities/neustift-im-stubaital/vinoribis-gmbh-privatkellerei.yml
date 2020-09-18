@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.1291078
 longitude: 11.338624900000001
-postcode: 6167
+postcode: "6167"
 city: Neustift im Stubaital
 street: "Gewerbezone"
 housenumber: 12

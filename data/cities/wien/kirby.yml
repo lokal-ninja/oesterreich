@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 48.1768713
 longitude: 16.358923100000002
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Quellenstraße"
 housenumber: 209

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.1817147
 longitude: 16.3754235
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Favoritenstraße"
 housenumber: 71

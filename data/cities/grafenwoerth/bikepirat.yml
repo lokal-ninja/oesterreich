@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.4136736
 longitude: 15.7768426
-postcode: 3484
+postcode: "3484"
 city: Grafenwörth
 street: "Gewerbepark"
 housenumber: 12

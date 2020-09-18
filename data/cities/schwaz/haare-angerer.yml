@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.346282
 longitude: 11.7091651
-postcode: 6130
+postcode: "6130"
 city: Schwaz
 street: "Franz-Josef-Straße"
 housenumber: 25
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+43 5242 64759"
+opening_hours: "Tu-Th 08:30-18:00; Fr 08:30-19:00; Sa 08:30-13:00; PH off"
+website: "https://www.haareangerer.at"

@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 46.616969100000006
 longitude: 14.308330000000002
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "St. Ruprechter Straße"
 housenumber: 17

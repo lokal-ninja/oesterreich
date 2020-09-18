@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.252180200000005
 longitude: 16.426095200000002
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: ""
 housenumber: 

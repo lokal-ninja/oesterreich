@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.3714796
 longitude: 9.6756027
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Markus-Sittikus-Straße"
 housenumber: 20

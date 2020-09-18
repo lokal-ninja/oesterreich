@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.488049600000004
 longitude: 14.5900241
-postcode: 9135
+postcode: "9135"
 city: Eisenkappel-Vellach
 street: ""
 housenumber: 333

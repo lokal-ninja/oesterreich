@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.388198700000004
 longitude: 15.5332611
-postcode: 3601
+postcode: "3601"
 city: Dürnstein
 street: ""
 housenumber: 16

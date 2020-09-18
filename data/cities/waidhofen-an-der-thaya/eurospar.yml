@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.810937700000004
 longitude: 15.270355400000001
-postcode: 3830
+postcode: "3830"
 city: Waidhofen an der Thaya
 street: "Thayaparkstraße"
 housenumber: 1

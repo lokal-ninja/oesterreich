@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.304066500000005
 longitude: 13.633218200000002
-postcode: 4752
+postcode: "4752"
 city: Riedau
 street: "Am Dammbach"
 housenumber: 81

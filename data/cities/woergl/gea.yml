@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.4890886
 longitude: 12.060176400000001
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "KR Martin Pichler-Straße"
 housenumber: 21

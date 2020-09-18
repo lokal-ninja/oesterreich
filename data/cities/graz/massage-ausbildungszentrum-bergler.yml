@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.0471516
 longitude: 15.3944278
-postcode: 8053
+postcode: "8053"
 city: Graz
 street: "Grottenhofstraße"
 housenumber: 94a

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.284991500000004
 longitude: 16.3790251
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Autokaderstraße"
 housenumber: 35

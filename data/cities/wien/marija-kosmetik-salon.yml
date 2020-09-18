@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1868094
 longitude: 16.328353200000002
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Sechshauserstraße"
 housenumber: 55-57

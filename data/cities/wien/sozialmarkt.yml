@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.2419968
 longitude: 16.4393022
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Wagramer Straße"
 housenumber: 94

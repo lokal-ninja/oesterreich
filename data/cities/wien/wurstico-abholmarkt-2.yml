@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.173025100000004
 longitude: 16.376922200000003
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Ettenreichgasse"
 housenumber: 2

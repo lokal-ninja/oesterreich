@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1919528
 longitude: 16.395261700000002
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Rennweg"
 housenumber: 89

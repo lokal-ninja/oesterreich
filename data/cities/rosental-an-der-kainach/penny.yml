@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.054986
 longitude: 15.118522100000002
-postcode: 8582
+postcode: "8582"
 city: Rosental an der Kainach
 street: "Knappenplatz"
 housenumber: 23

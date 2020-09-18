@@ -3,7 +3,7 @@ type: node
 shop: Schreinerei
 latitude: 48.198585400000006
 longitude: 16.3297838
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Märzstraße"
 housenumber: 35

@@ -3,10 +3,10 @@ type: node
 shop: Baumarkt
 latitude: 47.9393923
 longitude: 12.9434961
-postcode: 5110
+postcode: "5110"
 city: Oberndorf bei Salzburg
-street: "Kirchplatz 6"
+street: "Kirchplatz"
 housenumber: 6
 phone: ""
 opening_hours: ""
-website: "www.hinterholzer.com"
+website: "https://www.hinterholzer.com"

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 46.612808300000005
 longitude: 14.0421411
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Seecorso"
 housenumber: 4

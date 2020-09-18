@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5018741
 longitude: 14.5761464
-postcode: 4271
+postcode: "4271"
 city: St Oswald bei Freistadt
 street: "Freistädterstraße"
 housenumber: 38

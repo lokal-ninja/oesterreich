@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.937696100000004
 longitude: 16.1012825
-postcode: 2560
+postcode: "2560"
 city: Berndorf
 street: "Hernsteiner Straße"
 housenumber: 58a

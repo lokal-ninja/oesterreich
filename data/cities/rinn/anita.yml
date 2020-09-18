@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.251586700000004
 longitude: 11.5046341
-postcode: 6074
+postcode: "6074"
 city: Rinn
 street: "Am Krößbach"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.2094529
 longitude: 16.3576889
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Rathausplatz"
 housenumber: 8

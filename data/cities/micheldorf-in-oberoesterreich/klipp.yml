@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.893258200000005
 longitude: 14.1290162
-postcode: 4563
+postcode: "4563"
 city: Micheldorf in Oberösterreich
 street: "Weinzierlerbrücke"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.789827700000004
 longitude: 16.0564407
-postcode: 2732
+postcode: "2732"
 city: Willendorf
 street: "Puchberger Straße"
 housenumber: 1

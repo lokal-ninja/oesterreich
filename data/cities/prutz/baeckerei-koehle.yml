@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.0764885
 longitude: 10.663676800000001
-postcode: 6522
+postcode: "6522"
 city: Prutz
 street: ""
 housenumber: 

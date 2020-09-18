@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2376883
 longitude: 9.599789900000001
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Jahnplatz"
 housenumber: 1

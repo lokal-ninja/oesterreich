@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.0844536
 longitude: 15.459858500000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Hilmteichstraße"
 housenumber: 73

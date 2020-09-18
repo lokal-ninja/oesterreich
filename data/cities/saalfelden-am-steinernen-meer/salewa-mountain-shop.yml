@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.429968200000005
 longitude: 12.8405813
-postcode: 5760
+postcode: "5760"
 city: Saalfelden am Steinernen Meer
 street: "Leogangerstraße"
 housenumber: 30a

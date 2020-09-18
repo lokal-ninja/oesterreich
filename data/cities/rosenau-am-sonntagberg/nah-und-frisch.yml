@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0099017
 longitude: 14.741892100000001
-postcode: 3332
+postcode: "3332"
 city: Rosenau am Sonntagberg
 street: "Waidhofnerstraße"
 housenumber: 14

@@ -1,12 +1,12 @@
-id: 157688015
+id: 136587449
 type: way
 shop: Supermarkt
-latitude: 48.2475352
-longitude: 16.378956600000002
-postcode: 1200
+latitude: 48.241607200000004
+longitude: 16.4581281
+postcode: "1220"
 city: Wien
-street: "Wehlistraße"
-housenumber: 27
+street: "Hirschstettner Straße"
+housenumber: 34a
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.hofer.at/"

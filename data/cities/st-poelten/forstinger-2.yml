@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.191633
 longitude: 15.619045700000001
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Mariazeller Straße"
 housenumber: 73

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.572782700000005
 longitude: 14.958463400000001
-postcode: 3920
+postcode: "3920"
 city: Gr. Gerungs
 street: "Schulgasse"
 housenumber: 170

@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 47.482287500000005
 longitude: 15.307484700000002
-postcode: 8605
+postcode: "8605"
 city: Kapfenberg
 street: "Auf der Weide"
 housenumber: 16

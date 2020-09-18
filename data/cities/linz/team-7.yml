@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.3040499
 longitude: 14.290747900000001
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Dametzstraße"
 housenumber: 12

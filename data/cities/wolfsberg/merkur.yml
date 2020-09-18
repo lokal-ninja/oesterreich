@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8377982
 longitude: 14.838736500000001
-postcode: 9400
+postcode: "9400"
 city: Wolfsberg
 street: "Spanheimerstraße"
 housenumber: 32

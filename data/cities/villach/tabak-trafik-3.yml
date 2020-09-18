@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 46.604632
 longitude: 13.833254400000001
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: ""
 housenumber: 

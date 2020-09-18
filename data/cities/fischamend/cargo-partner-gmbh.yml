@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.124355800000004
 longitude: 16.5875781
-postcode: 2401
+postcode: "2401"
 city: Fischamend
 street: "Airportstraße"
 housenumber: 1

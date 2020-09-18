@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.284602500000005
 longitude: 15.987058500000002
-postcode: 8230
+postcode: "8230"
 city: Hartberg
 street: "Weidenstraße"
 housenumber: 13

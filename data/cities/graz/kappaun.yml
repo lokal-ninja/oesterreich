@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.0686638
 longitude: 15.4407905
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Stubenberggasse"
 housenumber: 2

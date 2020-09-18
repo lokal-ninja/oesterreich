@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.716399200000005
 longitude: 16.0385023
-postcode: 2630
+postcode: "2630"
 city: Ternitz
 street: "Hauptstraße"
 housenumber: 22

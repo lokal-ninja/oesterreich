@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.026772400000006
 longitude: 15.4339232
-postcode: 8055
+postcode: "8055"
 city: Graz
 street: "Triester Straße"
 housenumber: 382

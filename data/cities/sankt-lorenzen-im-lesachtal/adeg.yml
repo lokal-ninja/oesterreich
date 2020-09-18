@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.70181
 longitude: 12.784732
-postcode: 9654
+postcode: "9654"
 city: Sankt Lorenzen im Lesachtal
 street: "Sankt Lorenzen im Lesachtal"
 housenumber: 33

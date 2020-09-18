@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.921266300000006
 longitude: 16.1845585
-postcode: 2544
+postcode: "2544"
 city: Enzesfeld-Lindabrunn
 street: "Hauptstraße"
 housenumber: 3

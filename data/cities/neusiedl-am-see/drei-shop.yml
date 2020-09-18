@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 47.9681069
 longitude: 16.8375252
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Kurzes Hirschfeld"
 housenumber: 26

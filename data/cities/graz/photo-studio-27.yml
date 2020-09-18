@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 47.0527871
 longitude: 15.414758
-postcode: 8053
+postcode: "8053"
 city: Graz
 street: "Harter Straße"
 housenumber: 27

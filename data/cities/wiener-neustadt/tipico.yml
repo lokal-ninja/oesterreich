@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 47.8252698
 longitude: 16.2497088
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Pottendorfer Straße"
 housenumber: 29

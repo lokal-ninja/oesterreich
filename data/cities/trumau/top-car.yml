@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 47.9920144
 longitude: 16.3418208
-postcode: 2521
+postcode: "2521"
 city: Trumau
 street: "Dr. Figl-Straße"
 housenumber: 11

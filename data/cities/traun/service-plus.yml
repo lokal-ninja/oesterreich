@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2201304
 longitude: 14.2223316
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Neubauerstraße"
 housenumber: 95

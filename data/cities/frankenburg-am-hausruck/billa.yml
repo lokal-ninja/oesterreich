@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0626709
 longitude: 13.482132600000002
-postcode: 4873
+postcode: "4873"
 city: Frankenburg am Hausruck
 street: "Badstraße"
 housenumber: 43

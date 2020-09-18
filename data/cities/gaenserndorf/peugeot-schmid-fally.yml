@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.347143800000005
 longitude: 16.7245215
-postcode: 2230
+postcode: "2230"
 city: Gänserndorf
 street: "Protteser Straße"
 housenumber: 28

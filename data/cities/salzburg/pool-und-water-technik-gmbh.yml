@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.8140249
 longitude: 13.048102
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Lastenstraße"
 housenumber: 17

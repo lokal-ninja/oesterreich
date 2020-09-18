@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1029289
 longitude: 15.4244669
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Andritzer Reichsstraße"
 housenumber: 32a

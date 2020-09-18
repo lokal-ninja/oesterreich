@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.237666000000004
 longitude: 9.5956629
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Kreuzgasse"
 housenumber: 12

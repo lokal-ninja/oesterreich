@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.3111052
 longitude: 16.607584000000003
-postcode: 2231
+postcode: "2231"
 city: Strasshof an der Nordbahn
 street: "Hauptstraße"
 housenumber: 2

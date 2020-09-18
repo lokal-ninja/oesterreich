@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.249982100000004
 longitude: 14.622137500000001
-postcode: 4320
+postcode: "4320"
 city: Perg
 street: "Zeitling"
 housenumber: 16

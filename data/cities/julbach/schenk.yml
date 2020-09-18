@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.652750600000005
 longitude: 13.870756400000001
-postcode: 4162
+postcode: "4162"
 city: Julbach
 street: "Mühltalstraße"
 housenumber: 38

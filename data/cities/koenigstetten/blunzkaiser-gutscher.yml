@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.3023462
 longitude: 16.147400400000002
-postcode: 3433
+postcode: "3433"
 city: Königstetten
 street: "Wiener Straße"
 housenumber: 19

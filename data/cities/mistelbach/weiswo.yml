@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5623147
 longitude: 16.5846532
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Industrieparkstraße"
 housenumber: 13

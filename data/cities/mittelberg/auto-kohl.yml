@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.3626416
 longitude: 10.196496
-postcode: 6991
+postcode: "6991"
 city: Mittelberg
 street: "Schmiedebachweg"
 housenumber: 1

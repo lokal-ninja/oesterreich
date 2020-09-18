@@ -3,7 +3,7 @@ type: way
 shop: Pyrotechnik
 latitude: 47.999519600000006
 longitude: 13.9211065
-postcode: 4655
+postcode: "4655"
 city: Vorchdorf
 street: "Bahnhofstraße"
 housenumber: 34

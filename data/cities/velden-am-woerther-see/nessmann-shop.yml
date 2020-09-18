@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.6131266
 longitude: 14.042361300000001
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Seecorso"
 housenumber: 1

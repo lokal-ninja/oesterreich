@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.198824200000004
 longitude: 16.3583812
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Gumpendorfer Straße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2582724
 longitude: 16.366941
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Heiligenstädter Straße"
 housenumber: 183

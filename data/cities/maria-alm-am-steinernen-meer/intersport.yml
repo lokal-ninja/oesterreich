@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.4062664
 longitude: 12.9019393
-postcode: 5761
+postcode: "5761"
 city: Maria Alm am Steinernen Meer
 street: "Dorfstraße"
 housenumber: 8

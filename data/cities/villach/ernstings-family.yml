@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.6044805
 longitude: 13.859755300000002
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Bruno-Kreisky-Straße"
 housenumber: 25

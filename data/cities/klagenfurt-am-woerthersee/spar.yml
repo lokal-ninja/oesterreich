@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.6403094
 longitude: 14.2924968
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Mantschehofgasse"
 housenumber: 1

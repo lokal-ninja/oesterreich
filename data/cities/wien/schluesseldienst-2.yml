@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 48.191848400000005
 longitude: 16.3592395
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretenplatz"
 housenumber: 1

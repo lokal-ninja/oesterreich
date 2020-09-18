@@ -3,10 +3,10 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.272600700000005
 longitude: 9.6158128
-postcode: 6830
+postcode: "6830"
 city: Rankweil
 street: "Bundesstraße"
 housenumber: 20
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:45-20:00; Sa 07:45-18:00"
 website: ""

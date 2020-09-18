@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 47.767806900000004
 longitude: 13.180302800000002
-postcode: 5323
+postcode: "5323"
 city: Ebenau
 street: "Wiestalstraße"
 housenumber: 91

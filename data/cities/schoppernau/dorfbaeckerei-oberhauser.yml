@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3126351
 longitude: 10.015888700000001
-postcode: 6886
+postcode: "6886"
 city: Schoppernau
 street: "Unterdorf"
 housenumber: 21

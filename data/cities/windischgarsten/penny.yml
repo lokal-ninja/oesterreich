@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.719785800000004
 longitude: 14.3287513
-postcode: 4580
+postcode: "4580"
 city: Windischgarsten
 street: "Bahnhofstraße"
 housenumber: 13

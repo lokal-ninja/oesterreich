@@ -1,6 +1,6 @@
 ---
 title: Oberhofen am Irrsee
 url: /oberhofen-am-irrsee/
-latitude: 47.9522477
-longitude: 13.305982400000001
+latitude: 47.952175700000005
+longitude: 13.3057993
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.0056251
 longitude: 15.837475600000001
-postcode: 8332
+postcode: "8332"
 city: Edelsbach bei Feldbach
 street: ""
 housenumber: 48

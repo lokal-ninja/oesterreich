@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.033209
 longitude: 15.4438025
-postcode: 8055
+postcode: "8055"
 city: Graz
 street: "Puntigamer Straße"
 housenumber: 125

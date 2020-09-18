@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.234746300000005
 longitude: 14.133144600000001
-postcode: 
+postcode: ""
 city: Oftering
 street: "Ofteringer Straße"
 housenumber: 25

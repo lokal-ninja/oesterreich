@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5382733
 longitude: 15.1895833
-postcode: 3913
+postcode: "3913"
 city: Großgöttfritz
 street: "Großgöttfritz"
 housenumber: 

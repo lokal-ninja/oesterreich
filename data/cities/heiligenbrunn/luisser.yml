@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.0161469
 longitude: 16.4516742
-postcode: 7522
+postcode: "7522"
 city: Heiligenbrunn
 street: ""
 housenumber: 22

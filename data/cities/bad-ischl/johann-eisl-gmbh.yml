@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.7220784
 longitude: 13.5744819
-postcode: 4820
+postcode: "4820"
 city: Bad Ischl
 street: "Wolfganger Straße"
 housenumber: 35

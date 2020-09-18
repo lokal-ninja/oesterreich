@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.522373800000004
 longitude: 14.2931792
-postcode: 4190
+postcode: "4190"
 city: Bad Leonfelden
 street: "Hauptplatz"
 housenumber: 32

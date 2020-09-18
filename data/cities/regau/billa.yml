@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9881338
 longitude: 13.6927693
-postcode: 4844
+postcode: "4844"
 city: Regau
 street: "Am Unterfeld"
 housenumber: 3

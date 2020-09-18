@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.5884353
 longitude: 12.1635527
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Münchner Straße"
 housenumber: 17

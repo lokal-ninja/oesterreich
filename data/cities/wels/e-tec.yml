@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.1586944
 longitude: 14.014553900000001
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Salzburger Straße"
 housenumber: 49

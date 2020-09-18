@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.410841500000004
 longitude: 15.628545800000001
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "An der Schütt"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.1951917
 longitude: 16.366817700000002
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 36

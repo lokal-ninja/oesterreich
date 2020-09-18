@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 46.8197039
 longitude: 15.2258455
-postcode: 8530
+postcode: "8530"
 city: Deutschlandsberg
 street: "Frauentaler Straße"
 housenumber: 77

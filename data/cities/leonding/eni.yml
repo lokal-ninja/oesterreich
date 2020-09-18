@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.274661800000004
 longitude: 14.2724556
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Welser Straße"
 housenumber: 8

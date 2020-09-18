@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.0718966
 longitude: 15.45085
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Schillerstraße"
 housenumber: 2

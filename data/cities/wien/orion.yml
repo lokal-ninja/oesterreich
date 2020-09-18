@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 48.2638912
 longitude: 16.4587662
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Dassanowskyweg"
 housenumber: 2

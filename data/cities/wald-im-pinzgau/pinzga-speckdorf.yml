@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.2384361
 longitude: 12.200778600000001
-postcode: 5742
+postcode: "5742"
 city: Wald im Pinzgau
 street: "Vorderkrimml"
 housenumber: 70

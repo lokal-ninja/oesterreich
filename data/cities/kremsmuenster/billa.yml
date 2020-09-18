@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.050563100000005
 longitude: 14.131979600000001
-postcode: 4550
+postcode: "4550"
 city: Kremsmünster
 street: "Greinerstraße"
 housenumber: 4

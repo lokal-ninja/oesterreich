@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.184020100000005
 longitude: 16.376723300000002
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Gerhard-Bronner-Straße"
 housenumber: 15

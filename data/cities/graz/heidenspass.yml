@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.0703509
 longitude: 15.433827
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Griesgasse"
 housenumber: 8

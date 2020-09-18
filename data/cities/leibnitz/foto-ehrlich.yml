@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 46.7831154
 longitude: 15.541021500000001
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Kaspar Harb-Gasse"
 housenumber: 2

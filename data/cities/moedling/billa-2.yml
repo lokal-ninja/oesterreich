@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.083981900000005
 longitude: 16.2828529
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Babenbergergasse"
 housenumber: 1

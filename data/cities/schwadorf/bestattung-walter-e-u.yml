@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 48.068545900000004
 longitude: 16.578623800000003
-postcode: 2432
+postcode: "2432"
 city: Schwadorf
 street: "Am Eisteich"
 housenumber: 5

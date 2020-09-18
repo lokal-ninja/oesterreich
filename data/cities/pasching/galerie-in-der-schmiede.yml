@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 48.257915800000006
 longitude: 14.2085536
-postcode: 4061
+postcode: "4061"
 city: Pasching
 street: "Dörnbacher Straße"
 housenumber: 3

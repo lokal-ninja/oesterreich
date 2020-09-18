@@ -1,12 +1,12 @@
 id: 4298812370
 type: node
 shop: Andenken
-latitude: 47.0699247
-longitude: 15.4445259
-postcode: 8010
+latitude: 47.0741395
+longitude: 15.439887100000002
+postcode: "8010"
 city: Graz
-street: "Burggasse"
-housenumber: 16
+street: "Paulustorgasse"
+housenumber: 3
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 10:00-18:00; Sa 11:00-15:00"
+website: "http://www.berlinchen.at"

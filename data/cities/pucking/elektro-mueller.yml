@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.185966
 longitude: 14.185630600000001
-postcode: 4055
+postcode: "4055"
 city: Pucking
 street: "Pulaweg"
 housenumber: 16

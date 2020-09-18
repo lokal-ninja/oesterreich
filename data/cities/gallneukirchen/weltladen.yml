@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.3547476
 longitude: 14.417931300000001
-postcode: 4210
+postcode: "4210"
 city: Gallneukirchen
 street: "Hauptstraße"
 housenumber: 45

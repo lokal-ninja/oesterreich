@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.1633991
 longitude: 14.699507800000001
-postcode: 8750
+postcode: "8750"
 city: Judenburg
 street: "Wöllmerdorf"
 housenumber: 13

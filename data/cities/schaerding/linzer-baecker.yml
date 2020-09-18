@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.456551600000004
 longitude: 13.4323905
-postcode: 4780
+postcode: "4780"
 city: Schärding
 street: "Silberzeile"
 housenumber: 1

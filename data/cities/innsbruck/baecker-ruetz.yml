@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.26265
 longitude: 11.4106059
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Roseggerstraße"
 housenumber: 2

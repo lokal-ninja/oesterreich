@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.493639900000005
 longitude: 13.1725382
-postcode: 5451
+postcode: "5451"
 city: Werfen
 street: "Blühnbachstraße"
 housenumber: 10

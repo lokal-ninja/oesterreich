@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 47.0771206
 longitude: 10.450420600000001
-postcode: 6553
+postcode: "6553"
 city: See
 street: "Wald"
 housenumber: 374

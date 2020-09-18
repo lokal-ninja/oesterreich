@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.525246100000004
 longitude: 14.137268200000001
-postcode: 8943
+postcode: "8943"
 city: Aigen im Ennstal
 street: ""
 housenumber: 95

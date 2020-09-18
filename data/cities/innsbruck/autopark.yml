@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.2663013
 longitude: 11.4263989
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Langer Weg"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 46.7810526
 longitude: 15.5355997
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Rudolf Hans Bartsch Gasse"
 housenumber: 4-6

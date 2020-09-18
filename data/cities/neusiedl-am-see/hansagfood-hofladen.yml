@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 47.9596985
 longitude: 16.835861400000002
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Wiener Straße"
 housenumber: 

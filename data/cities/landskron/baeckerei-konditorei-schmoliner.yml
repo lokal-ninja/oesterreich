@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.635559400000005
 longitude: 13.883902800000001
-postcode: 9523
+postcode: "9523"
 city: Landskron
 street: "Ossiacher Straße"
 housenumber: 61

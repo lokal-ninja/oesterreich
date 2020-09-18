@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1962095
 longitude: 16.3669783
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 22

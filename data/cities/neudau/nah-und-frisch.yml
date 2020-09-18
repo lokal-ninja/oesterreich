@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1726948
 longitude: 16.104897400000002
-postcode: 8292
+postcode: "8292"
 city: Neudau
 street: "Borckensteinstraße"
 housenumber: 1

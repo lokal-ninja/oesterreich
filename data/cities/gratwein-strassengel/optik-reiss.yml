@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.129397000000004
 longitude: 15.3188562
-postcode: 8112
+postcode: "8112"
 city: Gratwein-Straßengel
 street: "Hauptplatz Gratwein"
 housenumber: 1

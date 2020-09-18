@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.442302500000004
 longitude: 15.953382000000001
-postcode: 8242
+postcode: "8242"
 city: Sankt Lorenzen am Wechsel
 street: ""
 housenumber: 54

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.9598158
 longitude: 13.815282700000001
-postcode: 4664
+postcode: "4664"
 city: Laakirchen
 street: "Melkusstraße"
 housenumber: 43

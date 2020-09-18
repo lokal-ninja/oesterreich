@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.171036
 longitude: 13.103845900000001
-postcode: 5630
+postcode: "5630"
 city: Bad Hofgastein
 street: "Kurgartenstraße"
 housenumber: 14

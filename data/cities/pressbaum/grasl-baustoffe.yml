@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.182407100000006
 longitude: 16.088359
-postcode: 3021
+postcode: "3021"
 city: Pressbaum
 street: "Hauptstraße"
 housenumber: 19

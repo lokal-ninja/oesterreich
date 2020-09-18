@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2785555
 longitude: 9.649920900000001
-postcode: 6830
+postcode: "6830"
 city: Rankweil
 street: "Stiegstraße"
 housenumber: 44

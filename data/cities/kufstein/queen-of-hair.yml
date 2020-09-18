@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.579813300000005
 longitude: 12.169941600000001
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Baumgartnerstraße"
 housenumber: 2

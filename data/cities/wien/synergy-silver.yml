@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.204163300000005
 longitude: 16.3723353
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Annagasse"
 housenumber: 12

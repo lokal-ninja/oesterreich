@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 47.0709834
 longitude: 15.427733000000002
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Annenstraße"
 housenumber: 25

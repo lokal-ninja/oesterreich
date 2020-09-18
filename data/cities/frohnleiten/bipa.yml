@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.271905100000005
 longitude: 15.3276412
-postcode: 8130
+postcode: "8130"
 city: Frohnleiten
 street: "Brucker Straße"
 housenumber: 1b

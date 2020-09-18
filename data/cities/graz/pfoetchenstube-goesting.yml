@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.0880262
 longitude: 15.4025674
-postcode: 8051
+postcode: "8051"
 city: Graz
 street: "Plabutscherstraße"
 housenumber: 63

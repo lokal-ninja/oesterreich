@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4494051
 longitude: 12.327781100000001
-postcode: 6365
+postcode: "6365"
 city: Kirchberg in Tirol
 street: "Kitzbüheler Straße"
 housenumber: 118

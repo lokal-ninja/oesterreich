@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 48.2021912
 longitude: 13.9916452
-postcode: 4631
+postcode: "4631"
 city: Krenglbach
 street: ""
 housenumber: 3

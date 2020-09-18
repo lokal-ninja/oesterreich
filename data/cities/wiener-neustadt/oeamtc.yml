@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.780869800000005
 longitude: 16.1905633
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Neunkirchner Allee"
 housenumber: 200

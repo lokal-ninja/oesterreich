@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 47.072516900000004
 longitude: 15.4363188
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Sackstraße"
 housenumber: 15

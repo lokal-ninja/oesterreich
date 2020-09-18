@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 47.1055332
 longitude: 15.705763600000001
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Ludwig-Binder-Straße"
 housenumber: 25

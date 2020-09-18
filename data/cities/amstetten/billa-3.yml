@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0821832
 longitude: 14.807034000000002
-postcode: 3363
+postcode: "3363"
 city: Amstetten
 street: "Rauscherstraße"
 housenumber: 12

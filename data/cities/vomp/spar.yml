@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3420561
 longitude: 11.683261
-postcode: 6134
+postcode: "6134"
 city: Vomp
 street: "Dorf"
 housenumber: 70

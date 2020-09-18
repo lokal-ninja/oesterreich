@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.024988900000004
 longitude: 13.295672600000001
-postcode: 5212
+postcode: "5212"
 city: Lengau
 street: "Rieder Hauptstraße"
 housenumber: 45

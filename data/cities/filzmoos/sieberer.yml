@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4336354
 longitude: 13.522006300000001
-postcode: 5532
+postcode: "5532"
 city: Filzmoos
 street: "Filzmoos"
 housenumber: 84

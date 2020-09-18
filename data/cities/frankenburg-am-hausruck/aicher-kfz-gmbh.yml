@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.068562
 longitude: 13.4935726
-postcode: 4873
+postcode: "4873"
 city: Frankenburg am Hausruck
 street: "Kellerweg"
 housenumber: 6

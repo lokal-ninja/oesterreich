@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.4924455
 longitude: 9.7337624
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Arlbergstraße"
 housenumber: 99

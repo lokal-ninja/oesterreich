@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.293409600000004
 longitude: 11.4742305
-postcode: 6065
+postcode: "6065"
 city: Thaur
 street: "Schulgasse"
 housenumber: 1

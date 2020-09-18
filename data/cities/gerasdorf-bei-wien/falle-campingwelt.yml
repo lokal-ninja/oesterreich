@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 48.3297553
 longitude: 16.453345900000002
-postcode: 2201
+postcode: "2201"
 city: Gerasdorf bei Wien
 street: "Brünner Straße"
 housenumber: 176-178

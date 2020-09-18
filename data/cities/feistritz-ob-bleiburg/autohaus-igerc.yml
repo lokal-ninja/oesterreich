@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.5787719
 longitude: 14.7509227
-postcode: 9143
+postcode: "9143"
 city: Feistritz ob Bleiburg
 street: ""
 housenumber: 99

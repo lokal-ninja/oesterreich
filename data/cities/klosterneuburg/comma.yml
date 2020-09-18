@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.309027
 longitude: 16.3228699
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Stadtplatz"
 housenumber: 7

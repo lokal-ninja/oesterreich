@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.0990714
 longitude: 15.411148
-postcode: 8051
+postcode: "8051"
 city: Graz
 street: "Exerzierplatzstraße"
 housenumber: 85

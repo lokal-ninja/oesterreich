@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.350599800000005
 longitude: 9.6192083
-postcode: 6841
+postcode: "6841"
 city: Mäder
 street: "Neue Landstraße"
 housenumber: 23

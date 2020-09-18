@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.9990857
 longitude: 16.2714293
-postcode: 2512
+postcode: "2512"
 city: Tribuswinkel
 street: "Oberwaltersdorfer Straße"
 housenumber: 105

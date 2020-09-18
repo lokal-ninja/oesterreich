@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.267575
 longitude: 11.391907400000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Seilergasse"
 housenumber: 15

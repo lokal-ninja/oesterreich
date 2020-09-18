@@ -3,7 +3,7 @@ type: way
 shop: Dorfladen
 latitude: 48.3223368
 longitude: 14.713291900000002
-postcode: 4324
+postcode: "4324"
 city: Rechberg
 street: "Rechberg"
 housenumber: 14

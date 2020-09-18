@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.0711972
 longitude: 16.146065200000002
-postcode: 7571
+postcode: "7571"
 city: Rudersdorf
 street: "Pußta"
 housenumber: 5

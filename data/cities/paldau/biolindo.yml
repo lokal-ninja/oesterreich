@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 46.9574353
 longitude: 15.850233500000002
-postcode: 8341
+postcode: "8341"
 city: Paldau
 street: ""
 housenumber: 99

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0910948
 longitude: 14.8009678
-postcode: 3363
+postcode: "3363"
 city: Mauer bei Amstetten
 street: "Hausmeninger Straße"
 housenumber: 14

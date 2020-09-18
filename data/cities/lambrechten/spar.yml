@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.317619900000004
 longitude: 13.5141629
-postcode: 4772
+postcode: "4772"
 city: Lambrechten
 street: ""
 housenumber: 3

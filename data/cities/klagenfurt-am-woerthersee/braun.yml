@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.626709000000005
 longitude: 14.3116681
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Waagplatz"
 housenumber: 5

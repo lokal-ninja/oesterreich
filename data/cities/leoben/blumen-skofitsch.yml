@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.3697833
 longitude: 15.0927237
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Josef Heißl-Straße"
 housenumber: 33a

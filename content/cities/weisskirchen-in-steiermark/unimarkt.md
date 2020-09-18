@@ -1,4 +1,4 @@
 ---
-title: "UniMarkt"
+title: "Unimarkt"
 url: /weisskirchen-in-steiermark/unimarkt/
 ---

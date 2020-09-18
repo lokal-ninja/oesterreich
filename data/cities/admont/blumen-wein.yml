@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.573972100000006
 longitude: 14.461720300000001
-postcode: 8911
+postcode: "8911"
 city: Admont
 street: "Admont"
 housenumber: 1

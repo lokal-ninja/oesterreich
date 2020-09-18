@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2016258
 longitude: 16.3697626
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Bösendorferstraße"
 housenumber: 1

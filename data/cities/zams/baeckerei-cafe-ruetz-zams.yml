@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.158311600000005
 longitude: 10.5897606
-postcode: 6511
+postcode: "6511"
 city: Zams
 street: "Hauptplatz"
 housenumber: 4

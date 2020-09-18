@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.070468600000005
 longitude: 15.4419243
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Bischofplatz"
 housenumber: 1

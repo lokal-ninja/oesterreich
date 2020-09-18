@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.7370159
 longitude: 15.442276300000001
-postcode: 8452
+postcode: "8452"
 city: Großklein
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.210047800000005
 longitude: 16.3755534
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Köllnerhofgasse"
 housenumber: 2

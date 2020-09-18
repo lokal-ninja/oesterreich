@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 46.636523700000005
 longitude: 14.1392948
-postcode: 9210
+postcode: "9210"
 city: Pörtschach am Wörthersee
 street: "Hauptstraße"
 housenumber: 220

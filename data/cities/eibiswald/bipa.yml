@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.686261200000004
 longitude: 15.244362700000002
-postcode: 8552
+postcode: "8552"
 city: Eibiswald
 street: "Hauptplatz"
 housenumber: 19-20

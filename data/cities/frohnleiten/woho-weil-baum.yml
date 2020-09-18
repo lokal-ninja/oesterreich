@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.271102600000006
 longitude: 15.327614800000001
-postcode: 8130
+postcode: "8130"
 city: Frohnleiten
 street: "Hauptplatz"
 housenumber: 40

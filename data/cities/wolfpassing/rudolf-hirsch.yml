@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.312924900000006
 longitude: 16.1788962
-postcode: 3424
+postcode: "3424"
 city: Wolfpassing
 street: "Wiener Straße"
 housenumber: 10

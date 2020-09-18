@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3819802
 longitude: 9.897174600000001
-postcode: 6870
+postcode: "6870"
 city: Bezau
 street: "Bahnhof"
 housenumber: 741

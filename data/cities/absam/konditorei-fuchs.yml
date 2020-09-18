@@ -3,7 +3,7 @@ type: way
 shop: Konditorei
 latitude: 47.292438600000004
 longitude: 11.5143521
-postcode: 6067
+postcode: "6067"
 city: Absam
 street: "Salzbergstraße"
 housenumber: 20

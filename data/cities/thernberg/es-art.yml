@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.6611058
 longitude: 16.177019100000003
-postcode: 2832
+postcode: "2832"
 city: Thernberg
 street: ""
 housenumber: 1

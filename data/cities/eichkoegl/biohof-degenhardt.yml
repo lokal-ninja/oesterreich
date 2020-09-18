@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.045025200000005
 longitude: 15.797735000000001
-postcode: 8322
+postcode: "8322"
 city: Eichkögl
 street: ""
 housenumber: 65

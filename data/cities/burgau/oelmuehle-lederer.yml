@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.143244700000004
 longitude: 16.100823600000002
-postcode: 8291
+postcode: "8291"
 city: Burgau
 street: "Roseggerstraße"
 housenumber: 44

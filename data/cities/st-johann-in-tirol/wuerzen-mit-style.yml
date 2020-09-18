@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.5220509
 longitude: 12.428257100000002
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Hauptplatz"
 housenumber: 2

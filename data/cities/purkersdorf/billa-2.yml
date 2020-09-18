@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 48.2133867
 longitude: 16.1712171
-postcode: 3002
+postcode: "3002"
 city: Purkersdorf
 street: "Linzer Straße"
 housenumber: 35-37
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+website: "https://www.billa.at"

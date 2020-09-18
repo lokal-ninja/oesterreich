@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.4900704
 longitude: 12.073682000000002
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "Peter Rosegger-Straße"
 housenumber: 1

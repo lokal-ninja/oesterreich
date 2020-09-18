@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.9172262
 longitude: 16.682248100000002
-postcode: 7083
+postcode: "7083"
 city: Purbach am Neusiedler See
 street: "Fellnergasse"
 housenumber: 101

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.189151900000006
 longitude: 9.701672700000001
-postcode: 6710
+postcode: "6710"
 city: Nenzing
 street: "Bundesstraße"
 housenumber: 77

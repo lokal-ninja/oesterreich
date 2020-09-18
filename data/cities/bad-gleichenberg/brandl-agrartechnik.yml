@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.849363600000004
 longitude: 15.8966322
-postcode: 8344
+postcode: "8344"
 city: Bad Gleichenberg
 street: ""
 housenumber: 80

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.266336800000005
 longitude: 11.394137800000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maria-Theresien-Straße"
 housenumber: 13

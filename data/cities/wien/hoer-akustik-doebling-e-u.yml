@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.2426558
 longitude: 16.341963
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Sonnbergplatz"
 housenumber: 9

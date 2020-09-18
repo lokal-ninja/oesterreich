@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.586621900000004
 longitude: 13.540385
-postcode: 4824
+postcode: "4824"
 city: Gosau
 street: "Vordertalstraße"
 housenumber: 72

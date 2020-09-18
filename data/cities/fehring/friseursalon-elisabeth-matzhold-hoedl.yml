@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.977111400000005
 longitude: 16.001840700000002
-postcode: 8361
+postcode: "8361"
 city: Fehring
 street: ""
 housenumber: 135

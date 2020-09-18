@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2902624
 longitude: 15.978374100000002
-postcode: 8230
+postcode: "8230"
 city: Hartberg
 street: "Raimund-Obendrauf-Straße"
 housenumber: 55

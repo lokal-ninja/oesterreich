@@ -3,10 +3,10 @@ type: node
 shop: Haushaltsartikel
 latitude: 47.9596375
 longitude: 14.773248700000002
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Unterer Stadtplatz"
 housenumber: 30
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00; 14:00-18:00; Sa  08:00 - 12:00"
+opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00"
 website: ""

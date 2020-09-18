@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.1919261
 longitude: 16.3594836
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretenstraße"
 housenumber: 71-73

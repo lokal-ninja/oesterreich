@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 48.144145900000005
 longitude: 16.292890800000002
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 276

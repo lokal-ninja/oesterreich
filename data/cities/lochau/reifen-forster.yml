@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 47.525445000000005
 longitude: 9.750990900000001
-postcode: 6911
+postcode: "6911"
 city: Lochau
 street: "Landstraße"
 housenumber: 57

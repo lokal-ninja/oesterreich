@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.0397046
 longitude: 15.400928700000001
-postcode: 8054
+postcode: "8054"
 city: Graz
 street: "Harter Straße"
 housenumber: 157

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.292098200000005
 longitude: 11.592796400000001
-postcode: 6112
+postcode: "6112"
 city: Wattens
 street: "Kirchplatz"
 housenumber: 4A

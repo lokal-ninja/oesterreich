@@ -1,6 +1,6 @@
 ---
 title: Donnerskirchen
 url: /donnerskirchen/
-latitude: 47.896131800000006
-longitude: 16.6446405
+latitude: 47.8960626
+longitude: 16.6445815
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.2433982
 longitude: 13.0458291
-postcode: 5280
+postcode: "5280"
 city: Braunau am Inn
 street: "Bahnhofstraße"
 housenumber: 1

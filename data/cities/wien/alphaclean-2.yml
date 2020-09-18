@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.173850800000004
 longitude: 16.3650844
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Davidgasse"
 housenumber: 55

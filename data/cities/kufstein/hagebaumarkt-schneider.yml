@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.5946311
 longitude: 12.175632400000001
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Rosenheimer Straße"
 housenumber: 7

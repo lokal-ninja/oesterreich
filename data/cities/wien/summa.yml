@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.2506245
 longitude: 16.4539966
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Breitenleer Straße"
 housenumber: 17

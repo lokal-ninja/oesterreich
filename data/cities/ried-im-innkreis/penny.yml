@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.199325
 longitude: 13.474385400000001
-postcode: 4910
+postcode: "4910"
 city: Ried im Innkreis
 street: "Fischerstraße"
 housenumber: 13

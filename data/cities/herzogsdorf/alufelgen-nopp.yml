@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.3964633
 longitude: 14.0724824
-postcode: 4175
+postcode: "4175"
 city: Herzogsdorf
 street: "Gerling"
 housenumber: 71

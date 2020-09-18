@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.887379100000004
 longitude: 13.121916200000001
-postcode: 5201
+postcode: "5201"
 city: Seekirchen am Wallersee
 street: "Gewerbestraße"
 housenumber: 1

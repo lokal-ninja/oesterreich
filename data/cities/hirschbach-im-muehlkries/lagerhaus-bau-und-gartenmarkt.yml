@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.4872804
 longitude: 14.412199200000002
-postcode: 4242
+postcode: "4242"
 city: Hirschbach im Mühlkries
 street: "Gusenstraße"
 housenumber: 3

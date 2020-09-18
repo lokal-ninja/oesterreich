@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.045630300000006
 longitude: 16.305803100000002
-postcode: 2353
+postcode: "2353"
 city: Guntramsdorf
 street: "Triesterstraße"
 housenumber: 15

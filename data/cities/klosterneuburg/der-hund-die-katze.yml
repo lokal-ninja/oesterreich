@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.3041123
 longitude: 16.3221283
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Kardinal Piffl-Platz"
 housenumber: 2

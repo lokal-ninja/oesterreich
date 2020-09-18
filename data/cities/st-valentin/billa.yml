@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1917458
 longitude: 14.520217800000001
-postcode: 4300
+postcode: "4300"
 city: St. Valentin
 street: "Kaufpark"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3530601
 longitude: 14.4162455
-postcode: 4210
+postcode: "4210"
 city: Gallneukirchen
 street: "Hauptstraße"
 housenumber: 18

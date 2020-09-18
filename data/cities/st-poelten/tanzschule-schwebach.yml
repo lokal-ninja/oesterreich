@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 48.204396200000005
 longitude: 15.629316200000002
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Wiener Straße"
 housenumber: 46

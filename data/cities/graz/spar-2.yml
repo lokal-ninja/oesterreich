@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.064432000000004
 longitude: 15.4370267
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Friedrichgasse"
 housenumber: 21

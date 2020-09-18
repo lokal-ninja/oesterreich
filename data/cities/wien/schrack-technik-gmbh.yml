@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.140911200000005
 longitude: 16.2944131
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Seybelgasse"
 housenumber: 13

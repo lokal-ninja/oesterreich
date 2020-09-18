@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 47.902350600000005
 longitude: 14.1241003
-postcode: 4560
+postcode: "4560"
 city: Kirchdorf an der Krems
 street: "Steiermärker Straße"
 housenumber: 16

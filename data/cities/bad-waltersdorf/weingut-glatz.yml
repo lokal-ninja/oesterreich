@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.1709362
 longitude: 16.0323977
-postcode: 8271
+postcode: "8271"
 city: Bad Waltersdorf
 street: ""
 housenumber: 25

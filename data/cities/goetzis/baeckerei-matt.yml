@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.3356355
 longitude: 9.643658700000001
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Bahnhofstraße"
 housenumber: 12

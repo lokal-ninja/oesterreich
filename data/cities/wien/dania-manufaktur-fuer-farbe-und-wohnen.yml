@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.2551378
 longitude: 16.3654495
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Heiligenstädter Straße"
 housenumber: 159

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.9849
 longitude: 16.000871500000002
-postcode: 8361
+postcode: "8361"
 city: Fehring
 street: ""
 housenumber: 158

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1668156
 longitude: 16.3589293
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Gussriegelstraße"
 housenumber: 63

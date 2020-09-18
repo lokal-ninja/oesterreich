@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.494280100000005
 longitude: 9.7111721
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Rheinstraße"
 housenumber: 86

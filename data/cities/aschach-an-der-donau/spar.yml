@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3642303
 longitude: 14.0231662
-postcode: 4082
+postcode: "4082"
 city: Aschach an der Donau
 street: "Abelstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.712684100000004
 longitude: 13.554560200000001
-postcode: 4820
+postcode: "4820"
 city: Bad Ischl
 street: "Salzburger Straße"
 housenumber: 150

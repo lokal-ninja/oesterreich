@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.174418100000004
 longitude: 16.3299644
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Edelsinnstraße"
 housenumber: 2

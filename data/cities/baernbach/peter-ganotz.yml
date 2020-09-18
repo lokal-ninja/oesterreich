@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.065414600000004
 longitude: 15.128156200000001
-postcode: 8572
+postcode: "8572"
 city: Bärnbach
 street: "Dr. Niederdorfer Straße"
 housenumber: 16c

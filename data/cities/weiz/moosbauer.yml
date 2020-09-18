@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2169473
 longitude: 15.62208
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Hauptplatz"
 housenumber: 19

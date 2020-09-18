@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.2648536
 longitude: 11.3987815
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Brixner Straße"
 housenumber: 2

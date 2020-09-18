@@ -3,9 +3,9 @@ type: way
 shop: Metzgerei
 latitude: 47.39763060000001
 longitude: 15.0612749
-postcode: 8792
+postcode: "8792"
 city: Sankt Peter-Freienstein
-street: "Tollinggraben"
+street: ""
 housenumber: 11
 phone: "+436764441715"
 opening_hours: ""

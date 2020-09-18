@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.548582
 longitude: 13.709858100000002
-postcode: 9601
+postcode: "9601"
 city: Arnoldstein
 street: "Marktstraße"
 housenumber: 1

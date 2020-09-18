@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5034841
 longitude: 16.5082747
-postcode: 7350
+postcode: "7350"
 city: Oberpullendorf
 street: "Eisenstädterstraße"
 housenumber: 73

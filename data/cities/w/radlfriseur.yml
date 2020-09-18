@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2057463
 longitude: 16.3319315
-postcode: 1160
+postcode: "1160"
 city: w
 street: "Herbststraße"
 housenumber: 24

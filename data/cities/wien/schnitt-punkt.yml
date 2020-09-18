@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.240796800000005
 longitude: 16.3356828
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Krottenbachstraße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.1753476
 longitude: 16.3758229
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Quellenstraße"
 housenumber: 125

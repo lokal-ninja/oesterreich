@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2625941
 longitude: 11.8953717
-postcode: 6274
+postcode: "6274"
 city: Aschau im Zillertal
 street: "Dorfplatz"
 housenumber: 6

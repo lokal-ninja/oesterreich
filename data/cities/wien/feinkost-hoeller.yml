@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.204333600000005
 longitude: 16.3554681
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Burggasse"
 housenumber: 6-8

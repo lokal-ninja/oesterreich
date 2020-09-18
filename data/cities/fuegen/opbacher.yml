@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 47.341218000000005
 longitude: 11.8503723
-postcode: 6263
+postcode: "6263"
 city: Fügen
 street: "Karl-Mauracher-Weg"
 housenumber: 34

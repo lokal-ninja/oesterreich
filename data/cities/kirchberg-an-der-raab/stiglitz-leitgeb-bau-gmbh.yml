@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 46.9747732
 longitude: 15.7839381
-postcode: 8324
+postcode: "8324"
 city: Kirchberg an der Raab
 street: ""
 housenumber: 48

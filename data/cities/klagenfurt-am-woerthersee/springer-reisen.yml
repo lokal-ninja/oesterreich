@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 46.624209300000004
 longitude: 14.306577
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Wiesbadener Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.076764700000005
 longitude: 14.424833300000001
-postcode: 4407
+postcode: "4407"
 city: Dietach
 street: "Ennser Straße"
 housenumber: 81

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.122855300000005
 longitude: 15.8135691
-postcode: 3073
+postcode: "3073"
 city: Stössing
 street: ""
 housenumber: 37

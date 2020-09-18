@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.1977157
 longitude: 11.8718979
-postcode: 6284
+postcode: "6284"
 city: Ramsau im Zillertal
 street: "Bichl"
 housenumber: 458

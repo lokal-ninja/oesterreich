@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.4379313
 longitude: 16.7824356
-postcode: 2251
+postcode: "2251"
 city: Ebenthal
 street: "Hauptstraße"
 housenumber: 110

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.062757000000005
 longitude: 15.448830200000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Kastellfeldgasse"
 housenumber: 27

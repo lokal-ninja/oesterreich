@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.0664597
 longitude: 15.439917600000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Radetzkystraße"
 housenumber: 9

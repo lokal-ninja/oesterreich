@@ -3,7 +3,7 @@ type: way
 shop: Fußböden
 latitude: 46.6065203
 longitude: 13.8574181
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Ludwig-Walter-Straße"
 housenumber: 52

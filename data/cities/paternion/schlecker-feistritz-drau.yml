@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.7011808
 longitude: 13.6643314
-postcode: 9710
+postcode: "9710"
 city: Paternion
 street: "Villacher Straße(Feistritz/Dr)"
 housenumber: 32

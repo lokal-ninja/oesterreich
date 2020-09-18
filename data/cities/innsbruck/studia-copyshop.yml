@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.2652742
 longitude: 11.3859084
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Herzog-Siegmund-Ufer"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.6255662
 longitude: 14.3413587
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Hermann-Gmeiner-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2257174
 longitude: 16.5049952
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Anna-Bastel-Gasse"
 housenumber: 1

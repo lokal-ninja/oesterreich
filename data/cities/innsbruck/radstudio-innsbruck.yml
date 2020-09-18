@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.2575626
 longitude: 11.388441
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Zollerstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.815434800000006
 longitude: 16.2235288
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Roseggergasse"
 housenumber: 13

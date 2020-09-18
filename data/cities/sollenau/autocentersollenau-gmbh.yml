@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9097329
 longitude: 16.2550254
-postcode: 2601
+postcode: "2601"
 city: Sollenau
 street: "Industriestraße-Nord"
 housenumber: 7

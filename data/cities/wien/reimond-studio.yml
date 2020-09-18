@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 48.222601600000004
 longitude: 16.3663905
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Rögergasse"
 housenumber: 6
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu 09:00-14:00; Th 11:00-16:00"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.1236848
 longitude: 15.265781800000001
-postcode: 3244
+postcode: "3244"
 city: Ruprechtshofen
 street: "Riegers"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 46.9916063
 longitude: 15.8662915
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: ""
 housenumber: 130

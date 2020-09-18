@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 48.0780587
 longitude: 14.8224555
-postcode: 3363
+postcode: "3363"
 city: Hausmening
 street: "Schloßstraße"
 housenumber: 39

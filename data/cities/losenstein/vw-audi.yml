@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9317999
 longitude: 14.4042264
-postcode: 4460
+postcode: "4460"
 city: Losenstein
 street: "Industriegebiet"
 housenumber: 5

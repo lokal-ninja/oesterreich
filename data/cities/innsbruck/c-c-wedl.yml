@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 47.2623754
 longitude: 11.4323656
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Leopold-Wedl-Weg"
 housenumber: 1

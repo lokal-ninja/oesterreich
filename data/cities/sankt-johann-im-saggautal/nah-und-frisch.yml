@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.703611
 longitude: 15.400183900000002
-postcode: 8453
+postcode: "8453"
 city: Sankt Johann im Saggautal
 street: ""
 housenumber: 13

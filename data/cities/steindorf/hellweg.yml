@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.9639115
 longitude: 13.2434536
-postcode: 5204
+postcode: "5204"
 city: Steindorf
 street: "Bergstraße"
 housenumber: 1

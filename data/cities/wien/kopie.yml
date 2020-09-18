@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.198840600000004
 longitude: 16.3680956
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 5

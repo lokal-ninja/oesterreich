@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 46.6172313
 longitude: 13.872332
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "St.Magdalener Straße"
 housenumber: 57

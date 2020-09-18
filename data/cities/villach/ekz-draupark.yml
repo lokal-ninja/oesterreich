@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 46.6151021
 longitude: 13.8417455
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Ringmauergasse"
 housenumber: 9

@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 47.2580503
 longitude: 11.3765517
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Mitterweg"
 housenumber: 21
-phone: ""
+phone: "+43 512 282394"
 opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off"
 website: "https://www.merkurmarkt.at"

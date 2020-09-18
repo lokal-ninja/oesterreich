@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.8982468
 longitude: 13.186458100000001
-postcode: 5302
+postcode: "5302"
 city: Henndorf am Wallersee
 street: "J.-Freumbichle-Weg"
 housenumber: 9

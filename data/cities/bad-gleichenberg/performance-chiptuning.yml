@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 46.8886929
 longitude: 15.9262934
-postcode: 8344
+postcode: "8344"
 city: Bad Gleichenberg
 street: "Steinrieglstraße"
 housenumber: 99

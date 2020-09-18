@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.221369200000005
 longitude: 12.1749854
-postcode: 5743
+postcode: "5743"
 city: Krimml
 street: "Oberkrimml"
 housenumber: 93
 phone: "+43 6564 72006"
-opening_hours: ""
+opening_hours: "Mo-Sa 07:30-12:30, Mo-Fr 15:00-18:30"
 website: ""

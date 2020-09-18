@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.1837573
 longitude: 14.054678200000001
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Flugplatzstraße"
 housenumber: 38

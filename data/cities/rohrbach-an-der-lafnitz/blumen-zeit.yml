@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.392905500000005
 longitude: 15.992350600000002
-postcode: 8234
+postcode: "8234"
 city: Rohrbach an der Lafnitz
 street: "Obere Hauptstraße"
 housenumber: 39

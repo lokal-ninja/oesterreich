@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.1902823
 longitude: 14.7552631
-postcode: 8740
+postcode: "8740"
 city: Zeltweg
 street: "Bahnhofstraße"
 housenumber: 35

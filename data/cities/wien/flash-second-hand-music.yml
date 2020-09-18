@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 48.197273100000004
 longitude: 16.364041800000003
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Mühlgasse"
 housenumber: 13

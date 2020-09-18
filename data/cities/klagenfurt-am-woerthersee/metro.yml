@@ -1,12 +1,12 @@
 id: 120087562
 type: way
-shop: Supermarkt
+shop: Großhandel
 latitude: 46.637910600000005
 longitude: 14.372457800000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Görtschitztalstraße"
 housenumber: 22
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+43 463 71770"
+opening_hours: "Mo-Fr 06:00-21:00; Sa 08:00-18:00"
+website: "https://www.metro.at/metro-maerkte/klagenfurt-hortendorf"

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.4587997
 longitude: 14.346243200000002
-postcode: 4204
+postcode: "4204"
 city: Reichenau im Mühlkreis
 street: "Oberer Markt"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8108183
 longitude: 13.0262021
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Rudolf-Biebl-Straße"
 housenumber: 41

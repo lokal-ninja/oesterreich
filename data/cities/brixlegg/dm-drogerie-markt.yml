@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.4366603
 longitude: 11.882893000000001
-postcode: 6230
+postcode: "6230"
 city: Brixlegg
 street: "Niederfeldweg"
 housenumber: 

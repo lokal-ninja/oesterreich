@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 47.1589429
 longitude: 15.5355158
-postcode: 8062
+postcode: "8062"
 city: Kumberg
 street: "Hauptstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsartikel
 latitude: 48.4321434
 longitude: 16.175175
-postcode: 2011
+postcode: "2011"
 city: Sierndorf
 street: "Bahnstraße"
 housenumber: 20

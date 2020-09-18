@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5147836
 longitude: 12.307000700000001
-postcode: 6352
+postcode: "6352"
 city: Ellmau
 street: "Dorf"
 housenumber: 52

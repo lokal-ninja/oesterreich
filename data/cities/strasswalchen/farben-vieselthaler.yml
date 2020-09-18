@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 47.9583707
 longitude: 13.2355041
-postcode: 5204
+postcode: "5204"
 city: Straßwalchen
 street: "Neumarkterstraße"
 housenumber: 6

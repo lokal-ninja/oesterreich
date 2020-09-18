@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2637294
 longitude: 14.260948500000001
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Plateaustraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2133265
 longitude: 16.308191
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Thaliastraße"
 housenumber: 152

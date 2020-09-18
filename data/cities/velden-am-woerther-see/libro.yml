@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 46.614253600000005
 longitude: 14.042724100000001
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Am Corso"
 housenumber: 25

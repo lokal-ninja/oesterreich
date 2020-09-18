@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.2441553
 longitude: 13.1057956
-postcode: 5632
+postcode: "5632"
 city: Dorfgastein
 street: "Gartenstraße"
 housenumber: 5

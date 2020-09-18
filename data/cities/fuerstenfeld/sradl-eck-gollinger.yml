@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.057294500000005
 longitude: 16.070269200000002
-postcode: 8280
+postcode: "8280"
 city: Fürstenfeld
 street: "Grazerstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.2631067
 longitude: 11.397818800000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Salurner Straße"
 housenumber: 8

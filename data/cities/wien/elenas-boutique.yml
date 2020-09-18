@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.2255862
 longitude: 16.3945508
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Krakauer Straße"
 housenumber: 14

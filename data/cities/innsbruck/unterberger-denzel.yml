@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.2677362
 longitude: 11.439526800000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Griesauweg"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.0834077
 longitude: 16.344744000000002
-postcode: 2362
+postcode: "2362"
 city: Biedermannsdorf
 street: "Ortsstraße"
 housenumber: 53

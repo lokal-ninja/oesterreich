@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.4278708
 longitude: 11.875578
-postcode: 6230
+postcode: "6230"
 city: Brixlegg
 street: "Innsbrucker Straße"
 housenumber: 12

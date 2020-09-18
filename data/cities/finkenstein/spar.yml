@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.561254000000005
 longitude: 13.868876100000001
-postcode: 9584
+postcode: "9584"
 city: Finkenstein
 street: "Faakerseestraße"
 housenumber: 8

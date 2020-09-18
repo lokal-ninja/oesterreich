@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.2181781
 longitude: 14.8151091
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Anton-Regner-Straße"
 housenumber: 61

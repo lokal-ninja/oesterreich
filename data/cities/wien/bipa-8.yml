@@ -1,12 +1,12 @@
-id: 419284258
+id: 428021894
 type: node
 shop: Drogerie
-latitude: 48.1953764
-longitude: 16.3632759
-postcode: 1040
+latitude: 48.226919200000005
+longitude: 16.3400854
+postcode: "1180"
 city: Wien
-street: "Pressgasse"
-housenumber: 17
-phone: ""
-opening_hours: "Mo-Fr 08:00-19:30, Sa 08:00-18:00"
-website: ""
+street: "Währinger Straße"
+housenumber: 123
+phone: "+43 800 207 007"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+website: "https://bipa.at/"

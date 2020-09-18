@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.2274735
 longitude: 15.332212700000001
-postcode: 3390
+postcode: "3390"
 city: Melk
 street: "Rathausplatz"
 housenumber: 5

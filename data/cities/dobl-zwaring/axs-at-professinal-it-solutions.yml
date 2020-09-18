@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 46.9491808
 longitude: 15.381203000000001
-postcode: 8143
+postcode: "8143"
 city: Dobl-Zwaring
 street: "Am Sendergrund"
 housenumber: 15

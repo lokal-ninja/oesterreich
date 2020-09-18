@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.205367700000004
 longitude: 15.625298800000001
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Domgasse"
 housenumber: 10

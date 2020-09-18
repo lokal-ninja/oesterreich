@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.2718112
 longitude: 9.6447663
-postcode: 6830
+postcode: "6830"
 city: Rankweil
 street: "Ringstraße"
 housenumber: 28

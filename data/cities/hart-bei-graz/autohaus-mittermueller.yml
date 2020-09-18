@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.0408179
 longitude: 15.509587300000002
-postcode: 8075
+postcode: "8075"
 city: Hart bei Graz
 street: "Industriestraße"
 housenumber: 11-13

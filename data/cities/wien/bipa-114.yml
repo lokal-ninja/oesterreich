@@ -1,12 +1,12 @@
-id: 5130396321
+id: 5130442929
 type: node
 shop: Drogerie
-latitude: 48.169000800000006
-longitude: 16.4206764
-postcode: 1110
+latitude: 48.164195500000005
+longitude: 16.3235588
+postcode: "1120"
 city: Wien
-street: "Simmeringer Hauptstraße"
-housenumber: 126
+street: "Oswaldgasse"
+housenumber: 67
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
 website: ""

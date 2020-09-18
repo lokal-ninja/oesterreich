@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.205716300000006
 longitude: 15.624783
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Kremser Gasse"
 housenumber: 8

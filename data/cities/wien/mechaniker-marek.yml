@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.184952
 longitude: 16.3300065
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Ullmannstraße"
 housenumber: 65

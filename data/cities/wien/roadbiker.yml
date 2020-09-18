@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.214630500000005
 longitude: 16.3837188
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Praterstraße"
 housenumber: 29

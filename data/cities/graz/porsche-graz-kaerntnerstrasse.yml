@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.038097900000004
 longitude: 15.411392300000001
-postcode: 8054
+postcode: "8054"
 city: Graz
 street: "Kärntner Straße"
 housenumber: 234

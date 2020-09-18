@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.0677839
 longitude: 15.4438171
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Jakominiplatz"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.3528527
 longitude: 15.695460100000002
-postcode: 8190
+postcode: "8190"
 city: Birkfeld
 street: "Wiesenweg"
 housenumber: 9

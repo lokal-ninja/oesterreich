@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.193506500000005
 longitude: 16.3345325
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Mariahilfer Straße"
 housenumber: 159

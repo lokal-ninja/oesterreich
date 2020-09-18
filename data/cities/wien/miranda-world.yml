@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.2073972
 longitude: 16.3383896
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Lerchenfelder Gürtel"
 housenumber: 32

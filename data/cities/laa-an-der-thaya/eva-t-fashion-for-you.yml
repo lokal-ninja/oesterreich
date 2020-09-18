@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7202308
 longitude: 16.384390200000002
-postcode: 2136
+postcode: "2136"
 city: Laa an der Thaya
 street: "Stadtplatz"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.045374800000005
 longitude: 15.1580045
-postcode: 8572
+postcode: "8572"
 city: Voitsberg
 street: "Grazer Vorstadt"
 housenumber: 62

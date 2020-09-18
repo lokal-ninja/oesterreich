@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.887888700000005
 longitude: 13.3273501
-postcode: 4893
+postcode: "4893"
 city: Tiefgraben
 street: ""
 housenumber: 8

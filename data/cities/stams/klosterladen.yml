@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.278048000000005
 longitude: 10.983412300000001
-postcode: 6422
+postcode: "6422"
 city: Stams
 street: "Stiftshof"
 housenumber: 7

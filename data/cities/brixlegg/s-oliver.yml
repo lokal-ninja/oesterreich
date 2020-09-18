@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.4361193
 longitude: 11.8833652
-postcode: 6230
+postcode: "6230"
 city: Brixlegg
 street: "Niederfeldweg"
 housenumber: 9f

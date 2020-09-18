@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.138558700000004
 longitude: 16.274365200000002
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 378

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1059509
 longitude: 15.704422500000002
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Ludwig-Binder-Straße"
 housenumber: 22

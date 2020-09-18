@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.033832200000006
 longitude: 15.409973500000001
-postcode: 8054
+postcode: "8054"
 city: Graz
 street: "Kärntner Straße"
 housenumber: 287

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2601548
 longitude: 11.4206819
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Amraser Straße"
 housenumber: 89

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.5718654
 longitude: 16.084223100000003
-postcode: 2020
+postcode: "2020"
 city: Hollabrunn
 street: "Christophorusstraße"
 housenumber: 4

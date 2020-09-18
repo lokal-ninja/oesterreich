@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.278899800000005
 longitude: 16.3871605
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Prager Straße"
 housenumber: 175

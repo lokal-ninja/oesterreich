@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.0521583
 longitude: 10.679681500000001
-postcode: 6528
+postcode: "6528"
 city: Fendels
 street: "Fendels"
 housenumber: 73

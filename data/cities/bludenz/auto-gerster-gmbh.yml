@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.1371029
 longitude: 9.8360468
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Alfenzstraße"
 housenumber: 1

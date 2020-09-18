@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.3319696
 longitude: 14.617856000000002
-postcode: 4284
+postcode: "4284"
 city: Tragwein
 street: "Am Taferlberg"
 housenumber: 2

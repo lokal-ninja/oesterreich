@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.071539800000004
 longitude: 15.447767700000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Glacisstraße"
 housenumber: 49

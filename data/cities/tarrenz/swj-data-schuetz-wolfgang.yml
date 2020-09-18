@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.2642552
 longitude: 10.7633057
-postcode: 6464
+postcode: "6464"
 city: Tarrenz
 street: "Trujegasse"
 housenumber: 6

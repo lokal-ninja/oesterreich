@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.144608600000005
 longitude: 13.702232100000002
-postcode: 4674
+postcode: "4674"
 city: Gaspoltshofen
 street: "Unteraffnang"
 housenumber: 2

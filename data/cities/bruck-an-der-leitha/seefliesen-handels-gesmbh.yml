@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 48.021673400000005
 longitude: 16.761411000000003
-postcode: 2460
+postcode: "2460"
 city: Bruck an der Leitha
 street: "Altstadt"
 housenumber: 86b

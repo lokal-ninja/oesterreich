@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2256544
 longitude: 16.453211800000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Langobardenstraße"
 housenumber: 7

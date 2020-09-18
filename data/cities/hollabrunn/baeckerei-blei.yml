@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5629458
 longitude: 16.0773256
-postcode: 2020
+postcode: "2020"
 city: Hollabrunn
 street: "Bahnstraße"
 housenumber: 8

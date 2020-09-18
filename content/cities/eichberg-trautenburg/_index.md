@@ -1,6 +1,6 @@
 ---
 title: Eichberg-Trautenburg
 url: /eichberg-trautenburg/
-latitude: 46.69055
-longitude: 15.456270000000002
+latitude: 46.694792400000004
+longitude: 15.4462731
 ---

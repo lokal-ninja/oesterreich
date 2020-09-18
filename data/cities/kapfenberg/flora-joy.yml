@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.448152400000005
 longitude: 15.305188900000001
-postcode: 8605
+postcode: "8605"
 city: Kapfenberg
 street: "Meierhofstraße"
 housenumber: 1

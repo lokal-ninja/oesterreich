@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.4275758
 longitude: 11.875424200000001
-postcode: 6230
+postcode: "6230"
 city: Brixlegg
 street: "Innsbrucker Straße"
 housenumber: 11

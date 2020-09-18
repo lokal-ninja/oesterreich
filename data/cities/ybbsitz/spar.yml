@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.948682600000005
 longitude: 14.8930492
-postcode: 3341
+postcode: "3341"
 city: Ybbsitz
 street: "Alte Poststraße"
 housenumber: 11-12

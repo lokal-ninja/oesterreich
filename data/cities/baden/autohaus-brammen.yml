@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9957536
 longitude: 16.227495
-postcode: 2500
+postcode: "2500"
 city: Baden
 street: "Vöslauer Straße"
 housenumber: 97

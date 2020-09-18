@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.0224586
 longitude: 15.400430900000002
-postcode: 8054
+postcode: "8054"
 city: Graz
 street: "Kärntner Straße"
 housenumber: 417

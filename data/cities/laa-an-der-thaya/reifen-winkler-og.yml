@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.7235792
 longitude: 16.385654300000002
-postcode: 2136
+postcode: "2136"
 city: Laa an der Thaya
 street: "Breite Gasse"
 housenumber: 5

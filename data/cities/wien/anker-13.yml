@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.235736100000004
 longitude: 16.388334
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Vorgartenstraße"
 housenumber: 83

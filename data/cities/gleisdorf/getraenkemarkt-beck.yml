@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.1007484
 longitude: 15.710392200000001
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Gartengasse"
 housenumber: 8

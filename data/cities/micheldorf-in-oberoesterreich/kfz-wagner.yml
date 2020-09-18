@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.891542300000005
 longitude: 14.1292646
-postcode: 4563
+postcode: "4563"
 city: Micheldorf in Oberösterreich
 street: "Weinzierler Brücke"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.459419700000005
 longitude: 15.725277100000001
-postcode: 3493
+postcode: "3493"
 city: Hadersdorf-Kammern
 street: "Wiener Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.151181300000005
 longitude: 9.811636100000001
-postcode: 6706
+postcode: "6706"
 city: Bürs
 street: "Almteilweg"
 housenumber: 1

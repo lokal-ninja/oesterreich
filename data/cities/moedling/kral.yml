@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.0848318
 longitude: 16.2832267
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Kaiserin Elisabethstraße"
 housenumber: 7

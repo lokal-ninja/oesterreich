@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.181473600000004
 longitude: 16.4086699
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Simmeringer Hauptstraße"
 housenumber: 33

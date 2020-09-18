@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.1844711
 longitude: 14.0241422
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Mitterfeldstraße"
 housenumber: 1

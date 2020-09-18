@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.156339300000006
 longitude: 9.818752700000001
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Bahnhofstraße"
 housenumber: 1

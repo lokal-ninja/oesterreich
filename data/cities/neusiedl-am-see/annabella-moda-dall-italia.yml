@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 47.947308400000004
 longitude: 16.8452026
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Untere Hauptstraße"
 housenumber: 26

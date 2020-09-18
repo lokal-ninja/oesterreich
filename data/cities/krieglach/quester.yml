@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.5539022
 longitude: 15.5775778
-postcode: 8670
+postcode: "8670"
 city: Krieglach
 street: "Roseggerstraße"
 housenumber: 156

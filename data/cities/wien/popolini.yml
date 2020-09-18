@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 48.1963244
 longitude: 16.348193900000002
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Otto-Bauer-Gasse"
 housenumber: 17

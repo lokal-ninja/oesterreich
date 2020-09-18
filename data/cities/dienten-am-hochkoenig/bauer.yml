@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.382393900000004
 longitude: 13.002744400000001
-postcode: 5652
+postcode: "5652"
 city: Dienten am Hochkönig
 street: ""
 housenumber: 44

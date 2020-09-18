@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 47.927095
 longitude: 15.0856399
-postcode: 3292
+postcode: "3292"
 city: Gaming
 street: "Ötscherlandstraße"
 housenumber: 11

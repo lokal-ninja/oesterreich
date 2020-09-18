@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.192007700000005
 longitude: 13.928415200000002
-postcode: 4632
+postcode: "4632"
 city: Pichl bei Wels
 street: "Kaplanstraße"
 housenumber: 11

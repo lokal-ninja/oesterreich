@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.104303900000005
 longitude: 15.415109600000001
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Am Andritzbach"
 housenumber: 32

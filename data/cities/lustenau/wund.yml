@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.435249600000006
 longitude: 9.6594736
-postcode: 6890
+postcode: "6890"
 city: Lustenau
 street: "Steinackerstraße"
 housenumber: 27

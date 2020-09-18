@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.198024600000004
 longitude: 16.3277852
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Märzstraße"
 housenumber: 47

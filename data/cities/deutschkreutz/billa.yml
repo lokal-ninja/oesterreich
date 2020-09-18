@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.602903600000005
 longitude: 16.6113511
-postcode: 7301
+postcode: "7301"
 city: Deutschkreutz
 street: "Bahngasse"
 housenumber: 66

@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.227735800000005
 longitude: 16.337183200000002
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Währinger Straße"
 housenumber: 135

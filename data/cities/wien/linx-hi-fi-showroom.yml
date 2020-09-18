@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.213034900000004
 longitude: 16.467397300000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Kapellenweg"
 housenumber: 18

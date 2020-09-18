@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.960381600000005
 longitude: 14.7737426
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Unterer Stadtplatz"
 housenumber: 9

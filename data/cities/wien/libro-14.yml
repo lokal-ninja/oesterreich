@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1895478
 longitude: 16.365106
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 76

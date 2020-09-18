@@ -3,7 +3,7 @@ type: node
 shop: Hanf
 latitude: 47.9598755
 longitude: 14.774871000000001
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Hoher Markt"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.227836800000006
 longitude: 16.366965
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Wallensteinstraße"
 housenumber: 4

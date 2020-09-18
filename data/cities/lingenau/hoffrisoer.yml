@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.449625600000005
 longitude: 9.918658500000001
-postcode: 6951
+postcode: "6951"
 city: Lingenau
 street: ""
 housenumber: 267

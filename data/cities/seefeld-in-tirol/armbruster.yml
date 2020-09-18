@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.3280201
 longitude: 11.187377600000001
-postcode: 6100
+postcode: "6100"
 city: Seefeld in Tirol
 street: "Innsbrucker Straße"
 housenumber: 22

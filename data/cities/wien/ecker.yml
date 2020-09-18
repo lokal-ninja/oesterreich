@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.211806800000005
 longitude: 16.222894
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Mauerbachstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.794947300000004
 longitude: 13.7198633
-postcode: 9545
+postcode: "9545"
 city: Radenthein
 street: "Holunderweg"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.9186356
 longitude: 13.800767100000002
-postcode: 4810
+postcode: "4810"
 city: Gmunden
 street: "Kammerhofgasse"
 housenumber: 5

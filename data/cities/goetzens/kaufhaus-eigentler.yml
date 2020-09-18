@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2356842
 longitude: 11.313307400000001
-postcode: 6091
+postcode: "6091"
 city: Götzens
 street: "Mittelgasse"
 housenumber: 6

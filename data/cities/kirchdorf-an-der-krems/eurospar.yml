@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9072517
 longitude: 14.1184779
-postcode: 4560
+postcode: "4560"
 city: Kirchdorf an der Krems
 street: "Sengsschmiedstraße"
 housenumber: 12

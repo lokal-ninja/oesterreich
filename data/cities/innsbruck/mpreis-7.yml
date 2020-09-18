@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2722959
 longitude: 11.4440998
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "An-der-Lan-Straße"
 housenumber: 40

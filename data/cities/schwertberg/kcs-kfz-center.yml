@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.250191300000004
 longitude: 14.5805345
-postcode: 4311
+postcode: "4311"
 city: Schwertberg
 street: "Furth"
 housenumber: 36

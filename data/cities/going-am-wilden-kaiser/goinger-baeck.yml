@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.514750400000004
 longitude: 12.3312513
-postcode: 6353
+postcode: "6353"
 city: Going am Wilden Kaiser
 street: "Dorfstraße"
 housenumber: 31

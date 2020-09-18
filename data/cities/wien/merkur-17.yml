@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1607531
 longitude: 16.2780355
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Speisinger Straße"
 housenumber: 135

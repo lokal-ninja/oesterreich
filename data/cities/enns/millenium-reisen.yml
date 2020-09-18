@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.2137601
 longitude: 14.4783082
-postcode: 4470
+postcode: "4470"
 city: Enns
 street: "Bräuergasse"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.204291600000005
 longitude: 16.3503762
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Burggasse"
 housenumber: 40/1

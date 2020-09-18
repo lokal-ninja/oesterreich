@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.2635407
 longitude: 11.351363000000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Technikerstraße"
 housenumber: 1

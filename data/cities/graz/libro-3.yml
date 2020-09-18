@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.0712514
 longitude: 15.4369811
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: ""
 housenumber: 

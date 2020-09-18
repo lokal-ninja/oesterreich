@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 48.222635100000005
 longitude: 16.3525368
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Währinger Straße"
 housenumber: 51

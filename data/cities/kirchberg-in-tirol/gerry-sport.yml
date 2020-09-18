@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.4388145
 longitude: 12.324694000000001
-postcode: 6365
+postcode: "6365"
 city: Kirchberg in Tirol
 street: "Maierlweg"
 housenumber: 13

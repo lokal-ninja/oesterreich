@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.0858743
 longitude: 16.2838041
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Herzoggasse"
 housenumber: 4

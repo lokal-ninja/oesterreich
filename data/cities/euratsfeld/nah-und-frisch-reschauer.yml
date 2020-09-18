@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.081551000000005
 longitude: 14.932224900000001
-postcode: 3324
+postcode: "3324"
 city: Euratsfeld
 street: "Marktstraße"
 housenumber: 19

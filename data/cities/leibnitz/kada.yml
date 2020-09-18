@@ -1,12 +1,12 @@
 id: 151527453
 type: way
-shop: Eisenwaren
+shop: Baumarkt
 latitude: 46.780787100000005
 longitude: 15.537324600000002
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
-street: ""
-housenumber: 
+street: "Kadagasse"
+housenumber: 1
 phone: ""
-opening_hours: ""
-website: "https://kadashop.at/"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-17:00; PH off"
+website: "http://www.kada.at/"

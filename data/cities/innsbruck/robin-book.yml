@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.266704700000005
 longitude: 11.394009500000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maria-Theresien-Straße"
 housenumber: 5

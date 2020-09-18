@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.5687592
 longitude: 16.572365700000002
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Hauptplatz"
 housenumber: 23

@@ -1,12 +1,12 @@
-id: 5130388622
+id: 5130389821
 type: node
 shop: Drogerie
-latitude: 48.1751766
-longitude: 16.3767739
-postcode: 1100
+latitude: 48.1732183
+longitude: 16.4170795
+postcode: "1110"
 city: Wien
-street: "Quellenstraße"
-housenumber: 119
+street: "Simmeringer Hauptstraße"
+housenumber: 96
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-We,Fr 08:00-19:30; Th 08:00-20:00; Sa 08:00-18:00"
 website: ""

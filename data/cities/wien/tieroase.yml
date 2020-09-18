@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.162595
 longitude: 16.278864300000002
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Speisinger Straße"
 housenumber: 110

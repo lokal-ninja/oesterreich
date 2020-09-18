@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2680281
 longitude: 16.404972400000002
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Brünner Straße"
 housenumber: 68

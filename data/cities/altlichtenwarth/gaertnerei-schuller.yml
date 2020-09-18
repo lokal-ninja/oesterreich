@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.6437236
 longitude: 16.791369500000002
-postcode: 2144
+postcode: "2144"
 city: Altlichtenwarth
 street: "Hans Kudlichgasse"
 housenumber: 524b

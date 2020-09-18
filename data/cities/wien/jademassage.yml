@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.1894507
 longitude: 16.3704051
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Graf-Starhemberg-Gasse"
 housenumber: 22

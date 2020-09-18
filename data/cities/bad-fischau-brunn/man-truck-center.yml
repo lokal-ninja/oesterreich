@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8450241
 longitude: 16.1867488
-postcode: 2721
+postcode: "2721"
 city: Bad Fischau-Brunn
 street: "MAN-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 47.4078529
 longitude: 15.277897500000002
-postcode: 8600
+postcode: "8600"
 city: Bruck an der Mur
 street: "Bienensteinstraße"
 housenumber: 13

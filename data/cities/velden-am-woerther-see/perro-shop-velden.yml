@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 46.6048198
 longitude: 14.035065900000001
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Fichtenhainstraße"
 housenumber: 2

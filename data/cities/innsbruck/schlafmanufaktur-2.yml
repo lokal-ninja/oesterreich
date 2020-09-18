@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.262658900000005
 longitude: 11.3937872
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maximilianstraße"
 housenumber: 2a

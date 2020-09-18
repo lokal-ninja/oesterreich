@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2346726
 longitude: 11.3755562
-postcode: 6161
+postcode: "6161"
 city: Natters
 street: "Innsbrucker Straße"
 housenumber: 3

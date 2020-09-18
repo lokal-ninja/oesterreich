@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.9308605
 longitude: 16.1758785
-postcode: 2552
+postcode: "2552"
 city: Hirtenberg
 street: "Berndorfer Straße"
 housenumber: 1

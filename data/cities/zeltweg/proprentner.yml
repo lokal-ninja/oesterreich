@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.1899345
 longitude: 14.7530646
-postcode: 8740
+postcode: "8740"
 city: Zeltweg
 street: "Bahnhofstraße"
 housenumber: 42

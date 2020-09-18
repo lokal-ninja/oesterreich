@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 47.0662181
 longitude: 15.4461744
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Grazbachgasse"
 housenumber: 5

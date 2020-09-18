@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.0934152
 longitude: 16.281763100000003
-postcode: 2344
+postcode: "2344"
 city: Maria Enzersdorf
 street: "Helferstorfer Straße"
 housenumber: 45

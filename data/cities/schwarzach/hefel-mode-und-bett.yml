@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.443988000000004
 longitude: 9.7624089
-postcode: 6858
+postcode: "6858"
 city: Schwarzach
 street: "Hofsteigstraße"
 housenumber: 72

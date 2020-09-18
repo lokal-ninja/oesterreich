@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.5681621
 longitude: 14.014112200000001
-postcode: 9232
+postcode: "9232"
 city: Rosegg
 street: "Mittagskogelstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.813364500000006
 longitude: 16.2416485
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Allerheiligenplatz"
 housenumber: 3

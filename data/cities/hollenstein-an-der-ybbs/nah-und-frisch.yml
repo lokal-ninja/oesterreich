@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.8035416
 longitude: 14.772627300000002
-postcode: 3343
+postcode: "3343"
 city: Hollenstein an der Ybbs
 street: ""
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1268201
 longitude: 14.981239100000002
-postcode: 3372
+postcode: "3372"
 city: Blindenmarkt
 street: "Hauptstraße"
 housenumber: 59

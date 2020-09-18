@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.200771800000005
 longitude: 16.352485
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Lindengasse"
 housenumber: 16

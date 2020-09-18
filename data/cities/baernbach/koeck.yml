@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.0719118
 longitude: 15.128273900000002
-postcode: 8572
+postcode: "8572"
 city: Bärnbach
 street: "Hauptstraße"
 housenumber: 12

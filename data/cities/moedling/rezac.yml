@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.0839275
 longitude: 16.2847608
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Babenbergergasse"
 housenumber: 10

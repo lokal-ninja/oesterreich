@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2374699
 longitude: 9.5940156
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Montfortgasse"
 housenumber: 6

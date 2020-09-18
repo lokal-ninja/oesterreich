@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8173675
 longitude: 13.8605736
-postcode: 9564
+postcode: "9564"
 city: Patergassen
 street: "Wiedweg"
 housenumber: 45

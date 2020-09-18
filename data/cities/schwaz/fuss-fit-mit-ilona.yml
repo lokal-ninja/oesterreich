@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.348508300000006
 longitude: 11.712386400000002
-postcode: 6130
+postcode: "6130"
 city: Schwaz
 street: "Falkensteinstraße"
 housenumber: 10

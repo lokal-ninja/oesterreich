@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.7601638
 longitude: 15.953008700000002
-postcode: 2070
+postcode: "2070"
 city: Retz
 street: "Znaimer Straße"
 housenumber: 24

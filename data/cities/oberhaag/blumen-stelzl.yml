@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 46.685142500000005
 longitude: 15.3464816
-postcode: 8455
+postcode: "8455"
 city: Oberhaag
 street: ""
 housenumber: 112a

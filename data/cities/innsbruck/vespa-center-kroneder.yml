@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 47.2712908
 longitude: 11.4048425
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Viaduktbogen"
 housenumber: 58;59;60

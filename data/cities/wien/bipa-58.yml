@@ -1,12 +1,12 @@
-id: 2358822667
+id: 2418179909
 type: node
 shop: Drogerie
-latitude: 48.2178726
-longitude: 16.332527300000002
-postcode: 1170
+latitude: 48.2149591
+longitude: 16.384419100000002
+postcode: "1020"
 city: Wien
-street: "Elterleinplatz"
-housenumber: 2
-phone: "01 4020930"
-opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-18:00"
-website: "https://www.bipa.at"
+street: "Praterstrasse"
+housenumber: 33
+phone: ""
+opening_hours: ""
+website: ""

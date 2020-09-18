@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.549568400000005
 longitude: 12.3494504
-postcode: 6353
+postcode: "6353"
 city: Going am Wilden Kaiser
 street: "Am Kaiser"
 housenumber: 192

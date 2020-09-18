@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.1882007
 longitude: 16.355362200000002
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Bacherplatz"
 housenumber: 12

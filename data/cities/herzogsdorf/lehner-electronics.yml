@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.418568900000004
 longitude: 14.187983000000001
-postcode: 4175
+postcode: "4175"
 city: Herzogsdorf
 street: "Neußerling"
 housenumber: 271

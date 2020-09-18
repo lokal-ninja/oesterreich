@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.425146700000006
 longitude: 15.009502500000002
-postcode: 8793
+postcode: "8793"
 city: Trofaiach
 street: "Hauptstraße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1997401
 longitude: 15.503498200000001
-postcode: 3385
+postcode: "3385"
 city: Markersdorf-Haindorf
 street: "Linzerstraße"
 housenumber: 53

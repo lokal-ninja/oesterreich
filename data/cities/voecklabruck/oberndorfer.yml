@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.0033515
 longitude: 13.656600000000001
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Linzer Straße"
 housenumber: 2-4

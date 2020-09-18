@@ -3,7 +3,7 @@ type: node
 shop: Friseurbedarf
 latitude: 48.198622300000004
 longitude: 16.320037900000003
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Hütteldorfer Straße"
 housenumber: 81B

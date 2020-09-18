@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.274943500000006
 longitude: 16.2349123
-postcode: 7400
+postcode: "7400"
 city: Oberwart
 street: "Steinamangererstraße"
 housenumber: 185

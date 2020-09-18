@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.108501600000004
 longitude: 16.392960300000002
-postcode: 2333
+postcode: "2333"
 city: Leopoldsdorf
 street: "Hennersdorfer Straße"
 housenumber: 16

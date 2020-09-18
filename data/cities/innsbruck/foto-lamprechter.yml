@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.265232600000004
 longitude: 11.396941100000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Wilhelm-Greil-Straße"
 housenumber: 18

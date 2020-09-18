@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.953647100000005
 longitude: 15.907959000000002
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Europastraße"
 housenumber: 19

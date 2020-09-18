@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.2668144
 longitude: 11.3959427
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Erlerstraße"
 housenumber: 4

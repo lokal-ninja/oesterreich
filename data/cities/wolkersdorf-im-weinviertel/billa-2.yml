@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3757007
 longitude: 16.5071283
-postcode: 2120
+postcode: "2120"
 city: Wolkersdorf im Weinviertel
 street: "Wiener Straße"
 housenumber: 52

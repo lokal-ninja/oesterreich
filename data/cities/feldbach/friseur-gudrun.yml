@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.9593051
 longitude: 15.884772900000002
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Kornberggasse"
 housenumber: 6

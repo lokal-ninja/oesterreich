@@ -3,10 +3,10 @@ type: node
 shop: Wäscherei
 latitude: 47.2586293
 longitude: 11.3919349
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Andreas-Hofer-Straße"
 housenumber: 37
-phone: ""
+phone: "+43 676 7828014"
 opening_hours: "Mo-Fr 08:00-22:00; Sa, Su, PH 08:00-20:00"
 website: "https://www.bubblepoint.com/andreas_hofer.php"

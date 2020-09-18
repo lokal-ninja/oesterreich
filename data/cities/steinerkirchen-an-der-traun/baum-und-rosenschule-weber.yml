@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.0787484
 longitude: 13.9763607
-postcode: 4652
+postcode: "4652"
 city: Steinerkirchen an der Traun
 street: "Niederheischbach"
 housenumber: 12

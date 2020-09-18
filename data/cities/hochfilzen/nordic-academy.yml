@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.4709325
 longitude: 12.621362000000001
-postcode: 6395
+postcode: "6395"
 city: Hochfilzen
 street: "Kulturhausstraße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0504717
 longitude: 13.7667806
-postcode: 4690
+postcode: "4690"
 city: Schwanenstadt
 street: "Johann Fuchs-Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.8918915
 longitude: 14.253886900000001
-postcode: 4591
+postcode: "4591"
 city: Molln
 street: "Sägewerkstraße"
 housenumber: 3

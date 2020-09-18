@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.970151300000005
 longitude: 13.104408300000001
-postcode: 5163
+postcode: "5163"
 city: Mattsee
 street: "Marktplatz"
 housenumber: 4

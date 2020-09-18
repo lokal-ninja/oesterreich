@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3820021
 longitude: 13.4181082
-postcode: 5541
+postcode: "5541"
 city: Altenmarkt im Pongau
 street: "Oberndorferstraße"
 housenumber: 2

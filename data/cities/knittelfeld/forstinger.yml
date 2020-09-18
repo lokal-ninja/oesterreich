@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 47.2109078
 longitude: 14.8091401
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Ingeringweg"
 housenumber: 2

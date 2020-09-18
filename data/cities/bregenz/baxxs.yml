@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.5025211
 longitude: 9.7474316
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: ""
 housenumber: 

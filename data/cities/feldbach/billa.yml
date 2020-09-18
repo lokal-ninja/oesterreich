@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.9477326
 longitude: 15.915342700000002
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Mühldorf, Industriepark"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.0929591
 longitude: 15.405451200000002
-postcode: 8051
+postcode: "8051"
 city: Graz
 street: "Wiener Straße"
 housenumber: 249

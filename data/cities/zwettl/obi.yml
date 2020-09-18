@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.6029241
 longitude: 15.182131100000001
-postcode: 3910
+postcode: "3910"
 city: Zwettl
 street: "Kremser Straße"
 housenumber: 56

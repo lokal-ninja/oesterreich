@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 48.0343462
 longitude: 14.2100603
-postcode: 4540
+postcode: "4540"
 city: Bad Hall
 street: "Hauptplatz"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.2102955
 longitude: 16.3724297
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Landskrongasse"
 housenumber: 1-3

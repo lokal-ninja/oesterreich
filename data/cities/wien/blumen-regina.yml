@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.2620245
 longitude: 16.3999978
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Brünner Straße"
 housenumber: 31

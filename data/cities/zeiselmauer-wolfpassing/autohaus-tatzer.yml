@@ -3,9 +3,9 @@ type: way
 shop: Autohaus
 latitude: 48.3244855
 longitude: 16.190983900000003
-postcode: 3424
+postcode: "3424"
 city: Zeiselmauer-Wolfpassing
-street: "Gewerbepark Ost I"
+street: "Gewerbepark Ost 1"
 housenumber: 3
 phone: ""
 opening_hours: ""

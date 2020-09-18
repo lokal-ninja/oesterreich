@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.095291100000004
 longitude: 15.414018500000001
-postcode: 8051
+postcode: "8051"
 city: Graz
 street: "Augasse"
 housenumber: 94

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.782915800000005
 longitude: 17.0276926
-postcode: 7163
+postcode: "7163"
 city: Andau
 street: "Halbturnerstraße"
 housenumber: 34

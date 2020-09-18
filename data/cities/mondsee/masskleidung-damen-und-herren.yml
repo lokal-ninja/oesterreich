@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.8570593
 longitude: 13.349356100000001
-postcode: 5310
+postcode: "5310"
 city: Mondsee
 street: "Schloßhof"
 housenumber: 3 F

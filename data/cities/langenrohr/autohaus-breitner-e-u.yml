@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.321748500000005
 longitude: 16.0246369
-postcode: 3442
+postcode: "3442"
 city: Langenrohr
 street: "Tullner Straße"
 housenumber: 15

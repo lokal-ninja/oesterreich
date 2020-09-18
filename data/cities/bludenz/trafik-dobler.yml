@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 47.151155200000005
 longitude: 9.832048
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Rungelinerstraße"
 housenumber: 31

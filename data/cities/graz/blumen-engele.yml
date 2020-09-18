@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.0472011
 longitude: 15.4213211
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Alte Poststraße"
 housenumber: 340

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8326803
 longitude: 12.779493700000002
-postcode: 9900
+postcode: "9900"
 city: Lienz
 street: "Kärntner Straße"
 housenumber: 63

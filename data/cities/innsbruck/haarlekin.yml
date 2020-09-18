@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.261229900000004
 longitude: 11.3958299
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Heiliggeiststraße"
 housenumber: 2

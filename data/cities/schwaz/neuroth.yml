@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.3446226
 longitude: 11.707881700000002
-postcode: 6130
+postcode: "6130"
 city: Schwaz
 street: "Innsbrucker Straße"
 housenumber: 4

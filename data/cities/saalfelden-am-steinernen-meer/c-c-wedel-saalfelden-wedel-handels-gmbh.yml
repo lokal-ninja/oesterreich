@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.421147500000004
 longitude: 12.8266969
-postcode: 5760
+postcode: "5760"
 city: Saalfelden am Steinernen Meer
 street: "Industriestraße"
 housenumber: 2

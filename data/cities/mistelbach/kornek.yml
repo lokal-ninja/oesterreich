@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 48.566965100000004
 longitude: 16.5701545
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Bahnstraße"
 housenumber: 14

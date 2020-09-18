@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.196317400000005
 longitude: 16.3963389
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Landstraßer Hauptstraße"
 housenumber: 117

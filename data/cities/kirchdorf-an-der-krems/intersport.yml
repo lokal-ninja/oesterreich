@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.8995243
 longitude: 14.1256879
-postcode: 4560
+postcode: "4560"
 city: Kirchdorf an der Krems
 street: "Doktor-Gaisbauer-Straße"
 housenumber: 1

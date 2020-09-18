@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 46.623555200000006
 longitude: 14.309891200000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Paradeisergasse"
 housenumber: 6

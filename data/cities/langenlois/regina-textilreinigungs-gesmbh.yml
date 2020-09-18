@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.4722434
 longitude: 15.6753405
-postcode: 3550
+postcode: "3550"
 city: Langenlois
 street: "Holzplatz"
 housenumber: 2

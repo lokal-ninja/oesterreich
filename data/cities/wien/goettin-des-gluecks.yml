@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2015125
 longitude: 16.3518918
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kirchengasse"
 housenumber: 17

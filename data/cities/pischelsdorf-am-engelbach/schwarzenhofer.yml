@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 48.130135100000004
 longitude: 13.079645200000002
-postcode: 5233
+postcode: "5233"
 city: Pischelsdorf am Engelbach
 street: ""
 housenumber: 33

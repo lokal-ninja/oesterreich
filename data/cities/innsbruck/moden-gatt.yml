@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2672357
 longitude: 11.3931722
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Schlossergasse"
 housenumber: 4

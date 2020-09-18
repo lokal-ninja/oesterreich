@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.2329395
 longitude: 16.3283051
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Gersthofer Straße"
 housenumber: 12

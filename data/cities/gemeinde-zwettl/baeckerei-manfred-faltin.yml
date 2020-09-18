@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.547678600000005
 longitude: 15.0868625
-postcode: 3911
+postcode: "3911"
 city: Gemeinde Zwettl
 street: ""
 housenumber: 66

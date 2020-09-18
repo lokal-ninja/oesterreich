@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.805987
 longitude: 13.4849048
-postcode: 9800
+postcode: "9800"
 city: Spittal an der Drau
 street: "10.-Oktober-Straße"
 housenumber: 66

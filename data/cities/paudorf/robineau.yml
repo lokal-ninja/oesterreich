@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.350135300000005
 longitude: 15.620329400000001
-postcode: 3508
+postcode: "3508"
 city: Paudorf
 street: "Kremserstraße"
 housenumber: 200

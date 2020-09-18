@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.748885200000004
 longitude: 14.5331513
-postcode: 9371
+postcode: "9371"
 city: Brückl
 street: "10. Oktober Straße"
 housenumber: 2

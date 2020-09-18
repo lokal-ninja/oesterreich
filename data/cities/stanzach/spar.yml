@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3831829
 longitude: 10.5612314
-postcode: 6642
+postcode: "6642"
 city: Stanzach
 street: "Dorf"
 housenumber: 18

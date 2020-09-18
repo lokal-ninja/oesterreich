@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1980597
 longitude: 16.3263184
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Preysinggasse"
 housenumber: 26-28

@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 48.1574698
 longitude: 14.0257819
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Schmidtgasse"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.289139500000005
 longitude: 11.46503
-postcode: 6065
+postcode: "6065"
 city: Thaur
 street: "Dörferstraße"
 housenumber: 2a

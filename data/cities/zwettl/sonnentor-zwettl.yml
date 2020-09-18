@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6042191
 longitude: 15.1669116
-postcode: 3910
+postcode: "3910"
 city: Zwettl
 street: "Kuenringerstraße"
 housenumber: 1

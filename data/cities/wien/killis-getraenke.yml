@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1931614
 longitude: 16.317579300000002
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Fenzlgasse"
 housenumber: 9

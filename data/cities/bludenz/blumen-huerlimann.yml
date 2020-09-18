@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.158325600000005
 longitude: 9.8172862
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Sankt-Anna-Straße"
 housenumber: 8

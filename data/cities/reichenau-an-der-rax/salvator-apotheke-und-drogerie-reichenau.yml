@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.6952409
 longitude: 15.845031
-postcode: 2651
+postcode: "2651"
 city: Reichenau an der Rax
 street: "Hauptstraße"
 housenumber: 51

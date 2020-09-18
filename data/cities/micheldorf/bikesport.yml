@@ -1,12 +1,12 @@
 id: 7178678987
 type: node
 shop: Fahrrad
-latitude: 47.8891453
-longitude: 14.128043900000002
-postcode: 4563
+latitude: 47.889053600000004
+longitude: 14.1279661
+postcode: "4563"
 city: Micheldorf
 street: "Kollingerfeld"
 housenumber: 11
-phone: "07582/61314"
+phone: "+43 7582 61314"
 opening_hours: "Mo,Tu,Th,Fr 08:30-12:30, 14:00-18:00; We,Sa 08:30-12:30"
 website: "www.bike-sport.at"

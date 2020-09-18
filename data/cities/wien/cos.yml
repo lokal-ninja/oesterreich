@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2094499
 longitude: 16.371431100000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Bauernmarkt"
 housenumber: 2a

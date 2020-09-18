@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.8235796
 longitude: 13.043667800000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Itzlinger Hauptstraße"
 housenumber: 44

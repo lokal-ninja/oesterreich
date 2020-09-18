@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.747103200000005
 longitude: 14.8232134
-postcode: 9433
+postcode: "9433"
 city: St. Andrä
 street: "Framrach"
 housenumber: 50

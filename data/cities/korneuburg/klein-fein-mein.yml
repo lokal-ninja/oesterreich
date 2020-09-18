@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.3448622
 longitude: 16.3333807
-postcode: 2100
+postcode: "2100"
 city: Korneuburg
 street: "Hauptplatz"
 housenumber: 4

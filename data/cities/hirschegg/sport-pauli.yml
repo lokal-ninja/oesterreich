@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.34231440000001
 longitude: 10.167563000000001
-postcode: 6992
+postcode: "6992"
 city: Hirschegg
 street: "Walserstraße"
 housenumber: 270

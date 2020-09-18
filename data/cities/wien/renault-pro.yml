@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.245673700000005
 longitude: 16.4639612
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Gewerbeparkstraße"
 housenumber: 

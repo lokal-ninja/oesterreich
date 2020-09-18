@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2967194
 longitude: 16.3328049
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Weidlinger Straße"
 housenumber: 12

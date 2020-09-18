@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.217609700000004
 longitude: 15.629871900000001
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Franz-Pichler-Straße"
 housenumber: 3

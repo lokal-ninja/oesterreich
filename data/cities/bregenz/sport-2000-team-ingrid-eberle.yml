@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.5032444
 longitude: 9.745086
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Kaspar-Hagen-Straße"
 housenumber: 2a

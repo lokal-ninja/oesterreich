@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 46.7006608
 longitude: 15.963450100000001
-postcode: 8490
+postcode: "8490"
 city: Bad Radkersburg
 street: ""
 housenumber: 20

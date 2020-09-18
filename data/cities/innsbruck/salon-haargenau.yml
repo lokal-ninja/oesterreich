@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2312938
 longitude: 11.4109587
-postcode: 6080
+postcode: "6080"
 city: Innsbruck
 street: "Lanser Straße"
 housenumber: 1

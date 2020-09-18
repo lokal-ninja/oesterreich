@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.203192200000004
 longitude: 16.403893500000002
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Böcklinstraße"
 housenumber: 104

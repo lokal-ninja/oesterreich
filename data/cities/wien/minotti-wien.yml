@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.2035738
 longitude: 16.376287
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Parkring"
 housenumber: 20

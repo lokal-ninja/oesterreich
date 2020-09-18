@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.2161896
 longitude: 14.8342171
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Bahnstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 46.8168209
 longitude: 15.2445941
-postcode: 8530
+postcode: "8530"
 city: Deutschlandsberg
 street: "Wirtschaftspark"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1325577
 longitude: 14.8428909
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: ""
 housenumber: 111

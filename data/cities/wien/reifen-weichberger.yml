@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.258538200000004
 longitude: 16.468922900000003
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Schillingstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.067349300000004
 longitude: 15.4321227
-postcode: 
+postcode: ""
 city: Graz
 street: "Griesgasse"
 housenumber: 48

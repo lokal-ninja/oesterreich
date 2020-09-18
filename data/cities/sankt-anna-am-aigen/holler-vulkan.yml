@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 46.8118363
 longitude: 15.963105400000002
-postcode: 8354
+postcode: "8354"
 city: Sankt Anna am Aigen
 street: ""
 housenumber: 3

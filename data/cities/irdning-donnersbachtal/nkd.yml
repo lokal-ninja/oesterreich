@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.506455
 longitude: 14.097699100000002
-postcode: 8952
+postcode: "8952"
 city: Irdning-Donnersbachtal
 street: "Falkenburg Trautenfelserstraße"
 housenumber: 233

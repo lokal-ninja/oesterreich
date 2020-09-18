@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 48.249493300000005
 longitude: 14.6354796
-postcode: 4320
+postcode: "4320"
 city: Perg
 street: "Herrenstraße"
 housenumber: 16
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:45-12:00, 14:00-18:00; Sa 08:45-12:00"
 website: ""

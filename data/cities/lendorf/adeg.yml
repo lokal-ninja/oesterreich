@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8317277
 longitude: 13.4202442
-postcode: 9811
+postcode: "9811"
 city: Lendorf
 street: "Lendorf"
 housenumber: 259

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.005633100000004
 longitude: 16.2885485
-postcode: 2514
+postcode: "2514"
 city: Traiskirchen
 street: "Georg Skrianzplatz"
 housenumber: 1-3

@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 48.200618000000006
 longitude: 16.3489794
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Neubaugasse"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.041309600000005
 longitude: 14.4243719
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Pachergasse"
 housenumber: 9

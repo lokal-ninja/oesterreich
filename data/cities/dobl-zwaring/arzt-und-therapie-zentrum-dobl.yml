@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.946322800000004
 longitude: 15.375617
-postcode: 8143
+postcode: "8143"
 city: Dobl-Zwaring
 street: "Unterberg"
 housenumber: 42

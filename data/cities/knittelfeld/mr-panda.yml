@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.21591
 longitude: 14.8325112
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Bahnstraße"
 housenumber: 23

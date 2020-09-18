@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.267149100000005
 longitude: 11.3954769
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Museumstraße"
 housenumber: 6

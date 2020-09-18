@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 47.291603
 longitude: 11.5924729
-postcode: 6112
+postcode: "6112"
 city: Wattens
 street: "Franz-Strickner-Straße"
 housenumber: 1

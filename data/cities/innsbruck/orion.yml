@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 47.263970300000004
 longitude: 11.4277379
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Grabenweg"
 housenumber: 2

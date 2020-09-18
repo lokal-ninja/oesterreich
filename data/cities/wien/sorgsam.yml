@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.212279800000005
 longitude: 16.345478200000002
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Skodagasse"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.3081727
 longitude: 15.640909400000002
-postcode: 3125
+postcode: "3125"
 city: Statzendorf
 street: "Hauptstraße"
 housenumber: 43

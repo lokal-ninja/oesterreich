@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 47.241263000000004
 longitude: 10.739021800000002
-postcode: 6460
+postcode: "6460"
 city: Imst
 street: "Kramergasse"
 housenumber: 12

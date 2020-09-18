@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.3626656
 longitude: 10.8316447
-postcode: 6465
+postcode: "6465"
 city: Nassereith
 street: "Fernpaß"
 housenumber: 487

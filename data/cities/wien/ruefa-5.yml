@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.2132748
 longitude: 16.3634862
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Schottengasse"
 housenumber: 4

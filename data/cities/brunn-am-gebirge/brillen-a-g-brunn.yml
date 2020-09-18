@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.106490900000004
 longitude: 16.2845191
-postcode: 2345
+postcode: "2345"
 city: Brunn am Gebirge
 street: "Leopold-Gattringer-Straße"
 housenumber: 18

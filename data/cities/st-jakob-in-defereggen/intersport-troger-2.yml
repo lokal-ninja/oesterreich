@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 46.9117596
 longitude: 12.349869900000002
-postcode: 9963
+postcode: "9963"
 city: St. Jakob in Defereggen
 street: "Ausserrotte"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8984273
 longitude: 16.911675300000002
-postcode: 7122
+postcode: "7122"
 city: Gols
 street: "Bindergasse"
 housenumber: 10

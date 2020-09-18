@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2276642
 longitude: 16.3402421
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Gentzgasse"
 housenumber: 62

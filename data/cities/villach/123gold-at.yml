@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 46.612668500000005
 longitude: 13.8443275
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Widmanngasse"
 housenumber: 44

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.789662
 longitude: 15.3961465
-postcode: 3812
+postcode: "3812"
 city: Gross Siegharts
 street: "Waidhofner Strasse"
 housenumber: 43

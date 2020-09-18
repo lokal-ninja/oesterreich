@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.215386200000005
 longitude: 14.828379300000002
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Frauengasse"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.2828287
 longitude: 11.507912500000002
-postcode: 6060
+postcode: "6060"
 city: Hall in Tirol
 street: "Wallpachgasse"
 housenumber: 13

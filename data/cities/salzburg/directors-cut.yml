@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.7974843
 longitude: 13.0334161
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Neutorstraße"
 housenumber: 21 A

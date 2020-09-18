@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2572714
 longitude: 16.9127833
-postcode: 2293
+postcode: "2293"
 city: Marchegg
 street: "Bahnstraße"
 housenumber: 65

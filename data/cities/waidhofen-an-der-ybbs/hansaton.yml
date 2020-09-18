@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.9619118
 longitude: 14.7742041
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Oberer Stadtplatz"
 housenumber: 3

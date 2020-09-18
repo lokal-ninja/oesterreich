@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.071622600000005
 longitude: 15.4373862
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Sackstraße"
 housenumber: 3

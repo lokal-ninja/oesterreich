@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7197283
 longitude: 15.921401300000001
-postcode: 2073
+postcode: "2073"
 city: Zellerndorf
 street: ""
 housenumber: 55

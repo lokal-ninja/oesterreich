@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.4108597
 longitude: 9.751022
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Bergstraße"
 housenumber: 9

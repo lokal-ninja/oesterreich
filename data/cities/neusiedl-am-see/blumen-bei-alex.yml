@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.948947800000006
 longitude: 16.8420999
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Hauptplatz"
 housenumber: 22-24

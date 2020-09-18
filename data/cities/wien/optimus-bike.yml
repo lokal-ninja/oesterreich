@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2069623
 longitude: 16.351311900000002
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Piaristengasse"
 housenumber: 14

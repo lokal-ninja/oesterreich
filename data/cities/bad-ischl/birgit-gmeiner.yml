@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.712962600000004
 longitude: 13.621135700000002
-postcode: 
+postcode: ""
 city: Bad Ischl
 street: "Kreuzplatz"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.420912
 longitude: 13.381299400000001
-postcode: 5531
+postcode: "5531"
 city: Gasthofberg
 street: "Gewerbegebiet Gasthof Nord"
 housenumber: 23

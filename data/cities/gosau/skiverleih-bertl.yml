@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.568889000000006
 longitude: 13.521422300000001
-postcode: 4824
+postcode: "4824"
 city: Gosau
 street: "Gosauseestraße"
 housenumber: 36

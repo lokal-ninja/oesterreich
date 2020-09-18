@@ -3,10 +3,10 @@ type: node
 shop: Reisebüro
 latitude: 48.103805
 longitude: 13.149805
-postcode: 5230
+postcode: "5230"
 city: Mattighofen
 street: "Stadtplatz"
 housenumber: 30
 phone: "+43 7742 6797"
 opening_hours: ""
-website: "www.schmetterlingreisebuero.at"
+website: "http://www.schmetterlingreisebuero.at"

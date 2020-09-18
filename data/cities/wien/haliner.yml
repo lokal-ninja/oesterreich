@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2277646
 longitude: 16.3378592
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Währinger Straße"
 housenumber: 154

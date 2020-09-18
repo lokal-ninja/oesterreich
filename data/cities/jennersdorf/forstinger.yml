@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.9368087
 longitude: 16.128692700000002
-postcode: 8380
+postcode: "8380"
 city: Jennersdorf
 street: "Hauptstraße"
 housenumber: 65

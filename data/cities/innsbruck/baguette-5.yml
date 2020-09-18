@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2822734
 longitude: 11.424404000000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Arzler Straße"
 housenumber: 43a

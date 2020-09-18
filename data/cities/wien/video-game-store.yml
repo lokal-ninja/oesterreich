@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 48.1801077
 longitude: 16.3307627
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Reschgasse"
 housenumber: 23

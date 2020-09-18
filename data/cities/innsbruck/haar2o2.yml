@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.258468
 longitude: 11.3961251
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Franz-Fischer-Straße"
 housenumber: 6

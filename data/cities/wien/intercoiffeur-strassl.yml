@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2185022
 longitude: 16.3313804
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Elterleinplatz"
 housenumber: 12/Top 1

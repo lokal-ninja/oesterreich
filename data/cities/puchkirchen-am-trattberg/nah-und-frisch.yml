@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0517753
 longitude: 13.5709099
-postcode: 4849
+postcode: "4849"
 city: Puchkirchen am Trattberg
 street: "Mairigen"
 housenumber: 22

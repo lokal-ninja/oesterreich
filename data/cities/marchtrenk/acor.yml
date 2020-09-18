@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.1868898
 longitude: 14.0941448
-postcode: 4614
+postcode: "4614"
 city: Marchtrenk
 street: "Zedernstraße"
 housenumber: 1

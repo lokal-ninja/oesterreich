@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.421445600000006
 longitude: 12.8333939
-postcode: 5760
+postcode: "5760"
 city: Saalfelden am Steinernen Meer
 street: "Otto-Gruber-Straße"
 housenumber: 3

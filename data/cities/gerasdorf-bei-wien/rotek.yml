@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.3331273
 longitude: 16.4532095
-postcode: 2201
+postcode: "2201"
 city: Gerasdorf bei Wien
 street: "Handelsstraße"
 housenumber: 4

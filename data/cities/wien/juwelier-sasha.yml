@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.1989492
 longitude: 16.315683
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Hütteldorfer Straße"
 housenumber: 103

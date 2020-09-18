@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 48.2091124
 longitude: 16.3743504
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Wollzeile"
 housenumber: 4

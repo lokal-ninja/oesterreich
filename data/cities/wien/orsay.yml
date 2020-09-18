@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1989188
 longitude: 16.3511548
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Mariahilfer Straße"
 housenumber: 62

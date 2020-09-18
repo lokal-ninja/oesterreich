@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.464254200000006
 longitude: 16.272058400000002
-postcode: 2004
+postcode: "2004"
 city: Streitdorf
 street: "Schmiedgasse"
 housenumber: 13

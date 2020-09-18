@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2766509
 longitude: 16.40773
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Frauenstiftgasse"
 housenumber: 12A

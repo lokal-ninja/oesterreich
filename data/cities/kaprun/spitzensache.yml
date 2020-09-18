@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.2718532
 longitude: 12.758780400000001
-postcode: 5710
+postcode: "5710"
 city: Kaprun
 street: "Wilhelm-Fazokas-Straße"
 housenumber: 17b

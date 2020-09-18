@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.4733663
 longitude: 9.7275139
-postcode: 6923
+postcode: "6923"
 city: Lauterach
 street: "Lerchenauerstraße"
 housenumber: 9

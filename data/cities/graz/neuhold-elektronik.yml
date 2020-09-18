@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.066964000000006
 longitude: 15.432207700000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Griesplatz"
 housenumber: 1

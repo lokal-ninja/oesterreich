@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2201986
 longitude: 16.4059882
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Hillerstraße"
 housenumber: 5

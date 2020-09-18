@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 47.025977600000004
 longitude: 15.431663100000002
-postcode: 8055
+postcode: "8055"
 city: Graz
 street: "Mitterstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.41068670000001
 longitude: 15.6053616
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Ringstraße"
 housenumber: 10-12

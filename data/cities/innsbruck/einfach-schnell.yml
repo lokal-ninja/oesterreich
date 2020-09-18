@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.266094700000004
 longitude: 11.382137700000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Höttinger Au"
 housenumber: 40a

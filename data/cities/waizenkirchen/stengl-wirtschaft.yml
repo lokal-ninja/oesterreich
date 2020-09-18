@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.3294608
 longitude: 13.8562519
-postcode: 4730
+postcode: "4730"
 city: Waizenkirchen
 street: "Marktplatz"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.5701775
 longitude: 14.216978500000002
-postcode: 8940
+postcode: "8940"
 city: Liezen
 street: "Ausseer Straße"
 housenumber: 99

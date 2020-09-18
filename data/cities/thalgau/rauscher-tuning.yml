@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.8476452
 longitude: 13.223911500000002
-postcode: 5303
+postcode: "5303"
 city: Thalgau
 street: "Salzburger Straße"
 housenumber: 82

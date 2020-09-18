@@ -1,12 +1,12 @@
-id: 2402321305
+id: 2026036064
 type: node
 shop: Supermarkt
-latitude: 48.2503547
-longitude: 16.443010400000002
-postcode: 1220
+latitude: 48.1330996
+longitude: 16.2597202
+postcode: "1230"
 city: Wien
-street: "Donaufelder Straße"
-housenumber: 263
+street: "Ketzergasse"
+housenumber: 455
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: ""
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off"
+website: "https://www.spar.at/de_AT/index/standorte/12/wien_23_1076.html"

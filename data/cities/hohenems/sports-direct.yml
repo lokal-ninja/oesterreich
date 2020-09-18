@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.3738169
 longitude: 9.6764589
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Lustenauer Straße"
 housenumber: 125a

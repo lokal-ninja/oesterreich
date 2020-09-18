@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.858386700000004
 longitude: 15.106819400000001
-postcode: 3860
+postcode: "3860"
 city: Heidenreichstein
 street: "Pertholzer Straße"
 housenumber: 18

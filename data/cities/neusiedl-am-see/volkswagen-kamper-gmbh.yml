@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9718248
 longitude: 16.8538268
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Josef-Kamper-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.1904972
 longitude: 15.4095107
-postcode: 3382
+postcode: "3382"
 city: Loosdorf
 street: "Gewerbestraße"
 housenumber: 12

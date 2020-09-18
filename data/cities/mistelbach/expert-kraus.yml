@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.5672627
 longitude: 16.571484700000003
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Franz Josef-Straße"
 housenumber: 2

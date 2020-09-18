@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.177515500000005
 longitude: 16.3574352
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Triester Straße"
 housenumber: 7

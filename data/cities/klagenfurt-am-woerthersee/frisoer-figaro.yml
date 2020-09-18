@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.623083900000005
 longitude: 14.300823000000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Villacher Straße"
 housenumber: 21

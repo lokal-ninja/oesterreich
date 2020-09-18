@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1502105
 longitude: 15.546785600000002
-postcode: 3200
+postcode: "3200"
 city: Ober-Grafendorf
 street: "Hauptstraße"
 housenumber: 7

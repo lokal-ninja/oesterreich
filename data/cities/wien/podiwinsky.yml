@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1793057
 longitude: 16.3735317
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Laxenburger Straße"
 housenumber: 20

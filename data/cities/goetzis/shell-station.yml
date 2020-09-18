@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.331670800000005
 longitude: 9.6370246
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Doktor-Alfons-Heinzle-Straße"
 housenumber: 44

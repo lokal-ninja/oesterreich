@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 47.0713378
 longitude: 15.4372895
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Murgasse"
 housenumber: 1

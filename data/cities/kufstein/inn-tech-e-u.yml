@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 47.5877266
 longitude: 12.1763057
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Anton Karg-Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.2650628
 longitude: 11.3993132
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Brixner Straße"
 housenumber: 1

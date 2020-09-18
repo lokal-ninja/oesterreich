@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.227275600000006
 longitude: 16.3424219
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Gymnasiumstraße"
 housenumber: 2

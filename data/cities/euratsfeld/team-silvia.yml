@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.082282400000004
 longitude: 14.931638900000001
-postcode: 3324
+postcode: "3324"
 city: Euratsfeld
 street: "Marktstraße"
 housenumber: 5

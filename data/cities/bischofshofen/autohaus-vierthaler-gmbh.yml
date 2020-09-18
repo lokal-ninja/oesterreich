@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.42393250000001
 longitude: 13.2141488
-postcode: 5500
+postcode: "5500"
 city: Bischofshofen
 street: "Salzburger Straße"
 housenumber: 21

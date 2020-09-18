@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.214007200000005
 longitude: 13.485759700000001
-postcode: 4910
+postcode: "4910"
 city: Ried im Innkreis
 street: "Goethestraße"
 housenumber: 3

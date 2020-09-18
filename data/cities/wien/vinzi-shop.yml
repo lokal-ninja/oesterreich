@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2149062
 longitude: 16.3384295
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Veronikagasse"
 housenumber: 25

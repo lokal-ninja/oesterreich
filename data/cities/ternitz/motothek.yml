@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.727208600000004
 longitude: 16.0576267
-postcode: 2620
+postcode: "2620"
 city: Ternitz
 street: "Rechengasse"
 housenumber: 25

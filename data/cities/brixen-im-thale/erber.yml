@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 47.449333200000005
 longitude: 12.2563179
-postcode: 6364
+postcode: "6364"
 city: Brixen im Thale
 street: "Dorfstraße"
 housenumber: 57

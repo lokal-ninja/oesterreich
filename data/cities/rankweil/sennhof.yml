@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.281526500000005
 longitude: 9.6154708
-postcode: 6830
+postcode: "6830"
 city: Rankweil
 street: "Sennhofweg"
 housenumber: 1

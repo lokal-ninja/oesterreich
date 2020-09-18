@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2153514
 longitude: 16.348615600000002
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Alser Straße"
 housenumber: 20

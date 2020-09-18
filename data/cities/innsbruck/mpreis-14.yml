@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.271849100000004
 longitude: 11.4160611
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Andechsstraße"
 housenumber: 3

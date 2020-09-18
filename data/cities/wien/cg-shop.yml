@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.146860600000004
 longitude: 16.3579022
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Draschestraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.1029616
 longitude: 13.1501829
-postcode: 5230
+postcode: "5230"
 city: Mattighofen
 street: "Stadtplatz"
 housenumber: 52

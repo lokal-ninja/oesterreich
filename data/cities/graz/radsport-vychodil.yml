@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.0696923
 longitude: 15.427788300000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Elisabethinergasse"
 housenumber: 15

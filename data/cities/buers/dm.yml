@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.1511052
 longitude: 9.811536700000001
-postcode: 6706
+postcode: "6706"
 city: Bürs
 street: "Almteilweg"
 housenumber: 1

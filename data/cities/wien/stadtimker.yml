@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.188706700000004
 longitude: 16.352435200000002
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Christophgasse"
 housenumber: 4

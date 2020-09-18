@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2310699
 longitude: 13.9448053
-postcode: 4702
+postcode: "4702"
 city: Wallern an der Trattnach
 street: "Schallerbacher Straße"
 housenumber: 7

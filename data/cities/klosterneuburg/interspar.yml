@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3156084
 longitude: 16.3132717
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Albrechtstraße"
 housenumber: 115

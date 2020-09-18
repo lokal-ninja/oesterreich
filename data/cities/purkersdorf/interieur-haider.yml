@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.2070366
 longitude: 16.1783144
-postcode: 3002
+postcode: "3002"
 city: Purkersdorf
 street: "Wiener Straße"
 housenumber: 10

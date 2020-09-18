@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.841738500000005
 longitude: 13.2541326
-postcode: 5303
+postcode: "5303"
 city: Thalgau
 street: "Marktplatz"
 housenumber: 10

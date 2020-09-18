@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.159553800000005
 longitude: 14.0237765
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Kaiser-Josef-Platz"
 housenumber: 13

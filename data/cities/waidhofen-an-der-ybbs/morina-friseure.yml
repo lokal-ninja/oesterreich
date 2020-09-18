@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.961153800000005
 longitude: 14.773509
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Unterer Stadtplatz"
 housenumber: 5

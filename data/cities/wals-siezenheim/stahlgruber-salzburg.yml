@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.7915938
 longitude: 12.9913357
-postcode: 5073
+postcode: "5073"
 city: Wals-Siezenheim
 street: "Am Römerstein"
 housenumber: 17

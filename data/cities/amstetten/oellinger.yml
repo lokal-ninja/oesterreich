@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.119597000000006
 longitude: 14.858581000000001
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Waidhofner Straße"
 housenumber: 103

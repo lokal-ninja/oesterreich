@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.095190900000006
 longitude: 16.2989742
-postcode: 2344
+postcode: "2344"
 city: Maria Enzersdorf
 street: "Grenzgasse"
 housenumber: 111 9/6/6

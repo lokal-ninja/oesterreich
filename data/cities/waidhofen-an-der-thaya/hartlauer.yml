@@ -3,10 +3,10 @@ type: node
 shop: Elektronik
 latitude: 48.8153833
 longitude: 15.2874505
-postcode: 3830
+postcode: "3830"
 city: Waidhofen an der Thaya
 street: "Hauptplatz"
-housenumber: 
+housenumber: 28
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 08:30-12:00, 13:30-18:00; Sa 09:00-12:00"
+website: "https://www.hartlauer.at"

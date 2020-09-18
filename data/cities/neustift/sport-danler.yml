@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 47.1103396
 longitude: 11.3061472
-postcode: 6167
+postcode: "6167"
 city: Neustift
 street: "Dorf"
 housenumber: 18

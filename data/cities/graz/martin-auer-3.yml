@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.068635
 longitude: 15.4475615
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Kaiser-Josef-Platz"
 housenumber: 4

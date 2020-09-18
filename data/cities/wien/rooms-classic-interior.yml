@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.2029543
 longitude: 16.3569088
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Siebensterngasse"
 housenumber: 2

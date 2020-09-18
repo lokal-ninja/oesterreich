@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.271743400000005
 longitude: 15.6957885
-postcode: 8184
+postcode: "8184"
 city: Anger
 street: "Pettauer Straße"
 housenumber: 8

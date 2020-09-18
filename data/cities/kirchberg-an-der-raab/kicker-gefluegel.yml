@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.0081581
 longitude: 15.749131700000001
-postcode: 8322
+postcode: "8322"
 city: Kirchberg an der Raab
 street: ""
 housenumber: 56

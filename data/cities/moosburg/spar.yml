@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.6590624
 longitude: 14.1790131
-postcode: 9062
+postcode: "9062"
 city: Moosburg
 street: "Wachenbuchener Straße"
 housenumber: 2

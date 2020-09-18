@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.86314
 longitude: 14.4702853
-postcode: 9330
+postcode: "9330"
 city: Althofen
 street: "Eisenstraße"
 housenumber: 46

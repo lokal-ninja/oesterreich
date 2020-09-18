@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 48.229467
 longitude: 13.5003445
-postcode: 4911
+postcode: "4911"
 city: Tumeltsham
 street: "Oberleiten"
 housenumber: 1

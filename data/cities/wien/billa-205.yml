@@ -1,12 +1,12 @@
-id: 186642990
+id: 180869489
 type: way
 shop: Supermarkt
-latitude: 48.287057100000006
-longitude: 16.430544700000002
-postcode: 1210
+latitude: 48.137201700000006
+longitude: 16.325011800000002
+postcode: "1230"
 city: Wien
-street: "Gerasdorfer Straße"
-housenumber: 133
+street: "Triester Straße"
+housenumber: 248
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+website: "https://www.billa.at/"

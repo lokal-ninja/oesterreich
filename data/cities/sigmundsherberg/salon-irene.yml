@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.686036200000004
 longitude: 15.7473746
-postcode: 3751
+postcode: "3751"
 city: Sigmundsherberg
 street: "Hauptstraße"
 housenumber: 24

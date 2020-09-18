@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.423544400000004
 longitude: 11.751687100000002
-postcode: 6212
+postcode: "6212"
 city: Eben am Achensee
 street: "Achenseestraße"
 housenumber: 3

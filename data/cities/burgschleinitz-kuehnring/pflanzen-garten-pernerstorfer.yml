@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.6161102
 longitude: 15.762336500000002
-postcode: 3713
+postcode: "3713"
 city: Burgschleinitz-Kühnring
 street: ""
 housenumber: 69

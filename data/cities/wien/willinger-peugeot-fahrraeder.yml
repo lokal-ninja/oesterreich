@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.191909700000004
 longitude: 16.3517412
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Mollardgasse"
 housenumber: 20

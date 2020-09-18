@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.1544541
 longitude: 13.565475900000001
-postcode: 4906
+postcode: "4906"
 city: Eberschwang
 street: ""
 housenumber: 95

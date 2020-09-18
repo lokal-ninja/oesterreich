@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3632634
 longitude: 9.6771884
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Rudolf-von-Ems-Straße"
 housenumber: 5a

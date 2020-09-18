@@ -1,12 +1,12 @@
-id: 110380652
-type: way
+id: 277289046
+type: node
 shop: Drogerie
-latitude: 48.310431400000006
-longitude: 14.3043539
-postcode: 4020
+latitude: 48.3129749
+longitude: 14.2817229
+postcode: "4040"
 city: Linz
-street: "Holzstraße"
-housenumber: 17
+street: "Hauptstraße"
+housenumber: 51-53
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:30-18:30, Sa 08:00-17:00"
 website: ""

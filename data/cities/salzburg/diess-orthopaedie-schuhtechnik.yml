@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.777027000000004
 longitude: 13.043032400000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Berchtesgadner Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.942998800000005
 longitude: 14.3576922
-postcode: 4452
+postcode: "4452"
 city: Ternberg
 street: "Eisenstraße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2713423
 longitude: 11.386041500000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Schneeburggasse"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.638282100000005
 longitude: 14.293953700000001
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Feldkirchner Straße"
 housenumber: 111

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.8197994
 longitude: 13.2151812
-postcode: 5322
+postcode: "5322"
 city: Hof bei Salzburg
 street: "Kirchengasse"
 housenumber: 4

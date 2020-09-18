@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5293672
 longitude: 12.4272621
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Mauthfeld"
 housenumber: 4

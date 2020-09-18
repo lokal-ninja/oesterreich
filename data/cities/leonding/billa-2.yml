@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.275835900000004
 longitude: 14.252001700000001
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Mayrhansenstraße"
 housenumber: 28

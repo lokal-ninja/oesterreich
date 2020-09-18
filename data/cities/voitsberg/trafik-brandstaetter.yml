@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.0452554
 longitude: 15.151588400000001
-postcode: 8570
+postcode: "8570"
 city: Voitsberg
 street: "Arnsteinstraße"
 housenumber: 3

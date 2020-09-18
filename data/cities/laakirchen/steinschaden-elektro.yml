@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.985242500000005
 longitude: 13.8137924
-postcode: 4663
+postcode: "4663"
 city: Laakirchen
 street: "Hauptstraße"
 housenumber: 35

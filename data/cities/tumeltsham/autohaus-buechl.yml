@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.219965
 longitude: 13.497896
-postcode: 4911
+postcode: "4911"
 city: Tumeltsham
 street: "Hannesgrub Nord"
 housenumber: 20

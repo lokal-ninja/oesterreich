@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.8277657
 longitude: 12.8159627
-postcode: 9990
+postcode: "9990"
 city: Nussdorf-Debant
 street: "Hermann Gmeiner Straße"
 housenumber: 19

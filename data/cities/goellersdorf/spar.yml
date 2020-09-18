@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4941365
 longitude: 16.118425600000002
-postcode: 2013
+postcode: "2013"
 city: Göllersdorf
 street: "Hauptplatz"
 housenumber: 8

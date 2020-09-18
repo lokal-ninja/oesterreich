@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.236904200000005
 longitude: 16.3540113
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Döblinger Hauptstraße"
 housenumber: 48

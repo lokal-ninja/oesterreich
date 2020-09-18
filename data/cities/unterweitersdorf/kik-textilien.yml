@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3574119
 longitude: 14.475399900000001
-postcode: 4210
+postcode: "4210"
 city: Unterweitersdorf
 street: "Betriebsstraße"
 housenumber: 9

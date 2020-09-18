@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.225419800000004
 longitude: 16.361565600000002
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Julius-Tandler-Platz"
 housenumber: 8

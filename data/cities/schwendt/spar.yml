@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.6323075
 longitude: 12.391271300000001
-postcode: 6385
+postcode: "6385"
 city: Schwendt
 street: "Dorfstraße"
 housenumber: 18

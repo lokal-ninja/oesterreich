@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 46.7132031
 longitude: 15.768018600000001
-postcode: 8480
+postcode: "8480"
 city: Mureck
 street: "Eichfelder Straße"
 housenumber: 19

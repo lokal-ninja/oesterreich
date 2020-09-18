@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.460566
 longitude: 13.990143300000002
-postcode: 8960
+postcode: "8960"
 city: Öblarn
 street: ""
 housenumber: 66

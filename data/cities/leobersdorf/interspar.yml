@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9296182
 longitude: 16.204212300000002
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "Europastraße"
 housenumber: 5

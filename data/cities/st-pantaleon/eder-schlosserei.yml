@@ -3,7 +3,7 @@ type: way
 shop: Schlüsseldienst
 latitude: 48.0268388
 longitude: 12.867414700000001
-postcode: 5120
+postcode: "5120"
 city: St. Pantaleon
 street: ""
 housenumber: 10

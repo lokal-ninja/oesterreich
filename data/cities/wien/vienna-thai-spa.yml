@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.1911835
 longitude: 16.386866400000002
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Kölblgasse"
 housenumber: 11/1

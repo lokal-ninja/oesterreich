@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.355065100000004
 longitude: 15.699515000000002
-postcode: 8190
+postcode: "8190"
 city: Birkfeld
 street: "Edelsee-Straße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.213886200000005
 longitude: 16.3672583
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Börseplatz"
 housenumber: 7

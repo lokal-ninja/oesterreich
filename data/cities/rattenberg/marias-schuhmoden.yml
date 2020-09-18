@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.439482100000006
 longitude: 11.8931892
-postcode: 6240
+postcode: "6240"
 city: Rattenberg
 street: "Südtirolerstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.509362700000004
 longitude: 12.112953300000001
-postcode: 6323
+postcode: "6323"
 city: Bad Häring
 street: "Schönauer Straße"
 housenumber: 16

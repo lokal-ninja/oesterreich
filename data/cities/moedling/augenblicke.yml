@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.0842485
 longitude: 16.2830711
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Kaiserin Elisabethstraße"
 housenumber: 13

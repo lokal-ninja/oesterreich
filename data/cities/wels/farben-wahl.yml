@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 48.157169
 longitude: 14.016488
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Dragonerstraße"
 housenumber: 15

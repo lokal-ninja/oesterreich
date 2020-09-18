@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.5258702
 longitude: 12.423368100000001
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Salzburgerstraße"
 housenumber: 17a

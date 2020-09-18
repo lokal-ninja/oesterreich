@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.829910100000006
 longitude: 16.2480719
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Stadionstraße"
 housenumber: 42

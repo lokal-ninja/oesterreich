@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 47.2743436
 longitude: 9.6471414
-postcode: 6800
+postcode: "6800"
 city: Rankweil
 street: "St.-Fridolins-Gasse"
 housenumber: 9

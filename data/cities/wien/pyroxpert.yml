@@ -3,7 +3,7 @@ type: node
 shop: Pyrotechnik
 latitude: 48.2179402
 longitude: 16.3417476
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Währinger Gürtel"
 housenumber: 7

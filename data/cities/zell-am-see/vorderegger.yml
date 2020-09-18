@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.3228829
 longitude: 12.796866900000001
-postcode: 5700
+postcode: "5700"
 city: Zell am See
 street: "Schloßplatz"
 housenumber: 2

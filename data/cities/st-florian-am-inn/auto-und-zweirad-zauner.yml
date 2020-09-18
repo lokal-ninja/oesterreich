@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.430021100000005
 longitude: 13.4456106
-postcode: 4782
+postcode: "4782"
 city: St. Florian am Inn
 street: ""
 housenumber: 29

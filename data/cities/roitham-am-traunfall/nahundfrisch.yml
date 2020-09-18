@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0249341
 longitude: 13.823344400000002
-postcode: 4661
+postcode: "4661"
 city: Roitham am Traunfall
 street: "Pfarrhofstraße"
 housenumber: 2

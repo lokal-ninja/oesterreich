@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 47.3745106
 longitude: 9.7066035
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Spitzeneckstraße"
 housenumber: 36

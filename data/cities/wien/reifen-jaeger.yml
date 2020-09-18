@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.2063008
 longitude: 16.207264600000002
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Hauptstraße"
 housenumber: 111a

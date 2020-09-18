@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.324939
 longitude: 9.628479200000001
-postcode: 6842
+postcode: "6842"
 city: Koblach
 street: "Herrschaftswiesen"
 housenumber: 14

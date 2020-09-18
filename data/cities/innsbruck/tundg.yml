@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.262240600000005
 longitude: 11.4089544
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Anton-Eder-Straße"
 housenumber: 3-7

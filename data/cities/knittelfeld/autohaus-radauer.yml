@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.209716300000004
 longitude: 14.8149016
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Kameokastraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 47.0531969
 longitude: 15.415073900000001
-postcode: 8053
+postcode: "8053"
 city: Graz
 street: "Harter Straße"
 housenumber: 5

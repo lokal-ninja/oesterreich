@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.203600300000005
 longitude: 15.6270517
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Fuhrmannsgasse"
 housenumber: 15

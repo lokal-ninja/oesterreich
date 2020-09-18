@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.1730219
 longitude: 16.3772589
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Reumannplatz"
 housenumber: 9

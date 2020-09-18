@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.930593800000004
 longitude: 15.8906497
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: ""
 housenumber: 44

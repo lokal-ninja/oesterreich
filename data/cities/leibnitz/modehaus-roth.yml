@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.781587200000004
 longitude: 15.5393068
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Hauptplatz"
 housenumber: 17-19

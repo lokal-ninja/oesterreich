@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.3522775
 longitude: 14.4156399
-postcode: 4210
+postcode: "4210"
 city: Gallneukirchen
 street: "Hauptstraße"
 housenumber: 10

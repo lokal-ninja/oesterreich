@@ -3,10 +3,10 @@ type: node
 shop: Möbel
 latitude: 47.372339000000004
 longitude: 9.679670400000001
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Schweizer Straße"
 housenumber: 77
-phone: "Tel. +43 5576 75866"
+phone: "+43 5576 75866"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
 website: "https://www.casa-moebel.at/"

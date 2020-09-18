@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.215929700000004
 longitude: 16.534205800000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Gartenheimstraße"
 housenumber: 47

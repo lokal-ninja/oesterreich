@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5380863
 longitude: 14.5363451
-postcode: 4264
+postcode: "4264"
 city: Grünbach bei Freistadt
 street: "Marktplatz"
 housenumber: 9

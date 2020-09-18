@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3884222
 longitude: 16.1851257
-postcode: 2000
+postcode: "2000"
 city: Stockerau
 street: "Horner Straße"
 housenumber: 76

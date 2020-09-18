@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9645821
 longitude: 14.2563525
-postcode: 4594
+postcode: "4594"
 city: Grünburg
 street: "Steyrtalstraße"
 housenumber: 4

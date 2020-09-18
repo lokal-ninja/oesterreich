@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.084209
 longitude: 16.2827342
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Kaiserin Elisabethstraße"
 housenumber: 18

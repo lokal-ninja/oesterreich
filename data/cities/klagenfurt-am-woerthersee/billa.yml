@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 46.621264000000004
 longitude: 14.30757
-postcode: 
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "10.-Oktober-Straße"
 housenumber: 27
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+website: "https://www.billa.at/"

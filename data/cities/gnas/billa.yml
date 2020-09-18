@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8711228
 longitude: 15.828499
-postcode: 8342
+postcode: "8342"
 city: Gnas
 street: ""
 housenumber: 191

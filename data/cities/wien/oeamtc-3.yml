@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2320958
 longitude: 16.387753
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Pasettistraße"
 housenumber: 96-98

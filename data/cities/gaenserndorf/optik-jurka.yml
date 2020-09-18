@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.339995900000005
 longitude: 16.7271392
-postcode: 2230
+postcode: "2230"
 city: Gänserndorf
 street: "Bahnstraße"
 housenumber: 63

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4428549
 longitude: 9.6590393
-postcode: 6890
+postcode: "6890"
 city: Lustenau
 street: "Bahnhofstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0010047
 longitude: 13.6483474
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Robert-Kunz-Straße"
 housenumber: 4

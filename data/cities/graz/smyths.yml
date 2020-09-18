@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.033779900000006
 longitude: 15.4136538
-postcode: 8054
+postcode: "8054"
 city: Graz
 street: "Weblinger Gürtel"
 housenumber: 

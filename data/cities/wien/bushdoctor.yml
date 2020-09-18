@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.2017791
 longitude: 16.3517778
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kirchengasse"
 housenumber: 19

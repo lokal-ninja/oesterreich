@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.6177294
 longitude: 14.0485042
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Klagenfurter Straße"
 housenumber: 9

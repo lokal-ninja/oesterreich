@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.266537400000004
 longitude: 16.460552500000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Wagramer Straße"
 housenumber: 252

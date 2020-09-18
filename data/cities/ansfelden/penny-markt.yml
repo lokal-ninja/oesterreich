@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.203543700000004
 longitude: 14.2551521
-postcode: 4053
+postcode: "4053"
 city: Ansfelden
 street: "Schulstraße"
 housenumber: 17

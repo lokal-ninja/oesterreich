@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.2672621
 longitude: 11.3964333
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Museumstraße"
 housenumber: 7

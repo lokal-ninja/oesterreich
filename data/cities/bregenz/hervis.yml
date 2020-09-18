@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.4978667
 longitude: 9.7301122
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Rheinstraße"
 housenumber: 14

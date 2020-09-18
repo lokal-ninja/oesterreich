@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1927127
 longitude: 16.355505400000002
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Pilgramgasse"
 housenumber: 22

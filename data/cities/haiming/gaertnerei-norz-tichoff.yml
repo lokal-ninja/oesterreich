@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.2426448
 longitude: 10.8766818
-postcode: 6430
+postcode: "6430"
 city: Haiming
 street: "Wiesrainstraße"
 housenumber: 19

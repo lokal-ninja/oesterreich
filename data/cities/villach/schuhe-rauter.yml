@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 46.613432800000005
 longitude: 13.886832900000002
-postcode: 9524
+postcode: "9524"
 city: Villach
 street: "St.Magdalener Straße"
 housenumber: 99

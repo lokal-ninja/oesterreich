@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5828336
 longitude: 12.1663492
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Südtiroler Platz"
 housenumber: 1

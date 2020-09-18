@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.222246000000005
 longitude: 13.328173300000001
-postcode: 4951
+postcode: "4951"
 city: Polling im Innkreis
 street: "Ornading"
 housenumber: 34

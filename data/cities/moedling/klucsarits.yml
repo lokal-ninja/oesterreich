@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.0867203
 longitude: 16.2973839
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Wiener Straße"
 housenumber: 11

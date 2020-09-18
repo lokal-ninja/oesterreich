@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.159078300000004
 longitude: 14.0276122
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Adlerstraße"
 housenumber: 2

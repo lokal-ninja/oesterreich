@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.1539635
 longitude: 14.738349600000001
-postcode: 8741
+postcode: "8741"
 city: Weißkirchen in Steiermark
 street: "Judenburgerstraße"
 housenumber: 1

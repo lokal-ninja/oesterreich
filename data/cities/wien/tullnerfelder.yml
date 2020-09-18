@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.219514700000005
 longitude: 16.3714587
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Untere Augartenstraße"
 housenumber: 4

@@ -1,12 +1,12 @@
-id: 28767197
-type: way
+id: 7092734703
+type: node
 shop: Supermarkt
-latitude: 48.2152102
-longitude: 16.4154984
-postcode: 1020
+latitude: 48.231318400000006
+longitude: 16.4501567
+postcode: "1220"
 city: Wien
-street: "Engerthstraße"
-housenumber: 230A
+street: "Erzherzog-Karl-Straße"
+housenumber: 105
 phone: ""
 opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
 website: ""

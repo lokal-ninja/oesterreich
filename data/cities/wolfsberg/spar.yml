@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.817677100000004
 longitude: 14.8535505
-postcode: 9431
+postcode: "9431"
 city: Wolfsberg
 street: "Gemmersdorfer Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2115859
 longitude: 16.344695100000003
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Skodagasse"
 housenumber: 1

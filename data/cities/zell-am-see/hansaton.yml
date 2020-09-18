@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.320847
 longitude: 12.7962056
-postcode: 5700
+postcode: "5700"
 city: Zell am See
 street: "Bahnhofplatz"
 housenumber: 4

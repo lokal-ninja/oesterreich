@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.4661059
 longitude: 16.3774294
-postcode: 2113
+postcode: "2113"
 city: Karnabrunn
 street: "Gewerbepark"
 housenumber: 6

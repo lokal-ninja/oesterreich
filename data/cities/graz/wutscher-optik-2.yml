@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.0696451
 longitude: 15.440153400000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Herrengasse"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1532892
 longitude: 14.032927500000001
-postcode: 4600
+postcode: "4600"
 city: Thalheim bei Wels
 street: "Pater-Bernhard-Rodlberger-Straße"
 housenumber: 26

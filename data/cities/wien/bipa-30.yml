@@ -1,12 +1,12 @@
-id: 1326672634
+id: 1326672635
 type: node
 shop: Drogerie
-latitude: 48.212112600000005
-longitude: 16.3160643
-postcode: 1160
+latitude: 48.2136123
+longitude: 16.3288821
+postcode: "1160"
 city: Wien
-street: "Thaliastraße"
-housenumber: 114
+street: "Ottakringerstrasse"
+housenumber: 69
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-18:00"
+opening_hours: ""
 website: ""

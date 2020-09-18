@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.072523700000005
 longitude: 15.4527452
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Leonhardstraße"
 housenumber: 34

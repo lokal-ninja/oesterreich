@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.2991262
 longitude: 16.3724446
-postcode: 2103
+postcode: "2103"
 city: Langenzersdorf
 street: "Meisengasse"
 housenumber: 12-14

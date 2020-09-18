@@ -3,7 +3,7 @@ type: node
 shop: Piercing
 latitude: 47.8053869
 longitude: 13.047084700000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Paris-Lodron-Straße"
 housenumber: 12

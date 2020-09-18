@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.6835636
 longitude: 14.3386464
-postcode: 9063
+postcode: "9063"
 city: Maria Saal
 street: "Bahnweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1690418
 longitude: 14.514526400000001
-postcode: 4300
+postcode: "4300"
 city: St. Valentin
 street: "Kriemhildstraße"
 housenumber: 20

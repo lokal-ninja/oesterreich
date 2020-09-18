@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.0532388
 longitude: 15.1210734
-postcode: 8582
+postcode: "8582"
 city: Rosental an der Kainach
 street: "Hauptstraße"
 housenumber: 34

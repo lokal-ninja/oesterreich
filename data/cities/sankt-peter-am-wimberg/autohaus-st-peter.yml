@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5022779
 longitude: 14.086414900000001
-postcode: 4171
+postcode: "4171"
 city: Sankt Peter am Wimberg
 street: "Haslacher Straße"
 housenumber: 1

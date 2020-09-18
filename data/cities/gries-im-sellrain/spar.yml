@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.1954641
 longitude: 11.1562596
-postcode: 6182
+postcode: "6182"
 city: Gries im Sellrain
 street: "Gries"
 housenumber: 19a

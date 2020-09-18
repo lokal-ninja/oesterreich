@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1765424
 longitude: 16.413702400000002
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Simmeringer Hauptstraße"
 housenumber: 

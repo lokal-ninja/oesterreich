@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.7125306
 longitude: 13.622785200000001
-postcode: 4820
+postcode: "4820"
 city: Bad Ischl
 street: "Kaiser Franz Josef Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.2376535
 longitude: 9.5955733
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Kreuzgasse"
 housenumber: 14

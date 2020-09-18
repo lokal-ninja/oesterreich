@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.140933600000004
 longitude: 13.736650500000001
-postcode: 4673
+postcode: "4673"
 city: Gaspoltshofen
 street: "Hauptstraße"
 housenumber: 37

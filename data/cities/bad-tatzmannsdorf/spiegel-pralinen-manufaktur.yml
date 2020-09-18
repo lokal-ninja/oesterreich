@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 47.3352729
 longitude: 16.2225794
-postcode: 7431
+postcode: "7431"
 city: Bad Tatzmannsdorf
 street: "Tatzmannsdorfer Straße"
 housenumber: 55

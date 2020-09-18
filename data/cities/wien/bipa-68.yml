@@ -1,12 +1,12 @@
-id: 2576121301
+id: 2631185803
 type: node
 shop: Drogerie
-latitude: 48.2250766
-longitude: 16.4519525
-postcode: 1220
+latitude: 48.172487800000006
+longitude: 16.3660511
+postcode: "1100"
 city: Wien
-street: "Stadlauer Straße"
-housenumber: 5
+street: "Inzersdorfer Straße"
+housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-18:00; PH off"
 website: ""

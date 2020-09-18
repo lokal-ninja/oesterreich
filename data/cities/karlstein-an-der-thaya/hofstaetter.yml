@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8862083
 longitude: 15.401499000000001
-postcode: 3822
+postcode: "3822"
 city: Karlstein an der Thaya
 street: "Schillerstraße"
 housenumber: 9

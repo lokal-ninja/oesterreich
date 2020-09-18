@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.553136
 longitude: 9.7506337
-postcode: 6912
+postcode: "6912"
 city: Hörbranz
 street: "Ziegelbachstraße"
 housenumber: 16

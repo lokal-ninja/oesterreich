@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.1510818
 longitude: 15.5490586
-postcode: 3200
+postcode: "3200"
 city: Ober-Grafendorf
 street: "Adolf-Wimmer-Straße"
 housenumber: 7

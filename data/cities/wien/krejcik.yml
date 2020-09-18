@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.2151628
 longitude: 16.3465841
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Alser Straße"
 housenumber: 45-47

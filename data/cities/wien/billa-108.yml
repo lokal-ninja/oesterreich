@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.219854000000005
 longitude: 16.3755104
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Malzgasse"
 housenumber: 8

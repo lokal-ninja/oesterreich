@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.6655669
 longitude: 12.4044439
-postcode: 6345
+postcode: "6345"
 city: Kössen
 street: "Alleestraße"
 housenumber: 31

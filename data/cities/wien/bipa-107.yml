@@ -1,12 +1,12 @@
-id: 5130341222
+id: 5130342721
 type: node
 shop: Drogerie
-latitude: 48.1926665
-longitude: 16.398529500000002
-postcode: 1030
+latitude: 48.202342
+longitude: 16.3725631
+postcode: "1010"
 city: Wien
-street: "Landstraßer Hauptstraße"
-housenumber: 146
+street: "Kärntner Ring"
+housenumber: 9-13
 phone: ""
 opening_hours: ""
 website: ""

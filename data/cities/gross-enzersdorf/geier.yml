@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2006913
 longitude: 16.5507318
-postcode: 2301
+postcode: "2301"
 city: Groß-Enzersdorf
 street: "Rathausstraße"
 housenumber: 1

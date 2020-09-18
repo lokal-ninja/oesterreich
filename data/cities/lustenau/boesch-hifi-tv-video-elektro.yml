@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.4334797
 longitude: 9.6601806
-postcode: 6890
+postcode: "6890"
 city: Lustenau
 street: "Neudorfstraße"
 housenumber: 15

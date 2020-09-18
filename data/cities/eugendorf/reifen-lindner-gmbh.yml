@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 47.866515
 longitude: 13.129818
-postcode: 5301
+postcode: "5301"
 city: Eugendorf
 street: "Dr. Hans Lechner-Siedlung"
 housenumber: 2a
 phone: "+43 6225 28130-32"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "www.reifen-lindner.at/ueber-uns/filiale-eugendorf"
+website: "https://reifen-lindner.at"

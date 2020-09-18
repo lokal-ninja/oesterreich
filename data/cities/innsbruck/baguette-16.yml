@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.264589300000004
 longitude: 11.436111400000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Grabenweg"
 housenumber: 60

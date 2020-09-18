@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 47.326264200000004
 longitude: 12.783034
-postcode: 5700
+postcode: "5700"
 city: Zell am See
 street: "Sonnbergweg"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.336131
 longitude: 15.6973824
-postcode: 3134
+postcode: "3134"
 city: Reichersdorf
 street: "Obere Ortsstraße"
 housenumber: 10

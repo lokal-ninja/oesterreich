@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.8940611
 longitude: 13.119020800000001
-postcode: 5201
+postcode: "5201"
 city: Seekirchen am Wallersee
 street: "Wallerseestraße"
 housenumber: 1

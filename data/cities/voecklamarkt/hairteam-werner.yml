@@ -3,9 +3,9 @@ type: way
 shop: Friseur
 latitude: 48.0024284
 longitude: 13.4839455
-postcode: 4870
+postcode: "4870"
 city: Vöcklamarkt
-street: "Wultinger Gasse"
+street: "Wultingergasse"
 housenumber: 4
 phone: ""
 opening_hours: ""

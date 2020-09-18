@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.4108621
 longitude: 15.6044987
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Drinkweldergasse"
 housenumber: 12

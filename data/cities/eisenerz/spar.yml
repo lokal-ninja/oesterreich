@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5553417
 longitude: 14.8716997
-postcode: 8790
+postcode: "8790"
 city: Eisenerz
 street: "Hieflauer Straße"
 housenumber: 66

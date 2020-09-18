@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3024355
 longitude: 14.031482200000001
-postcode: 4070
+postcode: "4070"
 city: Pupping
 street: ""
 housenumber: 30

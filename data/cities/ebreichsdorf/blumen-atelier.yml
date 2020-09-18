@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.9651384
 longitude: 16.402036900000002
-postcode: 2483
+postcode: "2483"
 city: Ebreichsdorf
 street: "Wiener Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.418257100000005
 longitude: 15.560805400000001
-postcode: 3500
+postcode: "3500"
 city: Egelsee
 street: "Sandlstraße"
 housenumber: 11

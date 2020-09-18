@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.156199900000004
 longitude: 14.023274
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Stadtplatz"
 housenumber: 56

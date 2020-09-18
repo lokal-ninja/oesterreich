@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 47.3982121
 longitude: 10.9201616
-postcode: 6632
+postcode: "6632"
 city: Ehrwald
 street: "Kirchplatz"
 housenumber: 13

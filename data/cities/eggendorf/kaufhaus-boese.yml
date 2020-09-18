@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.8576999
 longitude: 16.3199297
-postcode: 2492
+postcode: "2492"
 city: Eggendorf
 street: "Hauptstraße"
 housenumber: 52

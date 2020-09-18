@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.560278200000006
 longitude: 14.257823900000002
-postcode: 8940
+postcode: "8940"
 city: Liezen
 street: "Gesäuse Straße"
 housenumber: 33

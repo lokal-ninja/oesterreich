@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.584663400000004
 longitude: 12.1692984
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Feldgasse"
 housenumber: 1

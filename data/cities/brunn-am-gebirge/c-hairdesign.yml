@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1108528
 longitude: 16.284375700000002
-postcode: 2345
+postcode: "2345"
 city: Brunn am Gebirge
 street: "Alexander-Groß-Gasse"
 housenumber: 68

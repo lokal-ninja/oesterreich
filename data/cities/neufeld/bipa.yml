@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.866328
 longitude: 16.3769362
-postcode: 2491
+postcode: "2491"
 city: Neufeld
 street: "Hauptstraße"
 housenumber: 53

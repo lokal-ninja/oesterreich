@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3586237
 longitude: 10.1896416
-postcode: 6991
+postcode: "6991"
 city: Riezlern
 street: "Walserstraße"
 housenumber: 33

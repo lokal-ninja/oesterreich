@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.0669946
 longitude: 15.4506239
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Mandellstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 47.071377700000006
 longitude: 15.4142553
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Waagner-Biro-Straße"
 housenumber: 3

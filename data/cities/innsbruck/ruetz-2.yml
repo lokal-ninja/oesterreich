@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.263751500000005
 longitude: 11.3997522
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Südtiroler Platz"
 housenumber: 8

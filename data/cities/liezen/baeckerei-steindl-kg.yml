@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.5687068
 longitude: 14.243358
-postcode: 8940
+postcode: "8940"
 city: Liezen
 street: "Hauptstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1963293
 longitude: 16.340858100000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Mariahilfer Straße"
 housenumber: 124

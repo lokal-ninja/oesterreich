@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.133462300000005
 longitude: 16.9051158
-postcode: 2405
+postcode: "2405"
 city: Bad Deutsch-Altenburg
 street: "Wiener Straße"
 housenumber: 3

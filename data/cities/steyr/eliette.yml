@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.04199130000001
 longitude: 14.421491900000001
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Zwischenbrücken"
 housenumber: 1

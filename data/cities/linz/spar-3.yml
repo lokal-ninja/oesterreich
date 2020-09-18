@@ -1,12 +1,12 @@
-id: 761001532
+id: 88976497
 type: way
 shop: Supermarkt
-latitude: 48.2869272
-longitude: 14.276532300000001
-postcode: 4020
+latitude: 48.2927212
+longitude: 14.3032462
+postcode: "4020"
 city: Linz
-street: "Leharstraße"
-housenumber: 21
+street: "Friedhofstraße"
+housenumber: 40
 phone: ""
-opening_hours: "Mo-Th 07:30-19:00; Fr 07:30-19:30; Sa 07:30-18:00"
+opening_hours: "Mo-Su off"
 website: ""

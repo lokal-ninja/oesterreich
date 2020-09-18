@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 47.0663193
 longitude: 15.4400902
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Radetzkystraße"
 housenumber: 9

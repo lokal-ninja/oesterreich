@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.242219500000004
 longitude: 10.2936694
-postcode: 6655
+postcode: "6655"
 city: Steeg
 street: "Steeg"
 housenumber: 29

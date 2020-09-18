@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.710148000000004
 longitude: 16.367879600000002
-postcode: 2136
+postcode: "2136"
 city: Laa an der Thaya
 street: "Thayapark"
 housenumber: 25

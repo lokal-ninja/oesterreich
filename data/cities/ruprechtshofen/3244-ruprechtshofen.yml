@@ -3,7 +3,7 @@ type: way
 shop: Zeitungen
 latitude: 48.136653200000005
 longitude: 15.2767733
-postcode: 3244
+postcode: "3244"
 city: Ruprechtshofen
 street: "Hauptplatz"
 housenumber: 1

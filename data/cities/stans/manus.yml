@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.369233200000004
 longitude: 11.716151400000001
-postcode: 6135
+postcode: "6135"
 city: Stans
 street: "Oberdorf"
 housenumber: 200

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2723857
 longitude: 9.6186272
-postcode: 6830
+postcode: "6830"
 city: Rankweil
 street: "Langgasse"
 housenumber: 118

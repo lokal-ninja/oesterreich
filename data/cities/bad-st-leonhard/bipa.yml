@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.9631303
 longitude: 14.7928665
-postcode: 9462
+postcode: "9462"
 city: Bad St. Leonhard
 street: "Hauptplatz"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.109276300000005
 longitude: 11.304855600000002
-postcode: 6167
+postcode: "6167"
 city: Neustift im Stubaital
 street: "Dorf"
 housenumber: 35

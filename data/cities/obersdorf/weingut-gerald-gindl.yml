@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.370101500000004
 longitude: 16.5230451
-postcode: 2120
+postcode: "2120"
 city: Obersdorf
 street: "Hauptstraße"
 housenumber: 55

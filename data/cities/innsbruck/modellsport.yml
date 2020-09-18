@@ -3,7 +3,7 @@ type: node
 shop: Modellbau
 latitude: 47.2621327
 longitude: 11.415372600000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Amraser Straße"
 housenumber: 

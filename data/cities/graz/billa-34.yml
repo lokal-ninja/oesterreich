@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.0537769
 longitude: 15.471652
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Petrifelderstraße"
 housenumber: 14

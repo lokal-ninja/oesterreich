@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1130146
 longitude: 14.563118600000001
-postcode: 3350
+postcode: "3350"
 city: Haag
 street: ""
 housenumber: 

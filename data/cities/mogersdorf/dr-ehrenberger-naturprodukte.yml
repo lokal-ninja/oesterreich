@@ -3,7 +3,7 @@ type: node
 shop: Nahrungsergänzung
 latitude: 46.9486153
 longitude: 16.2357236
-postcode: 8382
+postcode: "8382"
 city: Mogersdorf
 street: ""
 housenumber: 179

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2236795
 longitude: 16.3365102
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Johann-Nepomuk-Vogl-Markt Stand"
 housenumber: 3-4

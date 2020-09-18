@@ -1,4 +1,4 @@
 ---
-title: "SPAR"
+title: "Spar"
 url: /schlitters/spar/
 ---

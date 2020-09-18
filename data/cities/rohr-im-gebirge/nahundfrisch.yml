@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.895033600000005
 longitude: 15.736219
-postcode: 2663
+postcode: "2663"
 city: Rohr im Gebirge
 street: ""
 housenumber: 55

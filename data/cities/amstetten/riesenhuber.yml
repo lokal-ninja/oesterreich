@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.0781642
 longitude: 14.813398800000002
-postcode: 3363
+postcode: "3363"
 city: Amstetten
 street: "Rauscherstraße"
 housenumber: 3

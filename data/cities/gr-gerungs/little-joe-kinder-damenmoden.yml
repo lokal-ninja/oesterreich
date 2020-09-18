@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.5743225
 longitude: 14.9568756
-postcode: 3920
+postcode: "3920"
 city: Gr. Gerungs
 street: "Hauptplatz"
 housenumber: 13

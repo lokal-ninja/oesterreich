@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.332994500000005
 longitude: 13.300092000000001
-postcode: 5602
+postcode: "5602"
 city: Wagrain
 street: "Kirchboden"
 housenumber: 6

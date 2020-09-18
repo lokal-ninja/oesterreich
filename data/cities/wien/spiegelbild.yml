@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2243313
 longitude: 16.4995628
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Maria-Tusch-Straße"
 housenumber: 8

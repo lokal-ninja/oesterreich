@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.9320699
 longitude: 16.220170200000002
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "Südbahnstraße"
 housenumber: 13a

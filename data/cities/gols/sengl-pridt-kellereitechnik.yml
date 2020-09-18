@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.8975906
 longitude: 16.910162800000002
-postcode: 7122
+postcode: "7122"
 city: Gols
 street: "Untere Hauptstraße"
 housenumber: 27

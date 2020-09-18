@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.2032795
 longitude: 16.351406100000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kirchengasse"
 housenumber: 31

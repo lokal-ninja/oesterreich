@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.3298399
 longitude: 11.189876900000002
-postcode: 6100
+postcode: "6100"
 city: Seefeld in Tirol
 street: "Andreas-Hofer-Straße"
 housenumber: 292

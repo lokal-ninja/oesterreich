@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 48.0559832
 longitude: 14.451592400000001
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Zirerstraße"
 housenumber: 7

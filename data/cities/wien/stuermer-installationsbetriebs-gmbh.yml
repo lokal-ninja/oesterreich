@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.2033162
 longitude: 16.345158100000003
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Zieglergasse"
 housenumber: 56

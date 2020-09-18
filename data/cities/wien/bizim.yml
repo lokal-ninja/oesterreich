@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1843385
 longitude: 16.3523582
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Siebenbrunnengasse"
 housenumber: 63

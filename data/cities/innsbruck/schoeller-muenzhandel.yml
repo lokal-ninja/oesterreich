@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.264010500000005
 longitude: 11.3977666
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Adamgasse"
 housenumber: 2

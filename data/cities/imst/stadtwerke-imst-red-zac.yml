@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2426356
 longitude: 10.7386222
-postcode: 6460
+postcode: "6460"
 city: Imst
 street: "Pfarrgasse"
 housenumber: 

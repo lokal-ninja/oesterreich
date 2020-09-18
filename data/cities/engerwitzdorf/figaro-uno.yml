@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.337688400000005
 longitude: 14.365891600000001
-postcode: 4209
+postcode: "4209"
 city: Engerwitzdorf
 street: "Kirchenplatz"
 housenumber: 20

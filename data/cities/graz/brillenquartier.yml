@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.0695902
 longitude: 15.442790200000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Hans-Sachs-Gasse"
 housenumber: 1

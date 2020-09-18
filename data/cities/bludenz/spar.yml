@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1635969
 longitude: 9.8104262
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Alte Landstraße"
 housenumber: 62

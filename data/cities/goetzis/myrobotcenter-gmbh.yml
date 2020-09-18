@@ -3,7 +3,7 @@ type: way
 shop: Roboter
 latitude: 47.3349229
 longitude: 9.6467804
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Hauptstraße"
 housenumber: 25

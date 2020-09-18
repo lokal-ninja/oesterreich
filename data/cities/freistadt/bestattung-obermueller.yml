@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.5004195
 longitude: 14.5020904
-postcode: 4240
+postcode: "4240"
 city: Freistadt
 street: "Linzer Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.2409115
 longitude: 13.2001445
-postcode: 5611
+postcode: "5611"
 city: Großarl
 street: "Marktstraße"
 housenumber: 41

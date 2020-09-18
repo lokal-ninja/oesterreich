@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.9368726
 longitude: 16.1381596
-postcode: 8380
+postcode: "8380"
 city: Jennersdorf
 street: "Hauptstraße"
 housenumber: 13

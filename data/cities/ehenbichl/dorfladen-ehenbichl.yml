@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4722926
 longitude: 10.6998919
-postcode: 6600
+postcode: "6600"
 city: Ehenbichl
 street: "Schulweg"
 housenumber: 14

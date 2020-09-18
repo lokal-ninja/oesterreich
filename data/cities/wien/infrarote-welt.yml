@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2019218
 longitude: 16.343912200000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Westbahnstraße"
 housenumber: 30

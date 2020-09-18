@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.793368400000006
 longitude: 15.068086200000002
-postcode: 3943
+postcode: "3943"
 city: Schrems
 street: "SCHULGASSE"
 housenumber: 11

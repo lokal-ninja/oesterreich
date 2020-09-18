@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.213099500000006
 longitude: 16.3379608
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Schellhammergasse"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 47.2638802
 longitude: 11.407897100000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Amraser Straße"
 housenumber: 17

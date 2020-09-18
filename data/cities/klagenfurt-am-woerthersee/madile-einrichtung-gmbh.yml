@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 46.622301900000004
 longitude: 14.296617500000002
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Villacher Straße"
 housenumber: 4

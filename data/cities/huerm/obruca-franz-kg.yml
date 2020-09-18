@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.1561214
 longitude: 15.4128085
-postcode: 3383
+postcode: "3383"
 city: Hürm
 street: "Marktstraße"
 housenumber: 4

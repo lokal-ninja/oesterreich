@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 47.717663200000004
 longitude: 13.4812057
-postcode: 5350
+postcode: "5350"
 city: Strobl
 street: "Moosgasse"
 housenumber: 31

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1558809
 longitude: 10.586424200000002
-postcode: 6511
+postcode: "6511"
 city: Zams
 street: "Hauptstraße"
 housenumber: 66

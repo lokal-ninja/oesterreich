@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.2035702
 longitude: 15.6437384
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Unterwagramer Straße"
 housenumber: 6

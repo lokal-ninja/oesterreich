@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4940919
 longitude: 16.5082466
-postcode: 7350
+postcode: "7350"
 city: Oberpullendorf
 street: "Burgenlandstraße"
 housenumber: 3

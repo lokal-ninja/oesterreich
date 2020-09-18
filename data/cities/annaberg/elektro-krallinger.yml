@@ -3,7 +3,7 @@ type: way
 shop: Elektrisch
 latitude: 47.5120595
 longitude: 13.4301112
-postcode: 5524
+postcode: "5524"
 city: Annaberg
 street: "Hefenscher"
 housenumber: 35

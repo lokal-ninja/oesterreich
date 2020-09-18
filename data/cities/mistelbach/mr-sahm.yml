@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5679777
 longitude: 16.5721369
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Hafnerstraße"
 housenumber: 4

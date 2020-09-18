@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.0314892
 longitude: 14.5075578
-postcode: 8822
+postcode: "8822"
 city: Mühlen
 street: ""
 housenumber: 22

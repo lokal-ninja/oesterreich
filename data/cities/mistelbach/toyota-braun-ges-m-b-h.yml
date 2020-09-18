@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.560093
 longitude: 16.5762721
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Lanzendorfer Hauptstraße"
 housenumber: 6

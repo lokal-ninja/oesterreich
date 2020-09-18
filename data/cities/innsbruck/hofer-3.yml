@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2658074
 longitude: 11.395756500000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Erlerstraße"
 housenumber: 10

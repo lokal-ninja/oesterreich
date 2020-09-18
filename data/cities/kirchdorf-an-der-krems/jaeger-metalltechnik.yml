@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.8994617
 longitude: 14.127025300000001
-postcode: 4560
+postcode: "4560"
 city: Kirchdorf an der Krems
 street: "Steiermärker Straße"
 housenumber: 35

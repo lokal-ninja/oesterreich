@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.258127800000004
 longitude: 16.397387900000002
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Am Spitz"
 housenumber: 1

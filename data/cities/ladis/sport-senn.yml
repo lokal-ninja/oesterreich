@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.0707005
 longitude: 10.645063400000002
-postcode: 6532
+postcode: "6532"
 city: Ladis
 street: "Dorfstraße"
 housenumber: 50

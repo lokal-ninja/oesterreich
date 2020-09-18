@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3775257
 longitude: 14.968452000000001
-postcode: 8772
+postcode: "8772"
 city: Traboch
 street: "Hauptstraße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.492603900000006
 longitude: 9.7425256
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Kennelbacherstraße"
 housenumber: 1

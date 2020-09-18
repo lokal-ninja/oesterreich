@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.2372401
 longitude: 16.46217
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 48.118444600000004
 longitude: 14.8706808
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Ybbsstraße"
 housenumber: 28

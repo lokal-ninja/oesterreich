@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.611427500000005
 longitude: 14.039838900000001
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Bäckerteichstraße"
 housenumber: 4

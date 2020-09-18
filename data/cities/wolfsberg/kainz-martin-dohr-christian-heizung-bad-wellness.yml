@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 46.820605400000005
 longitude: 14.837428300000001
-postcode: 9400
+postcode: "9400"
 city: Wolfsberg
 street: "Roßhaltweg"
 housenumber: 2

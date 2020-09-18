@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.241632900000006
 longitude: 16.3614123
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Heiligenstädter Straße"
 housenumber: 60

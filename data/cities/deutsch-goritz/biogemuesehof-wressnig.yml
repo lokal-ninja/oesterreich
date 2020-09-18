@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 46.738891300000006
 longitude: 15.877863600000001
-postcode: 8484
+postcode: "8484"
 city: Deutsch Goritz
 street: "Weixelbaum"
 housenumber: 

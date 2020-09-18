@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.181016500000005
 longitude: 15.4898523
-postcode: 8061
+postcode: "8061"
 city: Sankt Radegund bei Graz
 street: "Hauptstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.488821900000005
 longitude: 12.0607456
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "Bahnhofstraße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.1861474
 longitude: 16.2985249
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Lainzer Straße"
 housenumber: 1

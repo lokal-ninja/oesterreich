@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.395065200000005
 longitude: 15.5206347
-postcode: 3601
+postcode: "3601"
 city: Dürnstein
 street: ""
 housenumber: 21

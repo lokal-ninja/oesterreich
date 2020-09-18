@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.214558100000005
 longitude: 14.824837400000002
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Gaaler Straße"
 housenumber: 5

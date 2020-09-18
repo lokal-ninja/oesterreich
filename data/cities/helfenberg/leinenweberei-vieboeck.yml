@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.5452768
 longitude: 14.145274
-postcode: 4184
+postcode: "4184"
 city: Helfenberg
 street: "Leonfelder Straße"
 housenumber: 26

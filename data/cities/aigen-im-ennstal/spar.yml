@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.524829600000004
 longitude: 14.147407500000002
-postcode: 8943
+postcode: "8943"
 city: Aigen im Ennstal
 street: ""
 housenumber: 109

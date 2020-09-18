@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.217015100000005
 longitude: 14.477511600000001
-postcode: 4470
+postcode: "4470"
 city: Enns
 street: "Stadlgasse"
 housenumber: 2

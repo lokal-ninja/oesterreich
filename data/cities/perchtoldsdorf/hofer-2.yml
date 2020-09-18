@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.123556300000004
 longitude: 16.2919561
-postcode: 2380
+postcode: "2380"
 city: Perchtoldsdorf
 street: "Mühlgasse"
 housenumber: 98

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.6440441
 longitude: 16.7258316
-postcode: 2143
+postcode: "2143"
 city: Großkrut
 street: "Lundenburger Straße"
 housenumber: 9

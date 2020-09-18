@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.760014000000005
 longitude: 13.2540419
-postcode: 9754
+postcode: "9754"
 city: Steinfeld
 street: "10. Oktoberstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4488361
 longitude: 16.300972700000003
-postcode: 2004
+postcode: "2004"
 city: Niederhollabrunn
 street: "Hauptplatz"
 housenumber: 1

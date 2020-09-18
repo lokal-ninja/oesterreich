@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 46.662387
 longitude: 13.0783067
-postcode: 9635
+postcode: "9635"
 city: Dellach im Gailtal
 street: "Dellach"
 housenumber: 66

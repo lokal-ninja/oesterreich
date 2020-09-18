@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.951535400000004
 longitude: 16.222228100000002
-postcode: 2542
+postcode: "2542"
 city: Kottingbrunn
 street: "Kurze Gasse"
 housenumber: 1-3

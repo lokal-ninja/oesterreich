@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.3594572
 longitude: 15.712722200000002
-postcode: 3133
+postcode: "3133"
 city: Traismauer
 street: "Geymüllergasse"
 housenumber: 2

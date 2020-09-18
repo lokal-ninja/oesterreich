@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.0066314
 longitude: 16.232448
-postcode: 2500
+postcode: "2500"
 city: Baden
 street: "Erzherzog Rainer-Ring"
 housenumber: 1

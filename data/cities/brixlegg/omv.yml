@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.433446200000006
 longitude: 11.8804695
-postcode: 6230
+postcode: "6230"
 city: Brixlegg
 street: "Innsbrucker Straße"
 housenumber: 34

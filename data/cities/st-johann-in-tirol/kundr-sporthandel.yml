@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.528777000000005
 longitude: 12.4257171
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Salzburgerstraße"
 housenumber: 29

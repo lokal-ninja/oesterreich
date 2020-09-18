@@ -1,12 +1,12 @@
-id: 830477233
+id: 742643135
 type: node
 shop: Supermarkt
-latitude: 48.1761652
-longitude: 16.363383900000002
-postcode: 1100
+latitude: 48.2348275
+longitude: 16.370486
+postcode: "1200"
 city: Wien
-street: "Quellenstraße"
-housenumber: 185
+street: "Jägerstraße"
+housenumber: 58
 phone: ""
 opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-wien-1100-quellenstrasse-185"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.2590547
 longitude: 16.4658503
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Hosnedlgasse"
 housenumber: 18

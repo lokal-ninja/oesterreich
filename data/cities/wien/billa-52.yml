@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2002297
 longitude: 16.3562093
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Mariahilfer Straße"
 housenumber: 35

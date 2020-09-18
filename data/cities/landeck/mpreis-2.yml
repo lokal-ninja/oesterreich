@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.141852300000004
 longitude: 10.5603893
-postcode: 6500
+postcode: "6500"
 city: Landeck
 street: "Bruggfeldstraße"
 housenumber: 7

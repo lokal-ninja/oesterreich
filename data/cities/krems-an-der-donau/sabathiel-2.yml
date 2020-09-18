@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.408682600000006
 longitude: 15.613494800000002
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Göttweigergasse"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Dorfladen
 latitude: 47.390166300000004
 longitude: 11.173874900000001
-postcode: 6105
+postcode: "6105"
 city: Leutasch
 street: "Puitbach"
 housenumber: 220

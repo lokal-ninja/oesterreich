@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.0986466
 longitude: 15.418155100000002
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Weinzöttlstraße"
 housenumber: 2

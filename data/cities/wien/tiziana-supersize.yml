@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2021195
 longitude: 16.3403411
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kaiserstraße"
 housenumber: 51-53

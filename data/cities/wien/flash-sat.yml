@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.178656600000004
 longitude: 16.3707341
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Gudrunstraße"
 housenumber: 144

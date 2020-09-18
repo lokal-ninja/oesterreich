@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.1905555
 longitude: 16.365754900000002
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Klagbaumgasse"
 housenumber: 3

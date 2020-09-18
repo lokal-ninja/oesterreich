@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.051859500000006
 longitude: 15.476661000000002
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Sankt-Peter-Hauptstraße"
 housenumber: 90

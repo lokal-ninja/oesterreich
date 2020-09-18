@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 47.057663700000006
 longitude: 13.6130692
-postcode: 9863
+postcode: "9863"
 city: Rennweg
 street: "Katschberghöhe"
 housenumber: 37

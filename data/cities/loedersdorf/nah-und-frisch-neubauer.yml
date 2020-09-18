@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.9567507
 longitude: 15.94612
-postcode: 8334
+postcode: "8334"
 city: Lödersdorf
 street: ""
 housenumber: 82

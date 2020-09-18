@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 46.641871300000005
 longitude: 14.9410974
-postcode: 9473
+postcode: "9473"
 city: Lavamünd
 street: "Lavamünd"
 housenumber: 21

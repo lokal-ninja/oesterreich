@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.488446
 longitude: 12.069730600000002
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "Salzburger Straße"
 housenumber: 32

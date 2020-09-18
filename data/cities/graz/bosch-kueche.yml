@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 47.067157200000004
 longitude: 15.4440617
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Reitschulgasse"
 housenumber: 3

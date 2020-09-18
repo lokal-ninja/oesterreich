@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 47.225022100000004
 longitude: 9.6162458
-postcode: 6820
+postcode: "6820"
 city: Frastanz
 street: "Feldkircher Straße"
 housenumber: 66

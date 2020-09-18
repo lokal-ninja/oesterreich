@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.297401400000005
 longitude: 12.788610700000001
-postcode: 5700
+postcode: "5700"
 city: Zell am See
 street: "Gletschermoosstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1838946
 longitude: 14.027336
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Dalistraße"
 housenumber: 5

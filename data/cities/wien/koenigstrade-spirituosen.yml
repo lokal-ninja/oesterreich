@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2222738
 longitude: 16.3992
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Harkortstraße"
 housenumber: 1

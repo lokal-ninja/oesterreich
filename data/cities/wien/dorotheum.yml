@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.1994824
 longitude: 16.3537125
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Mariahilfer Straße"
 housenumber: 53

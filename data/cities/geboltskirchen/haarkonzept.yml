@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.1529869
 longitude: 13.6351651
-postcode: 4682
+postcode: "4682"
 city: Geboltskirchen
 street: "Hareck"
 housenumber: 3

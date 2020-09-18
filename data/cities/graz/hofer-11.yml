@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.042551200000005
 longitude: 15.4840353
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Styriastraße"
 housenumber: 14

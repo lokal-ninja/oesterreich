@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 47.2606601
 longitude: 11.38288
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Innrain"
 housenumber: 67

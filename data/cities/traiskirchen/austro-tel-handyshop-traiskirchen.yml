@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.014526100000005
 longitude: 16.2906291
-postcode: 2514
+postcode: "2514"
 city: Traiskirchen
 street: "Otto Glöckelstrasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4361149
 longitude: 11.882510700000001
-postcode: 6230
+postcode: "6230"
 city: Brixlegg
 street: "Niederfeldweg"
 housenumber: 9f

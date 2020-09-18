@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.4361758
 longitude: 11.883522600000001
-postcode: 6230
+postcode: "6230"
 city: Brixlegg
 street: "Niederfeldweg"
 housenumber: 

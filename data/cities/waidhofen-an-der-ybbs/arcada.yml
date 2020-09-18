@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.960168700000004
 longitude: 14.773415700000001
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Unterer Stadtplatz"
 housenumber: 35

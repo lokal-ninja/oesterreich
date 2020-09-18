@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 48.3229418
 longitude: 16.2013028
-postcode: 3423
+postcode: "3423"
 city: Sankt Andrä-Wördern
 street: "Tullner Straße"
 housenumber: 30a

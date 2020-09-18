@@ -3,9 +3,9 @@ type: way
 shop: Fahrrad
 latitude: 48.3305798
 longitude: 16.0513784
-postcode: 3430
+postcode: "3430"
 city: Tulln an der Donau
-street: "Jasomirgottstraße"
+street: "Jasomirgottgasse"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.260752700000005
 longitude: 11.3978167
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Michael-Gaismair-Straße"
 housenumber: 15

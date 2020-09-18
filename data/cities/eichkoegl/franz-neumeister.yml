@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0278335
 longitude: 15.790495600000002
-postcode: 8322
+postcode: "8322"
 city: Eichkögl
 street: ""
 housenumber: 81

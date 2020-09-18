@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 47.8700236
 longitude: 16.9731847
-postcode: 7131
+postcode: "7131"
 city: Halbturn
 street: "Erzherzog-Friedrich-Straße"
 housenumber: 24

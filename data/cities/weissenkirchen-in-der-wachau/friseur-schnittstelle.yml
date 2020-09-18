@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.396743400000005
 longitude: 15.4695911
-postcode: 3610
+postcode: "3610"
 city: Weißenkirchen in der Wachau
 street: "Rathausplatz"
 housenumber: 30/1/B

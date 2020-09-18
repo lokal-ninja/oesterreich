@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.6031367
 longitude: 15.168401600000001
-postcode: 3910
+postcode: "3910"
 city: Zwettl
 street: "Landstraße"
 housenumber: 4

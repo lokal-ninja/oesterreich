@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.237849600000004
 longitude: 15.7974557
-postcode: 8223
+postcode: "8223"
 city: Stubenberg
 street: ""
 housenumber: 101

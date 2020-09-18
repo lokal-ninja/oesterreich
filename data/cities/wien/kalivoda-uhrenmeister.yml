@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.2019487
 longitude: 16.3411052
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Westbahnstraße"
 housenumber: 48

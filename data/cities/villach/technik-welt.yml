@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 46.6041846
 longitude: 13.8456063
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Heidenfeldstraße"
 housenumber: 7

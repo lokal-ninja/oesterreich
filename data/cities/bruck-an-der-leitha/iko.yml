@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.020766800000004
 longitude: 16.7610864
-postcode: 2460
+postcode: "2460"
 city: Bruck an der Leitha
 street: ""
 housenumber: 131

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.857157300000004
 longitude: 13.1238069
-postcode: 5301
+postcode: "5301"
 city: Eugendorf
 street: "Möbelstraße"
 housenumber: 9

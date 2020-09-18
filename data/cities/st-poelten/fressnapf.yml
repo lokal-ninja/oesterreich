@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.2211097
 longitude: 15.6388195
-postcode: 3107
+postcode: "3107"
 city: St. Pölten
 street: "Dr.-Adolf-Schärf-Straße"
 housenumber: 10-12

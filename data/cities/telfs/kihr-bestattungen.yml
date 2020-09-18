@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 47.309833600000005
 longitude: 11.0738727
-postcode: 6410
+postcode: "6410"
 city: Telfs
 street: "Georgenweg"
 housenumber: 3a

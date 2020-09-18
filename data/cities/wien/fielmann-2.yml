@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.2093086
 longitude: 16.3344017
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Thaliastraße"
 housenumber: 32

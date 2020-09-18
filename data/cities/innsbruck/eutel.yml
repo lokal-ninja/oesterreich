@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.263885
 longitude: 11.3954372
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maria-Theresien-Straße"
 housenumber: 49a

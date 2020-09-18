@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.2087627
 longitude: 16.3721065
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Stephansplatz"
 housenumber: 9

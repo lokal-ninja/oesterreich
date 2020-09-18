@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.729153100000005
 longitude: 13.059016600000001
-postcode: 5081
+postcode: "5081"
 city: Anif
 street: "Windschnurweg"
 housenumber: 6

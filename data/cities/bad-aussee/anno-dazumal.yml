@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 47.610448700000006
 longitude: 13.7838776
-postcode: 8990
+postcode: "8990"
 city: Bad Aussee
 street: "Hauptstraße"
 housenumber: 51

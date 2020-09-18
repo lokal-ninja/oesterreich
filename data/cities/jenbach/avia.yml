@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.3892607
 longitude: 11.7856424
-postcode: 6200
+postcode: "6200"
 city: Jenbach
 street: "Austraße"
 housenumber: 26

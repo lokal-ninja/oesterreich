@@ -1,12 +1,12 @@
-id: 4550931989
+id: 4652763426
 type: node
 shop: Supermarkt
-latitude: 48.2083019
-longitude: 16.340569900000002
-postcode: 1080
+latitude: 48.2512751
+longitude: 16.431223600000003
+postcode: "1220"
 city: Wien
-street: "Lerchenfelder Straße"
-housenumber: 150
+street: "Donaufelder Straße"
+housenumber: 177
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.603253200000005
 longitude: 13.8404585
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Italiener Straße"
 housenumber: 57

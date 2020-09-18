@@ -3,7 +3,7 @@ type: node
 shop: Rahmen
 latitude: 47.0657446
 longitude: 15.444137900000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Klosterwiesgasse"
 housenumber: 18

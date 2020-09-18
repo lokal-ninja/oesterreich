@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.2058089
 longitude: 16.386003300000002
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Landstraßer Hauptstraße"
 housenumber: 3

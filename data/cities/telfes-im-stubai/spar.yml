@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1648307
 longitude: 11.3612401
-postcode: 6165
+postcode: "6165"
 city: Telfes im Stubai
 street: "Franz-de-Paula-Penz-Weg"
 housenumber: 24

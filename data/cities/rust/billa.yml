@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.795380800000004
 longitude: 16.6728206
-postcode: 7071
+postcode: "7071"
 city: Rust
 street: "Mörbischerstraße"
 housenumber: 10

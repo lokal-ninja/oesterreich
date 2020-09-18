@@ -3,7 +3,7 @@ type: way
 shop: Fußböden
 latitude: 46.5968217
 longitude: 13.8494177
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Handwerkstraße"
 housenumber: 22

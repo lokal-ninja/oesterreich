@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.1567821
 longitude: 9.8183548
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Werdenbergerstraße"
 housenumber: 40a

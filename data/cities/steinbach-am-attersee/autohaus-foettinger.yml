@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8410164
 longitude: 13.547121500000001
-postcode: 4853
+postcode: "4853"
 city: Steinbach am Attersee
 street: "Seefeld"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.66581660000001
 longitude: 15.636738000000001
-postcode: 3580
+postcode: "3580"
 city: Horn
 street: "Am Kuhberg"
 housenumber: 6

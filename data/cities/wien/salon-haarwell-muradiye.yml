@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.190173200000004
 longitude: 16.3874514
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Hohlweggasse"
 housenumber: 27

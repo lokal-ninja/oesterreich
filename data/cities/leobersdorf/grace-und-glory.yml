@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.9307409
 longitude: 16.2000214
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "In den Wiesen"
 housenumber: 4

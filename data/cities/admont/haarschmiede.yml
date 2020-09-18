@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.5790516
 longitude: 14.4600307
-postcode: 8911
+postcode: "8911"
 city: Admont
 street: "Hauptstraße"
 housenumber: 16

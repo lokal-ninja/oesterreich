@@ -1,12 +1,12 @@
-id: 4531909703
+id: 7452569421
 type: node
 shop: Autohaus
-latitude: 46.960154
-longitude: 15.354699700000001
-postcode: 8501
+latitude: 46.955926600000005
+longitude: 15.3584735
+postcode: "8501"
 city: Lieboch
-street: "Werner Gröbl-Straße"
-housenumber: 3
-phone: "+43 3136 609060 25"
-opening_hours: ""
-website: "https://www.gebrauchtwagen.at/"
+street: "Gewerbeparkstraße"
+housenumber: 91 / Top 10-11
+phone: "+43 3136 60906-0"
+opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-13:00, Su,PH off"
+website: "https://www.onlinecars.at"

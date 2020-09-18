@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0031364
 longitude: 13.4907871
-postcode: 4870
+postcode: "4870"
 city: Vöcklamarkt
 street: "Lehrstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.0342071
 longitude: 14.209575300000001
-postcode: 4540
+postcode: "4540"
 city: Bad Hall
 street: "Hauptplatz"
 housenumber: 18

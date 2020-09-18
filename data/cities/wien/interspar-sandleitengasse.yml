@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.220245600000005
 longitude: 16.306526400000003
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Sandleitengasse"
 housenumber: 41

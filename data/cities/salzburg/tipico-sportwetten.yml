@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 47.8020499
 longitude: 13.0183572
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Innsbrucker Bundesstraße"
 housenumber: 70

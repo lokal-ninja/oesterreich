@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0026334
 longitude: 13.649907
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Robert-Kunz-Straße"
 housenumber: 3

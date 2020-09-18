@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.189944800000006
 longitude: 14.119446700000001
-postcode: 4614
+postcode: "4614"
 city: Marchtrenk
 street: "Tonstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Jagd
 latitude: 47.1543768
 longitude: 9.822385200000001
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Werdenbergerstraße"
 housenumber: 2

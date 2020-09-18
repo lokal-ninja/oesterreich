@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5160822
 longitude: 15.4922295
-postcode: 3542
+postcode: "3542"
 city: Gföhl
 street: "Körnermarkt"
 housenumber: 7

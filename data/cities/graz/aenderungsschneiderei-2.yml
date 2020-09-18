@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.109544400000004
 longitude: 15.415415000000001
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Andritzer Reichsstraße"
 housenumber: 78

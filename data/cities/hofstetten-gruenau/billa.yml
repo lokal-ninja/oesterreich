@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1016193
 longitude: 15.518289600000001
-postcode: 3202
+postcode: "3202"
 city: Hofstetten-Grünau
 street: "St. Pöltner Straße"
 housenumber: 55

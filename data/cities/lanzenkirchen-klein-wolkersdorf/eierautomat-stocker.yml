@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.752873400000006
 longitude: 16.2508866
-postcode: 2821
+postcode: "2821"
 city: Lanzenkirchen, Klein Wolkersdorf
 street: "Wiener Neustädter Straße"
 housenumber: 

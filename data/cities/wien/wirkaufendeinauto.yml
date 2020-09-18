@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.248314500000006
 longitude: 16.443708
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Komzakgasse"
 housenumber: 21

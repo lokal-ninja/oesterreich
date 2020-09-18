@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 47.738836000000006
 longitude: 13.0370977
-postcode: 5082
+postcode: "5082"
 city: Grödig
 street: "Marktstraße"
 housenumber: 1

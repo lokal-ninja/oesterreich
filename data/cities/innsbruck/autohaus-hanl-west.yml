@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.2614181
 longitude: 11.3754246
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Bachlechnerstraße"
 housenumber: 25

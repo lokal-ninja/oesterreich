@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.1396047
 longitude: 16.2928539
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Seybelgasse"
 housenumber: 38

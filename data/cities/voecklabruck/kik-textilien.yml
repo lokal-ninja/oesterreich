@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.0049386
 longitude: 13.673354900000001
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Kopernikus-Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.138278400000004
 longitude: 16.2747022
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 378A/2/30

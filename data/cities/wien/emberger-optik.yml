@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.2182279
 longitude: 16.332527300000002
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Elterleinplatz"
 housenumber: 15

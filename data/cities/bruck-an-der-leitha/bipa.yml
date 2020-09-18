@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.0227543
 longitude: 16.7777722
-postcode: 2460
+postcode: "2460"
 city: Bruck an der Leitha
 street: "Kirchengasse"
 housenumber: 24

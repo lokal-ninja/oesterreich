@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.13848410000001
 longitude: 16.3986382
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Oberlaaer Straße"
 housenumber: 72

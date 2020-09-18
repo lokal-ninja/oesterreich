@@ -3,7 +3,7 @@ type: node
 shop: Töpferei
 latitude: 48.1780501
 longitude: 16.3317981
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Rauchgasse"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.1945265
 longitude: 16.3871003
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Rennweg"
 housenumber: 37

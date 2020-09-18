@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8015618
 longitude: 16.6762562
-postcode: 7071
+postcode: "7071"
 city: Rust
 street: "Hauptstraße"
 housenumber: 21

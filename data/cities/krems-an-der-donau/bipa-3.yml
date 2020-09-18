@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.4162824
 longitude: 15.621702
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Wiener Straße"
 housenumber: 96-102

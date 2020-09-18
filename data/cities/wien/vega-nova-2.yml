@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.192149900000004
 longitude: 16.359451
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretenstraße"
 housenumber: 82

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.899448400000004
 longitude: 13.764909200000002
-postcode: 4813
+postcode: "4813"
 city: Altmünster
 street: "Hauptstraße"
 housenumber: 34

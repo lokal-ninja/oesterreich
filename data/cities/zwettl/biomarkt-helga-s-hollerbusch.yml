@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.603122400000004
 longitude: 15.1678788
-postcode: 3910
+postcode: "3910"
 city: Zwettl
 street: "Landstraße"
 housenumber: 5

@@ -1,12 +1,12 @@
-id: 3291248061
+id: 3393600363
 type: node
 shop: Drogerie
-latitude: 48.1991968
-longitude: 16.3879246
-postcode: 1030
+latitude: 48.1371957
+longitude: 16.277921600000003
+postcode: "1230"
 city: Wien
-street: "Neulinggasse"
-housenumber: 28
-phone: "+43 1 9611358"
-opening_hours: "Mo-Fr 8:00-19:30; Sa 8:00-18:00"
-website: "https://www.bipa.at/"
+street: "Breitenfurter Straße"
+housenumber: 372/26
+phone: ""
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off"
+website: ""

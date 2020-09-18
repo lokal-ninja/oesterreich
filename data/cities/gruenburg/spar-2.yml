@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.971280900000004
 longitude: 14.263682600000001
-postcode: 4594
+postcode: "4594"
 city: Grünburg
 street: "Hauptstraße"
 housenumber: 23

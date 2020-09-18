@@ -3,9 +3,9 @@ type: way
 shop: Wein
 latitude: 46.689160900000005
 longitude: 15.457902400000002
-postcode: 8463
+postcode: "8463"
 city: Eichberg-Trautenburg
-street: "Eichberg-Trautenburg"
+street: ""
 housenumber: 9
 phone: ""
 opening_hours: ""

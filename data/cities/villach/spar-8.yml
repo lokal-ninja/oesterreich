@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.6231602
 longitude: 13.841935800000002
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Vassacher Straße"
 housenumber: 1a

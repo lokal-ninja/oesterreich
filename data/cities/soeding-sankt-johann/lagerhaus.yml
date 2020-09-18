@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 46.996796100000005
 longitude: 15.2834932
-postcode: 8561
+postcode: "8561"
 city: Söding-Sankt Johann
 street: "Bahnhofstraße"
 housenumber: 79

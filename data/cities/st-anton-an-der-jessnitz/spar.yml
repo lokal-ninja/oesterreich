@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9640379
 longitude: 15.2003889
-postcode: 3283
+postcode: "3283"
 city: St. Anton an der Jeßnitz
 street: ""
 housenumber: 10a

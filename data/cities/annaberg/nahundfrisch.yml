@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8719346
 longitude: 15.375424
-postcode: 3222
+postcode: "3222"
 city: Annaberg
 street: ""
 housenumber: 7

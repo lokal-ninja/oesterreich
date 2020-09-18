@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.4874566
 longitude: 12.0644836
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "Josef Speckbacher-Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.0731018
 longitude: 15.4533435
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Leonhardstraße"
 housenumber: 45

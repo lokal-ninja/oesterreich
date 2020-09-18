@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2702819
 longitude: 9.6134293
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Königshofstraße"
 housenumber: 79

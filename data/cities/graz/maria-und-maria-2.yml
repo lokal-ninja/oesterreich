@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.0696025
 longitude: 15.440759900000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Herrengasse"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.253379300000006
 longitude: 16.4259191
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Angyalföldstraße"
 housenumber: 76

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.366994000000005
 longitude: 9.671606
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Lustenauer Straße"
 housenumber: 70

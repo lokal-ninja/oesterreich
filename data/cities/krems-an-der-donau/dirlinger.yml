@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.411248400000005
 longitude: 15.624519300000001
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Wilheringstraße"
 housenumber: 20

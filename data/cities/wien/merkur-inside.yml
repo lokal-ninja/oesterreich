@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2403209
 longitude: 16.3413861
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Krottenbachstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.265653
 longitude: 11.3974589
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Wilhelm-Greil-Straße"
 housenumber: 9

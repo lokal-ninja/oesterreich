@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.0409224
 longitude: 13.5351403
-postcode: 4872
+postcode: "4872"
 city: Neukirchen an der Vöckla
 street: "Lichtenegger Straße"
 housenumber: 3

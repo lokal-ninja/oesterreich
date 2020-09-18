@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.5032221
 longitude: 14.3617302
-postcode: 4192
+postcode: "4192"
 city: Schenkenfelden
 street: "Markt"
 housenumber: 26

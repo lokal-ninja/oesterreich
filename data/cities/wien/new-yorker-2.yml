@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1762686
 longitude: 16.3775778
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Favoritenstraße"
 housenumber: 103

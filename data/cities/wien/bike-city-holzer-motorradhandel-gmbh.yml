@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1906363
 longitude: 16.323449
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Mariahilfer Straße"
 housenumber: 206

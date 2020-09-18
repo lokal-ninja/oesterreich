@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.0575418
 longitude: 15.4758244
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Breitenweg"
 housenumber: 4

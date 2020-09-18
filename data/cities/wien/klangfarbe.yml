@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.1847359
 longitude: 16.4216366
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Guglgasse"
 housenumber: 14

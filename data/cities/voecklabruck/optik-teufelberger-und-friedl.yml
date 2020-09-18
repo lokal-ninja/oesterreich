@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.001088700000004
 longitude: 13.6504627
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Robert Kunz-Straße"
 housenumber: 11

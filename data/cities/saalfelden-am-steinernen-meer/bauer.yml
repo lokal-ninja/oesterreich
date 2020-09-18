@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.4285122
 longitude: 12.841943
-postcode: 5760
+postcode: "5760"
 city: Saalfelden am Steinernen Meer
 street: "Zeller Bundesstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.2337524
 longitude: 11.373038300000001
-postcode: 6161
+postcode: "6161"
 city: Natters
 street: "Dorfplatz"
 housenumber: 3

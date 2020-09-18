@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5705426
 longitude: 16.6993177
-postcode: 2225
+postcode: "2225"
 city: Zistersdorf
 street: ""
 housenumber: 36

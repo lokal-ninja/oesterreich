@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1666742
 longitude: 14.7161459
-postcode: 3313
+postcode: "3313"
 city: Wallsee-Sindelburg
 street: "Marktplatz"
 housenumber: 12

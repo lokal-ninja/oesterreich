@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.897767200000004
 longitude: 15.9643028
-postcode: 2763
+postcode: "2763"
 city: Pernitz
 street: "Hauptstraße"
 housenumber: 62

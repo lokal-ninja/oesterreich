@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2529331
 longitude: 12.2801836
-postcode: 5741
+postcode: "5741"
 city: Neukirchen am Großvenediger
 street: "Deningfeld"
 housenumber: 424

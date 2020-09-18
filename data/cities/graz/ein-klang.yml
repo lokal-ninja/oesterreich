@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.0718813
 longitude: 15.433714400000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Mariahilferstraße"
 housenumber: 12

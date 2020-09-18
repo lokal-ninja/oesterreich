@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.2026283
 longitude: 16.3551892
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Siebensterngasse"
 housenumber: 16a

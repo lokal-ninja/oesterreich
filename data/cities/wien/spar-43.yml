@@ -1,12 +1,12 @@
-id: 3186428214
+id: 2577022337
 type: node
 shop: Supermarkt
-latitude: 48.203090800000005
-longitude: 16.327108000000003
-postcode: 1150
+latitude: 48.2467419
+longitude: 16.4524753
+postcode: "1220"
 city: Wien
-street: "Camillo-Sitte-Gasse"
-housenumber: 6
-phone: "+43 1 7863884"
-opening_hours: "Mo-Fr 07:40-18:00; Sa 07:40-20:00"
-website: "https://www.spar.at/standorte/spar-wien-rudolfsheim-fuenfhaus-1150-camillo-sitte-gasse-6"
+street: "Hirschstettner Straße"
+housenumber: 13
+phone: "+43 1 2022841"
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+website: "https://www.spar.at/standorte/spar-wien-1220-hirschstettner-strasse-13"

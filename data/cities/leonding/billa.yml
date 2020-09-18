@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2631888
 longitude: 14.258790200000002
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Ehrenfellnerstraße"
 housenumber: 2

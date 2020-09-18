@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.4128848
 longitude: 9.7110655
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Messestraße"
 housenumber: 2

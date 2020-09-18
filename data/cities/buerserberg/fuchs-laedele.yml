@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.141873100000005
 longitude: 9.7776771
-postcode: 6707
+postcode: "6707"
 city: Bürserberg
 street: "Boden"
 housenumber: 1

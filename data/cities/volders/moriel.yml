@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.2885092
 longitude: 11.583692500000002
-postcode: 6111
+postcode: "6111"
 city: Volders
 street: "Innsbruckerstraße"
 housenumber: 61

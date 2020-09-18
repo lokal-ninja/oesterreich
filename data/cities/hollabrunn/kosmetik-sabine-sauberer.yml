@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.562579500000005
 longitude: 16.0779991
-postcode: 2020
+postcode: "2020"
 city: Hollabrunn
 street: "Hauptplatz"
 housenumber: 6

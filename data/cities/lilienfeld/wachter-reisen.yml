@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.01127
 longitude: 15.582562800000002
-postcode: 3180
+postcode: "3180"
 city: Lilienfeld
 street: "Christof Brandl Gasse"
 housenumber: 2

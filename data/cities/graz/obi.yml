@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.036265400000005
 longitude: 15.4856089
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Sankt-Peter-Gürtel"
 housenumber: 12

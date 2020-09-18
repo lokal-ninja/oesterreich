@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.080961300000006
 longitude: 15.403564300000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Peter-Tunner-Gasse"
 housenumber: 47

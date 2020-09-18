@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2122181
 longitude: 16.3715721
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Fischerstiege"
 housenumber: 1

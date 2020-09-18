@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.055478300000004
 longitude: 15.1183223
-postcode: 8582
+postcode: "8582"
 city: Rosental an der Kainach
 street: "Knappenplatz"
 housenumber: 19

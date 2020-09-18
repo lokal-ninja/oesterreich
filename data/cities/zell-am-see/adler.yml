@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.2983278
 longitude: 12.788054
-postcode: 5700
+postcode: "5700"
 city: Zell am See
 street: "Flugplatzstraße"
 housenumber: 3

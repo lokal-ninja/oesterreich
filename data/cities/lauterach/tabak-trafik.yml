@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.483315700000006
 longitude: 9.7198153
-postcode: 6923
+postcode: "6923"
 city: Lauterach
 street: "Harderstraße"
 housenumber: 54

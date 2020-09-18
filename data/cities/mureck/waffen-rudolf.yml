@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 46.707712300000004
 longitude: 15.775297600000002
-postcode: 8480
+postcode: "8480"
 city: Mureck
 street: "Hauptplatz"
 housenumber: 36

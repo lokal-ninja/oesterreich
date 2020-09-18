@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.5558448
 longitude: 13.7909009
-postcode: 9587
+postcode: "9587"
 city: Riegersdorf
 street: "Hart"
 housenumber: 31/8

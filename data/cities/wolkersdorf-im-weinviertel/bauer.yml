@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.382836000000005
 longitude: 16.5189081
-postcode: 2120
+postcode: "2120"
 city: Wolkersdorf im Weinviertel
 street: "Hauptstraße"
 housenumber: 47

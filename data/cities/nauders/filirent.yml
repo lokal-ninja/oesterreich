@@ -3,7 +3,7 @@ type: way
 shop: Mieten
 latitude: 46.8921177
 longitude: 10.500119900000001
-postcode: 6543
+postcode: "6543"
 city: Nauders
 street: "Nauders"
 housenumber: 407

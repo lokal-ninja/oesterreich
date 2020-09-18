@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.2269713
 longitude: 16.3429617
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Gentzgasse"
 housenumber: 45/1

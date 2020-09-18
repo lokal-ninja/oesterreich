@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 47.0345851
 longitude: 15.493320800000001
-postcode: 8041
+postcode: "8041"
 city: Graz
 street: "Josef-Krainer-Straße"
 housenumber: 11

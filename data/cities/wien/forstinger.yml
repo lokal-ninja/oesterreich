@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.263722800000004
 longitude: 16.4556608
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: ""
 housenumber: 

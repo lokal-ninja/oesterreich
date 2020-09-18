@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.208017100000006
 longitude: 14.6777733
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Hauptstraße"
 housenumber: 1

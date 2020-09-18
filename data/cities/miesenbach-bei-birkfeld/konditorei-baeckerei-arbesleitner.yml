@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.370275400000004
 longitude: 15.7602972
-postcode: 8190
+postcode: "8190"
 city: Miesenbach bei Birkfeld
 street: ""
 housenumber: 1

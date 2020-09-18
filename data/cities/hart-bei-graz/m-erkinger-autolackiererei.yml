@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.0414298
 longitude: 15.508964100000002
-postcode: 8075
+postcode: "8075"
 city: Hart bei Graz
 street: "Industriestraße"
 housenumber: 1-3

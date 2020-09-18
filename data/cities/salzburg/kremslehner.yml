@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.791364300000005
 longitude: 13.0487213
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Nonntaler Hauptstraße"
 housenumber: 42A

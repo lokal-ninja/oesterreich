@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.679278700000005
 longitude: 15.401160800000001
-postcode: 8454
+postcode: "8454"
 city: Arnfels
 street: "Leibnitzer Straße"
 housenumber: 193

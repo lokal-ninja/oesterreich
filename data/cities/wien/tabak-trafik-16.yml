@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 48.191826000000006
 longitude: 16.3591963
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretenplatz"
 housenumber: 1

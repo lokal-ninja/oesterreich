@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1752139
 longitude: 16.3775894
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Favoritenstraße"
 housenumber: 130

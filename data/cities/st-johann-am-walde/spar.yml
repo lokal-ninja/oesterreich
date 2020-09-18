@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1219844
 longitude: 13.2846214
-postcode: 5242
+postcode: "5242"
 city: St. Johann am Walde
 street: ""
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.115674600000006
 longitude: 15.349438000000001
-postcode: 8111
+postcode: "8111"
 city: Judendorf
 street: "Grazer Straße"
 housenumber: 73

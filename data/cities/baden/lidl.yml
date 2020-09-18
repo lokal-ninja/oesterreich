@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0125158
 longitude: 16.2532704
-postcode: 2500
+postcode: "2500"
 city: Baden
 street: "Dammgasse"
 housenumber: 64

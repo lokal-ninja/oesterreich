@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.787031500000005
 longitude: 16.2567561
-postcode: 2801
+postcode: "2801"
 city: Katzelsdorf
 street: "Gewerbepark"
 housenumber: 2

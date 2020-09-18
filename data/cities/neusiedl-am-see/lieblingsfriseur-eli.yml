@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.958148300000005
 longitude: 16.8390914
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Am Wagram"
 housenumber: 7

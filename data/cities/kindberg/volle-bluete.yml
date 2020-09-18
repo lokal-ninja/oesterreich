@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.481724500000006
 longitude: 15.406066800000001
-postcode: 8643
+postcode: "8643"
 city: Kindberg
 street: ""
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.0702817
 longitude: 15.440073000000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Stempfergasse"
 housenumber: 11

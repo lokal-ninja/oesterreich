@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 47.4362823
 longitude: 11.8823854
-postcode: 6230
+postcode: "6230"
 city: Brixlegg
 street: "Niederfeldweg"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2270058
 longitude: 16.3962261
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Krakauer Straße"
 housenumber: 23

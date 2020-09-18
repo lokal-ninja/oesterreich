@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 47.071288
 longitude: 15.440948700000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Glockenspielplatz"
 housenumber: 1

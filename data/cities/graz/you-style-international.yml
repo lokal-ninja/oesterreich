@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.0869737
 longitude: 15.435582900000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: ""
 housenumber: 

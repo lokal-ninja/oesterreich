@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.161267200000005
 longitude: 16.3182224
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Altmannsdorfer Straße"
 housenumber: 115

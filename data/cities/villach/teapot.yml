@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 46.614565000000006
 longitude: 13.8482544
-postcode: 9500
+postcode: "9500"
 city: VIllach
 street: "Gerbergasse"
 housenumber: 11

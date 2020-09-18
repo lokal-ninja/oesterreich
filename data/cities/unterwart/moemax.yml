@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.2714233
 longitude: 16.2353248
-postcode: 7502
+postcode: "7502"
 city: Unterwart
 street: "Gewerbepark"
 housenumber: 14

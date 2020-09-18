@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.234087200000005
 longitude: 16.3278427
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Gersthofer Straße"
 housenumber: 26

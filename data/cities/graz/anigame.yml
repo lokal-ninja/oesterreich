@@ -3,7 +3,7 @@ type: node
 shop: Videospiele
 latitude: 47.0663058
 longitude: 15.4420674
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Jakoministraße"
 housenumber: 8

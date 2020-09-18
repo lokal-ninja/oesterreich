@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 46.9383014
 longitude: 15.997077800000001
-postcode: 8350
+postcode: "8350"
 city: Fehring
 street: ""
 housenumber: 6

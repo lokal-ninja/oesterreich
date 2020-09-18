@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 47.9291239
 longitude: 15.088358000000001
-postcode: 3292
+postcode: "3292"
 city: Gaming
 street: "Im Markt"
 housenumber: 2

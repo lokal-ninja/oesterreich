@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.173343700000004
 longitude: 15.616071000000002
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Porschestraße"
 housenumber: 10

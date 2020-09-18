@@ -3,7 +3,7 @@ type: node
 shop: Kräuter
 latitude: 48.203146600000004
 longitude: 16.3491554
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Neubaugasse"
 housenumber: 62

@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.101607900000005
 longitude: 14.7980654
-postcode: 3362
+postcode: "3362"
 city: Öhling
 street: "Öhling"
 housenumber: 35

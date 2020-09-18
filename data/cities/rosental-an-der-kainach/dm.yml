@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.0556652
 longitude: 15.117685600000002
-postcode: 8582
+postcode: "8582"
 city: Rosental an der Kainach
 street: "Knappenplatz"
 housenumber: 13

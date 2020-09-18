@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1991177
 longitude: 16.326138
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Hütteldorfer Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3646972
 longitude: 9.689431500000001
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Marktstraße"
 housenumber: 7

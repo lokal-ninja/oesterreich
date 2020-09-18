@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 48.2017346
 longitude: 16.3456447
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Westbahnstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8501654
 longitude: 16.1923141
-postcode: 2752
+postcode: "2752"
 city: Wöllersdorf
 street: "Feuerwerksanstalt"
 housenumber: 895

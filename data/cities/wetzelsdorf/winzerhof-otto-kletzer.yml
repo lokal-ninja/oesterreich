@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.6468842
 longitude: 16.632079100000002
-postcode: 2170
+postcode: "2170"
 city: Wetzelsdorf
 street: "Parkstraße"
 housenumber: 90

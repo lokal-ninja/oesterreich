@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.8144496
 longitude: 13.0487926
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Weiserhofstraße"
 housenumber: 18

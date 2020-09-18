@@ -1,12 +1,12 @@
-id: 636138683
+id: 623160886
 type: node
 shop: Supermarkt
-latitude: 48.2153866
-longitude: 16.348260500000002
-postcode: 1090
+latitude: 48.1932824
+longitude: 16.353460600000002
+postcode: "1060"
 city: Wien
-street: "Alser Straße"
-housenumber: 22
-phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Oct 26 off"
-website: ""
+street: "Hofmühlgasse"
+housenumber: 4
+phone: "+43 1 5853264"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+website: "https://www.spar.at/standorte/spar-wien-1060-hofmuehlgasse-4"

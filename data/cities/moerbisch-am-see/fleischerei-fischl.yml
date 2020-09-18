@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.754604300000004
 longitude: 16.6683704
-postcode: 7072
+postcode: "7072"
 city: Mörbisch am See
 street: "Hauptstraße"
 housenumber: 5

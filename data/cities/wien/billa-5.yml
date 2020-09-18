@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.22079
 longitude: 16.321357600000002
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Wattgasse"
 housenumber: 78-80

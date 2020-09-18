@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.610177300000004
 longitude: 16.4967684
-postcode: 7323
+postcode: "7323"
 city: Ritzing
 street: "Hauptstraße"
 housenumber: 36

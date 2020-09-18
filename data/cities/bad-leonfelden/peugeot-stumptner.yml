@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 48.5277703
 longitude: 14.2938045
-postcode: 4190
+postcode: "4190"
 city: Bad Leonfelden
 street: "Böhmer Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""
-website: "www.peugeot-stumptner.at"
+website: "http://auto-stumptner.at/"

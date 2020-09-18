@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 46.6236022
 longitude: 14.309307100000002
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt
 street: "Paradeisergasse"
 housenumber: 4

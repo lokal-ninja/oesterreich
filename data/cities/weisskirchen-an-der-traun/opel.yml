@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.164838800000005
 longitude: 14.114809600000001
-postcode: 4616
+postcode: "4616"
 city: Weißkirchen an der Traun
 street: "Böllerstraße"
 housenumber: 12

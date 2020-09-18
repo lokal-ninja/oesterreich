@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2043011
 longitude: 16.3520696
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Burggasse"
 housenumber: 24

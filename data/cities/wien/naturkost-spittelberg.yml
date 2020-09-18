@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2037111
 longitude: 16.355195600000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Spittelberggasse"
 housenumber: 24

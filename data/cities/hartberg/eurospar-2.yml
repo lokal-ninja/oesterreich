@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.271779
 longitude: 15.961694300000001
-postcode: 8230
+postcode: "8230"
 city: Hartberg
 street: "Ressavarstraße"
 housenumber: 1

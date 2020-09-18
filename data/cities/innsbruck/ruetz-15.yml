@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2574837
 longitude: 11.3505774
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Fürstenweg"
 housenumber: 180

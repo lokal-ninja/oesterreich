@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.236237200000005
 longitude: 14.626470000000001
-postcode: 4320
+postcode: "4320"
 city: Perg
 street: "Gewerbestraße"
 housenumber: 10

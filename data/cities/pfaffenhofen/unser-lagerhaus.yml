@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.3000369
 longitude: 11.072920600000002
-postcode: 6405
+postcode: "6405"
 city: Pfaffenhofen
 street: "Gewerbepark"
 housenumber: 2

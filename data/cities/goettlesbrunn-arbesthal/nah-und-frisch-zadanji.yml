@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0596127
 longitude: 16.7380302
-postcode: 2464
+postcode: "2464"
 city: Göttlesbrunn-Arbesthal
 street: "Kirchenstraße"
 housenumber: 3

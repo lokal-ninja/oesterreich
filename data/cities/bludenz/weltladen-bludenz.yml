@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.1567421
 longitude: 9.819589800000001
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Kirchgasse"
 housenumber: 2

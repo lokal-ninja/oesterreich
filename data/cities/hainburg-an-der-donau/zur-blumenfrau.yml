@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1470872
 longitude: 16.9455134
-postcode: 2410
+postcode: "2410"
 city: Hainburg an der Donau
 street: "Alte Poststraße"
 housenumber: 48

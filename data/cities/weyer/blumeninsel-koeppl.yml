@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.853386400000005
 longitude: 14.653838200000001
-postcode: 3335
+postcode: "3335"
 city: Weyer
 street: "Steyrer Straße"
 housenumber: 304

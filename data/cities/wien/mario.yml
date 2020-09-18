@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.187543000000005
 longitude: 16.2811972
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Hietzinger Hauptstraße"
 housenumber: 92

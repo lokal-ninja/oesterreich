@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.274646600000004
 longitude: 16.407403600000002
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Brünner Straße"
 housenumber: 115

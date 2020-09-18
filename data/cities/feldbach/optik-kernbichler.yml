@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.9523978
 longitude: 15.889852800000002
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Bürgergasse"
 housenumber: 7

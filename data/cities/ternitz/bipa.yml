@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.717718100000006
 longitude: 16.037121600000003
-postcode: 2630
+postcode: "2630"
 city: Ternitz
 street: "Ruedlstraße"
 housenumber: 15

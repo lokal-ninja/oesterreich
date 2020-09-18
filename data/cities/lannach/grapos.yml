@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 46.9527773
 longitude: 15.334761
-postcode: 8502
+postcode: "8502"
 city: Lannach
 street: "Industriestraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.6265963
 longitude: 14.3074478
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Theatergasse"
 housenumber: 4

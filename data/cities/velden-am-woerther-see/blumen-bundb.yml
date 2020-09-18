@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 46.6129228
 longitude: 14.032778700000001
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Villacher Straße"
 housenumber: 41

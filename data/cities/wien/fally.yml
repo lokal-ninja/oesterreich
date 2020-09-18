@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.213547600000005
 longitude: 16.3314106
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Haberlgasse"
 housenumber: 89

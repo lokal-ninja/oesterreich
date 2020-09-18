@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 46.6058311
 longitude: 13.8452564
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Wilhelm-Hohenheim-Straße"
 housenumber: 19

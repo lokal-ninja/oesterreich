@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.394461
 longitude: 15.6833991
-postcode: 8190
+postcode: "8190"
 city: Birkfeld
 street: ""
 housenumber: 133

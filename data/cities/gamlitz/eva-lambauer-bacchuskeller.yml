@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 46.6856713
 longitude: 15.5496268
-postcode: 8462
+postcode: "8462"
 city: Gamlitz
 street: ""
 housenumber: 37

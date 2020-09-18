@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8426837
 longitude: 13.031054200000002
-postcode: 5101
+postcode: "5101"
 city: Bergheim
 street: "Dorfstraße"
 housenumber: 40

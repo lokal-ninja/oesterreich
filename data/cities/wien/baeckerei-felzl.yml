@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2130294
 longitude: 16.364007
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Helferstorferstraße"
 housenumber: 2

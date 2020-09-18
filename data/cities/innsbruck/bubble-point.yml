@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.2658307
 longitude: 11.3823345
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Fürstenweg"
 housenumber: 8

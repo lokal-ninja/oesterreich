@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.4883667
 longitude: 9.6886949
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Landstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.966506800000005
 longitude: 15.4842635
-postcode: 8401
+postcode: "8401"
 city: Kalsdorf
 street: "Fernitzer Straße"
 housenumber: 15

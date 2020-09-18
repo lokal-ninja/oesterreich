@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.2664953
 longitude: 11.3976564
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Wilhelm-Greil-Straße"
 housenumber: 1

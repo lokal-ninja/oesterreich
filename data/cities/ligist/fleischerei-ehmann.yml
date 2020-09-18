@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 46.994290500000005
 longitude: 15.2069439
-postcode: 8563
+postcode: "8563"
 city: Ligist
 street: ""
 housenumber: 20a

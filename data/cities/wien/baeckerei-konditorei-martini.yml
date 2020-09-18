@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2186697
 longitude: 16.3276435
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Hernalser Hauptstraße"
 housenumber: 89

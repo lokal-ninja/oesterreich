@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.197568200000006
 longitude: 16.3700176
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Karlsgasse"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0959772
 longitude: 13.6614061
-postcode: 4901
+postcode: "4901"
 city: Ottnang am Hausruck
 street: "Hauptstraße"
 housenumber: 10

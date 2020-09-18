@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.1363746
 longitude: 10.5236733
-postcode: 6500
+postcode: "6500"
 city: Grins
 street: "Gurnau"
 housenumber: 114a

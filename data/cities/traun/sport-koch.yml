@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.222157900000006
 longitude: 14.2399125
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Johann Roithner-Straße"
 housenumber: 6

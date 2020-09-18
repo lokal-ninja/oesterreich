@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.191752300000005
 longitude: 16.3582071
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretenplatz"
 housenumber: 6

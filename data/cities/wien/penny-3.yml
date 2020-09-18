@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.19187
 longitude: 16.287199700000002
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Zehetnergasse"
 housenumber: 6

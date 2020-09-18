@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.4280088
 longitude: 11.877409400000001
-postcode: 6230
+postcode: "6230"
 city: Brixlegg
 street: "Marktstraße"
 housenumber: 38

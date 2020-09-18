@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 47.105068
 longitude: 15.7111339
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Florianiplatz"
 housenumber: 19

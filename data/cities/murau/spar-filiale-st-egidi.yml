@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.113044
 longitude: 14.1796565
-postcode: 8850
+postcode: "8850"
 city: Murau
 street: "Keltensiedlung"
 housenumber: 108

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.903443700000004
 longitude: 14.123373200000001
-postcode: 4560
+postcode: "4560"
 city: Kirchdorf an der Krems
 street: "Steiermärker Straße"
 housenumber: 3

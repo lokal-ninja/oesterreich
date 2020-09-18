@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.1088637
 longitude: 14.1794629
-postcode: 8850
+postcode: "8850"
 city: Murau
 street: "Bahnhofviertel"
 housenumber: 27

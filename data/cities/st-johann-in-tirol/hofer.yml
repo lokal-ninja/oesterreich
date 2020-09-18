@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.527582100000004
 longitude: 12.425750500000001
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Salzburgerstraße"
 housenumber: 20a

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.284537
 longitude: 9.629925700000001
-postcode: 6830
+postcode: "6830"
 city: Rankweil
 street: "Treietstraße"
 housenumber: 44

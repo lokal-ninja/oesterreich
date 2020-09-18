@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.662481500000005
 longitude: 13.078353100000001
-postcode: 9635
+postcode: "9635"
 city: Dellach im Gailtal
 street: "Dellach"
 housenumber: 66

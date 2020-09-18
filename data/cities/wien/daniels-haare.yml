@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.191332900000006
 longitude: 16.357918700000003
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretenplatz"
 housenumber: 4

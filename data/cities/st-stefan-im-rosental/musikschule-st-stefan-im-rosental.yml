@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 46.9061309
 longitude: 15.715192300000002
-postcode: 8083
+postcode: "8083"
 city: St. Stefan im Rosental
 street: "Schichenauerstraße"
 housenumber: 

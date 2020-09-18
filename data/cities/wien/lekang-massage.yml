@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.2040919
 longitude: 16.3504848
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Burggasse"
 housenumber: 53

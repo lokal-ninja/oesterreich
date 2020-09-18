@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 47.3384148
 longitude: 9.651551300000001
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Im Buch"
 housenumber: 32a

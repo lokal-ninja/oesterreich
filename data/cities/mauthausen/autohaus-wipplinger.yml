@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.2417804
 longitude: 14.5463909
-postcode: 4310
+postcode: "4310"
 city: Mauthausen
 street: "Gewerbestraße"
 housenumber: 1

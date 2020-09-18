@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.192914300000005
 longitude: 15.894670900000001
-postcode: 3040
+postcode: "3040"
 city: Neulengbach
 street: "Tullner Straße"
 housenumber: 52

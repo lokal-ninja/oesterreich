@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.258417200000004
 longitude: 16.3983871
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Schloßhofer Straße"
 housenumber: 1

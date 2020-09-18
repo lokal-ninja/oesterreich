@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.4289974
 longitude: 9.8966109
-postcode: 6863
+postcode: "6863"
 city: Egg
 street: "Pfister"
 housenumber: 1235

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.8131439
 longitude: 16.242667400000002
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Hauptplatz"
 housenumber: 6

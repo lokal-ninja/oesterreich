@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.196009700000005
 longitude: 15.764284700000001
-postcode: 3071
+postcode: "3071"
 city: Böheimkirchen
 street: "Hainfelder Straße"
 housenumber: 6

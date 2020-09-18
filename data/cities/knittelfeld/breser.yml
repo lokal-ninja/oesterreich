@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 47.2141874
 longitude: 14.829106200000002
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Hauptplatz"
 housenumber: 11

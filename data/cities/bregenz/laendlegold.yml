@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.5022625
 longitude: 9.7452135
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Montfortstraße"
 housenumber: 2

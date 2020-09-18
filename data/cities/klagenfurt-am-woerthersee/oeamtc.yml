@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.6260594
 longitude: 14.3229693
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Alois-Schader-Straße"
 housenumber: 11

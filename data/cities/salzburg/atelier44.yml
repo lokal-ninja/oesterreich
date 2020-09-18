@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.806836600000004
 longitude: 13.0579783
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Schallmooser Hauptstraße"
 housenumber: 44

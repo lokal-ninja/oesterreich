@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.8868548
 longitude: 14.2675067
-postcode: 4591
+postcode: "4591"
 city: Molln
 street: "Dr. Bauer Straße"
 housenumber: 11

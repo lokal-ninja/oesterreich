@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.978323200000005
 longitude: 16.853250600000003
-postcode: 7111
+postcode: "7111"
 city: Parndorf
 street: "Gewerbestraße"
 housenumber: 1

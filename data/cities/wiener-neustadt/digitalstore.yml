@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.8155069
 longitude: 16.2443376
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Wiener Straße"
 housenumber: 38

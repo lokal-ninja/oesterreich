@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.261113900000005
 longitude: 11.3964265
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Heiliggeiststraße"
 housenumber: 6a

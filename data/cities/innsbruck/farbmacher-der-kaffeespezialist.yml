@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.2706023
 longitude: 11.4038869
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Ing.-Etzel-Straße"
 housenumber: 49

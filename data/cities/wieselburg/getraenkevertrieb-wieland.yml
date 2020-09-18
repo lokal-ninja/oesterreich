@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.131142200000006
 longitude: 15.140425500000001
-postcode: 3250
+postcode: "3250"
 city: Wieselburg
 street: "Bahnhofstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 48.259550100000006
 longitude: 13.049133800000002
-postcode: 5280
+postcode: "5280"
 city: Braunau am Inn
 street: "Hans Sachs-Straße"
 housenumber: 10

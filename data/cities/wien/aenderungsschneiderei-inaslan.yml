@@ -3,10 +3,10 @@ type: node
 shop: Schneiderei
 latitude: 48.1982542
 longitude: 16.324829700000002
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Huglgasse"
 housenumber: 13
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-13:00,14:00-18:00; Sa 08:00-13:00"
 website: ""

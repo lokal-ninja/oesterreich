@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1444544
 longitude: 16.293221300000003
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 270

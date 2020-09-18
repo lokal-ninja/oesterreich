@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.292037
 longitude: 11.5928087
-postcode: 6112
+postcode: "6112"
 city: Wattens
 street: "Kirchplatz"
 housenumber: 4a

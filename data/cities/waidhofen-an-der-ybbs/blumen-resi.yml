@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.9601891
 longitude: 14.773078700000001
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Unterer Stadtplatz"
 housenumber: 35

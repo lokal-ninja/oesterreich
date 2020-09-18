@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 48.2099794
 longitude: 16.335164600000002
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Grundsteingasse"
 housenumber: 29-31

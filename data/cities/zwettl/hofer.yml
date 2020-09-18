@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6001691
 longitude: 15.1885106
-postcode: 3910
+postcode: "3910"
 city: Zwettl
 street: "Andre Freyskorn-Straße"
 housenumber: 20

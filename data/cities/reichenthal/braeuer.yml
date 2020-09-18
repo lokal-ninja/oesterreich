@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.5440267
 longitude: 14.3852597
-postcode: 4193
+postcode: "4193"
 city: Reichenthal
 street: "Marktplatz"
 housenumber: 3

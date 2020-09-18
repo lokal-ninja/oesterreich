@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.839219400000005
 longitude: 16.5274937
-postcode: 7000
+postcode: "7000"
 city: Eisenstadt
 street: "Ruster Strasse"
 housenumber: 55

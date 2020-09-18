@@ -3,7 +3,7 @@ type: way
 shop: Boot
 latitude: 47.9173203
 longitude: 16.764572
-postcode: 7091
+postcode: "7091"
 city: Breitenbrunn
 street: "Im Seebad"
 housenumber: 

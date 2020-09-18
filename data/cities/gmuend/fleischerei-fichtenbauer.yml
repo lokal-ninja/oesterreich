@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.773133400000006
 longitude: 14.985933200000002
-postcode: 3950
+postcode: "3950"
 city: Gmünd
 street: "Stadtplatz"
 housenumber: 33

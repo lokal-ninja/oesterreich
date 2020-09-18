@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 47.487284
 longitude: 10.7190969
-postcode: 6600
+postcode: "6600"
 city: Reutte
 street: "Klosterweg"
 housenumber: 1

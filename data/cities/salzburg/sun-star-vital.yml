@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.8013251
 longitude: 13.018531900000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Maxglaner Hauptstraße"
 housenumber: 72

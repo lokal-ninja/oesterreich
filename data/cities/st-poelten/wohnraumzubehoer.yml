@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.204774300000004
 longitude: 15.6290475
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Schmiedgasse"
 housenumber: 4-6

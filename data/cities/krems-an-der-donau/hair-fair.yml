@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4093559
 longitude: 15.597050800000002
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Utzstraße"
 housenumber: 1

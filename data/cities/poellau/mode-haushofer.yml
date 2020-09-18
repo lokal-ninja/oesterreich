@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.3014771
 longitude: 15.832803700000001
-postcode: 8225
+postcode: "8225"
 city: Pöllau
 street: "Remigigasse"
 housenumber: 43

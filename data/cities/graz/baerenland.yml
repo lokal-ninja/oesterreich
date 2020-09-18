@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 47.071725900000004
 longitude: 15.4377048
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Sackstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 46.608752
 longitude: 14.331425200000002
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Südring"
 housenumber: 322

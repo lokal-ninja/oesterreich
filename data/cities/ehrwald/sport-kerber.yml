@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.3978933
 longitude: 10.920002100000001
-postcode: 6632
+postcode: "6632"
 city: Ehrwald
 street: "Florentin Wehner-Weg"
 housenumber: 1

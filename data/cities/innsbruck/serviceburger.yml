@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.2625359
 longitude: 11.3788993
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Ampfererstraße"
 housenumber: 3

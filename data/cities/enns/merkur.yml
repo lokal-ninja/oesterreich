@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.215080900000004
 longitude: 14.464170800000002
-postcode: 4470
+postcode: "4470"
 city: Enns
 street: "Landstraße"
 housenumber: 2a

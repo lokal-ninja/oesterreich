@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.80576
 longitude: 13.4843927
-postcode: 9800
+postcode: "9800"
 city: Spittal an der Drau
 street: "Oberdorfer Straße"
 housenumber: 4

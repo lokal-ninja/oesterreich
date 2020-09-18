@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2829375
 longitude: 12.571708200000002
-postcode: 5723
+postcode: "5723"
 city: Uttendorf
 street: "Stubachstraße"
 housenumber: 16

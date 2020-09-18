@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.155388800000004
 longitude: 14.416313700000002
-postcode: 8811
+postcode: "8811"
 city: Scheifling
 street: "Gewerbepark Ost"
 housenumber: 2

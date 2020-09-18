@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.197524
 longitude: 16.2801438
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Hütteldorfer Straße"
 housenumber: 295

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4708788
 longitude: 14.540780000000002
-postcode: 4291
+postcode: "4291"
 city: Lasberg
 street: ""
 housenumber: 6

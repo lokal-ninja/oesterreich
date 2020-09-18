@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.2245469
 longitude: 16.352609400000002
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Wilhelm-Exner-Gasse"
 housenumber: 30

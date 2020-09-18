@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.2634331
 longitude: 11.410969300000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Pradler Straße"
 housenumber: 75

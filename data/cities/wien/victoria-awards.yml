@@ -3,7 +3,7 @@ type: node
 shop: Pokal
 latitude: 48.21069
 longitude: 16.3402087
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Blindengasse"
 housenumber: 29

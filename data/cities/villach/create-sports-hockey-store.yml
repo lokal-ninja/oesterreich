@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.613267300000004
 longitude: 13.8303892
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: ""
 housenumber: 

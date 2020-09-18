@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.219732
 longitude: 13.959844400000001
-postcode: 4702
+postcode: "4702"
 city: Wallern an der Trattnach
 street: "Edlgassen"
 housenumber: 9

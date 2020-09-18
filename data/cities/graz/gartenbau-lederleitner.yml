@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.084140000000005
 longitude: 15.460252400000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Hilmteichstraße"
 housenumber: 70

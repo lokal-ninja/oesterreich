@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.638487500000004
 longitude: 16.2808067
-postcode: 2153
+postcode: "2153"
 city: Patzmannsdorf
 street: ""
 housenumber: 153

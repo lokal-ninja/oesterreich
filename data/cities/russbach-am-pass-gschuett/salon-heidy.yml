@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.5926856
 longitude: 13.4681294
-postcode: 5442
+postcode: "5442"
 city: Rußbach am Paß Gschütt
 street: ""
 housenumber: 47

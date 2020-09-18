@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.258516300000004
 longitude: 16.451562600000003
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Rennbahnweg"
 housenumber: 

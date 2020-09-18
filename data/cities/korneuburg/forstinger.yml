@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.351094
 longitude: 16.3409514
-postcode: 2100
+postcode: "2100"
 city: Korneuburg
 street: "Laaer Straße"
 housenumber: 81

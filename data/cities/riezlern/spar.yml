@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.355774600000004
 longitude: 10.183562400000001
-postcode: 6991
+postcode: "6991"
 city: Riezlern
 street: "Walserstraße"
 housenumber: 74

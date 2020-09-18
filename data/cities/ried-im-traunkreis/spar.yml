@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0281583
 longitude: 14.078496600000001
-postcode: 4551
+postcode: "4551"
 city: Ried im Traunkreis
 street: "Florianistraße"
 housenumber: 2/4

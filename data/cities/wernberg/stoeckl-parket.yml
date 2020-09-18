@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.6231413
 longitude: 13.9405307
-postcode: 9241
+postcode: "9241"
 city: Wernberg
 street: "Trabeniger Straße"
 housenumber: 1

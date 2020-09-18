@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.113440000000004
 longitude: 16.3168991
-postcode: 2334
+postcode: "2334"
 city: Vösendorf
 street: "Westring"
 housenumber: 

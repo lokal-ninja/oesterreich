@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.1540199
 longitude: 9.819108
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Wichnerstraße"
 housenumber: 19

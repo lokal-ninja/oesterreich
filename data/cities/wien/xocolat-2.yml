@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.219836
 longitude: 16.364132400000003
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Servitengasse"
 housenumber: 5

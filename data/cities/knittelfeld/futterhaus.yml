@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 47.2105979
 longitude: 14.812314200000001
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Kärntner Straße"
 housenumber: 88

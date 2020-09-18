@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.250330600000005
 longitude: 13.366528700000002
-postcode: 4942
+postcode: "4942"
 city: Gurten
 street: ""
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 48.149143
 longitude: 16.2880431
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Taglieberstraße"
 housenumber: 4

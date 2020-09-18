@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.957091000000005
 longitude: 15.880328400000002
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Grazer Straße"
 housenumber: 33

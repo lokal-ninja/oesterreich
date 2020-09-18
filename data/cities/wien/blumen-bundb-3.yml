@@ -1,12 +1,12 @@
-id: 1306060243
+id: 1589577059
 type: node
 shop: Blumen
-latitude: 48.1885691
-longitude: 16.3853678
-postcode: 1030
+latitude: 48.195306300000006
+longitude: 16.3969765
+postcode: "1030"
 city: Wien
-street: "Fasangasse"
-housenumber: 55
-phone: ""
-opening_hours: ""
+street: "Landstraßer Hauptstraße"
+housenumber: 135
+phone: "+43 (0)699 / 15525 - 015"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:30; Su 09:00-15:00"
 website: ""

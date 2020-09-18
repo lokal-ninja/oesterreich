@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.264864900000006
 longitude: 11.3916836
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Fallmerayerstraße"
 housenumber: 6

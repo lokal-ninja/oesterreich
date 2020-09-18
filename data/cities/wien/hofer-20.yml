@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.178646
 longitude: 16.3710026
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Gudrunstraße"
 housenumber: 144

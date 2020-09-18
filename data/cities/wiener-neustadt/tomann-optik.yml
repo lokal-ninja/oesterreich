@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.813223300000004
 longitude: 16.241981000000003
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Herzog-Leopold-Straße"
 housenumber: 5

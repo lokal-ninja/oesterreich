@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.8020512
 longitude: 13.0152034
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Michael-Filz-Gasse"
 housenumber: 10

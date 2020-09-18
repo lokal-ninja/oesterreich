@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.8059682
 longitude: 13.0445054
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Mirabellplatz"
 housenumber: 

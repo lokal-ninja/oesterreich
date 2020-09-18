@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.2045724
 longitude: 15.6243557
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Kremser Gasse"
 housenumber: 

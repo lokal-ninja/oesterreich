@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.291497400000004
 longitude: 11.5904086
-postcode: 6112
+postcode: "6112"
 city: Wattens
 street: "Bahnhofstraße"
 housenumber: 11

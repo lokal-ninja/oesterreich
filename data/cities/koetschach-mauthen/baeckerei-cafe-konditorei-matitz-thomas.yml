@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.6776981
 longitude: 13.005314
-postcode: 9640
+postcode: "9640"
 city: Kötschach-Mauthen
 street: ""
 housenumber: 24

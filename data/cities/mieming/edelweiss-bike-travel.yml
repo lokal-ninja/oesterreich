@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.298460000000006
 longitude: 10.981020200000001
-postcode: 6414
+postcode: "6414"
 city: Mieming
 street: "Sportplatzweg"
 housenumber: 14

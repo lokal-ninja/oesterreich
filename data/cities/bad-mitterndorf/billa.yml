@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5577727
 longitude: 13.9242532
-postcode: 8983
+postcode: "8983"
 city: Bad Mitterndorf
 street: ""
 housenumber: 48

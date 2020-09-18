@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.1988995
 longitude: 16.363267
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Linke Wienzeile"
 housenumber: 16

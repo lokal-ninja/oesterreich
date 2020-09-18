@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8020524
 longitude: 13.488081600000001
-postcode: 9800
+postcode: "9800"
 city: Spittal an der Drau
 street: "Burgenlandstraße"
 housenumber: 5

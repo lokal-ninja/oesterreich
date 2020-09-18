@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1272061
 longitude: 11.334760300000001
-postcode: 6167
+postcode: "6167"
 city: Neustift im Stubaital
 street: "Stubaitalstraße"
 housenumber: 9

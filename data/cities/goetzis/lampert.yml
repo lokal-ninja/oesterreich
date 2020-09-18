@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.331154600000005
 longitude: 9.6382063
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Doktor-Alfons-Heinzle-Straße"
 housenumber: 45

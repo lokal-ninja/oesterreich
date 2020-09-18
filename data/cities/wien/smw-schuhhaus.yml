@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.2005885
 longitude: 16.3507068
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Zollergasse"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.3202341
 longitude: 16.0801678
-postcode: 3430
+postcode: "3430"
 city: Tulln
 street: "Königstetter Straße"
 housenumber: 138

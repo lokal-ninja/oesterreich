@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 46.8873181
 longitude: 15.897806600000001
-postcode: 8344
+postcode: "8344"
 city: Bad Gleichenberg
 street: "Grazer Straße"
 housenumber: 84

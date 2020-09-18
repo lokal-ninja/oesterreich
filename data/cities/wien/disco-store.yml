@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.1871403
 longitude: 16.3209939
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Weiglgasse"
 housenumber: 16

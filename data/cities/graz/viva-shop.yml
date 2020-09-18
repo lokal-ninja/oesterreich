@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.0436367
 longitude: 15.487126900000002
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Sankt-Peter-Hauptstraße"
 housenumber: 228

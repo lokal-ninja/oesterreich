@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.9726793
 longitude: 14.1644547
-postcode: 4542
+postcode: "4542"
 city: Nußbach
 street: "Hauptstraße"
 housenumber: 53

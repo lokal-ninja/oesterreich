@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.343627000000005
 longitude: 15.910403700000002
-postcode: 3435
+postcode: "3435"
 city: Zwentendorf an der Donau
 street: "Hauptstraße"
 housenumber: 9

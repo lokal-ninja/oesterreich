@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 46.831191800000006
 longitude: 12.7751186
-postcode: 9900
+postcode: "9900"
 city: Lienz
 street: "Vinzenz Goller-Straße"
 housenumber: 5

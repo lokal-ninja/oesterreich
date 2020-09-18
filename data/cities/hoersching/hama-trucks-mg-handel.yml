@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2075727
 longitude: 14.1631818
-postcode: 4063
+postcode: "4063"
 city: Hörsching
 street: "Hofgasse"
 housenumber: 25

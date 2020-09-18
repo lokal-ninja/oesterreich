@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.942602
 longitude: 14.358112400000001
-postcode: 4452
+postcode: "4452"
 city: Ternberg
 street: "Roseggerstraße"
 housenumber: 2

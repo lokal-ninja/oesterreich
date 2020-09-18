@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.2012969
 longitude: 16.3434084
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Schottenfeldgasse"
 housenumber: 42-44

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.00439
 longitude: 13.6417873
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Salzburger Straße"
 housenumber: 36

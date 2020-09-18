@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.436267
 longitude: 11.883725
-postcode: 6230
+postcode: "6230"
 city: Brixlegg
 street: "Niederfeldweg"
 housenumber: 

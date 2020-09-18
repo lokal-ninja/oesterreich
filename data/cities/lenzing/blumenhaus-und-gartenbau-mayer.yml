@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.9741511
 longitude: 13.6097128
-postcode: 4860
+postcode: "4860"
 city: Lenzing
 street: "Attersee Straße"
 housenumber: 65

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.2181092
 longitude: 16.3245665
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Gschwandnergasse"
 housenumber: 29

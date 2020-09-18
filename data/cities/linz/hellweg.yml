@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.2430077
 longitude: 14.278710700000001
-postcode: 4034
+postcode: "4034"
 city: Linz
 street: "Neubauzeile"
 housenumber: 102

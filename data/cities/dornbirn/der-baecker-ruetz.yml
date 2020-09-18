@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.433571500000006
 longitude: 9.7387779
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Schwefel"
 housenumber: 100

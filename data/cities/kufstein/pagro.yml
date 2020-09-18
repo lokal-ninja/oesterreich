@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.5946234
 longitude: 12.175025000000002
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Rosenheimer Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.852475000000005
 longitude: 15.2898776
-postcode: 3842
+postcode: "3842"
 city: Thaya
 street: "Prof. Dr. Schönbauer Siedlung"
 housenumber: 4

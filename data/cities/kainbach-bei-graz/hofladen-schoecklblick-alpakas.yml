@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.1031786
 longitude: 15.545068800000001
-postcode: 8010
+postcode: "8010"
 city: Kainbach bei Graz
 street: "Frauensäulenweg"
 housenumber: 4

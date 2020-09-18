@@ -1,12 +1,12 @@
-id: 2526240474
+id: 4188028782
 type: node
 shop: Kiosk
-latitude: 48.1980383
-longitude: 16.400812000000002
-postcode: 1030
+latitude: 48.1320953
+longitude: 16.281186
+postcode: "1230"
 city: Wien
-street: "Erdbergstraße"
-housenumber: 90
-phone: ""
-opening_hours: ""
+street: "Perchtoldsdorfer Straße"
+housenumber: 25/3
+phone: "+43 1 865 33 29"
+opening_hours: "Mo-Fr 6:00-18:00; Sa 7:00-12:30; Su,PH off"
 website: ""

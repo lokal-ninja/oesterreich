@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.108492000000005
 longitude: 16.3144098
-postcode: 2345
+postcode: "2345"
 city: Brunn am Gebirge
 street: ""
 housenumber: 

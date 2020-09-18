@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.857595
 longitude: 15.1099306
-postcode: 3860
+postcode: "3860"
 city: Heidenreichstein
 street: "Kleinpertholz"
 housenumber: 92

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.5921193
 longitude: 14.0196017
-postcode: 9232
+postcode: "9232"
 city: Rosegg
 street: "Mautweg"
 housenumber: 7

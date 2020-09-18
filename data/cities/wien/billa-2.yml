@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2087419
 longitude: 16.3928589
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Löwengasse"
 housenumber: 33

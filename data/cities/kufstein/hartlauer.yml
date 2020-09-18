@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.5838387
 longitude: 12.1709188
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Theatergasse"
 housenumber: 1

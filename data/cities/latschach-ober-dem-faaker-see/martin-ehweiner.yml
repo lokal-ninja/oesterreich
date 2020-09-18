@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 46.5583776
 longitude: 13.9246163
-postcode: 9582
+postcode: "9582"
 city: Latschach ober dem Faaker See
 street: "Rosentalstraße"
 housenumber: 22

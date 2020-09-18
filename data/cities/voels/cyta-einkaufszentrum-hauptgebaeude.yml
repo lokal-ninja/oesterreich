@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.256131700000005
 longitude: 11.3252775
-postcode: 6176
+postcode: "6176"
 city: Völs
 street: "Cytastraße"
 housenumber: 1

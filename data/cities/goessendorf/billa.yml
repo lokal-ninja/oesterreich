@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.9972854
 longitude: 15.494775
-postcode: 8077
+postcode: "8077"
 city: Gössendorf
 street: "Bundesstraße"
 housenumber: 240

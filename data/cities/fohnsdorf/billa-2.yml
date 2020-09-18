@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.208219
 longitude: 14.681336700000001
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Grazerstraße"
 housenumber: 13

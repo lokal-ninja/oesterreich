@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.333019500000006
 longitude: 16.131535200000002
-postcode: 3425
+postcode: "3425"
 city: Langenlebarn
 street: "Schiffmühlstraße"
 housenumber: 7

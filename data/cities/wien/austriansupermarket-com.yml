@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.2171224
 longitude: 16.3167254
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Speckbachergasse"
 housenumber: 37

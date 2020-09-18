@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.307001500000005
 longitude: 11.078301600000001
-postcode: 6410
+postcode: "6410"
 city: Telfs
 street: "Untermarktstraße"
 housenumber: 64

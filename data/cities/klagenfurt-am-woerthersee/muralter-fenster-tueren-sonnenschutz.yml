@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 46.614262000000004
 longitude: 14.3411293
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Ebentaler Straße"
 housenumber: 149

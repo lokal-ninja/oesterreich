@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0222819
 longitude: 14.407451400000001
-postcode: 4451
+postcode: "4451"
 city: Garsten
 street: "Am Platzl"
 housenumber: 12

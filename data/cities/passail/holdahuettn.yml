@@ -3,7 +3,7 @@ type: way
 shop: Tickets
 latitude: 47.345320400000006
 longitude: 15.5417026
-postcode: 8172
+postcode: "8172"
 city: Passail
 street: ""
 housenumber: 37

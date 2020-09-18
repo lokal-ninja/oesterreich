@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2946697
 longitude: 13.4356743
-postcode: 4973
+postcode: "4973"
 city: Sankt Martin im Innkreis
 street: ""
 housenumber: 244

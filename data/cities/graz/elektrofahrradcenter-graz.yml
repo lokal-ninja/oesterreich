@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.034510000000004
 longitude: 15.4448474
-postcode: 8055
+postcode: "8055"
 city: Graz
 street: "Puntigamer Straße"
 housenumber: 124

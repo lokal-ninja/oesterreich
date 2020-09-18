@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.196645100000005
 longitude: 15.764716400000001
-postcode: 3071
+postcode: "3071"
 city: Böheimkirchen
 street: "Hainfelder Straße"
 housenumber: 6

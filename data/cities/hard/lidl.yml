@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.481393800000006
 longitude: 9.689024
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Bahnhofstraße"
 housenumber: 17

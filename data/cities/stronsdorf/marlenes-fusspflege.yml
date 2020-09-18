@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.6559029
 longitude: 16.2947446
-postcode: 2153
+postcode: "2153"
 city: Stronsdorf
 street: ""
 housenumber: 355

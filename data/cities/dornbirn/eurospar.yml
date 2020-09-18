@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.407942600000005
 longitude: 9.742012200000001
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Marktstraße"
 housenumber: 67

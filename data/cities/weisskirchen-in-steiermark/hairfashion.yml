@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.1542982
 longitude: 14.7400005
-postcode: 8741
+postcode: "8741"
 city: Weißkirchen in Steiermark
 street: "Stubalpenstraße"
 housenumber: 4

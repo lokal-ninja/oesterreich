@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 46.8709489
 longitude: 14.4710142
-postcode: 9330
+postcode: "9330"
 city: Althofen
 street: "Kreuzstraße"
 housenumber: 5

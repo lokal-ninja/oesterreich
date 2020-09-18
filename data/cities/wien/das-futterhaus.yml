@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.2550715
 longitude: 16.427905900000003
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: ""
 housenumber: 

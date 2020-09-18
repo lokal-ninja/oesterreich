@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.582188800000004
 longitude: 15.648771300000002
-postcode: 8682
+postcode: "8682"
 city: Mürzzuschlag
 street: "Grazer Straße"
 housenumber: 85a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.262210800000005
 longitude: 11.429013900000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Amraser-See-Straße"
 housenumber: 56

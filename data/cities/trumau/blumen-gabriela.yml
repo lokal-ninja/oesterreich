@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.9913163
 longitude: 16.341128400000002
-postcode: 2521
+postcode: "2521"
 city: Trumau
 street: "Dr. Figl-Straße"
 housenumber: 19

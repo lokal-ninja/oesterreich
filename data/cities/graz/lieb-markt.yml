@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.106609500000005
 longitude: 15.4142349
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Weinzöttlstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 48.1885142
 longitude: 16.2854521
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Wittegasse"
 housenumber: 2

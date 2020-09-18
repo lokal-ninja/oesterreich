@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4304733
 longitude: 12.8426957
-postcode: 
+postcode: ""
 city: Saalfelden am Steinernen Meer
 street: "Leogangerstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.849969800000004
 longitude: 13.446003300000001
-postcode: 4882
+postcode: "4882"
 city: Oberwang
 street: "Gewerbestraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.577279000000004
 longitude: 15.4955902
-postcode: 8663
+postcode: "8663"
 city: Sankt Barbara im Mürztal
 street: "Untere Hauptstraße"
 housenumber: 19

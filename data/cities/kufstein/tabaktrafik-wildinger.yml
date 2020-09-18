@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.5903384
 longitude: 12.1784633
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Sterzinger Straße"
 housenumber: 12b

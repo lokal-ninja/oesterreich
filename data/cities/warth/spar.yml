@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2593576
 longitude: 10.182597000000001
-postcode: 6767
+postcode: "6767"
 city: Warth
 street: "Warth"
 housenumber: 54

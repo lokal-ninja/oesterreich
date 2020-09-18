@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.228701
 longitude: 16.3688426
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Wallensteinstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 46.9939533
 longitude: 15.502543200000002
-postcode: 8071
+postcode: "8071"
 city: Hausmannstätten
 street: "Grazer Straße"
 housenumber: 31a

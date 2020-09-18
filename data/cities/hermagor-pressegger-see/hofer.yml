@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 46.624836800000004
 longitude: 13.373106300000002
-postcode: 9620
+postcode: "9620"
 city: Hermagor-Pressegger See
 street: "Egger Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.hofer.at/"

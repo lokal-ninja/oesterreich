@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.2470281
 longitude: 16.4630335
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Gewerbeparkstraße"
 housenumber: 

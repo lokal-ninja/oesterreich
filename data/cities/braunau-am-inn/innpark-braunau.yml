@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.243483700000006
 longitude: 13.0454459
-postcode: 5280
+postcode: "5280"
 city: Braunau am Inn
 street: "Bauhofstraße"
 housenumber: 1

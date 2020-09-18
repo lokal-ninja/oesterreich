@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.468803300000005
 longitude: 12.3844671
-postcode: 6370
+postcode: "6370"
 city: Kitzbühel
 street: "St.Johanner Straße"
 housenumber: 120

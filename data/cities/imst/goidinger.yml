@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.2178035
 longitude: 10.7437409
-postcode: 6460
+postcode: "6460"
 city: Imst
 street: "Gewerbepark"
 housenumber: 2

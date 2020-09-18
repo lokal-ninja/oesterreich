@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 48.4721314
 longitude: 15.677489000000001
-postcode: 3550
+postcode: "3550"
 city: Langenlois
 street: "Wiener Straße"
 housenumber: 1

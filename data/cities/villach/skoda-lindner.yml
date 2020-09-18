@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.591081800000005
 longitude: 13.839172000000001
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Triglavstraße"
 housenumber: 27

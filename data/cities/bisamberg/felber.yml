@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3302545
 longitude: 16.35966
-postcode: 2102
+postcode: "2102"
 city: Bisamberg
 street: "Hauptstraße"
 housenumber: 24-26

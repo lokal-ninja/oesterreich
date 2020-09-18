@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.1117123
 longitude: 14.178814200000001
-postcode: 8850
+postcode: "8850"
 city: Murau
 street: "Grazer Straße"
 housenumber: 27

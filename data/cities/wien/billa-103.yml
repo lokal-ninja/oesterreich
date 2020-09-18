@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2311466
 longitude: 16.3240155
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Thimiggasse"
 housenumber: 42

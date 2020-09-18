@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.262618100000005
 longitude: 16.4325453
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Leopoldauer Straße"
 housenumber: 1a

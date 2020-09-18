@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 46.9223073
 longitude: 15.8713814
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: ""
 housenumber: 1

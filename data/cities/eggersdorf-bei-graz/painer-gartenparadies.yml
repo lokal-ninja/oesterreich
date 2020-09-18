@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.113993900000004
 longitude: 15.588513500000001
-postcode: 8063
+postcode: "8063"
 city: Eggersdorf bei Graz
 street: "Badstraße"
 housenumber: 48

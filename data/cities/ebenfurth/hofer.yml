@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8751905
 longitude: 16.3753835
-postcode: 2490
+postcode: "2490"
 city: Ebenfurth
 street: "Hauptstraße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.2836237
 longitude: 9.6193624
-postcode: 6830
+postcode: "6830"
 city: Rankweil
 street: "Bundesstraße"
 housenumber: 82

@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 46.832753700000005
 longitude: 12.769396400000002
-postcode: 9900
+postcode: "9900"
 city: Lienz
 street: "Beda Weber-Gasse"
 housenumber: 10

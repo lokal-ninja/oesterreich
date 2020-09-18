@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.1480576
 longitude: 13.3080446
-postcode: 5251
+postcode: "5251"
 city: Höhnhart
 street: "Eigelsberg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.267466600000006
 longitude: 16.4751622
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Hermann-Gebauer-Straße"
 housenumber: 26a

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.1949109
 longitude: 16.3708615
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Taubstummengasse"
 housenumber: 13

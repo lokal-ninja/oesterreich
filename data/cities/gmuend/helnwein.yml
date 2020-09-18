@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.761479300000005
 longitude: 14.9739073
-postcode: 3950
+postcode: "3950"
 city: Gmünd
 street: "Conrathstraße"
 housenumber: 34

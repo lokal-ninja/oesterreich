@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.152908100000005
 longitude: 16.6595857
-postcode: 2304
+postcode: "2304"
 city: Mannsdorf an der Donau
 street: "Kirchengasse"
 housenumber: 1

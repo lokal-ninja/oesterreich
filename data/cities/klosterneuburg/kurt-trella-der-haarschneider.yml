@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2909262
 longitude: 16.3091255
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Hauptstraße"
 housenumber: 8

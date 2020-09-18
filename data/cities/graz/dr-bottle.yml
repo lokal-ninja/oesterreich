@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.0669045
 longitude: 15.4459654
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Reitschulgasse"
 housenumber: 27

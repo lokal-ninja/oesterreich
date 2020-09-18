@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.1586918
 longitude: 12.839507500000002
-postcode: 5122
+postcode: "5122"
 city: Hochburg-Ach
 street: "Athalerstraße"
 housenumber: 5c

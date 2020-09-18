@@ -3,9 +3,9 @@ type: way
 shop: Textil
 latitude: 48.52409290000001
 longitude: 14.1759181
-postcode: 4183
+postcode: "4183"
 city: Traberg
-street: "Ahorn"
+street: ""
 housenumber: 57
 phone: ""
 opening_hours: ""

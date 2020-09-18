@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 47.169024900000004
 longitude: 10.163497300000001
-postcode: 6763
+postcode: "6763"
 city: Zürs
 street: "Zürs"
 housenumber: 126

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.3620427
 longitude: 9.6881541
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "St.-Karl-Straße"
 housenumber: 2

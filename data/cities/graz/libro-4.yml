@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.1016811
 longitude: 15.4165922
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Weinzöttlstraße"
 housenumber: 14

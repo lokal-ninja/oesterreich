@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3669596
 longitude: 14.5177595
-postcode: 4232
+postcode: "4232"
 city: Hagenberg
 street: "Hauptstraße"
 housenumber: 

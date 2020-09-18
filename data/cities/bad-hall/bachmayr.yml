@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0426219
 longitude: 14.250685800000001
-postcode: 4540
+postcode: "4540"
 city: Bad Hall
 street: "Großmengersdorf"
 housenumber: 19

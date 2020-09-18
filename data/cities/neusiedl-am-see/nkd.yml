@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.950225100000004
 longitude: 16.8391483
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Obere Hauptstraße"
 housenumber: 24

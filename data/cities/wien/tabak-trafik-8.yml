@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.1870387
 longitude: 16.3627085
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Nikolsdorfer Gasse"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.90714070000001
 longitude: 14.1196739
-postcode: 4560
+postcode: "4560"
 city: Kirchdorf an der Krems
 street: "Bambergstraße"
 housenumber: 11

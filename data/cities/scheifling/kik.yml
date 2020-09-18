@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.155157200000005
 longitude: 14.415469900000002
-postcode: 8811
+postcode: "8811"
 city: Scheifling
 street: ""
 housenumber: 

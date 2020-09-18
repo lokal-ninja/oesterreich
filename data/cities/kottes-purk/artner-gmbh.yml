@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.4178434
 longitude: 15.307542100000001
-postcode: 3623
+postcode: "3623"
 city: Kottes-Purk
 street: "Kremstalstraße"
 housenumber: 23

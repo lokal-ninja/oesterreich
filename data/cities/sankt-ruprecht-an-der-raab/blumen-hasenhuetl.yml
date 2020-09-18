@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.1536662
 longitude: 15.661850500000002
-postcode: 8181
+postcode: "8181"
 city: Sankt Ruprecht an der Raab
 street: "Hauptplatz"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9469493
 longitude: 14.8958124
-postcode: 3341
+postcode: "3341"
 city: Ybbsitz
 street: "Markt"
 housenumber: 23

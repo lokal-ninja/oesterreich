@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4718839
 longitude: 15.6744888
-postcode: 3550
+postcode: "3550"
 city: Langenlois
 street: "Rudolfstraße"
 housenumber: 15

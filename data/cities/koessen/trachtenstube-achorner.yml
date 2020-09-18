@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.6510576
 longitude: 12.3415206
-postcode: 6345
+postcode: "6345"
 city: Kössen
 street: "Kranzach"
 housenumber: 8

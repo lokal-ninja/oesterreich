@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.9226492
 longitude: 16.1865387
-postcode: 2551
+postcode: "2551"
 city: Enzesfeld
 street: "Fabriksstraße"
 housenumber: 6

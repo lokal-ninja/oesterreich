@@ -1,12 +1,12 @@
-id: 4567697167
+id: 4354682820
 type: node
 shop: Supermarkt
-latitude: 48.188865500000006
-longitude: 16.351397900000002
-postcode: 1050
+latitude: 48.1257706
+longitude: 16.2256232
+postcode: "1230"
 city: Wien
-street: "Reinprechtsdorfer Straße"
-housenumber: 63
+street: "Kaltenleutgebner Straße"
+housenumber: 24
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: ""
+opening_hours: "MO-FR 07:15-19:30, SA 07:15-18:00"
+website: "https://www.spar.at/"

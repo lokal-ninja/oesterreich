@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.2543492
 longitude: 12.281393000000001
-postcode: 5741
+postcode: "5741"
 city: Neukirchen am Großvenediger
 street: "Wildkogelbahnstraße"
 housenumber: 280

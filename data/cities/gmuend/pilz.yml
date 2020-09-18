@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.772713200000005
 longitude: 14.9847975
-postcode: 3950
+postcode: "3950"
 city: Gmünd
 street: "Stadtplatz"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.285786200000004
 longitude: 14.3717033
-postcode: 4221
+postcode: "4221"
 city: Steyregg
 street: "Stadtplatz"
 housenumber: 20

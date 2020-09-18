@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1875639
 longitude: 16.368091
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Johann-Strauß-Gasse"
 housenumber: 24

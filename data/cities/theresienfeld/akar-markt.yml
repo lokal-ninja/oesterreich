@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 47.860994700000006
 longitude: 16.2472807
-postcode: 2604
+postcode: "2604"
 city: Theresienfeld
 street: "Hauptplatz"
 housenumber: 10

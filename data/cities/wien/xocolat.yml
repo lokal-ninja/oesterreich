@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.2110203
 longitude: 16.365500700000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Freyung"
 housenumber: 2

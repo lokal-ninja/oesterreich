@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.870130100000004
 longitude: 14.4705481
-postcode: 9330
+postcode: "9330"
 city: Althofen
 street: "Hauptplatz"
 housenumber: 9

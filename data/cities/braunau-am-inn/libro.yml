@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.250404100000004
 longitude: 13.0446323
-postcode: 5280
+postcode: "5280"
 city: Braunau am Inn
 street: "Eralchweg"
 housenumber: 12

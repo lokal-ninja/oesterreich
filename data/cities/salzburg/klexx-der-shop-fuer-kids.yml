@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.800881000000004
 longitude: 13.041779100000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Ferdinand-Hanusch-Platz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 47.810531000000005
 longitude: 13.001633700000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Etrichstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4084633
 longitude: 15.275304100000001
-postcode: 8600
+postcode: "8600"
 city: Bruck an der Mur
 street: "Grazer Straße"
 housenumber: 5

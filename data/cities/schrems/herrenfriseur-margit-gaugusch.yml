@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7932853
 longitude: 15.069354700000002
-postcode: 3943
+postcode: "3943"
 city: Schrems
 street: "Hauptplatz"
 housenumber: 1

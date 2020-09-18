@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.384754300000004
 longitude: 13.4644598
-postcode: 5550
+postcode: "5550"
 city: Radstadt
 street: "Schernbergstraße"
 housenumber: 12

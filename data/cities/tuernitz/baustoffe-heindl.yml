@@ -1,12 +1,12 @@
 id: 5692876254
 type: node
-shop: Baustoffe
+shop: Baumarkt
 latitude: 47.929647
 longitude: 15.4900748
-postcode: 3184
+postcode: "3184"
 city: Türnitz
 street: "Pyrker Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.baustoffe-heindl.at/"

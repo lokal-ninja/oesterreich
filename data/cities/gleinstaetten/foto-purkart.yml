@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 46.7545176
 longitude: 15.368938700000001
-postcode: 8443
+postcode: "8443"
 city: Gleinstätten
 street: ""
 housenumber: 71

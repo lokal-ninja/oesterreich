@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.261943200000005
 longitude: 16.424399
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Leopoldauer Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.085769400000004
 longitude: 15.430938900000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Theodor-Körner-Straße"
 housenumber: 68

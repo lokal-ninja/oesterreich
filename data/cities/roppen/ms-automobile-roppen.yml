@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.2310674
 longitude: 10.8300926
-postcode: 6426
+postcode: "6426"
 city: Roppen
 street: "MS-Design-Straße"
 housenumber: 1

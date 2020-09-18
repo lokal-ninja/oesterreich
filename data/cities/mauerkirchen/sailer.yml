@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1905276
 longitude: 13.135467
-postcode: 5270
+postcode: "5270"
 city: Mauerkirchen
 street: "Obermarkt"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.207706900000005
 longitude: 16.343264400000002
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Lerchenfelder Straße"
 housenumber: 112

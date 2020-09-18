@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.525422000000006
 longitude: 14.293653500000001
-postcode: 4190
+postcode: "4190"
 city: Bad Leonfelden
 street: "Mitterweg"
 housenumber: 1

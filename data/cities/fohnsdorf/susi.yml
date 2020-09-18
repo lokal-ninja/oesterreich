@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.208614700000005
 longitude: 14.6774742
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Hauptplatz"
 housenumber: 1a

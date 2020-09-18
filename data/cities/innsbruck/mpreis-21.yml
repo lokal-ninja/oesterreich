@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.275049
 longitude: 11.4186274
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "General-Eccher-Straße"
 housenumber: 36

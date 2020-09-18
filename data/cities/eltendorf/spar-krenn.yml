@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.0064623
 longitude: 16.1979475
-postcode: 7562
+postcode: "7562"
 city: Eltendorf
 street: "Grazer Straße"
 housenumber: 17

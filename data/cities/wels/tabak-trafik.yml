@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.1666049
 longitude: 14.0238109
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Grünbachplatz"
 housenumber: 7k

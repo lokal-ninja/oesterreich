@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.492631700000004
 longitude: 9.7251244
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Michael-Gaismayr-Straße"
 housenumber: 31

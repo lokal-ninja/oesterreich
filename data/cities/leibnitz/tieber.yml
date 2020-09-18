@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 46.7811249
 longitude: 15.536767800000002
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Rudolf Hans Bartsch Gasse"
 housenumber: 2

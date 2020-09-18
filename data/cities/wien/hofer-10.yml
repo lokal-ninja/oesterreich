@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.203531000000005
 longitude: 16.345173000000003
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Zieglergasse"
 housenumber: 58-64

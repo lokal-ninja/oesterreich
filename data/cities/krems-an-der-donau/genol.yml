@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.4071542
 longitude: 15.6410765
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Dr.-Franz-Wilhelm-Straße"
 housenumber: 

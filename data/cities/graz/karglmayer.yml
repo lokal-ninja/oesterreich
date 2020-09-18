@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.0651625
 longitude: 15.4431603
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Grazbachgasse"
 housenumber: 34

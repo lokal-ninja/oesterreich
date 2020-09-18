@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0830849
 longitude: 16.348470600000002
-postcode: 2362
+postcode: "2362"
 city: Biedermannsdorf
 street: "Ortsstraße"
 housenumber: 33

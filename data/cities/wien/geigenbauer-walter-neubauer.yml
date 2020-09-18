@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.202227900000004
 longitude: 16.3777076
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Lothringerstraße"
 housenumber: 11

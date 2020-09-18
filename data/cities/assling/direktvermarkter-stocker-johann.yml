@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 46.7930287
 longitude: 12.6657522
-postcode: 9911
+postcode: "9911"
 city: Assling
 street: ""
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.055706400000005
 longitude: 15.117170100000001
-postcode: 8582
+postcode: "8582"
 city: Rosental an der Kainach
 street: "Knappenplatz"
 housenumber: 9

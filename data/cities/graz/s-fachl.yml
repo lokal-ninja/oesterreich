@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.0701571
 longitude: 15.4402573
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Herrengasse"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.582014300000004
 longitude: 16.4258172
-postcode: 7331
+postcode: "7331"
 city: Weppersdorf
 street: "Hauptstraße"
 housenumber: 49

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 47.806020600000004
 longitude: 13.0529717
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Schallmooser Hauptstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.2843687
 longitude: 14.292535500000001
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Unionstraße"
 housenumber: 55

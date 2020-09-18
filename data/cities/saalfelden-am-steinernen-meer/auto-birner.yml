@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.4202068
 longitude: 12.8256797
-postcode: 5760
+postcode: "5760"
 city: Saalfelden am Steinernen Meer
 street: "Zellerstraße"
 housenumber: 47a

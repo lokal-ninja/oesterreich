@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.1825088
 longitude: 13.9452805
-postcode: 4631
+postcode: "4631"
 city: Krenglbach
 street: "Radgattern"
 housenumber: 1

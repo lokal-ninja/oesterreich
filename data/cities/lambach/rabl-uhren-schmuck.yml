@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.0925462
 longitude: 13.874053400000001
-postcode: 4650
+postcode: "4650"
 city: Lambach
 street: "Leitenstraße"
 housenumber: 11

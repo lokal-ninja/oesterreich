@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.195244
 longitude: 11.1559629
-postcode: 6182
+postcode: "6182"
 city: Gries im Sellrain
 street: "Gries"
 housenumber: 17a

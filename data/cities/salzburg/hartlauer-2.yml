@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.7850005
 longitude: 13.052586600000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Nonntaler Hauptstraße"
 housenumber: 61

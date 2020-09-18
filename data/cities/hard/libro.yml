@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.4769482
 longitude: 9.679662800000001
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Rheinstraße"
 housenumber: 99b

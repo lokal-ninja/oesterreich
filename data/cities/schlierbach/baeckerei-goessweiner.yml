@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.9353728
 longitude: 14.1154521
-postcode: 4553
+postcode: "4553"
 city: Schlierbach
 street: "Landstraße"
 housenumber: 27

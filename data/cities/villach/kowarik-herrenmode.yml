@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.6124294
 longitude: 13.8437236
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Hans-Gasser-Platz"
 housenumber: 9/1A

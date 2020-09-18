@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.230254
 longitude: 16.3715699
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Wallensteinplatz"
 housenumber: 2

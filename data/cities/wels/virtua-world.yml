@@ -3,7 +3,7 @@ type: node
 shop: Videospiele
 latitude: 48.162024800000005
 longitude: 14.0265245
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Roseggerstraße"
 housenumber: 34

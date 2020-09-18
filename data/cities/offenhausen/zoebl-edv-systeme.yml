@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.1546572
 longitude: 13.8363756
-postcode: 4625
+postcode: "4625"
 city: Offenhausen
 street: "Herrenstraße"
 housenumber: 7

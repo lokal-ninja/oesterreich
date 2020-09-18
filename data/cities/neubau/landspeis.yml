@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.5025185
 longitude: 16.521627000000002
-postcode: 2125
+postcode: "2125"
 city: Neubau
 street: "An der L6"
 housenumber: 

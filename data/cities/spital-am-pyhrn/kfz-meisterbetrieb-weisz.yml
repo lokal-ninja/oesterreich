@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 47.6607003
 longitude: 14.339328600000002
-postcode: 4582
+postcode: "4582"
 city: Spital am Pyhrn
-street: ""
-housenumber: 
+street: "Pyhrnstraße"
+housenumber: 18
 phone: ""
 opening_hours: "Mo-Th 07:30-12:00, 13:00-17:00; Fr 07:30-12:00"
 website: "http://www.bernhardweisz.at/kontakt/"

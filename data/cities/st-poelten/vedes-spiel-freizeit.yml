@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.2208309
 longitude: 15.6388355
-postcode: 3107
+postcode: "3107"
 city: St. Pölten
 street: "Dr.-Adolf-Schärf-Straße"
 housenumber: 10-12

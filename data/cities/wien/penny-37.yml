@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2599875
 longitude: 16.4409575
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Alfred-Kubin-Platz"
 housenumber: 1

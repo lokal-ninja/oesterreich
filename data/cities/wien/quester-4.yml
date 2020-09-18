@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.2404121
 longitude: 16.360651700000002
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Heiligenstädter Straße"
 housenumber: 52

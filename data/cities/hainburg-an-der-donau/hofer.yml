@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1408177
 longitude: 16.920967100000002
-postcode: 2410
+postcode: "2410"
 city: Hainburg an der Donau
 street: "Landstraße"
 housenumber: 118

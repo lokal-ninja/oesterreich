@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsartikel
 latitude: 46.780613800000005
 longitude: 15.5390966
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Schmiedgasse"
 housenumber: 5

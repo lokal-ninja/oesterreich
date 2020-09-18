@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.4034369
 longitude: 15.5873565
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Steiner Donaulände"
 housenumber: 17

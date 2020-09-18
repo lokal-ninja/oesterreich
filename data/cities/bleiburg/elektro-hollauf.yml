@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 46.590220900000006
 longitude: 14.7980376
-postcode: 9150
+postcode: "9150"
 city: Bleiburg
 street: "10. Oktober Platz"
 housenumber: 26

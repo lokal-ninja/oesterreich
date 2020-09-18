@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.211232300000006
 longitude: 16.3874725
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Radetzkystraße"
 housenumber: 3

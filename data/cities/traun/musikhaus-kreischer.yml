@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.2260872
 longitude: 14.2327332
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Mitterfeldstraße"
 housenumber: 15

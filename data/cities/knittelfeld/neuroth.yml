@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.214529000000006
 longitude: 14.8274754
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Herrengasse"
 housenumber: 19

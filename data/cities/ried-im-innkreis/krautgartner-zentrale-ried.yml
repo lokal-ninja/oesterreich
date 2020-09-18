@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.207905800000006
 longitude: 13.4862766
-postcode: 4910
+postcode: "4910"
 city: Ried im Innkreis
 street: "Rainerstraße"
 housenumber: 13

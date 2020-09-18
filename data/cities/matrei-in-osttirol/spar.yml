@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.993021600000006
 longitude: 12.542346
-postcode: 9971
+postcode: "9971"
 city: Matrei in Osttirol
 street: "Lienzer Straße"
 housenumber: 79

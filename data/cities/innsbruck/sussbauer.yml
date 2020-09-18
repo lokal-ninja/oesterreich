@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.2618409
 longitude: 11.3842537
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Innrain"
 housenumber: 55

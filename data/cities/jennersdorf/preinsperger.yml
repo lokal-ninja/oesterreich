@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 46.9384755
 longitude: 16.142003900000002
-postcode: 8380
+postcode: "8380"
 city: Jennersdorf
 street: "Kirchenstraße"
 housenumber: 6

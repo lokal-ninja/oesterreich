@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1845021
 longitude: 15.257118900000002
-postcode: 3393
+postcode: "3393"
 city: Zelking
 street: "Pöchlarnerstraße"
 housenumber: 4

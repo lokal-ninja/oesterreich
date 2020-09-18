@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.502895800000005
 longitude: 12.1907584
-postcode: 6306
+postcode: "6306"
 city: Söll
 street: "Dorf"
 housenumber: 85

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.1375949
 longitude: 15.6136557
-postcode: 3151
+postcode: "3151"
 city: St. Georgen am Steinfelde
 street: "St. Georgener Hauptstraße"
 housenumber: 141

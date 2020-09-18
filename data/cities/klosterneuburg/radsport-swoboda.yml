@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.3104421
 longitude: 16.3239023
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Martinstraße"
 housenumber: 5

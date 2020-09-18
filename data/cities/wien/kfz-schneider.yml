@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2307755
 longitude: 16.4686898
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Aspernstraße"
 housenumber: 2

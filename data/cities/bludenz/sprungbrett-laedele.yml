@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 47.155425300000005
 longitude: 9.818683
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Sturnengasse"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 48.1107402
 longitude: 13.1507289
-postcode: 5230
+postcode: "5230"
 city: Mattighofen
 street: "Braunauerstraße"
 housenumber: 5a

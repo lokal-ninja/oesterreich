@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 48.2009297
 longitude: 16.3530218
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Lindengasse"
 housenumber: 14

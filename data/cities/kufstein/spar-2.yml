@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5757923
 longitude: 12.165527500000001
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Sudetenlandstraße"
 housenumber: 2

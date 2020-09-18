@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3154434
 longitude: 11.0867632
-postcode: 6410
+postcode: "6410"
 city: Telfs
 street: "Saglstraße"
 housenumber: 69

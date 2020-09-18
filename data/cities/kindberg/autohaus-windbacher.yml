@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.506703200000004
 longitude: 15.4489105
-postcode: 8650
+postcode: "8650"
 city: Kindberg
 street: "Hauptstraße"
 housenumber: 18

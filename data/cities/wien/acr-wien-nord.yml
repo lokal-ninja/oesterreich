@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.276917600000004
 longitude: 16.388675300000003
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Prager Straße"
 housenumber: 128

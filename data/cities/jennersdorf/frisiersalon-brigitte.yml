@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.9386347
 longitude: 16.1412532
-postcode: 8380
+postcode: "8380"
 city: Jennersdorf
 street: "Kirchenstraße"
 housenumber: 7

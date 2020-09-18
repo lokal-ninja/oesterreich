@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.3054507
 longitude: 11.0741236
-postcode: 6410
+postcode: "6410"
 city: Telfs
 street: "Anton-Auer-Straße"
 housenumber: 18

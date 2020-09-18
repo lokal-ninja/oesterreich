@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.577427500000006
 longitude: 14.882608300000001
-postcode: 3921
+postcode: "3921"
 city: Langschlag
 street: "Bahnhofstraße"
 housenumber: 6

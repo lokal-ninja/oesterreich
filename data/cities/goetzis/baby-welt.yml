@@ -3,7 +3,7 @@ type: way
 shop: Babysachen
 latitude: 47.3315391
 longitude: 9.638172200000001
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Doktor-Alfons-Heinzle-Straße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 46.650674300000006
 longitude: 14.313675300000002
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "St. Veiter Straße"
 housenumber: 183

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.213383300000004
 longitude: 13.5216732
-postcode: 4921
+postcode: "4921"
 city: Hohenzell
 street: "Gewerbestraße West"
 housenumber: 18

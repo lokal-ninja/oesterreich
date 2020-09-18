@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.609259900000005
 longitude: 13.842827100000001
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Italiener Straße"
 housenumber: 28

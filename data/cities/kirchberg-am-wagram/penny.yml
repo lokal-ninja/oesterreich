@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.427577400000004
 longitude: 15.8987148
-postcode: 3470
+postcode: "3470"
 city: Kirchberg am Wagram
 street: "Neustifter Straße"
 housenumber: 406

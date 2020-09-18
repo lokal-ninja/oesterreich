@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3949906
 longitude: 15.0379467
-postcode: 8792
+postcode: "8792"
 city: Sankt Peter-Freienstein
 street: "Gewerbepark"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 46.749137000000005
 longitude: 15.8322763
-postcode: 8483
+postcode: "8483"
 city: Deutsch Goritz
 street: ""
 housenumber: 78

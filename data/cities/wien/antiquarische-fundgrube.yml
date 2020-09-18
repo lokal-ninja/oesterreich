@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.2246589
 longitude: 16.3518371
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Fuchsthallergasse"
 housenumber: 11

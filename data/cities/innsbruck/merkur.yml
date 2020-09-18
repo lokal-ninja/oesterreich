@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2581926
 longitude: 11.405100500000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Olympiastraße"
 housenumber: 11

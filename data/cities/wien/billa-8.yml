@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.225891600000004
 longitude: 16.349506
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Währinger Gürtel"
 housenumber: 104

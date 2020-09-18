@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.3500633
 longitude: 15.648135600000002
-postcode: 3508
+postcode: "3508"
 city: Höbenbach
 street: "Ortsstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2878294
 longitude: 11.565884
-postcode: 6111
+postcode: "6111"
 city: Volders
 street: "Bundesstraße"
 housenumber: 24b

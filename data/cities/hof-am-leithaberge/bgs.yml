@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.946189100000005
 longitude: 16.581533500000003
-postcode: 2451
+postcode: "2451"
 city: Hof am Leithaberge
 street: "Mannersdorferstraße"
 housenumber: 7

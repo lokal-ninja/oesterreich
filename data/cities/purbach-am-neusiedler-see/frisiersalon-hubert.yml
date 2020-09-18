@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.911278700000004
 longitude: 16.696019800000002
-postcode: 7083
+postcode: "7083"
 city: Purbach am Neusiedler See
 street: "Stiefelgasse"
 housenumber: 2

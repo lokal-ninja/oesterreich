@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2570263
 longitude: 10.094227
-postcode: 6888
+postcode: "6888"
 city: Schröcken
 street: "Heimboden"
 housenumber: 113

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 46.616889300000004
 longitude: 13.867930300000001
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Reitschulgasse"
 housenumber: 7

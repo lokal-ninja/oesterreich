@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.0079629
 longitude: 15.776206700000001
-postcode: 8322
+postcode: "8322"
 city: Eichkögl
 street: ""
 housenumber: 204

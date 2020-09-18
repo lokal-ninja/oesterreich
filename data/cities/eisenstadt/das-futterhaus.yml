@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 47.826359200000006
 longitude: 16.5295676
-postcode: 7000
+postcode: "7000"
 city: Eisenstadt
 street: "Siegfried Marcus-Straße"
 housenumber: 14

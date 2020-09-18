@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1846967
 longitude: 16.0917631
-postcode: 3013
+postcode: "3013"
 city: Tullnerbach
 street: "Hauptstraße"
 housenumber: 60

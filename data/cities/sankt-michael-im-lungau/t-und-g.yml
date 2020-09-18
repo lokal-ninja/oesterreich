@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.095021800000005
 longitude: 13.6386886
-postcode: 
+postcode: ""
 city: Sankt Michael im Lungau
 street: "Gewerbestraße"
 housenumber: 499

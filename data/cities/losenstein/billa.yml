@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.920296400000005
 longitude: 14.440243100000002
-postcode: 4460
+postcode: "4460"
 city: Losenstein
 street: "Eisenstraße"
 housenumber: 103

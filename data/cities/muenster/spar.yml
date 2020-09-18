@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4204391
 longitude: 11.8331148
-postcode: 6232
+postcode: "6232"
 city: Münster
 street: "Dorf"
 housenumber: 499

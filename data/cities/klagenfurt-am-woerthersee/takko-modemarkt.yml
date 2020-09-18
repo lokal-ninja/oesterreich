@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.608464100000006
 longitude: 14.291447100000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Waidmannsdorfer Straße"
 housenumber: 133a

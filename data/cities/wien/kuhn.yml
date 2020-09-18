@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2101665
 longitude: 16.3726089
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Landskrongasse"
 housenumber: 1-3

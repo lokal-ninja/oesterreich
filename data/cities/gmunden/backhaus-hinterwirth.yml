@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9193961
 longitude: 13.7987494
-postcode: 4810
+postcode: "4810"
 city: Gmunden
 street: "Rinnholzplatz"
 housenumber: 7

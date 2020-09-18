@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.2434839
 longitude: 10.293956900000001
-postcode: 6655
+postcode: "6655"
 city: Steeg
 street: "Steeg"
 housenumber: 18c

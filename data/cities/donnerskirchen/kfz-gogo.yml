@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.874317500000004
 longitude: 16.6501866
-postcode: 7082
+postcode: "7082"
 city: Donnerskirchen
 street: "Industriegelände"
 housenumber: 1 Halle B

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 46.6109846
 longitude: 13.844476400000001
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Litzelhofenstraße"
 housenumber: 2

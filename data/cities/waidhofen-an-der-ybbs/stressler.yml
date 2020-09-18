@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 47.955887600000004
 longitude: 14.785613000000001
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Ybbsitzerstraße"
 housenumber: 51b

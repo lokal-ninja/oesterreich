@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.4324772
 longitude: 14.7808846
-postcode: 4273
+postcode: "4273"
 city: Unterweißenbach
 street: "Nordkammstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.1820326
 longitude: 14.673201400000002
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Gabelhofensiedlung"
 housenumber: 2

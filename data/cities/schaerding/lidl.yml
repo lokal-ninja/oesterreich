@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4506029
 longitude: 13.436948200000002
-postcode: 4780
+postcode: "4780"
 city: Schärding
 street: "Linzer Straße"
 housenumber: 45

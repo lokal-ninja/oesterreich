@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 47.0641449
 longitude: 15.4042296
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Reininghausstraße"
 housenumber: 30

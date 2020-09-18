@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.198031
 longitude: 16.3499983
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Mariahilfer Straße"
 housenumber: 75

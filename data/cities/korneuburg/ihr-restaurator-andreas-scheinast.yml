@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.338984800000006
 longitude: 16.3398092
-postcode: 2100
+postcode: "2100"
 city: Korneuburg
 street: "Wiener Straße"
 housenumber: 25

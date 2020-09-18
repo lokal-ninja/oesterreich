@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.5302042
 longitude: 15.128156800000001
-postcode: 3911
+postcode: "3911"
 city: Rappottenstein
 street: "Roiten"
 housenumber: 

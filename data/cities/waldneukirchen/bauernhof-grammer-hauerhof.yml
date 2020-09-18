@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.0381744
 longitude: 14.262816200000001
-postcode: 4522
+postcode: "4522"
 city: Waldneukirchen
 street: "Pesendorfstraße"
 housenumber: 3

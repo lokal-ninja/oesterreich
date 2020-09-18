@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1283733
 longitude: 14.988277100000001
-postcode: 3372
+postcode: "3372"
 city: Blindenmarkt
 street: "Hauptstraße"
 housenumber: 27

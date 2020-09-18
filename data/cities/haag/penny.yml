@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1127789
 longitude: 14.5616698
-postcode: 3350
+postcode: "3350"
 city: Haag
 street: "Linzer Straße"
 housenumber: 29

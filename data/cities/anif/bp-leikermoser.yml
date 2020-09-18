@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.736291900000005
 longitude: 13.0507144
-postcode: 5081
+postcode: "5081"
 city: Anif
 street: "Alpenstraße"
 housenumber: 111

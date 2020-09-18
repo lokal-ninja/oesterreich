@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1746282
 longitude: 16.2877756
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Fasangartengasse"
 housenumber: 27

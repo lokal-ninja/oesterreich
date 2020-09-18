@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9098363
 longitude: 16.3885483
-postcode: 2486
+postcode: "2486"
 city: Pottendorf
 street: "Marktplatz"
 housenumber: 4

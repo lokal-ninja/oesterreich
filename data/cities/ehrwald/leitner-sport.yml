@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.401208000000004
 longitude: 10.9192557
-postcode: 6632
+postcode: "6632"
 city: Ehrwald
 street: "Hauptstraße"
 housenumber: 19

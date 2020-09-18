@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.2672578
 longitude: 15.325378500000001
-postcode: 8130
+postcode: "8130"
 city: Frohnleiten
 street: "Mayr-Melnhof Straße"
 housenumber: 5

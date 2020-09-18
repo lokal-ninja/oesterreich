@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 47.2640577
 longitude: 11.427689800000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Grabenweg"
 housenumber: 2

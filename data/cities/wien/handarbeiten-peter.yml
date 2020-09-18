@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 48.199705900000005
 longitude: 16.349222100000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Neubaugasse"
 housenumber: 11-13

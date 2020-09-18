@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.03437580000001
 longitude: 15.773559500000001
-postcode: 3170
+postcode: "3170"
 city: Hainfeld
 street: "Hauptplatz"
 housenumber: 3

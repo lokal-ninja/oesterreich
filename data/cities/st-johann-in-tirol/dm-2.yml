@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.528654
 longitude: 12.4255378
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Salzburgerstraße"
 housenumber: 29

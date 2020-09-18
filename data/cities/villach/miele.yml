@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 46.608000100000005
 longitude: 13.850203800000001
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Ossiacher Zeile"
 housenumber: 46

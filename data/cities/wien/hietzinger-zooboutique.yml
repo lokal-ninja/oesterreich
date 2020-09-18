@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.185361900000004
 longitude: 16.299688
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Altgasse"
 housenumber: 8-10

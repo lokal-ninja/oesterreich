@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.2100505
 longitude: 14.8139906
-postcode: 8720
+postcode: "8720"
 city: Knittefeld
 street: "Ghegastraße 26"
 housenumber: 26

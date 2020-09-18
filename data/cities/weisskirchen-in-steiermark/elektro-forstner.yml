@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.1536187
 longitude: 14.739213300000001
-postcode: 8741
+postcode: "8741"
 city: Weißkirchen in Steiermark
 street: "Hauptplatz"
 housenumber: 6

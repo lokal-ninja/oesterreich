@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.4527257
 longitude: 12.151482000000001
-postcode: 6361
+postcode: "6361"
 city: Hopfgarten im Brixental
 street: "Bahnhofstraße"
 housenumber: 7

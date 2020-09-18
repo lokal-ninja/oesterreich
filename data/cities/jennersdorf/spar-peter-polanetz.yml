@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.9370379
 longitude: 16.140236
-postcode: 8380
+postcode: "8380"
 city: Jennersdorf
 street: "Hauptplatz"
 housenumber: 10

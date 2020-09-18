@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.191255600000005
 longitude: 15.6190127
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Mariazeller Straße"
 housenumber: 75

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2095502
 longitude: 15.2012733
-postcode: 3380
+postcode: "3380"
 city: Pöchlarn
 street: "Rechenstraße"
 housenumber: 1

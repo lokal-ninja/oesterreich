@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.5681066
 longitude: 14.236235500000001
-postcode: 8940
+postcode: "8940"
 city: Liezen
 street: "Grimminggasse"
 housenumber: 24a

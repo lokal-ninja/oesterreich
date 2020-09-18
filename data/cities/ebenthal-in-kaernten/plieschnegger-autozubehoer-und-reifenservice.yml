@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.6178255
 longitude: 14.3988431
-postcode: 9065
+postcode: "9065"
 city: Ebenthal in Kärnten
 street: "Gewerbezone, Siegfried-Marcus-Straße"
 housenumber: 1

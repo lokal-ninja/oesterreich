@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.737807100000005
 longitude: 16.3998941
-postcode: 7210
+postcode: "7210"
 city: Mattersburg
 street: "Brunnenplatz"
 housenumber: 7

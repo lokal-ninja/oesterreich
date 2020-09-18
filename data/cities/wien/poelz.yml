@@ -3,10 +3,10 @@ type: node
 shop: Elektronik
 latitude: 48.2587314
 longitude: 16.3980813
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Brünner Straße"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00"
 website: ""

@@ -1,12 +1,12 @@
-id: 24823657
-type: way
+id: 322703044
+type: node
 shop: Supermarkt
-latitude: 48.331329700000005
-longitude: 14.3124838
-postcode: 4040
+latitude: 48.31795
+longitude: 14.283653500000002
+postcode: "4040"
 city: Linz
-street: "Johann-Wilhelm-Klein-Straße"
-housenumber: 13
+street: "Freistädter Straße"
+housenumber: 33
 phone: ""
-opening_hours: "Mo-Th 07:30-19:00; Fr 07:30-19:30; Sa 07:30-18:00"
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off"
 website: ""

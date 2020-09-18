@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 47.2645897
 longitude: 11.404052400000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Amraser Straße"
 housenumber: 6

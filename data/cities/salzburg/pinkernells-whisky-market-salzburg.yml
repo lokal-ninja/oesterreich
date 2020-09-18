@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.800052
 longitude: 13.045281800000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Alter Markt"
 housenumber: 1

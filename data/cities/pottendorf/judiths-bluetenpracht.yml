@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.9104058
 longitude: 16.3881819
-postcode: 2486
+postcode: "2486"
 city: Pottendorf
 street: "Marktplatz"
 housenumber: 13

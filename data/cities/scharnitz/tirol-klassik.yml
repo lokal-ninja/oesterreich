@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3943662
 longitude: 11.2662233
-postcode: 6108
+postcode: "6108"
 city: Scharnitz
 street: "Innsbruckerstraße"
 housenumber: 42

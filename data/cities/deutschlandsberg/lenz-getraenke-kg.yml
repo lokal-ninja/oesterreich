@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 46.817505600000004
 longitude: 15.2431859
-postcode: 8530
+postcode: "8530"
 city: Deutschlandsberg
 street: "Wirtschaftspark"
 housenumber: 8

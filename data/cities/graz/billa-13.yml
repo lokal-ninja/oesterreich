@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0594169
 longitude: 15.4518812
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Münzgrabenstraße"
 housenumber: 92

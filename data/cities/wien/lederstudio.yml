@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 48.198845500000004
 longitude: 16.3509992
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Mariahilfer Straße"
 housenumber: 62

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.1227524
 longitude: 14.8925935
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Lewingstraße"
 housenumber: 5

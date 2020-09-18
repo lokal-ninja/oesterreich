@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 46.6165053
 longitude: 14.304786300000002
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Florian-Gröger-Straße"
 housenumber: 20

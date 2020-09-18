@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.328184400000005
 longitude: 11.1876736
-postcode: 6100
+postcode: "6100"
 city: Seefeld in Tirol
 street: "Innsbrucker Straße"
 housenumber: 24

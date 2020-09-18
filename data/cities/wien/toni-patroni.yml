@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.1969286
 longitude: 16.367254600000003
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.250237600000006
 longitude: 13.212031900000001
-postcode: 4952
+postcode: "4952"
 city: Weng im Innkreis
 street: ""
 housenumber: 19

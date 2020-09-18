@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1120639
 longitude: 14.870071900000001
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Winklarner Straße"
 housenumber: 10

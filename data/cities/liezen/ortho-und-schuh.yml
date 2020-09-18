@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.5635854
 longitude: 14.244079500000002
-postcode: 8900
+postcode: "8900"
 city: Liezen
 street: "Hauptstraße"
 housenumber: 38

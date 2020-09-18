@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.264702
 longitude: 9.6147766
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Königshofstraße"
 housenumber: 39

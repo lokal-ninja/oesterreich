@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.106342000000005
 longitude: 14.832585900000002
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Leinerstraße"
 housenumber: 4a

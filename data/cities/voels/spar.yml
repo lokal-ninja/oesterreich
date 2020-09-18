@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2558194
 longitude: 11.3146758
-postcode: 6176
+postcode: "6176"
 city: Völs
 street: "Herzog-Sigmund-Straße"
 housenumber: 

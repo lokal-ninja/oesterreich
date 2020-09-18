@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5669429
 longitude: 16.570054600000002
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Bahnstraße"
 housenumber: 14a

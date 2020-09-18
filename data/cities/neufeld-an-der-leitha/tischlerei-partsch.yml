@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.860576300000005
 longitude: 16.3768901
-postcode: 2491
+postcode: "2491"
 city: Neufeld an der Leitha
 street: "Gartengasse"
 housenumber: 21

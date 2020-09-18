@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.4732818
 longitude: 9.7523538
-postcode: 6922
+postcode: "6922"
 city: Wolfurt
 street: "Im Dorf"
 housenumber: 2

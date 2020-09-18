@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.3642296
 longitude: 9.6898128
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Marktstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.320695300000004
 longitude: 16.657964200000002
-postcode: 2231
+postcode: "2231"
 city: Strasshof an der Nordbahn
 street: "Hauptstraße"
 housenumber: 292

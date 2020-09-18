@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.199294800000004
 longitude: 16.3278521
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Hütteldorfer Straße"
 housenumber: 53

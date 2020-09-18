@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0665041
 longitude: 15.441031400000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Radetzkystraße"
 housenumber: 3

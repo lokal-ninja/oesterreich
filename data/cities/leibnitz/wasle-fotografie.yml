@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.7789486
 longitude: 15.543576000000002
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Lastenstraße"
 housenumber: 22

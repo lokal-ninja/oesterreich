@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 46.7076251
 longitude: 15.7736265
-postcode: 8480
+postcode: "8480"
 city: Mureck
 street: "Hauptplatz"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.189333500000004
 longitude: 14.001459
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Wallerer Straße"
 housenumber: 222

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.1560828
 longitude: 9.8195612
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Werdenbergerstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.2079723
 longitude: 16.380754800000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Stubenring"
 housenumber: 22

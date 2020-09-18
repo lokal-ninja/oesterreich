@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.054297700000006
 longitude: 15.1385354
-postcode: 3251
+postcode: "3251"
 city: Purgstall an der Erlauf
 street: "Ötscherlandstrasse"
 housenumber: 16

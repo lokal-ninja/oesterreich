@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2091773
 longitude: 15.622811800000001
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Schöpferstraße"
 housenumber: 1-3

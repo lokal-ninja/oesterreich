@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2386618
 longitude: 16.318303
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Gersthofer Straße"
 housenumber: 147

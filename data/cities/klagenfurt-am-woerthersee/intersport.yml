@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.6401228
 longitude: 14.2930056
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Feldkirchner Straße"
 housenumber: 114

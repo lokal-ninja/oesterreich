@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 47.813892800000005
 longitude: 16.5570205
-postcode: 7061
+postcode: "7061"
 city: Trausdorf
 street: "Obere Hauptstraße"
 housenumber: 9

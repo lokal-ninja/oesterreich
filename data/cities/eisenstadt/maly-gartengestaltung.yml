@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.859906200000005
 longitude: 16.5245238
-postcode: 7000
+postcode: "7000"
 city: Eisenstadt
 street: "Buchgrabenweg"
 housenumber: 55

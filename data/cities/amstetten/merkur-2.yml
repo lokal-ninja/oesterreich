@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1172331
 longitude: 14.911118
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Otto-Schott-Straße"
 housenumber: 2

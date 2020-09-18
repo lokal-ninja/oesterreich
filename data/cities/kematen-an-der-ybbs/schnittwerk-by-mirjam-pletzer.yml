@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.025732600000005
 longitude: 14.7655778
-postcode: 3331
+postcode: "3331"
 city: Kematen an der Ybbs
 street: "1. Straße"
 housenumber: 10a

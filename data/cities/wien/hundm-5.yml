@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 48.1778562
 longitude: 16.3298369
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Meidlinger Hauptstraße"
 housenumber: 54
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
 website: ""

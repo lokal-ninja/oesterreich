@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.643480600000004
 longitude: 14.3147724
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "St. Veiter Straße"
 housenumber: 125

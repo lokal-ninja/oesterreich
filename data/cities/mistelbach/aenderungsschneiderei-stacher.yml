@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.5673972
 longitude: 16.571979300000002
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Bahnstraße"
 housenumber: 2

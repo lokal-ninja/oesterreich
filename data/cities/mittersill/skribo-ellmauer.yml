@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 47.2806918
 longitude: 12.4818809
-postcode: 5730
+postcode: "5730"
 city: Mittersill
 street: "Kirchgasse"
 housenumber: 4
-phone: ""
+phone: "+43 6562 40160"
 opening_hours: ""
 website: "https://www.skribo.at/haendler/ellmauer"

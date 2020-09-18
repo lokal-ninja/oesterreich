@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.3246004
 longitude: 15.6060013
-postcode: 3124
+postcode: "3124"
 city: Unterwölbling
 street: ""
 housenumber: 2

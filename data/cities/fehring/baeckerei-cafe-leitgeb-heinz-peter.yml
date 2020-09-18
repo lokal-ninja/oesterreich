@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.9361765
 longitude: 16.0070883
-postcode: 8350
+postcode: "8350"
 city: Fehring
 street: "Badgasse"
 housenumber: 2

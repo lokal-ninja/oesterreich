@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.3605625
 longitude: 16.310098800000002
-postcode: 2100
+postcode: "2100"
 city: Leobendorf
 street: "Hammerschmied-Straße"
 housenumber: 4a

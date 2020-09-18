@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.0598108
 longitude: 15.438162600000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Pestalozzistraße"
 housenumber: 62

@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 48.4322006
 longitude: 15.684457700000001
-postcode: 3494
+postcode: "3494"
 city: Gedersdorf
 street: "Kremser Straße"
 housenumber: 25

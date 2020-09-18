@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.3241967
 longitude: 14.2957537
-postcode: 4040
+postcode: "4040"
 city: Linz
 street: "Urnenhainweg"
 housenumber: 4

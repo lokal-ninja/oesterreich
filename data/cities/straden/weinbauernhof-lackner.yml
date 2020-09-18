@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 46.845517400000006
 longitude: 15.8801822
-postcode: 8345
+postcode: "8345"
 city: Straden
 street: ""
 housenumber: 6

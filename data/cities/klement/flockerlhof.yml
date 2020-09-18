@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 48.5709497
 longitude: 16.366128800000002
-postcode: 2116
+postcode: "2116"
 city: Klement
 street: ""
 housenumber: 21

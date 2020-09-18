@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.050421300000004
 longitude: 15.1474291
-postcode: 8570
+postcode: "8570"
 city: Voitsberg
 street: "Hauptplatz"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 47.068426
 longitude: 15.4456187
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Girardigasse"
 housenumber: 3

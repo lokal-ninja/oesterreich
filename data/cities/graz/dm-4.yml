@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.100907
 longitude: 15.4169996
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Weinzöttlstraße"
 housenumber: 14

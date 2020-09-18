@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.366508700000004
 longitude: 15.597484600000001
-postcode: 3511
+postcode: "3511"
 city: Steinaweg
 street: "Altmannistraße"
 housenumber: 63

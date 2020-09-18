@@ -3,10 +3,10 @@ type: node
 shop: Feinkost
 latitude: 46.6699549
 longitude: 13.945544300000002
-postcode: 9520
+postcode: "9520"
 city: Stöcklweingarten
 street: "Mitterlingweg"
 housenumber: 5
 phone: "+43 650 760 26 92"
-opening_hours: "07:30-12:00,13:00-17:00"
+opening_hours: "Mo-Th 07:30-12:30, 13:30-17:00; Fr 07:30-12:30"
 website: "https://stoecklweingarten.at/"

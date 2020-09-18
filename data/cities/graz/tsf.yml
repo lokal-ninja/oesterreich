@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.056215400000006
 longitude: 15.442200000000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Hüttenbrennergasse"
 housenumber: 30

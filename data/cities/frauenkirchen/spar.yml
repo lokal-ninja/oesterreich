@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8378348
 longitude: 16.922888800000003
-postcode: 7132
+postcode: "7132"
 city: Frauenkirchen
 street: "Neustiftstraße"
 housenumber: 2

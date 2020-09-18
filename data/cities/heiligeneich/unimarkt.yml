@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.301348700000005
 longitude: 15.8941893
-postcode: 3452
+postcode: "3452"
 city: Heiligeneich
 street: "Raiffeisenplatz"
 housenumber: 7

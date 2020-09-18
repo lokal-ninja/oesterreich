@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3173108
 longitude: 9.598587
-postcode: 6842
+postcode: "6842"
 city: Koblach
 street: "Kiesweg"
 housenumber: 7

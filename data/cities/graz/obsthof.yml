@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.0667434
 longitude: 15.4278992
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Rösselmühlgasse"
 housenumber: 24

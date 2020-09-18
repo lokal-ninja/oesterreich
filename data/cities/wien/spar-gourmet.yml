@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.187428700000005
 longitude: 16.2830657
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Hietzinger Hauptstraße"
 housenumber: 82-84

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.4878767
 longitude: 12.105758100000001
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "Wörgler Boden"
 housenumber: 4b

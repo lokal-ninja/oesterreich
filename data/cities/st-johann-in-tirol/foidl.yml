@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.521336000000005
 longitude: 12.427418000000001
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Speckbacherstraße"
 housenumber: 13

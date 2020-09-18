@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.700508500000005
 longitude: 15.3204144
-postcode: 3840
+postcode: "3840"
 city: Allentsteig
 street: "Ziegelofenstraße"
 housenumber: 3

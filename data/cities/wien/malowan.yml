@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2031895
 longitude: 16.364533
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Opernring"
 housenumber: 23

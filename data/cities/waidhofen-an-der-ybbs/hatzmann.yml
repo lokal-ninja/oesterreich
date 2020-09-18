@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.9602106
 longitude: 14.773743900000001
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Unterer Stadtplatz"
 housenumber: 11

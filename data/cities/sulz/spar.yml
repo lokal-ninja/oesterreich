@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 47.285341100000004
 longitude: 9.6508225
-postcode: 6832
+postcode: "6832"
 city: Sulz
 street: "Müsinenstraße"
 housenumber: 42
-phone: "05522/42125"
+phone: "+43 5522 42125"
 opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
 website: ""

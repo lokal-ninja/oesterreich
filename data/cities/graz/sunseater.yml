@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.1003211
 longitude: 15.4155306
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Am Arlandgrund"
 housenumber: 2

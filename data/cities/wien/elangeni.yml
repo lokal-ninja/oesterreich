@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.2104
 longitude: 16.3715045
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Wildpretmarkt"
 housenumber: 3

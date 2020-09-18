@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.0807239
 longitude: 15.4384303
-postcode: 
+postcode: ""
 city: Graz
 street: "Grabenstraße"
 housenumber: 17

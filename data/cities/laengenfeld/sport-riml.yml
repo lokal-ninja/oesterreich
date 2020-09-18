@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.070312300000005
 longitude: 11.023672300000001
-postcode: 6444
+postcode: "6444"
 city: Längenfeld
 street: "Gries"
 housenumber: 18

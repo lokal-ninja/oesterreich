@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 46.6047202
 longitude: 13.8601664
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Bruno-Kreisky-Straße"
 housenumber: 25

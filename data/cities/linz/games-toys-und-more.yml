@@ -3,7 +3,7 @@ type: node
 shop: Spiele
 latitude: 48.244740400000005
 longitude: 14.329406800000001
-postcode: 4030
+postcode: "4030"
 city: Linz
 street: "Wiener Straße"
 housenumber: 499

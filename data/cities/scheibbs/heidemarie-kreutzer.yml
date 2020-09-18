@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.003656400000004
 longitude: 15.167275700000001
-postcode: 3270
+postcode: "3270"
 city: Scheibbs
 street: "Hauptstraße"
 housenumber: 61

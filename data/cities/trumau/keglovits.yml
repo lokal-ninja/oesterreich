@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9940354
 longitude: 16.357968
-postcode: 2521
+postcode: "2521"
 city: Trumau
 street: "Lüßstraße"
 housenumber: 1

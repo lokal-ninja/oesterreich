@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.2535329
 longitude: 16.014024900000003
-postcode: 3443
+postcode: "3443"
 city: Sieghartskirchen
 street: "Karl-Berger Platz"
 housenumber: 1

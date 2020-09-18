@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 47.967590300000005
 longitude: 16.8370965
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Kurzes Hirschfeld"
 housenumber: 26-28

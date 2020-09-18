@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 47.0697011
 longitude: 15.4400948
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Herrengasse"
 housenumber: 18

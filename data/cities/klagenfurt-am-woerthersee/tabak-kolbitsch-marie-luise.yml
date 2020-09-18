@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 46.618295800000006
 longitude: 14.312155200000001
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Bahnhofstraße"
 housenumber: 40

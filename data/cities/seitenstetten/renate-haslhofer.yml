@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0353853
 longitude: 14.653402900000001
-postcode: 3353
+postcode: "3353"
 city: Seitenstetten
 street: "Waidhofner Straße"
 housenumber: 2

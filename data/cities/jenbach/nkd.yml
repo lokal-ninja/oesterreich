@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.390577900000004
 longitude: 11.7725694
-postcode: 6200
+postcode: "6200"
 city: Jenbach
 street: "Auf der Huben"
 housenumber: 1

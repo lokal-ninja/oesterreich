@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.067165800000005
 longitude: 15.463470000000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Schulgasse"
 housenumber: 5

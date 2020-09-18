@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.9434571
 longitude: 14.3556775
-postcode: 4452
+postcode: "4452"
 city: Ternberg
 street: "Hauptstraße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.3373513
 longitude: 16.716190700000002
-postcode: 2230
+postcode: "2230"
 city: Gänserndorf
 street: "Hauptstraße"
 housenumber: 57

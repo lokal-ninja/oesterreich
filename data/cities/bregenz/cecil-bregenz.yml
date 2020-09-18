@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.5031441
 longitude: 9.7459504
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Kaiserstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Lampen
 latitude: 47.3434036
 longitude: 9.637037000000001
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Lastenstraße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.2160954
 longitude: 16.3513312
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Altes AKH, Hof 1, Alser Straße"
 housenumber: 4/1/5/4

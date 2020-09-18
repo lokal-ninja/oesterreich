@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.120189
 longitude: 16.269974100000002
-postcode: 7535
+postcode: "7535"
 city: Sankt Michael im Burgenland
 street: "Güssinger Straße"
 housenumber: 240

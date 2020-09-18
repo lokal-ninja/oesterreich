@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.5024651
 longitude: 12.1929064
-postcode: A-6306
+postcode: "A-6306"
 city: Söll
 street: "Dorf"
 housenumber: 133

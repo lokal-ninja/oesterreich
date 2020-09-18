@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 47.1553261
 longitude: 9.8185879
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Sturnengasse"
 housenumber: 26

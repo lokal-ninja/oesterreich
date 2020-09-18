@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 48.2027998
 longitude: 14.2535424
-postcode: 4053
+postcode: "4053"
 city: Ansfelden
 street: "Kirchenstraße"
 housenumber: 28

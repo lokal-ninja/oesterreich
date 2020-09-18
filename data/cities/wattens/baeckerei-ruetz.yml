@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.291734000000005
 longitude: 11.592948000000002
-postcode: 6112
+postcode: "6112"
 city: Wattens
 street: "Kirchplatz"
 housenumber: 2

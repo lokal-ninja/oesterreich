@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.401923800000006
 longitude: 15.2291118
-postcode: 8600
+postcode: "8600"
 city: Bruck an der Mur
 street: "Bruckerstraße"
 housenumber: 116

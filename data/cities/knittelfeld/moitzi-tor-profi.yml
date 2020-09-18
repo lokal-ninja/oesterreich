@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.2106336
 longitude: 14.8139906
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Ghegastraße"
 housenumber: 24

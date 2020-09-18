@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.544135600000004
 longitude: 15.560210900000001
-postcode: 8670
+postcode: "8670"
 city: Krieglach
 street: "Grazer Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.45758
 longitude: 12.3876536
-postcode: 6370
+postcode: "6370"
 city: Kitzbühel
 street: "St. Johanner Str."
 housenumber: 20a

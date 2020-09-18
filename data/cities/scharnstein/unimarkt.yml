@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8985161
 longitude: 13.949938300000001
-postcode: 4644
+postcode: "4644"
 city: Scharnstein
 street: "Mühldorf"
 housenumber: 28b

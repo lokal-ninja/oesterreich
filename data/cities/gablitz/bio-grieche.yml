@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.2272832
 longitude: 16.1515473
-postcode: 3003
+postcode: "3003"
 city: Gablitz
 street: "Bachgasse"
 housenumber: 5

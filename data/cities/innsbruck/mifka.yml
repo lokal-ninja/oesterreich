@@ -3,7 +3,7 @@ type: node
 shop: Pokal
 latitude: 47.2634309
 longitude: 11.3906516
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Bürgerstraße"
 housenumber: 28

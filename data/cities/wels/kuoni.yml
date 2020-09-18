@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.1593961
 longitude: 14.023398
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Kaiser-Josef-Platz"
 housenumber: 14

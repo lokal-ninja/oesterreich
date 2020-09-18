@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 48.1930166
 longitude: 16.335167900000002
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Robert-Hamerling-Gasse"
 housenumber: 23

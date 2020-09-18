@@ -1,12 +1,12 @@
-id: 313192482
+id: 335298298
 type: node
 shop: Drogerie
-latitude: 48.1964174
-longitude: 16.3677533
-postcode: 1040
+latitude: 48.2466261
+longitude: 16.3747565
+postcode: "1200"
 city: Wien
-street: "Favoritenstraße"
-housenumber: 1
-phone: ""
-opening_hours: "Mo-Fr 08:00-19:30, Sa 08:00-18:00"
-website: ""
+street: "Leystraße"
+housenumber: 8
+phone: "+43-800-207007"
+opening_hours: ""
+website: "https://www.bipa.at"

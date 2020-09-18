@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.0777598
 longitude: 14.4815807
-postcode: 4431
+postcode: "4431"
 city: Haidershofen
 street: "Haidershofen"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2610478
 longitude: 16.4002981
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Brünner Straße"
 housenumber: 26-32/5/R1

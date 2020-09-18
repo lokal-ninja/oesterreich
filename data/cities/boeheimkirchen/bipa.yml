@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1962175
 longitude: 15.764457
-postcode: 3071
+postcode: "3071"
 city: Böheimkirchen
 street: "Hainfelder Straße"
 housenumber: 6

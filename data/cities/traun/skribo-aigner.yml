@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.220179200000004
 longitude: 14.239558500000001
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Heinrich Gruber-Straße"
 housenumber: 1

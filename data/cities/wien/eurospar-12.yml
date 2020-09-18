@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.166260300000005
 longitude: 16.3818866
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Favoritenstraße"
 housenumber: 183

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.2098079
 longitude: 16.423127
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Olympiaplatz"
 housenumber: 2

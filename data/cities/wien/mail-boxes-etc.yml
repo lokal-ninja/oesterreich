@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.2003822
 longitude: 16.3526347
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kirchengasse"
 housenumber: 10

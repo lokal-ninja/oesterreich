@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.084870300000006
 longitude: 15.487608900000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Riesstraße"
 housenumber: 143

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.058728
 longitude: 16.0697605
-postcode: 8280
+postcode: "8280"
 city: Fürstenfeld
 street: "Grazerstraße"
 housenumber: 12

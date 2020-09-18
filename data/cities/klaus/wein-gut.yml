@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 47.310554
 longitude: 9.6382794
-postcode: 6833
+postcode: "6833"
 city: Klaus
 street: "Sattelberg"
 housenumber: 77

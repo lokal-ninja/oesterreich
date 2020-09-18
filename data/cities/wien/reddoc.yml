@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 48.1953114
 longitude: 16.3556207
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Rüdigergasse"
 housenumber: 27

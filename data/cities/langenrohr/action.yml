@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.3203344
 longitude: 16.0205789
-postcode: 3442
+postcode: "3442"
 city: Langenrohr
 street: "Europastraße"
 housenumber: 9A

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.258989400000004
 longitude: 14.2106262
-postcode: 4061
+postcode: "4061"
 city: Pasching
 street: "Leondinger Straße"
 housenumber: 12

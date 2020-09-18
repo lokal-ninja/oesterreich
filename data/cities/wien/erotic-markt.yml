@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 48.2622234
 longitude: 16.4641548
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Rautenweg"
 housenumber: 43

@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 47.4328634
 longitude: 9.894675300000001
-postcode: 6863
+postcode: "6863"
 city: Egg
 street: ""
 housenumber: 1039

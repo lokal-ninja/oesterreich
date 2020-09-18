@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.9594898
 longitude: 14.773580500000001
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Unterer Stadtplatz"
 housenumber: 19

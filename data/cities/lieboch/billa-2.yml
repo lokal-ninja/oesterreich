@@ -1,12 +1,12 @@
-id: 165392553
+id: 240232209
 type: way
 shop: Supermarkt
-latitude: 46.9747555
-longitude: 15.3331291
-postcode: 8501
+latitude: 46.971615500000006
+longitude: 15.361540100000001
+postcode: "8501"
 city: Lieboch
 street: "Packer Straße"
-housenumber: 123
-phone: "+43 3136 62326"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+housenumber: 1
+phone: "+43 3136 61028"
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su, PH off"
 website: "https://www.billa.at"

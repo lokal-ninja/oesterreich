@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 46.555386000000006
 longitude: 13.791155300000002
-postcode: 9587
+postcode: "9587"
 city: Riegersdorf
 street: "Hart"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0274969
 longitude: 15.4273
-postcode: 3204
+postcode: "3204"
 city: Kichberg an der Pielach
 street: "Melker Straße"
 housenumber: 18

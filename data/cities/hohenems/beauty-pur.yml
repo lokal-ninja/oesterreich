@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.3626318
 longitude: 9.685256
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Bahnhofstraße"
 housenumber: 10

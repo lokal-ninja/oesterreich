@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0093954
 longitude: 13.1811366
-postcode: 5221
+postcode: "5221"
 city: Lochen am See
 street: "Gewerbestraße"
 housenumber: 7

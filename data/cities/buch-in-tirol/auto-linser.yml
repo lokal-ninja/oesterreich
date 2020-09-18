@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3827568
 longitude: 11.7705786
-postcode: 6220
+postcode: "6220"
 city: Buch in Tirol
 street: "Sankt Margarethen"
 housenumber: 152

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0863114
 longitude: 16.292066900000002
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Hauptstraße"
 housenumber: 23

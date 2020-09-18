@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.4214682
 longitude: 9.6600651
-postcode: 6890
+postcode: "6890"
 city: Lustenau
 street: "Kaiser-Franz-Josef-Straße"
 housenumber: 26

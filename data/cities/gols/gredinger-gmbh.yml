@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.9059807
 longitude: 16.8981527
-postcode: 7122
+postcode: "7122"
 city: Gols
 street: "Obere Hauptstraße"
 housenumber: 112

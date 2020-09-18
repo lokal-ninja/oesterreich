@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.9326717
 longitude: 13.2006136
-postcode: 9821
+postcode: "9821"
 city: Obervellach
 street: ""
 housenumber: 

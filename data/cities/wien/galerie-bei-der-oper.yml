@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.201669800000005
 longitude: 16.369591800000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Bösendorferstraße"
 housenumber: 1

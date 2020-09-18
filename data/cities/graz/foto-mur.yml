@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 47.0668647
 longitude: 15.445071100000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Reitschulgasse"
 housenumber: 14

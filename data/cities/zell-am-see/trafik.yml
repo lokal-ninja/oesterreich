@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.3208059
 longitude: 12.7961354
-postcode: 5700
+postcode: "5700"
 city: Zell am See
 street: "Bahnhofplatz"
 housenumber: 4

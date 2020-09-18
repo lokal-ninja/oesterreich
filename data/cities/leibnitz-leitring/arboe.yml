@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.781974600000005
 longitude: 15.5643174
-postcode: 8430
+postcode: "8430"
 city: Leibnitz-Leitring
 street: "Leitringer Hauptstraße"
 housenumber: 55

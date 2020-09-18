@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.047286400000004
 longitude: 15.7407003
-postcode: 3163
+postcode: "3163"
 city: Rohrbach an der Gölsen
 street: "Hauptplatz"
 housenumber: 3

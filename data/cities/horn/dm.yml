@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 48.6641307
 longitude: 15.6581971
-postcode: 3580
+postcode: "3580"
 city: Horn
 street: "Kirchenplatz"
 housenumber: 13
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
 website: ""

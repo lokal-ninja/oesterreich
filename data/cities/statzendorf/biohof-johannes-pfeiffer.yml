@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.307796800000006
 longitude: 15.641261600000002
-postcode: 3125
+postcode: "3125"
 city: Statzendorf
 street: "Hauptstraße"
 housenumber: 44

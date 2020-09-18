@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.118766300000004
 longitude: 14.852933700000001
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Waidhofner Straße"
 housenumber: 144

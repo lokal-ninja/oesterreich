@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 48.442727000000005
 longitude: 16.047527600000002
-postcode: 3702
+postcode: "3702"
 city: Niederrußbach
 street: "Wiener Straße"
 housenumber: 52

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.0061946
 longitude: 13.674567300000001
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Linzer Straße"
 housenumber: 61

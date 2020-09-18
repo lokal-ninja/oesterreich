@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 47.2657486
 longitude: 11.432204
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Etrichgasse"
 housenumber: 16

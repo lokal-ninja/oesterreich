@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.103393000000004
 longitude: 16.2964048
-postcode: 7544
+postcode: "7544"
 city: Tobaj
 street: "Deutsch Tschantschendorf"
 housenumber: 194

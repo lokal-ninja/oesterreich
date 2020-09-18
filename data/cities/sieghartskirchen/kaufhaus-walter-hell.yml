@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.255895300000006
 longitude: 16.015123300000003
-postcode: 3443
+postcode: "3443"
 city: Sieghartskirchen
 street: "Wiener Straße"
 housenumber: 19

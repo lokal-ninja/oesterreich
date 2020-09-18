@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.204027800000006
 longitude: 16.3512345
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kirchengasse"
 housenumber: 44

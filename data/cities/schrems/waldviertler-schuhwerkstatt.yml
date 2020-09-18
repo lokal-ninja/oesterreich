@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.7897985
 longitude: 15.0675243
-postcode: 3943
+postcode: "3943"
 city: Schrems
 street: "Niederschremser Straße"
 housenumber: 4b

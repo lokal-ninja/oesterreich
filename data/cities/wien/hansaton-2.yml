@@ -3,9 +3,9 @@ type: node
 shop: Hörgeräte
 latitude: 48.224904
 longitude: 16.505120700000003
-postcode: 1220
+postcode: "1220"
 city: Wien
-street: "Simone-De-Beauvoir Platz"
+street: "Simone-de-Beauvoir-Platz"
 housenumber: 1/3
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00"

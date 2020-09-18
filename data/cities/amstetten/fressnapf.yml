@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 48.1079949
 longitude: 14.834031600000001
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Carl-Benz-Straße"
 housenumber: 8

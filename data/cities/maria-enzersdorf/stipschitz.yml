@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0949065
 longitude: 16.2940085
-postcode: 2344
+postcode: "2344"
 city: Maria Enzersdorf
 street: "Gabrieler Straße"
 housenumber: 26-28

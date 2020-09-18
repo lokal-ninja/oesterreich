@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 46.7225891
 longitude: 15.5649733
-postcode: 8462
+postcode: "8462"
 city: Gamlitz
 street: "Untere Hauptstraße"
 housenumber: 21

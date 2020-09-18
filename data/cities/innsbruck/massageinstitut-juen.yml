@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.264817400000005
 longitude: 11.408923900000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Defreggerstraße"
 housenumber: 20

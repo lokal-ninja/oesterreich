@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.686599
 longitude: 13.254722300000001
-postcode: 9622
+postcode: "9622"
 city: Gitschtal
 street: ""
 housenumber: 233

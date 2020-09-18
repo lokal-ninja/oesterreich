@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0133414
 longitude: 16.2941676
-postcode: 2514
+postcode: "2514"
 city: Traiskirchen
 street: "Hauptplatz"
 housenumber: 17

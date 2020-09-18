@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 47.6005436
 longitude: 16.624949
-postcode: 7301
+postcode: "7301"
 city: Deutschkreutz
 street: "Hauptstraße"
 housenumber: 41

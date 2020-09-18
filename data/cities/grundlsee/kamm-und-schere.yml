@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.6260926
 longitude: 13.8366442
-postcode: 8993
+postcode: "8993"
 city: Grundlsee
 street: "Bräuhof"
 housenumber: 42a

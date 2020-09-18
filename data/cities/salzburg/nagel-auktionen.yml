@@ -3,7 +3,7 @@ type: node
 shop: Auktionshaus
 latitude: 47.801621000000004
 longitude: 13.040111300000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Franz-Josef-Kai"
 housenumber: 15

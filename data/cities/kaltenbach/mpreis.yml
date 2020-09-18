@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2903059
 longitude: 11.8769673
-postcode: 6272
+postcode: "6272"
 city: Kaltenbach
 street: "Kaltenbacher Landstraße"
 housenumber: 38

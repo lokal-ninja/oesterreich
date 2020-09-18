@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.2093463
 longitude: 16.3539327
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Josefstädter Straße"
 housenumber: 8

@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 48.1925979
 longitude: 16.3162595
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Johnstraße"
 housenumber: 1-3
 phone: ""
 opening_hours: "Tu-Fr 10:00-18:00; Sa 11:00-15:00; PH off"
-website: ""
+website: "http://velobis.com/"

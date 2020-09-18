@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.2162032
 longitude: 14.4630673
-postcode: 4470
+postcode: "4470"
 city: Enns
 street: "Am Römerfeld"
 housenumber: 1

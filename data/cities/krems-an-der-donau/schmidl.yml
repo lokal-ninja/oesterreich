@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.4108547
 longitude: 15.599389
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Obere Landstraße"
 housenumber: 5

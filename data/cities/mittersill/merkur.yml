@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.284921600000004
 longitude: 12.4865755
-postcode: 5730
+postcode: "5730"
 city: Mittersill
 street: "Zeller Straße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.076877700000004
 longitude: 15.4966024
-postcode: 8047
+postcode: "8047"
 city: Graz
 street: "Ragnitzstraße"
 housenumber: 177

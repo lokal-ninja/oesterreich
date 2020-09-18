@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.865465
 longitude: 15.012344700000002
-postcode: 3873
+postcode: "3873"
 city: Brand
 street: ""
 housenumber: 5

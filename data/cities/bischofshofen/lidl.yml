@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4080985
 longitude: 13.2162302
-postcode: 5500
+postcode: "5500"
 city: Bischofshofen
 street: "Gasteiner Straße"
 housenumber: 60

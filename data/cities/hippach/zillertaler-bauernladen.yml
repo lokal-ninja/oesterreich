@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 47.2043376
 longitude: 11.8673046
-postcode: 6283
+postcode: "6283"
 city: Hippach
 street: "Hippach-Dorf"
 housenumber: 3

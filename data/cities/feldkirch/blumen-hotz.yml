@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.2376397
 longitude: 9.5944296
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Montfortgasse"
 housenumber: 2

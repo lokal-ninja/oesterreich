@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.2637742
 longitude: 11.3968991
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Wilhelm-Greil-Straße"
 housenumber: 21

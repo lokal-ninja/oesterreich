@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.878257000000005
 longitude: 16.648975
-postcode: 7082
+postcode: "7082"
 city: Donnerskirchen
 street: "Am Seeblick"
 housenumber: 1

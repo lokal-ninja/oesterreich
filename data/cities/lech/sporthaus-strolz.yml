@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.2085445
 longitude: 10.1419615
-postcode: 6764
+postcode: "6764"
 city: Lech
 street: "Dorf"
 housenumber: 116

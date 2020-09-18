@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.3614029
 longitude: 16.3197505
-postcode: 2100
+postcode: "2100"
 city: Korneuburg
 street: "Kreuzensteiner Straße"
 housenumber: 51

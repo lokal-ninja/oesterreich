@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 48.1995889
 longitude: 16.357299100000002
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Windmühlgasse"
 housenumber: 9

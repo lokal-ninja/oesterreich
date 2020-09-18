@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 48.5469869
 longitude: 16.7617938
-postcode: 2225
+postcode: "2225"
 city: Zistersdorf
 street: "Stadtgrabengasse"
 housenumber: 15

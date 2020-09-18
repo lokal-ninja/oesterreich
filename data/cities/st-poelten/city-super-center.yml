@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.2094049
 longitude: 15.6308962
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: ""
 housenumber: 

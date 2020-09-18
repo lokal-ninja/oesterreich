@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.039322500000004
 longitude: 10.6014095
-postcode: 6534
+postcode: "6534"
 city: Serfaus
 street: "Mühlbachweg"
 housenumber: 1

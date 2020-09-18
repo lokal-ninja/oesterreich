@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.153383500000004
 longitude: 16.657623400000002
-postcode: 2304
+postcode: "2304"
 city: Mannsdorf an der Donau
 street: "Solarweg"
 housenumber: 8

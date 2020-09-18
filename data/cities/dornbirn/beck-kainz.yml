@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4074292
 longitude: 9.7317088
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Lustenauerstraße"
 housenumber: 34

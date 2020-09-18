@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 46.980210400000004
 longitude: 16.0027841
-postcode: 8361
+postcode: "8361"
 city: Fehring
 street: ""
 housenumber: 179

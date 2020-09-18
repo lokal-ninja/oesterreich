@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.485551300000004
 longitude: 9.703107900000001
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Fellentorweg"
 housenumber: 2c

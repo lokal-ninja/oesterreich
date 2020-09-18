@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.065165500000006
 longitude: 15.4318293
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Griesplatz"
 housenumber: 8

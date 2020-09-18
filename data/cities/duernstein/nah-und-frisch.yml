@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3935723
 longitude: 15.5240793
-postcode: 3601
+postcode: "3601"
 city: Dürnstein
 street: ""
 housenumber: 132

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.3611987
 longitude: 11.1238673
-postcode: 6105
+postcode: "6105"
 city: Leutasch
 street: "Klamm"
 housenumber: 80b

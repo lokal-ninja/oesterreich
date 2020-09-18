@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 47.560232600000006
 longitude: 14.2550264
-postcode: 8940
+postcode: "8940"
 city: Liezen
 street: "Gesäusestraße"
 housenumber: 25

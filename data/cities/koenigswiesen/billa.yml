@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4047714
 longitude: 14.835965100000001
-postcode: 4280
+postcode: "4280"
 city: Königswiesen
 street: "Sportplatzstraße"
 housenumber: 3

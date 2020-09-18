@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 47.667208900000006
 longitude: 13.089957700000001
-postcode: 5422
+postcode: "5422"
 city: Bad Duerrnberg
 street: "Ramsaustraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5447628
 longitude: 16.7671998
-postcode: 2225
+postcode: "2225"
 city: Zistersdorf
 street: "Wiedengasse"
 housenumber: 14

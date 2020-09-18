@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.6011905
 longitude: 13.7832349
-postcode: 8990
+postcode: "8990"
 city: Unterkainisch
 street: "Bahnhofstraße"
 housenumber: 136

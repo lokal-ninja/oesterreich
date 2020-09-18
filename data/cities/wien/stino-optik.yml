@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.2077535
 longitude: 16.3780202
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Wollzeile"
 housenumber: 32

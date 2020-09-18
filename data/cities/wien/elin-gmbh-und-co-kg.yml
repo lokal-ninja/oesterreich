@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1407758
 longitude: 16.342810200000002
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Pfarrgasse"
 housenumber: 75

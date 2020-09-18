@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.125579300000005
 longitude: 15.505305100000001
-postcode: 8044
+postcode: "8044"
 city: Graz
 street: "Langeggerweg"
 housenumber: 51

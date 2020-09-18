@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2393718
 longitude: 9.902857200000001
-postcode: 6731
+postcode: "6731"
 city: Sonntag
 street: "Boden"
 housenumber: 57

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5150784
 longitude: 12.306551
-postcode: 6352
+postcode: "6352"
 city: Ellmau
 street: "Dorf"
 housenumber: 52

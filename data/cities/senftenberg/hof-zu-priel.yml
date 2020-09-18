@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.4537065
 longitude: 15.577064300000002
-postcode: 3541
+postcode: "3541"
 city: Senftenberg
 street: ""
 housenumber: 9

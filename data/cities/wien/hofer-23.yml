@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1798749
 longitude: 16.3371399
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Aßmayergasse"
 housenumber: 38-40

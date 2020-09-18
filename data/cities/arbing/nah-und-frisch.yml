@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2290117
 longitude: 14.700075000000002
-postcode: 4341
+postcode: "4341"
 city: Arbing
 street: "Bundesstraße"
 housenumber: 7

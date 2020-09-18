@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.118180300000006
 longitude: 16.265574700000002
-postcode: 2380
+postcode: "2380"
 city: Perchtoldsdorf
 street: "Marktplatz"
 housenumber: 18

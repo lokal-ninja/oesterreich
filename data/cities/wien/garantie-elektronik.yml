@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.1933159
 longitude: 16.3610529
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretenstraße"
 housenumber: 64

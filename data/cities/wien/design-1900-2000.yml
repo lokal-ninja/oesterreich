@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.197588700000004
 longitude: 16.3625848
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Rechte Wienzeile"
 housenumber: 25–27

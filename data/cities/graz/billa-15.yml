@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0833712
 longitude: 15.4308782
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Körösistraße"
 housenumber: 66b

@@ -1,4 +1,4 @@
 ---
-title: "SEAT"
+title: "Seat"
 url: /wien/seat/
 ---

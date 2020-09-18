@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.7976534
 longitude: 15.777946100000001
-postcode: 8093
+postcode: "8093"
 city: Sankt Peter am Ottersbach
 street: ""
 housenumber: 21

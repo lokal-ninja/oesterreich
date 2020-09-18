@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.221177100000006
 longitude: 16.3735891
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Untere Augartenstraße"
 housenumber: 30

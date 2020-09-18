@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2473322
 longitude: 12.1177072
-postcode: 5742
+postcode: "5742"
 city: Wald im Pinzgau
 street: "Königsleiten"
 housenumber: 3

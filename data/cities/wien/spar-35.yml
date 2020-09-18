@@ -1,12 +1,12 @@
-id: 2026036064
+id: 1926708360
 type: node
 shop: Supermarkt
-latitude: 48.1330996
-longitude: 16.2597202
-postcode: 1230
+latitude: 48.1907215
+longitude: 16.2950457
+postcode: "1140"
 city: Wien
-street: "Ketzergasse"
-housenumber: 455
-phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off"
-website: "https://www.spar.at/de_AT/index/standorte/12/wien_23_1076.html"
+street: "Penzinger Straße"
+housenumber: 129-133
+phone: "+43 1 8955184"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+website: "https://www.spar.at/standorte/spar-wien-1140-penzingerstrasse-129-133"

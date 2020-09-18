@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.7453263
 longitude: 12.4074168
-postcode: 9920
+postcode: "9920"
 city: Sillian
 street: ""
 housenumber: 2h

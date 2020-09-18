@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.761716
 longitude: 15.3884568
-postcode: 8443
+postcode: "8443"
 city: Gleinstätten
 street: ""
 housenumber: 81

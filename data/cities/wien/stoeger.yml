@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.245481000000005
 longitude: 16.342698600000002
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Billrothstraße"
 housenumber: 83

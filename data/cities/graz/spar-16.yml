@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0329412
 longitude: 15.43182
-postcode: 8055
+postcode: "8055"
 city: Graz
 street: "Brauquartier"
 housenumber: 1

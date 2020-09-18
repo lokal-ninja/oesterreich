@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.490482400000005
 longitude: 14.485096
-postcode: 8784
+postcode: "8784"
 city: Trieben
 street: "Europastraße"
 housenumber: 10

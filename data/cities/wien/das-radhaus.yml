@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.191890900000004
 longitude: 16.363671500000002
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Mittersteig"
 housenumber: 4

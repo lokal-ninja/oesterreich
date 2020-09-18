@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.5150087
 longitude: 12.448329600000001
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Winkl-Schattseite"
 housenumber: 6b

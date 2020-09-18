@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.4423467
 longitude: 12.225848500000001
-postcode: 6364
+postcode: "6364"
 city: Brixen im Thale
 street: "Brixentaler Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.71232010000001
 longitude: 16.3714734
-postcode: 2136
+postcode: "2136"
 city: Laa an der Thaya
 street: "Thayapark"
 housenumber: 5a

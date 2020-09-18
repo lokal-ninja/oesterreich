@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 47.145418400000004
 longitude: 9.8260796
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Klarenbrunnstraße"
 housenumber: 69

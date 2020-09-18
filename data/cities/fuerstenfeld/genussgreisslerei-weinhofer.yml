@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.0514719
 longitude: 16.0745611
-postcode: 8280
+postcode: "8280"
 city: Fürstenfeld
 street: "Augustinerplatz"
 housenumber: 2

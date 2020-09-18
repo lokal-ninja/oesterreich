@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.8842323
 longitude: 16.2459402
-postcode: 2603
+postcode: "2603"
 city: Felixdorf
 street: "Hauptstraße"
 housenumber: 7

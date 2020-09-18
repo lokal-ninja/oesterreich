@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.265743400000005
 longitude: 16.4542764
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Seyringer Straße"
 housenumber: 15

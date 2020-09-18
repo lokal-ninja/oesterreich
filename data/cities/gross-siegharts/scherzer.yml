@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.7886596
 longitude: 15.407169000000001
-postcode: 3812
+postcode: "3812"
 city: Groß-Siegharts
 street: "Bahnhofstraße"
 housenumber: 11b

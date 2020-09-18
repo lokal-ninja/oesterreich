@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.360503200000004
 longitude: 16.6003391
-postcode: 2213
+postcode: "2213"
 city: Bockfließ
 street: "Hauptstraße"
 housenumber: 45

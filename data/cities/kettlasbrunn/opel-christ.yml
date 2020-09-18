@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5677913
 longitude: 16.6506443
-postcode: 2192
+postcode: "2192"
 city: Kettlasbrunn
 street: "Kettlasbrunner Hauptstraße"
 housenumber: 78

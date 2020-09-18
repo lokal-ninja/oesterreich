@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.872781
 longitude: 13.764629300000001
-postcode: 4813
+postcode: "4813"
 city: Altmünster
 street: "Eben"
 housenumber: 

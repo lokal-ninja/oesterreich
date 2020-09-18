@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.972873400000005
 longitude: 15.4714936
-postcode: 8401
+postcode: "8401"
 city: Kalsdorf bei Graz
 street: "Hauptstraße"
 housenumber: 36

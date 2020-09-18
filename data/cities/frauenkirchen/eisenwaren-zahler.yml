@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.835549400000005
 longitude: 16.9261215
-postcode: 7132
+postcode: "7132"
 city: Frauenkirchen
 street: "Franziskanerstraße"
 housenumber: 11

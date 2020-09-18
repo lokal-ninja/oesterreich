@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0088755
 longitude: 13.7192345
-postcode: 4800
+postcode: "4800"
 city: Attnang-Puchheim
 street: "Römerstraße"
 housenumber: 4

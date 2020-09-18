@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.1580093
 longitude: 14.024860100000001
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Schmidtgasse"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.214858
 longitude: 16.3505316
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Alser Straße"
 housenumber: 23

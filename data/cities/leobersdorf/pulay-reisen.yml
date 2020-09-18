@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 47.9338598
 longitude: 16.2236119
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "Südbahnstraße"
 housenumber: 35

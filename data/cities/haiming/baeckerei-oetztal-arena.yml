@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.2314902
 longitude: 10.854802900000001
-postcode: 6430
+postcode: "6430"
 city: Haiming
 street: "Ötztaler Höhe"
 housenumber: 3

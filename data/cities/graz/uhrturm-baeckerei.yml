@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.0691214
 longitude: 15.441168600000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Herrengasse"
 housenumber: 23

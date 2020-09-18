@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.0697391
 longitude: 15.4320514
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Belgiergasse"
 housenumber: 16

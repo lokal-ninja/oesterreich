@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.697709800000005
 longitude: 15.323117300000002
-postcode: 3804
+postcode: "3804"
 city: Allentsteig
 street: "Zwettlerstraße"
 housenumber: 17

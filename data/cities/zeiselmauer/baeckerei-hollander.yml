@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3281645
 longitude: 16.1748418
-postcode: 3424
+postcode: "3424"
 city: Zeiselmauer
 street: "Bahnstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.3940964
 longitude: 15.5829239
-postcode: 3512
+postcode: "3512"
 city: Mautern an der Donau
 street: "Grüner Weg"
 housenumber: 23

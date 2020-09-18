@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.2106167
 longitude: 16.3767177
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Fleischmarkt"
 housenumber: 16

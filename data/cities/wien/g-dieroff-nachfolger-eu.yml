@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.201919200000006
 longitude: 16.3413426
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Westbahnstraße"
 housenumber: 46

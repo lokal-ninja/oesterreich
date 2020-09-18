@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.95248
 longitude: 16.834797000000002
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Eisenstädter Straße"
 housenumber: 8

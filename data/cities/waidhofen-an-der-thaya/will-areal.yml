@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.811008400000006
 longitude: 15.266888300000002
-postcode: 3830
+postcode: "3830"
 city: Waidhofen an der Thaya
 street: "Brunnerstraße"
 housenumber: 43

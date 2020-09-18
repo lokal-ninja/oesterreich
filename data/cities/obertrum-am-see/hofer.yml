@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.9359783
 longitude: 13.0828342
-postcode: 5162
+postcode: "5162"
 city: Obertrum am See
 street: "Seekirchnerstraße"
 housenumber: 1

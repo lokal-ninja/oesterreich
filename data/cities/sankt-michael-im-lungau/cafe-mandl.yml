@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 47.0982758
 longitude: 13.6376238
-postcode: 5582
+postcode: "5582"
 city: Sankt Michael im Lungau
 street: "Marktstraße"
 housenumber: 10

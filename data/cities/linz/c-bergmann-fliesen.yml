@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.2598934
 longitude: 14.3209282
-postcode: 4030
+postcode: "4030"
 city: Linz
 street: "Wiener Straße"
 housenumber: 379

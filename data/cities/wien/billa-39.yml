@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2142727
 longitude: 16.385704500000003
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Czerningasse"
 housenumber: 4

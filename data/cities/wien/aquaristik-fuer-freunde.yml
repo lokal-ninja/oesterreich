@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.141711400000005
 longitude: 16.288164300000002
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Steinergasse"
 housenumber: 36/5

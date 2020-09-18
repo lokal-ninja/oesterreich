@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.057244000000004
 longitude: 14.130016300000001
-postcode: 4550
+postcode: "4550"
 city: Kremsmünster
 street: "Burgfried"
 housenumber: 7

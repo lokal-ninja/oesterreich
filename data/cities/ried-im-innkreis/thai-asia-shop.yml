@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2098151
 longitude: 13.4867012
-postcode: 4910
+postcode: "4910"
 city: Ried im Innkreis
 street: "Roßmarkt"
 housenumber: 1

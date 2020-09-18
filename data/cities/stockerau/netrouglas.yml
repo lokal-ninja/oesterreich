@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.389951
 longitude: 16.1939578
-postcode: 2000
+postcode: "2000"
 city: Stockerau
 street: "Prager Straße"
 housenumber: 30

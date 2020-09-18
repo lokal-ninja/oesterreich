@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0766524
 longitude: 15.5835933
-postcode: 8301
+postcode: "8301"
 city: Laßnitzhöhe
 street: "Hauptstraße"
 housenumber: 25

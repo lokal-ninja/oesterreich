@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.1085344
 longitude: 16.2967251
-postcode: 2345
+postcode: "2345"
 city: Brunn am Gebirge
 street: "Jakob-Fuchs-Gasse"
 housenumber: 45

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4099889
 longitude: 15.2530415
-postcode: 8600
+postcode: "8600"
 city: Bruck an der Mur
 street: "Oberdorfer Straße"
 housenumber: 26

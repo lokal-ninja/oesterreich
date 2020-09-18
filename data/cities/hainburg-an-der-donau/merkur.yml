@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.149058800000006
 longitude: 16.945006
-postcode: 2410
+postcode: "2410"
 city: Hainburg an der Donau
 street: "Pressburger Reichsstraße"
 housenumber: 1

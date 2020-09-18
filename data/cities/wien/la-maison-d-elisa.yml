@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.202148900000005
 longitude: 16.353069
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Siebensterngasse"
 housenumber: 23

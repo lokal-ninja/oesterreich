@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.354514800000004
 longitude: 14.5319503
-postcode: 4230
+postcode: "4230"
 city: Pregarten
 street: "Tragweiner Straße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 47.229694
 longitude: 10.857382000000001
-postcode: 6430
+postcode: "6430"
 city: Haiming
 street: "Ötztaler Höhe"
 housenumber: 21

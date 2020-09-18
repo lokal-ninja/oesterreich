@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.238612800000006
 longitude: 16.342834800000002
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Cottagegasse"
 housenumber: 65/5

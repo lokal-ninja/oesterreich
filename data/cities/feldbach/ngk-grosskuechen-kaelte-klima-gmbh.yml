@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 46.950361
 longitude: 15.888774600000001
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Schillerstraße"
 housenumber: 8

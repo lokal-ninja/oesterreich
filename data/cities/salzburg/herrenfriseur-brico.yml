@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8116598
 longitude: 13.0273271
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Ignaz-Harrer-Straße"
 housenumber: 48

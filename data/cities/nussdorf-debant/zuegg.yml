@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 46.829234400000004
 longitude: 12.8082294
-postcode: 9990
+postcode: "9990"
 city: Nussdorf-Debant
 street: "Drautal Bundesstraße"
 housenumber: 3

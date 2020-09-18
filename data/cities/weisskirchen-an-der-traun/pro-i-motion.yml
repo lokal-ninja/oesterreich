@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.167993700000004
 longitude: 14.127486500000002
-postcode: 4616
+postcode: "4616"
 city: Weißkirchen an der Traun
 street: "Gewerbepark"
 housenumber: 4

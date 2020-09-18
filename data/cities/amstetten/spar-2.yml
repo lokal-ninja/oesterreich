@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.130240400000005
 longitude: 14.861031100000002
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Parksiedlung"
 housenumber: 7

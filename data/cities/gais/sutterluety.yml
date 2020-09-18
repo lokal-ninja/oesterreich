@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1963507
 longitude: 9.7190683
-postcode: 6719
+postcode: "6719"
 city: Gais
 street: "Thomasweg"
 housenumber: 1

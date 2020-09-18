@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.2647805
 longitude: 11.395543100000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Meraner Straße"
 housenumber: 2

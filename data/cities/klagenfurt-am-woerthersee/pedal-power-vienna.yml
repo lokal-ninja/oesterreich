@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 46.619606100000006
 longitude: 14.304118200000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Ausstellungsstraße"
 housenumber: 3

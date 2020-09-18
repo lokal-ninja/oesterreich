@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.4273107
 longitude: 12.847370300000001
-postcode: 5760
+postcode: "5760"
 city: Saalfelden am Steinernen Meer
 street: "Mittergasse"
 housenumber: 4

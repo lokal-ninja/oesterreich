@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.210573000000004
 longitude: 16.4218604
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Olympiaplatz"
 housenumber: 2

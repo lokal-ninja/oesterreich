@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2408748
 longitude: 9.5791128
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Egelseestraße"
 housenumber: 

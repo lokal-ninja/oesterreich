@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2322143
 longitude: 13.8249872
-postcode: 4710
+postcode: "4710"
 city: Grieskirchen
 street: "Wengerstraße"
 housenumber: 4

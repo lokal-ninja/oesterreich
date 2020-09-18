@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.9043289
 longitude: 14.1198764
-postcode: 4560
+postcode: "4560"
 city: Kirchdorf an der Krems
 street: "Garnisonsstraße"
 housenumber: 4

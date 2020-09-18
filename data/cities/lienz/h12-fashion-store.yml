@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 46.8296501
 longitude: 12.7690693
-postcode: 9900
+postcode: "9900"
 city: Lienz
 street: "Hauptplatz"
 housenumber: 12

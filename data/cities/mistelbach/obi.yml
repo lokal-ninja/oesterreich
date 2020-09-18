@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.568619600000005
 longitude: 16.5947767
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Herzog Albrecht-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.9565113
 longitude: 14.7688772
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Hammergasse"
 housenumber: 4

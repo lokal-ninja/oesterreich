@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 47.073520300000006
 longitude: 15.4308756
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Marschallgasse"
 housenumber: 36

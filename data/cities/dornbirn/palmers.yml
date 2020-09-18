@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.4142175
 longitude: 9.7413103
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Marktplatz"
 housenumber: 2

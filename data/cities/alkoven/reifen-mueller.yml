@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.2909421
 longitude: 14.1296399
-postcode: 4072
+postcode: "4072"
 city: Alkoven
 street: "Gewerbestraße"
 housenumber: 12

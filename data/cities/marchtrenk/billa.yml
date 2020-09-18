@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1942255
 longitude: 14.115527
-postcode: 4614
+postcode: "4614"
 city: Marchtrenk
 street: "Eichenstraße"
 housenumber: 15

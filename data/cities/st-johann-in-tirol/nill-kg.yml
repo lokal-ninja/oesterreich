@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5229974
 longitude: 12.4234375
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Kaiserstraße"
 housenumber: 28

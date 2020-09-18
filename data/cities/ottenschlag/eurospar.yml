@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4256133
 longitude: 15.2219773
-postcode: 3631
+postcode: "3631"
 city: Ottenschlag
 street: "Sportplatzgasse"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.674717300000005
 longitude: 15.941875600000001
-postcode: 2640
+postcode: "2640"
 city: Gloggnitz
 street: "Wiener Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2983647
 longitude: 16.4206931
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Josef-Flandorfer-Straße"
 housenumber: 2/1

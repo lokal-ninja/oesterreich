@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.8656547
 longitude: 15.119796800000001
-postcode: 3860
+postcode: "3860"
 city: Heidenreichstein
 street: "Schremser Straße"
 housenumber: 22

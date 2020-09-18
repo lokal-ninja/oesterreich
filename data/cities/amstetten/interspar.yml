@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.123572800000005
 longitude: 14.886408600000001
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Agathastraße"
 housenumber: 1

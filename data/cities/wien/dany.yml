@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1460364
 longitude: 16.2956595
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Levasseurgasse"
 housenumber: 242

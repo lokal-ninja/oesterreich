@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.798939600000004
 longitude: 15.5594947
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Wasserwerkstraße"
 housenumber: 73

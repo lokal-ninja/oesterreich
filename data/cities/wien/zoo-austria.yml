@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.2257484
 longitude: 16.4008575
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Walcherstraße"
 housenumber: 17

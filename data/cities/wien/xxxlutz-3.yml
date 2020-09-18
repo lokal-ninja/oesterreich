@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.266156200000005
 longitude: 16.4588445
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.797270600000004
 longitude: 13.0490489
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Kaigasse"
 housenumber: 27

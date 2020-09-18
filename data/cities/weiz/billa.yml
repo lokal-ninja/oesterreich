@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.219041600000004
 longitude: 15.6326625
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Birkfelder Straße"
 housenumber: 48

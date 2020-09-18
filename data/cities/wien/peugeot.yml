@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1721202
 longitude: 16.350079100000002
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Triester Straße"
 housenumber: 50a

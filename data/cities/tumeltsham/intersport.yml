@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.22130000000001
 longitude: 13.4987115
-postcode: 4911
+postcode: "4911"
 city: Tumeltsham
 street: "Hannesgrub Nord"
 housenumber: 2

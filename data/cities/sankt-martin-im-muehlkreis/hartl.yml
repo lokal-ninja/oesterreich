@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.4382625
 longitude: 14.036484900000001
-postcode: 4113
+postcode: "4113"
 city: Sankt Martin im Mühlkreis
 street: "Windorf"
 housenumber: 10

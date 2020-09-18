@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2684593
 longitude: 16.398387200000002
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Ignaz-Köck-Straße"
 housenumber: 1

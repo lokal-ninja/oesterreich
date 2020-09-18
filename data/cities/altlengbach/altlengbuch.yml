@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1523545
 longitude: 15.9315195
-postcode: 3033
+postcode: "3033"
 city: Altlengbach
 street: "Hauptstraße"
 housenumber: 68

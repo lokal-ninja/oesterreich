@@ -1,4 +1,4 @@
 ---
-title: "PURESLeben - Ferienhäuser am Thunauberg"
+title: "Puresleben - Ferienhäuser am Thunauberg"
 url: /gabersdorf/puresleben-ferienhaeuser-am-thunauberg/
 ---

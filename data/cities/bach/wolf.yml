@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.2602758
 longitude: 10.3700243
-postcode: 6653
+postcode: "6653"
 city: Bach
 street: "Stockach"
 housenumber: 29a

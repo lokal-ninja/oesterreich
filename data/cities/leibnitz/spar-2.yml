@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.798380800000004
 longitude: 15.537771300000001
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Grazer Straße"
 housenumber: 184

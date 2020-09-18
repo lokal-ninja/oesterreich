@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.191453700000004
 longitude: 13.573298800000002
-postcode: 4926
+postcode: "4926"
 city: Sankt Marienkirchen am Hausruck
 street: ""
 housenumber: 30

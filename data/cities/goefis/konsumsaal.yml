@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.235875300000004
 longitude: 9.631615700000001
-postcode: 6811
+postcode: "6811"
 city: Göfis
 street: "Kirchstraße"
 housenumber: 4

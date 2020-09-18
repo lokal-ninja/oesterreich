@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.222673
 longitude: 16.3192196
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Hernalser Hauptstraße"
 housenumber: 156

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.4643491
 longitude: 16.6384774
-postcode: 7361
+postcode: "7361"
 city: Lutzmannsburg
 street: "Hauptstraße"
 housenumber: 59

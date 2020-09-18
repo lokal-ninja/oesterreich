@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.2273829
 longitude: 16.366215500000003
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Brigittenauer Lände"
 housenumber: 2-3

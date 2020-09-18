@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.3155584
 longitude: 15.661341900000002
-postcode: 3131
+postcode: "3131"
 city: Wetzmannsthal
 street: "Traubenweg"
 housenumber: 2

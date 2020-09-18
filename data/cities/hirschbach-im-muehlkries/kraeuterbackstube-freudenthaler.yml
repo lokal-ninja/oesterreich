@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.4883698
 longitude: 14.4107809
-postcode: 4242
+postcode: "4242"
 city: Hirschbach im Mühlkries
 street: "Hirschbach im Mühlkreis"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9046475
 longitude: 14.123148
-postcode: 4560
+postcode: "4560"
 city: Kirchdorf an der Krems
 street: "Hauptplatz"
 housenumber: 15

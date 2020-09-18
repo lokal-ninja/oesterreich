@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1980523
 longitude: 16.327899900000002
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: ""
 housenumber: 

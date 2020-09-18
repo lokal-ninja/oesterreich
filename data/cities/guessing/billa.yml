@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0700384
 longitude: 16.321556
-postcode: 7540
+postcode: "7540"
 city: Güssing
 street: "Wiener Str."
 housenumber: 35

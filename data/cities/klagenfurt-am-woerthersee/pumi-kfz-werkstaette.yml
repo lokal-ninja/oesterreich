@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 46.6170774
 longitude: 14.294397100000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Ankershofenstraße"
 housenumber: 57

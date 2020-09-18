@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.3262821
 longitude: 16.2111539
-postcode: 3423
+postcode: "3423"
 city: St. Andrä - Wördern
 street: "Dr. Ignaz Stich Platz"
 housenumber: 5

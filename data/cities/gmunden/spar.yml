@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.917503800000006
 longitude: 13.798452300000001
-postcode: 4810
+postcode: "4810"
 city: Gmunden
 street: "Kursaalgasse"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2572533
 longitude: 16.3990174
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Franz-Jonas-Platz"
 housenumber: 6

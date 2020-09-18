@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.9436181
 longitude: 16.107216400000002
-postcode: 2560
+postcode: "2560"
 city: Berndorf
 street: "Hernsteiner Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.2305081
 longitude: 16.3726166
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Wallensteinstraße"
 housenumber: 35

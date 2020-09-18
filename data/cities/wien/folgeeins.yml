@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 48.2001603
 longitude: 16.3503619
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Lindengasse"
 housenumber: 32
 phone: ""
-opening_hours: ""
+opening_hours: "Mo 13:00-20:00; Tu-Fr 10:00-21:00; Sa 10:00-17:00"
 website: ""

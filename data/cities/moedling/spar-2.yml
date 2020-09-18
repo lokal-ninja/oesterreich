@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 48.0894181
 longitude: 16.3047061
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Wiener Straße"
 housenumber: 77
-phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: ""
+phone: "+43 2236/864326"
+opening_hours: "Mo-Fr 07:40-19:00; Sa 07:40-18:00"
+website: "https://www.spar.at/standorte/spar-moedling-2340-wiener-strasse-77"

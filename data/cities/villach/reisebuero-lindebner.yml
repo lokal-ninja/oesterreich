@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 46.623059500000004
 longitude: 13.8464568
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Unterer Heidenweg"
 housenumber: 18

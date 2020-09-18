@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.711144000000004
 longitude: 13.622356100000001
-postcode: 4820
+postcode: "4820"
 city: Bad Ischl
 street: "Pfarrgasse"
 housenumber: 15

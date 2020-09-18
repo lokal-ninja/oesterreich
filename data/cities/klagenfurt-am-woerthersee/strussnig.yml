@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.6317851
 longitude: 14.310504900000002
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "St. Veiter Straße"
 housenumber: 46

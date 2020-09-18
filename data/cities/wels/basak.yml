@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.163819200000006
 longitude: 14.0257064
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Bahnhofstraße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.242639000000004
 longitude: 16.439343
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: ""
 housenumber: 

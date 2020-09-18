@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.643520200000005
 longitude: 13.6157757
-postcode: 4822
+postcode: "4822"
 city: Bad Goisern am Hallstättersee
 street: "Untere Marktstraße"
 housenumber: 34

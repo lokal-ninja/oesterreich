@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.073428500000006
 longitude: 15.419049900000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Keplerstraße"
 housenumber: 116

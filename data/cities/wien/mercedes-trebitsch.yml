@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.189216200000004
 longitude: 16.378200500000002
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Mommsengasse"
 housenumber: 26-28

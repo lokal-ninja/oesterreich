@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1884394
 longitude: 16.330570700000003
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Reindorfgasse"
 housenumber: 9

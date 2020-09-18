@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.5546452
 longitude: 14.4802751
-postcode: 4261
+postcode: "4261"
 city: Rainbach im Mühlkreis
 street: "Freistädter Straße"
 housenumber: 8

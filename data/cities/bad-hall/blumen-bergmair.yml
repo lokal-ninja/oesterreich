@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.0345445
 longitude: 14.2097481
-postcode: 4540
+postcode: "4540"
 city: Bad Hall
 street: "Hauptplatz"
 housenumber: 19

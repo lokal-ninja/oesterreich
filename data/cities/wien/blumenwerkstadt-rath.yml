@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.191617
 longitude: 16.3665467
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.0929559
 longitude: 15.407137700000002
-postcode: 8051
+postcode: "8051"
 city: Graz
 street: "Wiener Straße"
 housenumber: 234

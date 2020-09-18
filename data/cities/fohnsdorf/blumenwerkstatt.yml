@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.2077729
 longitude: 14.677165700000002
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Hauptstraße"
 housenumber: 3a

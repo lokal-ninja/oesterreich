@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.4082026
 longitude: 9.7426866
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Marktstraße"
 housenumber: 61
-phone: "+43 [0] 5572 394 578"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:00; PH off"
+phone: "+43 5572 394 578"
+opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-13:00; PH off"
 website: "https://www.biobinich.at/"

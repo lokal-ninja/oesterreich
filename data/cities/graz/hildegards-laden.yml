@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.0725709
 longitude: 15.448367600000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Brandhofgasse"
 housenumber: 22

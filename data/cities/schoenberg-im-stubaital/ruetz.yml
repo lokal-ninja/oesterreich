@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.1835996
 longitude: 11.398398
-postcode: 6141
+postcode: "6141"
 city: Schönberg im Stubaital
 street: "Dorfstraße"
 housenumber: 28

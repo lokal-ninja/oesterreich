@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.225247200000005
 longitude: 16.4994447
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Mimi-Grossberg-Gasse"
 housenumber: 11/301

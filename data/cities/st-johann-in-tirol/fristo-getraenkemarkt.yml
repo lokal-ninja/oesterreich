@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.5192119
 longitude: 12.416798400000001
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Paß-Thurn-Straße"
 housenumber: 11

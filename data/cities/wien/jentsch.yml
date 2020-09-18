@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.202983
 longitude: 16.3404162
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kaiserstraße"
 housenumber: 58

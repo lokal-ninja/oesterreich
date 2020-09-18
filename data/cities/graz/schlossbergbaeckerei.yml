@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.0774762
 longitude: 15.434776300000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Wickenburggasse"
 housenumber: 15

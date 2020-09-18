@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.3693772
 longitude: 9.9284836
-postcode: 6874
+postcode: "6874"
 city: Bizau
 street: "Kirchdorf"
 housenumber: 76

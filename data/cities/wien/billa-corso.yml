@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.202300900000004
 longitude: 16.3720508
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Kärntner Ring"
 housenumber: 9 - 13

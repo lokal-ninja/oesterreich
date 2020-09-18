@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2202386
 longitude: 16.8156649
-postcode: 2291
+postcode: "2291"
 city: Lassee
 street: "Haringseer Straße"
 housenumber: 1-3

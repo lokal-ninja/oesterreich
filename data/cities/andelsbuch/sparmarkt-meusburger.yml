@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.412684000000006
 longitude: 9.8952989
-postcode: 6866
+postcode: "6866"
 city: Andelsbuch
 street: "Hof"
 housenumber: 387

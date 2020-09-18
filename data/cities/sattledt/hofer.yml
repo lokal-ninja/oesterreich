@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0705265
 longitude: 14.0535467
-postcode: 4642
+postcode: "4642"
 city: Sattledt
 street: "Kirchdorfer Straße"
 housenumber: 6

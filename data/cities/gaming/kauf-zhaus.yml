@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 47.928531400000004
 longitude: 15.087678100000002
-postcode: 3292
+postcode: "3292"
 city: Gaming
 street: ""
 housenumber: 

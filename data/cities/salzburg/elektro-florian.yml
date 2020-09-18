@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.8051164
 longitude: 13.044131700000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Schrannengasse"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.694790000000005
 longitude: 13.8829443
-postcode: 4163
+postcode: "4163"
 city: Klaffer am Hochficht
 street: "Kräuterdorfstraße"
 housenumber: 13

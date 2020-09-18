@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 47.8460028
 longitude: 13.2289989
-postcode: 5303
+postcode: "5303"
 city: Thalgau
 street: "Irlachstraße"
 housenumber: 7

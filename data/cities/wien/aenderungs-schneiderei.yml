@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.1868028
 longitude: 16.3282035
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Sechshauserstraße"
 housenumber: 59

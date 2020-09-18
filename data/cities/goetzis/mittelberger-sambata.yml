@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3335743
 longitude: 9.6410367
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Ringstraße"
 housenumber: 

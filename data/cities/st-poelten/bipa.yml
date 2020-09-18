@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.220962
 longitude: 15.638824800000002
-postcode: 3107
+postcode: "3107"
 city: St. Pölten
 street: "Dr.-Adolf-Schärf-Straße"
 housenumber: 10-12

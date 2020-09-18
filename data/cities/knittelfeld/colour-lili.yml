@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.2158207
 longitude: 14.832334200000002
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Bahnstraße"
 housenumber: 19

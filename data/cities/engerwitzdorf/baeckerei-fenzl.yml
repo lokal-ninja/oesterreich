@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.337653
 longitude: 14.365511000000001
-postcode: 4209
+postcode: "4209"
 city: Engerwitzdorf
 street: "Kirchenplatz"
 housenumber: 12

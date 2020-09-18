@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2017262
 longitude: 16.3426982
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Westbahnstraße"
 housenumber: 25

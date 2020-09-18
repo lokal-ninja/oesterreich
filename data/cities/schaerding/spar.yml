@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4646868
 longitude: 13.435598200000001
-postcode: 4780
+postcode: "4780"
 city: Schärding
 street: "Passauer Straße"
 housenumber: 35

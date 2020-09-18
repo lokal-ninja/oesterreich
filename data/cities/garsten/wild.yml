@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.0238797
 longitude: 14.406932600000001
-postcode: 4451
+postcode: "4451"
 city: Garsten
 street: "St. Berthold-Allee"
 housenumber: 5

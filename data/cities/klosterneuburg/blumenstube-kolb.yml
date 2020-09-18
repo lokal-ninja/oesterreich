@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.2964233
 longitude: 16.332205300000002
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Weidlinger Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0039801
 longitude: 13.6740934
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Kopernikus-Straße"
 housenumber: 3

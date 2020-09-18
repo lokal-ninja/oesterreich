@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5302268
 longitude: 14.1010743
-postcode: 8950
+postcode: "8950"
 city: Stainach-Pürgg
 street: "Bahnhofstraße"
 housenumber: 518

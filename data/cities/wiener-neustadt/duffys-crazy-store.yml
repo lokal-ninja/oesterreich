@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.81382240000001
 longitude: 16.2420543
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Friedrichsgasse"
 housenumber: 5

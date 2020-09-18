@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.0716082
 longitude: 15.419526000000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Bahnhofgürtel"
 housenumber: 89

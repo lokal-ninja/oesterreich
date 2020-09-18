@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 46.829536700000006
 longitude: 12.7642457
-postcode: 9900
+postcode: "9900"
 city: Lienz
 street: "Kreuzgasse"
 housenumber: 6

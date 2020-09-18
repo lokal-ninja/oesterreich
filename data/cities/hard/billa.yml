@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.490310300000004
 longitude: 9.7060888
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Rheinstraße"
 housenumber: 5

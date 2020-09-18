@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.8411215
 longitude: 16.456015700000002
-postcode: 7052
+postcode: "7052"
 city: Müllendorf
 street: "Hauptstraße"
 housenumber: 53

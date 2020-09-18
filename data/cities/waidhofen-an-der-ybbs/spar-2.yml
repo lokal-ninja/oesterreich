@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9778553
 longitude: 14.7527933
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Wienerstraße"
 housenumber: 58

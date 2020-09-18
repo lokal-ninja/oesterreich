@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.567578100000006
 longitude: 13.980735000000001
-postcode: 4150
+postcode: "4150"
 city: Rohrbach
 street: "Wirtschaftszeile"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.798417
 longitude: 13.712603900000001
-postcode: 9545
+postcode: "9545"
 city: Radenthein
 street: "Stadionstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 48.179821800000006
 longitude: 16.3722648
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Jagdgasse"
 housenumber: 2g

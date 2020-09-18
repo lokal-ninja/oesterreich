@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.2715795
 longitude: 14.291666600000001
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Am Bindermichl"
 housenumber: 23

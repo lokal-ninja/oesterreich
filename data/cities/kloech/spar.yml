@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.764255500000004
 longitude: 15.966343
-postcode: 8493
+postcode: "8493"
 city: Klöch
 street: ""
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9330389
 longitude: 13.778039300000001
-postcode: 4812
+postcode: "4812"
 city: Pinsdorf
 street: "Leitenstraße"
 housenumber: 41

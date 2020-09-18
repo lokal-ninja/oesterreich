@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.682518300000005
 longitude: 13.971502800000001
-postcode: 9551
+postcode: "9551"
 city: Bodensdorf
 street: "Lobisserweg"
 housenumber: 1

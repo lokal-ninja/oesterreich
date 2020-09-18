@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 48.2178593
 longitude: 16.3359279
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Jörgerstraße"
 housenumber: 38

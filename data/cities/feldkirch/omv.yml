@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.267671
 longitude: 9.6147788
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Königshofstraße"
 housenumber: 61

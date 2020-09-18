@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.2648365
 longitude: 11.4395594
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Grabenweg"
 housenumber: 68

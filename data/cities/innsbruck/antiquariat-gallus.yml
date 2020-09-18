@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.2642164
 longitude: 11.3904975
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Anichstraße"
 housenumber: 25

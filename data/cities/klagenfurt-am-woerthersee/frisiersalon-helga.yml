@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.628985400000005
 longitude: 14.2995976
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Deutenhofenstraße"
 housenumber: 2

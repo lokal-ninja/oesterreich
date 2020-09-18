@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.0756609
 longitude: 15.4456263
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Glacisstraße"
 housenumber: 19

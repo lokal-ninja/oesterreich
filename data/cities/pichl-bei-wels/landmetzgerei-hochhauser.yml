@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.1844788
 longitude: 13.8996422
-postcode: 4632
+postcode: "4632"
 city: Pichl bei Wels
 street: "Innbachtalstraße"
 housenumber: 3

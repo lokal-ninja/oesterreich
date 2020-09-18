@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 47.444953600000005
 longitude: 13.905919800000001
-postcode: 8962
+postcode: "8962"
 city: Gröbming
 street: "Mitterberger Straße"
 housenumber: 711

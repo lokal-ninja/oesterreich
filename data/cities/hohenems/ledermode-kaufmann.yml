@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3664095
 longitude: 9.687467900000001
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Schweizer Straße"
 housenumber: 18a

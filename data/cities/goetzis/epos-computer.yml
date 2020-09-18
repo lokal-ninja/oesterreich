@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 47.334750400000004
 longitude: 9.6451417
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Bahnhofstraße"
 housenumber: 2

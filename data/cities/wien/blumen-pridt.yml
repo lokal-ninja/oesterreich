@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.209477400000004
 longitude: 16.3519782
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Josefstädter Straße"
 housenumber: 20

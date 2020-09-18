@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 48.201294700000005
 longitude: 16.3551182
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Stiftgasse"
 housenumber: 11

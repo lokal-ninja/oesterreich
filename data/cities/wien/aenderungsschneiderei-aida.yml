@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.2013885
 longitude: 16.3872603
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Ungargasse"
 housenumber: 32

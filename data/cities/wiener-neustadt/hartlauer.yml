@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.813478200000006
 longitude: 16.240794400000002
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Herzog-Leopold-Straße"
 housenumber: 24

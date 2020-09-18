@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3560213
 longitude: 13.199532000000001
-postcode: 5600
+postcode: "5600"
 city: Sankt Johann im Pongau
 street: "Salzburgerstraße"
 housenumber: 21

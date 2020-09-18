@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.2040492
 longitude: 16.3728762
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Annagasse"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.182089100000006
 longitude: 16.4079796
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Simmeringer Hauptstraße"
 housenumber: 27

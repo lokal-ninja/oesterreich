@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.8107259
 longitude: 13.0552384
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Vogelweiderstraße"
 housenumber: 34

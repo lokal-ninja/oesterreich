@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 47.9064415
 longitude: 14.118299500000001
-postcode: 4560
+postcode: "4560"
 city: Kirchdorf an der Krems
 street: "Sengsschmiedstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.114236600000005
 longitude: 16.3185234
-postcode: 2334
+postcode: "2334"
 city: Vösendorf
 street: "Nordring"
 housenumber: 2

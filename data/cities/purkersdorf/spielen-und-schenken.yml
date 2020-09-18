@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.2076025
 longitude: 16.1773722
-postcode: 3002
+postcode: "3002"
 city: Purkersdorf
 street: "Hauptplatz"
 housenumber: 12

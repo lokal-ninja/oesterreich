@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 46.984261000000004
 longitude: 10.0249696
-postcode: 6793
+postcode: "6793"
 city: Gaschurn
 street: "Seilbahnstraße"
 housenumber: 

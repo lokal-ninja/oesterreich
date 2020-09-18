@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.4316333
 longitude: 9.7393888
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Schwefel"
 housenumber: 84

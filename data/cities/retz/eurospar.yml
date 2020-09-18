@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7582029
 longitude: 15.9561688
-postcode: 2070
+postcode: "2070"
 city: Retz
 street: "Höfleiner Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.1739131
 longitude: 15.639188500000001
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Mathilde-Beyerknecht-Straße"
 housenumber: 5

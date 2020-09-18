@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.5612943
 longitude: 14.253793000000002
-postcode: 8940
+postcode: "8940"
 city: Liezen
 street: "Werkstraße"
 housenumber: 23

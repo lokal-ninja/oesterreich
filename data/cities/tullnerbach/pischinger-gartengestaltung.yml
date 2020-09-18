@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.1861015
 longitude: 16.098337700000002
-postcode: 3011
+postcode: "3011"
 city: Tullnerbach
 street: "Lawieserstraße"
 housenumber: 15

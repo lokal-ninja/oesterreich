@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.719669
 longitude: 15.254848800000001
-postcode: 8551
+postcode: "8551"
 city: Wies
 street: "Radlpaßstraße"
 housenumber: 23

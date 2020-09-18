@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.269756900000004
 longitude: 11.4030903
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Viaduktbogen"
 housenumber: 38

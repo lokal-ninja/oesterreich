@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.407951000000004
 longitude: 11.844194900000002
-postcode: 6235
+postcode: "6235"
 city: Reith im Alpachtal
 street: "Sankt Gertraudi"
 housenumber: 49

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.200697600000005
 longitude: 16.2566899
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Bergmillergasse"
 housenumber: 5

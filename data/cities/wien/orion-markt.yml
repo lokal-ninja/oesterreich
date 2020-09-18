@@ -3,7 +3,7 @@ type: way
 shop: Lampen
 latitude: 48.146273
 longitude: 16.364566200000002
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Oberlaaer Straße"
 housenumber: 321

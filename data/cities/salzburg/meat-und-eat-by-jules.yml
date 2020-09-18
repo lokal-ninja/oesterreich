@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.8073958
 longitude: 13.0464301
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Franz-Josef-Straße"
 housenumber: 19

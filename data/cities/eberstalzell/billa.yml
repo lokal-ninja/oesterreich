@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.047138600000004
 longitude: 13.9877885
-postcode: 4653
+postcode: "4653"
 city: Eberstalzell
 street: "Hartleitnerstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 46.9913919
 longitude: 15.5135912
-postcode: 8071
+postcode: "8071"
 city: Hausmannstätten
 street: "Hauptstraße"
 housenumber: 41

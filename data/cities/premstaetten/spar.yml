@@ -1,12 +1,12 @@
 id: 578193682
 type: way
 shop: Supermarkt
-latitude: 46.969863000000004
-longitude: 15.4088659
-postcode: 8141
+latitude: 46.969922200000006
+longitude: 15.408875300000002
+postcode: "8141"
 city: Premstätten
 street: "Thalerhofstraße"
 housenumber: 9
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+43 3136 52978"
+opening_hours: "Mo-Fr 07:40-19:00; Sa 07:40-18:00; Su,PH off"
+website: "https://www.spar.at/standorte/spar-premstaetten-8141-thalerhofstrasse-9"

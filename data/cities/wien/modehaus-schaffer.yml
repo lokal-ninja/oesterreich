@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1968363
 longitude: 16.395167
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Juchgasse"
 housenumber: 4

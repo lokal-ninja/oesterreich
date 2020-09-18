@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.9915858
 longitude: 15.513882200000001
-postcode: 8071
+postcode: "8071"
 city: Hausmannstätten
 street: "Hauptstraße"
 housenumber: 45

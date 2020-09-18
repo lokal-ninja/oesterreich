@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.484987800000006
 longitude: 16.592495
-postcode: 2191
+postcode: "2191"
 city: Gaweinstal
 street: "In Lüssen"
 housenumber: 10

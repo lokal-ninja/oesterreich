@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.71141110000001
 longitude: 13.623070700000001
-postcode: 4820
+postcode: "4820"
 city: Bad Ischl
 street: "Auböckplatz"
 housenumber: 3

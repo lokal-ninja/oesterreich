@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.235707000000005
 longitude: 9.6299284
-postcode: 6811
+postcode: "6811"
 city: Göfis
 street: "Oberdorf"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.2416848
 longitude: 10.293856100000001
-postcode: 6655
+postcode: "6655"
 city: Steeg
 street: "Dickenau"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3628872
 longitude: 14.0104222
-postcode: 4082
+postcode: "4082"
 city: Aschach an der Donau
 street: "Bahnhofstraße"
 housenumber: 21

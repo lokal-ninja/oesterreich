@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.391698500000004
 longitude: 11.773628
-postcode: 6200
+postcode: "6200"
 city: Jenbach
 street: "Schalserstraße"
 housenumber: 1

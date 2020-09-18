@@ -3,7 +3,7 @@ type: way
 shop: Tabak
 latitude: 47.2144932
 longitude: 15.630447700000001
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: "Bahnhofstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 46.9508628
 longitude: 15.8914719
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Bindergasse"
 housenumber: 2

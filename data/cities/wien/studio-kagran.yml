@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.250910600000005
 longitude: 16.443395600000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Doningasse"
 housenumber: 12/2/1. Stock

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.3036271
 longitude: 9.651748300000001
-postcode: 6837
+postcode: "6837"
 city: Weiler
 street: "Treiet"
 housenumber: 5

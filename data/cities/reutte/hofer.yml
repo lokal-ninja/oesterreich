@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.488179800000005
 longitude: 10.7111037
-postcode: 6600
+postcode: "6600"
 city: Reutte
 street: "Anton Maria Schyrle-Straße"
 housenumber: 35

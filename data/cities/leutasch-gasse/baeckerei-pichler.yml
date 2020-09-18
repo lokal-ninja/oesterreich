@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3779782
 longitude: 11.157179900000001
-postcode: 6105
+postcode: "6105"
 city: Leutasch-Gasse
 street: "Gasse"
 housenumber: 167

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.224961300000004
 longitude: 16.4542392
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Langobardenstraße"
 housenumber: 19

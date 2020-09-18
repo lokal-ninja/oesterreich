@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.4343542
 longitude: 9.7376939
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Schwefel"
 housenumber: 95

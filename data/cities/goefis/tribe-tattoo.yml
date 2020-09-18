@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 47.2442736
 longitude: 9.6462839
-postcode: 6811
+postcode: "6811"
 city: Göfis
 street: "Römerstraße"
 housenumber: 24

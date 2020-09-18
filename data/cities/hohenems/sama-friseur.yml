@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.3638659
 longitude: 9.6809768
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Angelika-Kauffmann-Straße"
 housenumber: 1

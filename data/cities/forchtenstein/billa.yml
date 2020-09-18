@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.717040000000004
 longitude: 16.3683935
-postcode: 7212
+postcode: "7212"
 city: Forchtenstein
 street: "Industriegelände"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.6633731
 longitude: 15.656053100000001
-postcode: 3580
+postcode: "3580"
 city: Horn
 street: "Hauptplatz"
 housenumber: 9

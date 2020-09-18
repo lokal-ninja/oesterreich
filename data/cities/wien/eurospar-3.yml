@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1872977
 longitude: 16.3594557
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Zentagasse"
 housenumber: 11-13

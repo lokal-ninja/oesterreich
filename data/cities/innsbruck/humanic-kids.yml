@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.2661548
 longitude: 11.3942168
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maria-Theresien-Straße"
 housenumber: 17-19

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.2338783
 longitude: 11.3731728
-postcode: 6161
+postcode: "6161"
 city: Natters
 street: "Dorfplatz"
 housenumber: 4

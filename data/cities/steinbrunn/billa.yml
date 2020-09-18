@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8333202
 longitude: 16.419791200000002
-postcode: 7035
+postcode: "7035"
 city: Steinbrunn
 street: "Fölliggasse"
 housenumber: 1

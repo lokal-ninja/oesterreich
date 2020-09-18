@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8865174
 longitude: 15.501500100000001
-postcode: 8410
+postcode: "8410"
 city: Wildon
 street: "Kainachtalstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.1700346
 longitude: 14.645594000000001
-postcode: 8750
+postcode: "8750"
 city: Judenburg
 street: "Burggasse"
 housenumber: 92

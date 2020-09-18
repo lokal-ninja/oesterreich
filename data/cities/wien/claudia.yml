@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1935128
 longitude: 16.2726835
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Hackinger Straße"
 housenumber: 32a

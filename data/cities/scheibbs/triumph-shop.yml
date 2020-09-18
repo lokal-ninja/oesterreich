@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.006674000000004
 longitude: 15.165879
-postcode: 3270
+postcode: "3270"
 city: Scheibbs
 street: "Bahnhofstraße"
 housenumber: 1

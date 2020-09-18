@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.2037714
 longitude: 16.3575573
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Museumsplatz"
 housenumber: 1

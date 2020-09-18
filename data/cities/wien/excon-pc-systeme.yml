@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.2228439
 longitude: 16.3664315
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Rögergasse"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.068766600000004
 longitude: 15.446898000000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Kaiser-Josef-Platz"
 housenumber: 

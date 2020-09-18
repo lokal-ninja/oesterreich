@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 47.26861460000001
 longitude: 9.611874
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Leusbündtweg"
 housenumber: 19d

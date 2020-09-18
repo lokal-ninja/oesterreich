@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.865641100000005
 longitude: 15.1235315
-postcode: 3860
+postcode: "3860"
 city: Heidenreichstein
 street: "Stadtplatz"
 housenumber: 15/1

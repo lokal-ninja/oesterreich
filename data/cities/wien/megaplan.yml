@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.1984665
 longitude: 16.3284816
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Märzstraße"
 housenumber: 50

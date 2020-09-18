@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.4294226
 longitude: 11.8773836
-postcode: 6230
+postcode: "6230"
 city: Brixlegg
 street: "Marktstraße"
 housenumber: 37

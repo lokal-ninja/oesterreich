@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3357572
 longitude: 14.385634300000001
-postcode: 4209
+postcode: "4209"
 city: Engerwitzdorf
 street: "Katsdorfer Straße"
 housenumber: 3

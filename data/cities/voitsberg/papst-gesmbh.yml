@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 47.0383828
 longitude: 15.166299100000002
-postcode: 8572
+postcode: "8572"
 city: Voitsberg
 street: "Grazer Vorstadt"
 housenumber: 120
-phone: "+433142 23745"
+phone: ""
 opening_hours: ""
-website: "http://www.papst.bmw.at"
+website: "https://bmw-papst-voitsberg.at/"

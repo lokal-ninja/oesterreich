@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1890962
 longitude: 16.337705200000002
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Sechshauser Gürtel"
 housenumber: 7

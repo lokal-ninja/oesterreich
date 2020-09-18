@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.253801800000005
 longitude: 16.3652035
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Heiligenstädter Straße"
 housenumber: 90

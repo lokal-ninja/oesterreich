@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.217657900000006
 longitude: 16.4038089
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Prater"
 housenumber: 196

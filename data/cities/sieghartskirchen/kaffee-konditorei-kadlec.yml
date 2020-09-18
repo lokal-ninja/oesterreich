@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 48.253484900000004
 longitude: 16.014417700000003
-postcode: 3443
+postcode: "3443"
 city: Sieghartskirchen
 street: "Karl-Berger Platz"
 housenumber: 3a

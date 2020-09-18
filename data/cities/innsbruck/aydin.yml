@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2605214
 longitude: 11.391933600000002
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Andreas-Hofer-Straße"
 housenumber: 17

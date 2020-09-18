@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.9401541
 longitude: 16.0127829
-postcode: 8350
+postcode: "8350"
 city: Fehring
 street: "Bahnhofstraße"
 housenumber: 14c

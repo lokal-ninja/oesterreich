@@ -1,12 +1,12 @@
-id: 7056719825
+id: 7187441085
 type: node
 shop: Supermarkt
-latitude: 48.228115200000005
-longitude: 16.392201200000002
-postcode: 1020
+latitude: 48.208329600000006
+longitude: 16.3659599
+postcode: "1010"
 city: Wien
-street: "Bruno-Marek-Allee"
-housenumber: 7A
+street: "Schauflergasse"
+housenumber: 2
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+website: "https://www.billa.at/"

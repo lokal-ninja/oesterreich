@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9713336
 longitude: 13.607392200000001
-postcode: 4860
+postcode: "4860"
 city: Lenzing
 street: "Agerstraße"
 housenumber: 7

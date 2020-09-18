@@ -3,7 +3,7 @@ type: way
 shop: Jalousien
 latitude: 48.1338469
 longitude: 16.309803900000002
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Lemböckgasse"
 housenumber: 53

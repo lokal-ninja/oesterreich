@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0861662
 longitude: 16.283260900000002
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Schrannenplatz"
 housenumber: 3

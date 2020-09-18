@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1534592
 longitude: 16.658228100000002
-postcode: 2304
+postcode: "2304"
 city: Mannsdorf an der Donau
 street: "Marchfeldstraße"
 housenumber: 3

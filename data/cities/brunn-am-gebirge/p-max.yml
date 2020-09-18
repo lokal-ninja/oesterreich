@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.106357700000004
 longitude: 16.3139781
-postcode: 2345
+postcode: "2345"
 city: Brunn am Gebirge
 street: "Hubatschstraße"
 housenumber: 3/11

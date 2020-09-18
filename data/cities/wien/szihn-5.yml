@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.150009600000004
 longitude: 16.2686204
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Geßlgasse"
 housenumber: 2A

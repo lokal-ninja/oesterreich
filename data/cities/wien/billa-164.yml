@@ -1,12 +1,12 @@
-id: 4543552194
+id: 4543552195
 type: node
 shop: Supermarkt
-latitude: 48.2121488
-longitude: 16.3453841
-postcode: 1080
+latitude: 48.216483000000004
+longitude: 16.3530978
+postcode: "1090"
 city: Wien
-street: "Skodagasse"
-housenumber: 8
-phone: "+43 1 4088131"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su off; PH off"
+street: "Alser Straße"
+housenumber: 4
+phone: "+43 1 4092980"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
 website: "https://www.billa.at/"

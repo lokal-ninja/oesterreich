@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.4331728
 longitude: 14.295357000000001
-postcode: 4202
+postcode: "4202"
 city: Hellmonsödt
 street: "Linzer Straße"
 housenumber: 14

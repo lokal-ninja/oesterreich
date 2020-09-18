@@ -1,12 +1,12 @@
-id: 5806918767
+id: 5637671325
 type: node
 shop: Supermarkt
-latitude: 48.177845700000006
-longitude: 16.270291500000003
-postcode: 1130
+latitude: 48.1752027
+longitude: 16.4085284
+postcode: "1110"
 city: Wien
-street: "Wlassakstraße"
-housenumber: 2
+street: "Geiselbergstraße"
+housenumber: 49
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
 website: ""

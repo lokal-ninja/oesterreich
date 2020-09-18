@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.1684125
 longitude: 13.099076
-postcode: 5630
+postcode: "5630"
 city: Bad Hofgastein
 street: "Schloßgasse"
 housenumber: 2a

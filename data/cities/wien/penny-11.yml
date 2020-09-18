@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2242389
 longitude: 16.336208600000003
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Kreuzgasse"
 housenumber: 48

@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 47.2872129
 longitude: 11.0363121
-postcode: 6421
+postcode: "6421"
 city: Rietz
 street: "Dorf"
-housenumber: 5
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: 7
+phone: "+43 50321 923316"
+opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-18:00; PH off"
+website: "https://www.mpreis.at/sp/standorte"

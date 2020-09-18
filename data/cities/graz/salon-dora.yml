@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.0698616
 longitude: 15.428577800000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Kernstockgasse"
 housenumber: 22

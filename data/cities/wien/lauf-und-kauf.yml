@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 48.1868313
 longitude: 16.3288996
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Sechshauser Straße"
 housenumber: 53

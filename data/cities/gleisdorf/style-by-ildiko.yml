@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.104812
 longitude: 15.7085123
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Bürgergasse"
 housenumber: 12

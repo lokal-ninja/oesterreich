@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.2199624
 longitude: 16.3654722
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Hahngasse"
 housenumber: 11

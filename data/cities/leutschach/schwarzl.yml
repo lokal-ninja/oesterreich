@@ -3,9 +3,9 @@ type: way
 shop: Wein
 latitude: 46.667811900000004
 longitude: 15.465916000000002
-postcode: 8463
+postcode: "8463"
 city: Leutschach
-street: "Arnfelserstraße"
+street: "Arnfelser Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

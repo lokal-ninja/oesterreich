@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2408561
 longitude: 14.3336804
-postcode: 4030
+postcode: "4030"
 city: Linz
 street: "Hartheimerstraße"
 housenumber: 31

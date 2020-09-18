@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.4860004
 longitude: 12.0651258
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "Salzburger Straße"
 housenumber: 4

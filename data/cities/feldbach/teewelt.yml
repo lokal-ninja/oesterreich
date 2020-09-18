@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 46.954850400000005
 longitude: 15.917666700000002
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: ""
 housenumber: 1

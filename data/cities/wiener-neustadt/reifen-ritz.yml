@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 47.8396776
 longitude: 16.2448138
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Wiener Straße"
 housenumber: 119

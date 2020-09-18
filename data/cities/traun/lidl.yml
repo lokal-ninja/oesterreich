@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2298581
 longitude: 14.2344138
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Kremstalstraße"
 housenumber: 92

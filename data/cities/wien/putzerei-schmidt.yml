@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.2467831
 longitude: 16.4406754
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: ""
 housenumber: 

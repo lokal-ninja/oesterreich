@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 46.7234269
 longitude: 14.102243600000001
-postcode: 9560
+postcode: "9560"
 city: Feldkirchen in Kärnten
 street: "St. Veiterstraße"
 housenumber: 3

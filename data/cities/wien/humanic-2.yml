@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.207791400000005
 longitude: 16.3719593
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Kärntner Straße"
 housenumber: 1

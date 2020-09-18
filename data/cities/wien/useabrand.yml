@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1997407
 longitude: 16.3507027
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Zollergasse"
 housenumber: 15

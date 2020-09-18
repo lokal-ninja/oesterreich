@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 47.3317361
 longitude: 9.642879500000001
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Doktor-Alfons-Heinzle-Straße"
 housenumber: 3

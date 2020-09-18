@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 48.1897225
 longitude: 16.3719591
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Favoritenstraße"
 housenumber: 48

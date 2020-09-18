@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.091897100000004
 longitude: 14.042814900000002
-postcode: 4642
+postcode: "4642"
 city: Sattledt
 street: "Im Hart"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.249147
 longitude: 13.2234271
-postcode: 4950
+postcode: "4950"
 city: Altheim
 street: "Braunauer Straße"
 housenumber: 39

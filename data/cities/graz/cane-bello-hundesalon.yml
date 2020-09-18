@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 47.0843574
 longitude: 15.459859100000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Hilmteichstraße"
 housenumber: 73

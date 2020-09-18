@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.506659500000005
 longitude: 13.732040300000001
-postcode: 4090
+postcode: "4090"
 city: Engelhartszell
 street: "Marktstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.00030700000001
 longitude: 16.2631289
-postcode: 2512
+postcode: "2512"
 city: Tribuswinkel
 street: "Oberwaltersdorfer Straße"
 housenumber: 35

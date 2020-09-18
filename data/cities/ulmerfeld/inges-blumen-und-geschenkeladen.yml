@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.072860500000004
 longitude: 14.8194525
-postcode: 3363
+postcode: "3363"
 city: Ulmerfeld
 street: "Leitenstraße"
 housenumber: 2

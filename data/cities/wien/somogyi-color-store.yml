@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 48.2044031
 longitude: 16.3439272
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Burggasse"
 housenumber: 98

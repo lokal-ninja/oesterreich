@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.2287314
 longitude: 9.5803825
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Dorfstraße"
 housenumber: 27

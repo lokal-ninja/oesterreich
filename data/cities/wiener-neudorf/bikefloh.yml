@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.091014900000005
 longitude: 16.324291300000002
-postcode: 2351
+postcode: "2351"
 city: Wiener Neudorf
 street: "Nestroyweg"
 housenumber: 10

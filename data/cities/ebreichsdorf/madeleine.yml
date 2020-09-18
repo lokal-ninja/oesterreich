@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9627745
 longitude: 16.3997181
-postcode: 2483
+postcode: "2483"
 city: Ebreichsdorf
 street: "Hauptplatz"
 housenumber: 23

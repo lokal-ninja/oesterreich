@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.0322447
 longitude: 16.7973183
-postcode: 2460
+postcode: "2460"
 city: Bruck an der Leitha
 street: "Eco Plus Park 3. Straße"
 housenumber: 2

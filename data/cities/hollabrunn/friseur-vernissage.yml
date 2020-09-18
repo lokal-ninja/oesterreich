@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5613381
 longitude: 16.078782
-postcode: 2020
+postcode: "2020"
 city: Hollabrunn
 street: "Pfarrgasse"
 housenumber: 8

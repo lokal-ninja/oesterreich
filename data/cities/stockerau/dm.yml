@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.385676000000004
 longitude: 16.213634300000002
-postcode: 2000
+postcode: "2000"
 city: Stockerau
 street: "Sparkassaplatz"
 housenumber: 5a

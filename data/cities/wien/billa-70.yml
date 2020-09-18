@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1762968
 longitude: 16.361971500000003
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Quellenstraße"
 housenumber: 189-195

@@ -1,12 +1,12 @@
-id: 2121793272
+id: 2390351471
 type: node
 shop: Wäscherei
-latitude: 47.1029649
-longitude: 15.420758800000002
-postcode: 8045
+latitude: 47.065390900000004
+longitude: 15.441260100000001
+postcode: "8010"
 city: Graz
-street: "Grazer Straße"
-housenumber: 39
+street: "Schönaugasse"
+housenumber: 14
 phone: ""
-opening_hours: "Mo-Fr 07:15-18:15; Sa 08:00-12:00"
-website: ""
+opening_hours: "Mo-Fr 07:45-18:15; Sa 08:00-12:00"
+website: "https://www.stross-textilreinigung.at/main.html"

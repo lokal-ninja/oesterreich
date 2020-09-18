@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.069069400000004
 longitude: 15.438973700000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Schmiedgasse"
 housenumber: 16

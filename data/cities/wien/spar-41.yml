@@ -1,12 +1,12 @@
-id: 2568626439
+id: 2543743708
 type: node
 shop: Supermarkt
-latitude: 48.2578735
-longitude: 16.452455800000003
-postcode: 1220
+latitude: 48.212043800000004
+longitude: 16.4101213
+postcode: "1020"
 city: Wien
-street: "Rennbahnweg"
-housenumber: 
-phone: ""
-opening_hours: "Mo-Th 07:30-19:00; Fr 07:30-19:30; Sa 07:30-18:00"
+street: "Welthandelsplatz"
+housenumber: 1 Obj. D2 Top 3/1
+phone: "+43 1 7297481"
+opening_hours: "Mo-Fr 07:30-19:45; Sa 08:00-18:00"
 website: ""

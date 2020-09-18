@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.3424338
 longitude: 16.367033
-postcode: 2102
+postcode: "2102"
 city: Klein-Engersdorf
 street: "Im Sandhübel"
 housenumber: 2

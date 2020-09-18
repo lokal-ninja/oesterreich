@@ -3,7 +3,7 @@ type: way
 shop: Schlüsseldienst
 latitude: 47.0264394
 longitude: 15.434986
-postcode: 8055
+postcode: "8055"
 city: Graz
 street: "Triester Straße"
 housenumber: 389

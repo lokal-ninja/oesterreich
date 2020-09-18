@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.2108244
 longitude: 16.3742132
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Fischhof"
 housenumber: 3

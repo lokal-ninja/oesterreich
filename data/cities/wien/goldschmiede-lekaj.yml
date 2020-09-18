@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.2010352
 longitude: 16.340817700000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kaiserstraße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.059388600000005
 longitude: 15.4540415
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Moserhofgasse"
 housenumber: 49

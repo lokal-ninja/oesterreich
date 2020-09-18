@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.068986100000004
 longitude: 16.3578571
-postcode: 2361
+postcode: "2361"
 city: Laxenburg
 street: "Schlossplatz"
 housenumber: 3

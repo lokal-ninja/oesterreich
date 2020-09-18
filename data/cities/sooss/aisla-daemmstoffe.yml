@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 47.9823766
 longitude: 16.2268373
-postcode: 2504
+postcode: "2504"
 city: Sooß
 street: "Betriebsstraße"
 housenumber: 12

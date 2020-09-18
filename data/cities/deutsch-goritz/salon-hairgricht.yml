@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.7423548
 longitude: 15.815631000000002
-postcode: 8483
+postcode: "8483"
 city: Deutsch Goritz
 street: ""
 housenumber: 32

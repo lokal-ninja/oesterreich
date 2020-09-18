@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.812262600000004
 longitude: 16.2447398
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Schulgasse"
 housenumber: 4

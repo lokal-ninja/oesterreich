@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.4886521
 longitude: 12.0703002
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "Salzburger Straße"
 housenumber: 32

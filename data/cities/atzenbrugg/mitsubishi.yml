@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.304423
 longitude: 15.891080800000001
-postcode: 3452
+postcode: "3452"
 city: Atzenbrugg
 street: "Kremser Landstraße"
 housenumber: 33

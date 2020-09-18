@@ -1,12 +1,12 @@
-id: 5637671325
+id: 5265213671
 type: node
 shop: Supermarkt
-latitude: 48.1752027
-longitude: 16.4085284
-postcode: 1110
+latitude: 48.214185
+longitude: 16.3831806
+postcode: "1020"
 city: Wien
-street: "Geiselbergstraße"
-housenumber: 49
-phone: ""
+street: "Praterstraße"
+housenumber: 25
+phone: "+43 1 2123140"
 opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: ""
+website: "https://www.spar.at/standorte/spar-wien-leopoldstadt-1020-praterstrasse-25"

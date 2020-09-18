@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.3235924
 longitude: 12.797901900000001
-postcode: 5700
+postcode: "5700"
 city: Zell am See
 street: "Stadtplatz"
 housenumber: 8

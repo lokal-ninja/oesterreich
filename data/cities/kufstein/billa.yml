@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.579669200000005
 longitude: 12.1696024
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Kinkstraße"
 housenumber: 21

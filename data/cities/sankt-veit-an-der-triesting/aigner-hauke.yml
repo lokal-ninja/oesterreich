@@ -1,12 +1,12 @@
-id: 1403682675
-type: node
+id: 828914681
+type: way
 shop: Autohaus
-latitude: 47.9362141
-longitude: 16.158924000000003
-postcode: 2560
+latitude: 47.936201000000004
+longitude: 16.1585451
+postcode: "2560"
 city: Sankt Veit an der Triesting
 street: "Leobersdorfer Straße"
 housenumber: 253
-phone: "+ 43 2672 87743"
-opening_hours: "Mo-Th 07:00-17:30; Fr 07:00-17:00; Sa 08:00-12:00"
-website: "https://aigner-hauke.at/"
+phone: ""
+opening_hours: "Mo-Th 07:15-12:00,12:45-16:00; Fr 07:15-11:45,12:15-14:00"
+website: ""

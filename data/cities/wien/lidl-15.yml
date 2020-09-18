@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1973434
 longitude: 16.3365063
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Felberstraße"
 housenumber: 1A

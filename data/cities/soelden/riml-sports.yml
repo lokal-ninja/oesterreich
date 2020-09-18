@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 46.8705117
 longitude: 11.0287129
-postcode: 6456
+postcode: "6456"
 city: Sölden
 street: "Kressbrunnenweg"
 housenumber: 6a

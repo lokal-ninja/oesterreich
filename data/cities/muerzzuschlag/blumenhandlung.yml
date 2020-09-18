@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.579691000000004
 longitude: 15.6437985
-postcode: 8682
+postcode: "8682"
 city: Mürzzuschlag
 street: "Grazer Straße"
 housenumber: 95

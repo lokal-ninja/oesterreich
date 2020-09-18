@@ -3,7 +3,7 @@ type: node
 shop: Videospiele
 latitude: 46.595822600000005
 longitude: 13.835623
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Kärntner Straße"
 housenumber: 34

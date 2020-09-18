@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 47.092074800000006
 longitude: 15.4598487
-postcode: 8043
+postcode: "8043"
 city: Graz
 street: "Mariatroster Straße"
 housenumber: 49
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:40-19:00; Sa 07:40-18:00"
 website: ""

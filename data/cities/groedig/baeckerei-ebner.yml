@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.737842300000004
 longitude: 13.038919900000002
-postcode: 5082
+postcode: "5082"
 city: Grödig
 street: "Dr.-Richard-Hartmann-Straße"
 housenumber: 7

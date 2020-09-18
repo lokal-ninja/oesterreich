@@ -3,7 +3,7 @@ type: node
 shop: Immobilien
 latitude: 48.2774689
 longitude: 16.407946900000002
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Baumergasse"
 housenumber: 29

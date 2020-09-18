@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.2635212
 longitude: 11.407847100000001
-postcode: 6023
+postcode: "6023"
 city: Innsbruck
 street: "Amraser Straße"
 housenumber: 50

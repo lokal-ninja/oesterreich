@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.1719663
 longitude: 14.6326529
-postcode: 8750
+postcode: "8750"
 city: Judenburg
 street: "Burggasse"
 housenumber: 136

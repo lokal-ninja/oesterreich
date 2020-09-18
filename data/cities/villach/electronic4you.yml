@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 46.6020041
 longitude: 13.841640700000001
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Tschinowitscher Weg"
 housenumber: 12

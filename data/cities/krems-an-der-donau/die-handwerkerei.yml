@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.401483500000005
 longitude: 15.581607400000001
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Eduard-Summer-Gasse"
 housenumber: 2

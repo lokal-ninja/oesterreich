@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2823774
 longitude: 11.508272400000001
-postcode: 6060
+postcode: "6060"
 city: Hall in Tirol
 street: "Arbesgasse"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.3061802
 longitude: 10.9778968
-postcode: 6414
+postcode: "6414"
 city: Mieming
 street: "Obermieming"
 housenumber: 179

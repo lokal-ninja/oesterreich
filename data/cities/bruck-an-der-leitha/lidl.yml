@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0206809
 longitude: 16.764003300000002
-postcode: 2460
+postcode: "2460"
 city: Bruck an der Leitha
 street: "Altstadt"
 housenumber: 125-127

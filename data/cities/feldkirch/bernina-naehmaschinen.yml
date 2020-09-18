@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 47.2371168
 longitude: 9.59422
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Vorstadt"
 housenumber: 2

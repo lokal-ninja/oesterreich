@@ -3,7 +3,7 @@ type: way
 shop: Leerstehend
 latitude: 47.9916714
 longitude: 14.4124244
-postcode: 4451
+postcode: "4451"
 city: Garsten
 street: "Dambachstraße"
 housenumber: 31

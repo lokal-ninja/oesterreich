@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.120306400000004
 longitude: 16.2652326
-postcode: 2380
+postcode: "2380"
 city: Perchtoldsdorf
 street: "Wiener Gasse"
 housenumber: 1

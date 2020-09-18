@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.342057600000004
 longitude: 16.467530500000002
-postcode: 2201
+postcode: "2201"
 city: Gerasdorf bei Wien
 street: "G3 Platz"
 housenumber: 1

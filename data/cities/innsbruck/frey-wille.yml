@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.2675112
 longitude: 11.393395100000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Herzog-Friedrich-Straße"
 housenumber: 32

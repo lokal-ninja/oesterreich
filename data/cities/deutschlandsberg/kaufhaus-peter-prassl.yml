@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 46.8153911
 longitude: 15.215856
-postcode: 8530
+postcode: "8530"
 city: Deutschlandsberg
 street: "Hauptplatz"
 housenumber: 2

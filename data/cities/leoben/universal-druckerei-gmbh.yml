@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.3775812
 longitude: 15.094707300000001
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Gösser Straße"
 housenumber: 11

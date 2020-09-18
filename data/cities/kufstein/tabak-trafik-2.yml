@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.585024700000005
 longitude: 12.164047100000001
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Zeller Straße"
 housenumber: 27

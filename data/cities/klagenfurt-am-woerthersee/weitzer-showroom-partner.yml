@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.6417282
 longitude: 14.288309700000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Schleppe-Platz"
 housenumber: 7

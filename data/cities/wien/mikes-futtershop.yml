@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.1435054
 longitude: 16.2925219
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 282

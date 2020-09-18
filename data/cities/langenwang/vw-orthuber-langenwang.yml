@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.561357400000006
 longitude: 15.6122218
-postcode: 8665
+postcode: "8665"
 city: Langenwang
 street: "Grazer Straße"
 housenumber: 79

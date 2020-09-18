@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.6159041
 longitude: 14.341191700000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Ebentaler Straße"
 housenumber: 141

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.047924800000004
 longitude: 15.453683600000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Conrad-von-Hötzendorf-Straße"
 housenumber: 165

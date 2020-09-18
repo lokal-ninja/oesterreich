@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 46.6298684
 longitude: 14.358592300000002
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Alte Stadtgrenze"
 housenumber: 1

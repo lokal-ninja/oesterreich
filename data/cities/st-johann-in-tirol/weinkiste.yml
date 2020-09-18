@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.523191700000005
 longitude: 12.429453800000001
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Dechant-Wieshoferstraße"
 housenumber: 11

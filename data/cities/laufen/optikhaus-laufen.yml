@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.9394228
 longitude: 12.936527100000001
-postcode: 83410
+postcode: "83410"
 city: Laufen
 street: "Marienplatz"
 housenumber: 14

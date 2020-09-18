@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.635381100000004
 longitude: 14.5395839
-postcode: 9121
+postcode: "9121"
 city: Tainach
 street: "Dorfplatz"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.488772700000005
 longitude: 14.486751900000002
-postcode: 8784
+postcode: "8784"
 city: Trieben
 street: "Schoberpaß Bundesstraße"
 housenumber: 43

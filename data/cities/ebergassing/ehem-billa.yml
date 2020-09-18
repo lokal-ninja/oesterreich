@@ -3,7 +3,7 @@ type: way
 shop: Leerstehend
 latitude: 48.0486068
 longitude: 16.522894700000002
-postcode: 2435
+postcode: "2435"
 city: Ebergassing
 street: "Schwadorfer Straße"
 housenumber: 19

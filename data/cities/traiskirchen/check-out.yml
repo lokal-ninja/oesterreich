@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.0129297
 longitude: 16.2940349
-postcode: 2514
+postcode: "2514"
 city: Traiskirchen
 street: "Hauptplatz"
 housenumber: 17

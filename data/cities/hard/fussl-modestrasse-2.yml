@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.477198800000004
 longitude: 9.6790181
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Rheinstraße"
 housenumber: 99b

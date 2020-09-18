@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8188626
 longitude: 13.0581911
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Bergerbräuhofstraße"
 housenumber: 36

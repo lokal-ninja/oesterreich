@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.137835300000006
 longitude: 16.2779278
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 372/16

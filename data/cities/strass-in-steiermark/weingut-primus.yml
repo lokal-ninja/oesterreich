@@ -3,9 +3,9 @@ type: way
 shop: Allgemein
 latitude: 46.686461800000004
 longitude: 15.619305400000002
-postcode: 8472
+postcode: "8472"
 city: Straß in Steiermark
-street: "Am Grassnitzberg"
+street: "Am Graßnitzberg"
 housenumber: 15
 phone: ""
 opening_hours: ""

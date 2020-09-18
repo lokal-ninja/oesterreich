@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.7114221
 longitude: 16.3705788
-postcode: 2136
+postcode: "2136"
 city: Laa an der Thaya
 street: "Thayapark"
 housenumber: 6

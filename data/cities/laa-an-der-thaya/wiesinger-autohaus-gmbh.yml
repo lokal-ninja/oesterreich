@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7147439
 longitude: 16.3794317
-postcode: 2136
+postcode: "2136"
 city: Laa an der Thaya
 street: "Wattgasse"
 housenumber: 6-8

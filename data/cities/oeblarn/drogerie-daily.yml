@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.4600072
 longitude: 13.993840700000002
-postcode: 8960
+postcode: "8960"
 city: Öblarn
 street: ""
 housenumber: 209

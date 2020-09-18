@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.2471703
 longitude: 14.6251379
-postcode: 4320
+postcode: "4320"
 city: Perg
 street: "Feldstraße"
 housenumber: 8

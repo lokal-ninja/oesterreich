@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.9967266
 longitude: 12.877946000000001
-postcode: 5120
+postcode: "5120"
 city: St. Pantaleon
 street: "Am Schneidergraben"
 housenumber: 2

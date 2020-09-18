@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.1206296
 longitude: 16.3154951
-postcode: 2334
+postcode: "2334"
 city: Vösendorf
 street: "Triester Straße"
 housenumber: 10

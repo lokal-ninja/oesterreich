@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.368544400000005
 longitude: 15.093532300000001
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Alois Edlinger-Gasse"
 housenumber: 17a

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.2658617
 longitude: 11.3949054
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Sparkassenplatz"
 housenumber: 2

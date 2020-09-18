@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.117209200000005
 longitude: 16.318087600000002
-postcode: 2334
+postcode: "2334"
 city: Vösendorf
 street: "Autoallee"
 housenumber: 1-3

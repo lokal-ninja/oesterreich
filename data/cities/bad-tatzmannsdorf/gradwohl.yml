@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.332850400000005
 longitude: 16.2300523
-postcode: 7431
+postcode: "7431"
 city: Bad Tatzmannsdorf
 street: "Joseph Haydn-Platz"
 housenumber: 5

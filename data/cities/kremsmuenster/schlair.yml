@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.055804200000004
 longitude: 14.14037
-postcode: 4550
+postcode: "4550"
 city: Kremsmünster
 street: "Kremsegger-Straße"
 housenumber: 

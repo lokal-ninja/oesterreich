@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.2619836
 longitude: 11.3938568
-postcode: 6010
+postcode: "6010"
 city: Innsbruck
 street: "Leopoldstraße"
 housenumber: 2-4

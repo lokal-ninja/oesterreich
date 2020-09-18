@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.2054762
 longitude: 11.871124700000001
-postcode: 6284
+postcode: "6284"
 city: Ramsau im Zillertal
 street: "Talstraße"
 housenumber: 61

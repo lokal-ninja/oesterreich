@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1503955
 longitude: 16.693615
-postcode: 2304
+postcode: "2304"
 city: Orth an der Donau
 street: "Andlersdorfer Straße"
 housenumber: 4

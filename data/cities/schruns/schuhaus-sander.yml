@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.079275100000004
 longitude: 9.9196995
-postcode: 6780
+postcode: "6780"
 city: Schruns
 street: "Bahnhofstraße"
 housenumber: 11

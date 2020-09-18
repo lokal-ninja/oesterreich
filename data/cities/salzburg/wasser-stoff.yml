@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.800705300000004
 longitude: 13.039688400000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Münzgasse"
 housenumber: 1

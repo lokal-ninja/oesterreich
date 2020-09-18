@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.763933800000004
 longitude: 14.978783300000002
-postcode: 3950
+postcode: "3950"
 city: Gmünd
 street: "Conrathstraße"
 housenumber: 2

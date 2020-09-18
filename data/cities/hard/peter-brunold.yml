@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.475296
 longitude: 9.671383800000001
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Lustenauer Straße"
 housenumber: 17

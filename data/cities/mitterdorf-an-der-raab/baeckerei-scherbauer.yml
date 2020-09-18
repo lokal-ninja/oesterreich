@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.176551200000006
 longitude: 15.6001124
-postcode: 8181
+postcode: "8181"
 city: Mitterdorf an der Raab
 street: ""
 housenumber: 10a

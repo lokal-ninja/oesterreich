@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.784112500000006
 longitude: 16.9316153
-postcode: 7161
+postcode: "7161"
 city: St.Andrä am Zickssee
 street: "Bahngasse"
 housenumber: 16

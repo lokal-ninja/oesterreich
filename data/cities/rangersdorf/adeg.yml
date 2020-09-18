@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8617247
 longitude: 12.9642706
-postcode: 9833
+postcode: "9833"
 city: Rangersdorf
 street: "Rangersdorf"
 housenumber: 130

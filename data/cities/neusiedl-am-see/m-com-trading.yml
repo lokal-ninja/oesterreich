@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.9490719
 longitude: 16.8426738
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Hauptplatz"
 housenumber: 13

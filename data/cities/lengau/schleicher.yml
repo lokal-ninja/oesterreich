@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.0252635
 longitude: 13.2941696
-postcode: 5212
+postcode: "5212"
 city: Lengau
 street: "Kinostraße"
 housenumber: 7

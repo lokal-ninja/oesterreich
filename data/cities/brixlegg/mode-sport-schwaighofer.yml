@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.430777000000006
 longitude: 11.8796721
-postcode: 6230
+postcode: "6230"
 city: Brixlegg
 street: "Marktstraße"
 housenumber: 16a

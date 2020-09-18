@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 47.5805407
 longitude: 12.698563400000001
-postcode: 5092
+postcode: "5092"
 city: Sankt Martin bei Lofer
 street: "Lofer"
 housenumber: 192

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5725148
 longitude: 14.459254000000001
-postcode: 8911
+postcode: "8911"
 city: Admont
 street: "Obere Bachgasse"
 housenumber: 155

@@ -3,7 +3,7 @@ type: way
 shop: Tabak
 latitude: 46.7181896
 longitude: 15.270087400000001
-postcode: 8551
+postcode: "8551"
 city: Wies
 street: "Oberer Markt"
 housenumber: 7

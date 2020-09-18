@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.956538200000004
 longitude: 16.22379
-postcode: 2542
+postcode: "2542"
 city: Kottingbrunn
 street: "Anzengrubergasse"
 housenumber: 26

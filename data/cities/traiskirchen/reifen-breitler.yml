@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.0166349
 longitude: 16.2923535
-postcode: 2514
+postcode: "2514"
 city: Traiskirchen
 street: "Josef Ferschner-Straße"
 housenumber: 34

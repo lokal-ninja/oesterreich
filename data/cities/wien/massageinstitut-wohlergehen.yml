@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.2004468
 longitude: 16.342242000000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Seidengasse"
 housenumber: 26

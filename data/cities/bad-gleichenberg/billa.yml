@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.868097000000006
 longitude: 15.902068900000002
-postcode: 8344
+postcode: "8344"
 city: Bad Gleichenberg
 street: "Radkersburger Straße"
 housenumber: 22

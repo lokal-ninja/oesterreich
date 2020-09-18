@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.4458472
 longitude: 12.312614700000001
-postcode: 6365
+postcode: "6365"
 city: Kirchberg in Tirol
 street: "Lendstraße"
 housenumber: 8

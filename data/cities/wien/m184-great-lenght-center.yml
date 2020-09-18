@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1915725
 longitude: 16.328535300000002
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Mariahilfer Straße"
 housenumber: 184

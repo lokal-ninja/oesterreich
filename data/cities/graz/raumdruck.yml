@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.051445900000004
 longitude: 15.434493400000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Puchstraße"
 housenumber: 17

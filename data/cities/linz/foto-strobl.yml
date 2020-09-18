@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.337284800000006
 longitude: 14.3109523
-postcode: 4040
+postcode: "4040"
 city: Linz
 street: "Wolfauerstraße"
 housenumber: 56

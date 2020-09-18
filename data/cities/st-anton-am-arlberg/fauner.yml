@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.127634400000005
 longitude: 10.264423
-postcode: 6580
+postcode: "6580"
 city: St. Anton am Arlberg
 street: "Dorfstraße"
 housenumber: 10

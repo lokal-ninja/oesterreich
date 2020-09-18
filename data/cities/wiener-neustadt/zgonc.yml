@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.826998700000004
 longitude: 16.252681300000003
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Pottendorfer Straße"
 housenumber: 41

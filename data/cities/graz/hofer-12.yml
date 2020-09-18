@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.10479470000001
 longitude: 15.4142191
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Weinzöttlstraße"
 housenumber: 36

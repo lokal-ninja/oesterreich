@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 48.3870012
 longitude: 16.2137421
-postcode: 2000
+postcode: "2000"
 city: Stockerau
 street: "Brodschildstraße"
 housenumber: 17

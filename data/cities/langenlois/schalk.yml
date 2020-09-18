@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.474713
 longitude: 15.6632426
-postcode: 3550
+postcode: "3550"
 city: Langenlois
 street: "Zwettler Straße"
 housenumber: 38

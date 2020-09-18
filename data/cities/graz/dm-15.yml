@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.11258
 longitude: 15.4997459
-postcode: 8044
+postcode: "8044"
 city: Graz
 street: "Mariatroster Straße"
 housenumber: 373

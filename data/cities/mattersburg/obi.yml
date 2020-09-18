@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.737397300000005
 longitude: 16.4108763
-postcode: 7210
+postcode: "7210"
 city: Mattersburg
 street: "Walbersdorf Bauweltstraße"
 housenumber: 9

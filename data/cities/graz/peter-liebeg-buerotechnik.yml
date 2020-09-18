@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.0574178
 longitude: 15.4275189
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Karlauergürtel"
 housenumber: 1

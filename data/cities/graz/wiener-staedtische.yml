@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.0642483
 longitude: 15.4496099
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Brockmanngasse"
 housenumber: 

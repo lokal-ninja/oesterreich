@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1994744
 longitude: 10.660234
-postcode: 6491
+postcode: "6491"
 city: Schönwies
 street: "Öde"
 housenumber: 1b

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.237746800000004
 longitude: 16.439408
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Arminenstraße"
 housenumber: 28a

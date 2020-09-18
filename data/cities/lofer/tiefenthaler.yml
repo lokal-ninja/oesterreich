@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5860099
 longitude: 12.692068200000001
-postcode: 5090
+postcode: "5090"
 city: Lofer
 street: ""
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.2618832
 longitude: 11.3947672
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Leopoldstraße"
 housenumber: 10a

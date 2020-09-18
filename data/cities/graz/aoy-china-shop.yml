@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0743986
 longitude: 15.418842000000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Ghegagasse"
 housenumber: 31

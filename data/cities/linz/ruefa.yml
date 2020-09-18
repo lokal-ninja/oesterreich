@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.3013169
 longitude: 14.290189400000001
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Landstraße"
 housenumber: 38

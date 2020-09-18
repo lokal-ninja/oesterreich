@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 47.2781133
 longitude: 15.693897100000001
-postcode: 8184
+postcode: "8184"
 city: Anger
 street: "Umfahrungsstraße"
 housenumber: 2

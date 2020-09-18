@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3740776
 longitude: 14.3496526
-postcode: 4203
+postcode: "4203"
 city: Altenberg bei Linz
 street: "Gallneukirchner Straße"
 housenumber: 1

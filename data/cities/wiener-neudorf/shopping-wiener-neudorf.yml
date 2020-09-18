@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.078270700000004
 longitude: 16.3228622
-postcode: 2351
+postcode: "2351"
 city: Wiener Neudorf
 street: "Griesfeldstraße"
 housenumber: 6

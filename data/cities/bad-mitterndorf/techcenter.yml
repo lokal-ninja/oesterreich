@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.5516615
 longitude: 13.9433243
-postcode: 8983
+postcode: "8983"
 city: Bad Mitterndorf
 street: ""
 housenumber: 80

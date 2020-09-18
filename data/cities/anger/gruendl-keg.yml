@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.2736924
 longitude: 15.692591900000002
-postcode: 8184
+postcode: "8184"
 city: Anger
 street: "Bahnhofstraße"
 housenumber: 7

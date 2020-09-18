@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.2173358
 longitude: 14.467646100000001
-postcode: 4470
+postcode: "4470"
 city: Enns
 street: "Lauriacumstraße"
 housenumber: 5

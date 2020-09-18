@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.2283666
 longitude: 16.1518421
-postcode: 3003
+postcode: "3003"
 city: Gablitz
 street: "Hauptstraße"
 housenumber: 25a

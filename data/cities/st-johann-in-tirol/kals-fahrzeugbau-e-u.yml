@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 47.5297913
 longitude: 12.4343515
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Dechant-Wieshoferstraße"
 housenumber: 61

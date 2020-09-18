@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.2895127
 longitude: 14.124787600000001
-postcode: 4072
+postcode: "4072"
 city: Alkoven
 street: "Glaserstraße"
 housenumber: 5

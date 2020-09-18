@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8024526
 longitude: 16.2408781
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Günser Straße"
 housenumber: 40

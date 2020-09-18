@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 48.1746956
 longitude: 16.3789941
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Reumannplatz"
 housenumber: 19

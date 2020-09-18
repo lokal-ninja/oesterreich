@@ -1,12 +1,12 @@
-id: 1360360650
+id: 958868110
 type: node
 shop: Supermarkt
-latitude: 48.238062400000004
-longitude: 16.366210600000002
-postcode: 1200
+latitude: 48.253683900000006
+longitude: 16.441698600000002
+postcode: "1220"
 city: Wien
-street: "Adalbert-Stifter-Straße"
-housenumber: 19-21
-phone: "+43 1 3345106"
+street: "Anton-Sattler-Gasse"
+housenumber: 115A
+phone: "+43 1 2033006"
 opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-wien-1200-adalbert-stifter-strasse-19-21"
+website: "https://www.spar.at/standorte/spar-wien-1220-anton-sattler-gasse-115-a"

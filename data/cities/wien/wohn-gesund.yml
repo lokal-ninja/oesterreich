@@ -3,7 +3,7 @@ type: node
 shop: Fußböden
 latitude: 48.1999757
 longitude: 16.3491112
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Neubaugasse"
 housenumber: 15

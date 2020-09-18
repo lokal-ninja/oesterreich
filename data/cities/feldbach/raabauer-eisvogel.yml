@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 46.961203100000006
 longitude: 15.9216937
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: ""
 housenumber: 168

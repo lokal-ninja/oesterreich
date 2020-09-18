@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.497966000000005
 longitude: 9.7062849
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Achsiedlungsstraße"
 housenumber: 51

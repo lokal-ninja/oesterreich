@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.168263
 longitude: 16.343172000000003
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Maria-Kuhn-Gasse"
 housenumber: 6/4/L1

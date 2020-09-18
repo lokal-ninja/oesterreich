@@ -1,12 +1,12 @@
-id: 1731984961
+id: 1716246220
 type: node
 shop: Supermarkt
-latitude: 48.19239
-longitude: 16.3685094
-postcode: 1040
+latitude: 48.1748697
+longitude: 16.331040700000003
+postcode: "1120"
 city: Wien
-street: "Mayerhofgasse"
-housenumber: 9
-phone: "+43 1 5035598"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-wien-1040-mayerhofgasse-9"
+street: "Meidlinger Hauptstraße"
+housenumber: 73
+phone: ""
+opening_hours: "Mo-Fr 07:30-20:00; Sa 08:30-18:00"
+website: ""

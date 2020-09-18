@@ -3,9 +3,9 @@ type: node
 shop: Autoteile
 latitude: 47.131734200000004
 longitude: 14.7388913
-postcode: 8741
+postcode: "8741"
 city: Eppenstein
-street: "Eppenstein"
+street: ""
 housenumber: 37A
 phone: "+43 664 91 51 113"
 opening_hours: ""

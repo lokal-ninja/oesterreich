@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2354834
 longitude: 9.5968917
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Leonhardsplatz"
 housenumber: 6

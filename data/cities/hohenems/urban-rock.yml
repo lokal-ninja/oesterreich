@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.3723806
 longitude: 9.6936336
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Radetzkystraße"
 housenumber: 68

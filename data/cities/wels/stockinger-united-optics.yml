@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1577551
 longitude: 14.025272200000002
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Schmidtgasse"
 housenumber: 13

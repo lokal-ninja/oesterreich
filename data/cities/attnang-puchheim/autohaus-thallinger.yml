@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.023114
 longitude: 13.7316728
-postcode: 4800
+postcode: "4800"
 city: Attnang-Puchheim
 street: "Wiener Straße"
 housenumber: 42

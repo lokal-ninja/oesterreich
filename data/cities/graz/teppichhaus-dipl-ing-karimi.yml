@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 47.0677007
 longitude: 15.4460531
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Luthergasse"
 housenumber: 6

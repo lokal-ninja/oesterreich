@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0412363
 longitude: 13.5358418
-postcode: 4872
+postcode: "4872"
 city: Neukirchen an der Vöckla
 street: "Lichtenegger Straße"
 housenumber: 2/1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3872827
 longitude: 16.834682400000002
-postcode: 2261
+postcode: "2261"
 city: Mannersdorf an der March
 street: "Bernsteinstraße"
 housenumber: 237

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 46.830469400000005
 longitude: 12.8092351
-postcode: 9990
+postcode: "9990"
 city: Nussdorf-Debant
 street: "Glocknerstraße"
 housenumber: 10

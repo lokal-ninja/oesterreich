@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.327555800000006
 longitude: 14.313175600000001
-postcode: 4040
+postcode: "4040"
 city: Linz
 street: "Mostnystraße"
 housenumber: 8

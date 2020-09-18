@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.2198891
 longitude: 16.3292909
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Rötzergasse"
 housenumber: 41-43

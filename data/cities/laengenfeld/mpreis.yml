@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.0666857
 longitude: 10.9671803
-postcode: 6444
+postcode: "6444"
 city: Längenfeld
 street: "Oberlängenfeld"
 housenumber: 103

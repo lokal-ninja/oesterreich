@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 47.4866833
 longitude: 10.7193235
-postcode: 6600
+postcode: "6600"
 city: Reutte
 street: "Obermarkt"
 housenumber: 22

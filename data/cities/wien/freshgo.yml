@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.236566200000006
 longitude: 16.3790647
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Hellwagstraße"
 housenumber: 10

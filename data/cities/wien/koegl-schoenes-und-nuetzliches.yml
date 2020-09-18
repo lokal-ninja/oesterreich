@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.2194057
 longitude: 16.4081997
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Vorgartenstraße"
 housenumber: 221

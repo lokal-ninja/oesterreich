@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.1789879
 longitude: 16.367596600000002
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Herzgasse"
 housenumber: 9

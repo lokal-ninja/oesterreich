@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.1971154
 longitude: 13.8090983
-postcode: 4713
+postcode: "4713"
 city: Gallspach
 street: ""
 housenumber: 6

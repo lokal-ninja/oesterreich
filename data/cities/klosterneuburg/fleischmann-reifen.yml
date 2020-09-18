@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2900119
 longitude: 16.3408146
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Inkustraße"
 housenumber: 20

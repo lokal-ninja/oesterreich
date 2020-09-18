@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 46.953355200000004
 longitude: 15.8898252
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Bürgergasse"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.1940813
 longitude: 16.348389100000002
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Hirschengasse"
 housenumber: 10

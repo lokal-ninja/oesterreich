@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 48.2399086
 longitude: 16.348850900000002
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Billrothstraße"
 housenumber: 55
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 09:00-19:00; Sa 08:00-13:00; PH off"
 website: ""

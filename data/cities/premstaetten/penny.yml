@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.976717900000004
 longitude: 15.403129400000001
-postcode: 8141
+postcode: "8141"
 city: Premstätten
 street: "Hauptstraße"
 housenumber: 99

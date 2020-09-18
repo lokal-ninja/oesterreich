@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.713264800000005
 longitude: 13.689191600000001
-postcode: 9712
+postcode: "9712"
 city: Fresach
 street: "Dorfplatz"
 housenumber: 160

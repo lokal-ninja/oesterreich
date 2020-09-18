@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.188137600000005
 longitude: 9.7064231
-postcode: 6710
+postcode: "6710"
 city: Nenzing
 street: "Bundesstraße"
 housenumber: 96

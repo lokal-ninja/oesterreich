@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.548854600000006
 longitude: 13.7157172
-postcode: 9601
+postcode: "9601"
 city: Arnoldstein
 street: "Kärntner Straße"
 housenumber: 14

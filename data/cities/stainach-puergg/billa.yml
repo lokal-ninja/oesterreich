@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5317979
 longitude: 14.1055472
-postcode: 8950
+postcode: "8950"
 city: Stainach-Pürgg
 street: "Salzburgerstraße"
 housenumber: 494

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.2601469
 longitude: 16.3616946
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Bockkellerstraße"
 housenumber: 1/5/8

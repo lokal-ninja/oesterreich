@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1848375
 longitude: 14.684080900000001
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Arena am Waldfeld"
 housenumber: 8

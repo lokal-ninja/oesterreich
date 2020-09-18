@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.3956293
 longitude: 15.159608100000002
-postcode: 8712
+postcode: "8712"
 city: Niklasdorf
 street: "Leobner Straße"
 housenumber: 42

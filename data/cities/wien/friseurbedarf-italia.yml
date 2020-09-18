@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.194043900000004
 longitude: 16.389382
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Rennweg"
 housenumber: 53

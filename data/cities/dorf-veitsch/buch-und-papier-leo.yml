@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.5797783
 longitude: 15.4940253
-postcode: 8663
+postcode: "8663"
 city: Dorf Veitsch
 street: "Klein-Veitsch-Straße"
 housenumber: 2

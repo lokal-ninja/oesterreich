@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.0793784
 longitude: 15.432890400000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Körösistraße"
 housenumber: 17

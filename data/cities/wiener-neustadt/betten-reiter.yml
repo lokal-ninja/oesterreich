@@ -3,7 +3,7 @@ type: way
 shop: Gardinen
 latitude: 47.821041900000004
 longitude: 16.216419300000002
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Josef-Feichtinger-Gasse"
 housenumber: 6

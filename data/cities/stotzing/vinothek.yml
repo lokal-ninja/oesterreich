@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 47.9102608
 longitude: 16.545056600000002
-postcode: 2443
+postcode: "2443"
 city: Stotzing
 street: "Sportplatzgasse"
 housenumber: 13

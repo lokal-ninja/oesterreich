@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.798884300000005
 longitude: 13.019075
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Maxglaner Hauptstraße"
 housenumber: 50A

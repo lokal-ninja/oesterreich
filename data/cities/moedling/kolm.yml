@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.08603
 longitude: 16.2863846
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Hauptstraße"
 housenumber: 62

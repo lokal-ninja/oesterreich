@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 48.1353644
 longitude: 16.2837217
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Liesinger Platz"
 housenumber: 1A, Top 1
 phone: "+43 1 869 56 87"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-14:00; Su,PH off"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-14:00; PH,Su off"
 website: "http://www.strassl.at/"

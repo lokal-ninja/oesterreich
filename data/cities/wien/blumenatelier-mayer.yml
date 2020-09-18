@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.231774200000004
 longitude: 16.366058000000002
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Klosterneuburger Straße"
 housenumber: 59

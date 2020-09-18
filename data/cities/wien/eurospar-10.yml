@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 48.1810908
 longitude: 16.343452900000003
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Wolfganggasse"
 housenumber: 42
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
 website: ""

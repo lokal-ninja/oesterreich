@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.065657900000005
 longitude: 13.491222100000002
-postcode: 4873
+postcode: "4873"
 city: Frankenburg am Hausruck
 street: "Zipfer Straße"
 housenumber: 15

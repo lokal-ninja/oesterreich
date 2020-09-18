@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.010613400000004
 longitude: 15.398820800000001
-postcode: 8054
+postcode: "8054"
 city: Seiersberg
 street: "Kärntner Straße"
 housenumber: 546

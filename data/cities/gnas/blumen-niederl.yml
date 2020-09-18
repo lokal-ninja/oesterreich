@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 46.8736953
 longitude: 15.826348800000002
-postcode: 8342
+postcode: "8342"
 city: Gnas
 street: ""
 housenumber: 50

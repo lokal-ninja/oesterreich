@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.804748100000005
 longitude: 16.6084988
-postcode: 7062
+postcode: "7062"
 city: St. Margarethen
 street: "Hauptstraße"
 housenumber: 58

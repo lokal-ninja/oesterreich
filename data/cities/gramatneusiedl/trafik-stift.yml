@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 48.023509100000005
 longitude: 16.4933173
-postcode: 2440
+postcode: "2440"
 city: Gramatneusiedl
 street: "Hauptstraße"
 housenumber: 52

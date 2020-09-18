@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.3797362
 longitude: 16.3579842
-postcode: 2111
+postcode: "2111"
 city: Tresdorf
 street: "Korneuburger Straße"
 housenumber: 8

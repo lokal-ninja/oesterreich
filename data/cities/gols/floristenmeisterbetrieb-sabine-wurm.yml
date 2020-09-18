@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.8941383
 longitude: 16.9152948
-postcode: 7122
+postcode: "7122"
 city: Gols
 street: "Untere Hauptstraße"
 housenumber: 102

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.723682100000005
 longitude: 14.313809800000001
-postcode: 4580
+postcode: "4580"
 city: Windischgarsten
 street: "Linzer Straße"
 housenumber: 34

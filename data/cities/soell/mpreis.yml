@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5032128
 longitude: 12.1941702
-postcode: 6306
+postcode: "6306"
 city: Söll
 street: "Dorf"
 housenumber: 140

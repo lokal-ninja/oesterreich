@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.215082
 longitude: 16.351861
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Alser Straße"
 housenumber: 4

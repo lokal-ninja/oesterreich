@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.332019700000004
 longitude: 11.188237200000001
-postcode: 6100
+postcode: "6100"
 city: Seefeld in Tirol
 street: "Münchner Straße"
 housenumber: 487

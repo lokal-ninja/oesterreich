@@ -3,10 +3,10 @@ type: node
 shop: Werkzeuge
 latitude: 48.270275100000006
 longitude: 16.4047784
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Brünner Straße"
 housenumber: 73
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Th 07:00-12:00, 13:00-16:30; Fr 07:00-12:00"
+website: "https://www.hilti.at/stores/wien_21"

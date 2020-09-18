@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.2196645
 longitude: 16.386084
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Große Stadtgutgasse"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4255586
 longitude: 12.846387100000001
-postcode: 5760
+postcode: "5760"
 city: Saalfelden am Steinernen Meer
 street: "Mühlbachweg"
 housenumber: 9

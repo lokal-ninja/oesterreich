@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 48.225301400000006
 longitude: 16.3931356
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Bruno-Marek-Allee"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.4317043
 longitude: 15.2714627
-postcode: 8605
+postcode: "8605"
 city: Kapfenberg
 street: "Grazer Straße"
 housenumber: 79

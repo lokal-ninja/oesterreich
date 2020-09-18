@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.163736400000005
 longitude: 14.023454200000002
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Schubertstraße"
 housenumber: 11

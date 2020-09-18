@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.4171266
 longitude: 13.218515700000001
-postcode: 5500
+postcode: "5500"
 city: Bischofshofen
 street: "Bahnhofstraße"
 housenumber: 17

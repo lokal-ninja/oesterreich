@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.455949700000005
 longitude: 13.430889
-postcode: 4780
+postcode: "4780"
 city: Schärding
 street: "Lamprechtstraße"
 housenumber: 5

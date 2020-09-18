@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.027449100000005
 longitude: 14.2020777
-postcode: 4540
+postcode: "4540"
 city: Pfarrkirchen bei Bad Hall
 street: "Mühlgruber Straße"
 housenumber: 21

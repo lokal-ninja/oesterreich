@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2605183
 longitude: 11.3864725
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Schöpfstraße"
 housenumber: 26

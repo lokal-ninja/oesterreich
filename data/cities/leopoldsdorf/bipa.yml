@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1090869
 longitude: 16.3933322
-postcode: 2333
+postcode: "2333"
 city: Leopoldsdorf
 street: "Hauptstraße"
 housenumber: 1

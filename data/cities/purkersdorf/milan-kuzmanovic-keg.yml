@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.2016312
 longitude: 16.1689528
-postcode: 3002
+postcode: "3002"
 city: Purkersdorf
 street: "Tullnerbachstraße"
 housenumber: 15 - 17

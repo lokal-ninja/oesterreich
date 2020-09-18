@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.025627300000004
 longitude: 16.30309
-postcode: 2514
+postcode: "2514"
 city: Möllersdorf
 street: "Josef Berghold-Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.209146700000005
 longitude: 16.423502000000003
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Olympiaplatz"
 housenumber: 2

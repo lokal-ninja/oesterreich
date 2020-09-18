@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.905016
 longitude: 16.6967205
-postcode: 7083
+postcode: "7083"
 city: Purbach am Neusiedler See
 street: "Neubaugasse"
 housenumber: 48

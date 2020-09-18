@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2331656
 longitude: 16.445616100000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Erzherzog-Karl-Straße"
 housenumber: 73

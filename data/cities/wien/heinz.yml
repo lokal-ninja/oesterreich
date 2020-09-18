@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.1791301
 longitude: 16.368621700000002
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Alxingergasse"
 housenumber: 19

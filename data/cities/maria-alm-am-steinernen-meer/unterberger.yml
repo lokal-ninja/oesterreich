@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4069043
 longitude: 12.9039538
-postcode: 5761
+postcode: "5761"
 city: Maria Alm am Steinernen Meer
 street: "Am Gemeindeplatz"
 housenumber: 1

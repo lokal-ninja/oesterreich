@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.2244916
 longitude: 16.4986327
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Maria-Tusch-Straße"
 housenumber: 6

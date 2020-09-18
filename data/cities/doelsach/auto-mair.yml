@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.826152300000004
 longitude: 12.832911200000002
-postcode: 9991
+postcode: "9991"
 city: Dölsach
 street: ""
 housenumber: 228

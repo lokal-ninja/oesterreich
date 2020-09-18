@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.210951
 longitude: 16.3749013
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Rotenturmstraße"
 housenumber: 21

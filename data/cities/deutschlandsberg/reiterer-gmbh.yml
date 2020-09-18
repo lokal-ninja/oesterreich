@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 46.8200949
 longitude: 15.234702
-postcode: 8530
+postcode: "8530"
 city: Deutschlandsberg
 street: "Frauentaler Straße"
 housenumber: 104
 phone: ""
-opening_hours: "Mo-Fr 087:30-17:30; Sa 09:00-12:00; Su,PH off"
+opening_hours: "Mo-Fr 08:30-17:30; Sa 09:00-12:00; Su,PH off"
 website: "https://www.reiterer-autohaus.at"

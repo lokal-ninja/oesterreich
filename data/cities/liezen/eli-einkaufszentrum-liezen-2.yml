@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.5619055
 longitude: 14.244041500000002
-postcode: 8940
+postcode: "8940"
 city: Liezen
 street: "Salzburgerstraße"
 housenumber: 1

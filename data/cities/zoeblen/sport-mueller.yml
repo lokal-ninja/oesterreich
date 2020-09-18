@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.5080157
 longitude: 10.474614500000001
-postcode: 6677
+postcode: "6677"
 city: Zöblen
 street: "Zöblen"
 housenumber: 31

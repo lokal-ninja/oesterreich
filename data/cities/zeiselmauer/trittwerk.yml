@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.325220200000004
 longitude: 16.1848192
-postcode: 3424
+postcode: "3424"
 city: Zeiselmauer
 street: "Wiener Straße"
 housenumber: 36

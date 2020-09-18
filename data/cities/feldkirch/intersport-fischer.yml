@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.2380824
 longitude: 9.600045600000001
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Wichnergasse"
 housenumber: 5

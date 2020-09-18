@@ -3,10 +3,10 @@ type: way
 shop: Garten-Center
 latitude: 47.256956900000006
 longitude: 11.3237097
-postcode: 6176
+postcode: "6176"
 city: Völs
 street: "Cytastraße"
 housenumber: 3
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+43 512 302300"
+opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00; PH off"
+website: "https://www.dehner.at/market/dehner-gartencenter-voels-cyta/"

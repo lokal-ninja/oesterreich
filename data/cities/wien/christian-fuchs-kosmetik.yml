@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.22299760000001
 longitude: 16.3654498
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Hahngasse"
 housenumber: 32

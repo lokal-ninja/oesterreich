@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.2151694
 longitude: 16.3461883
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Alser Straße"
 housenumber: 49

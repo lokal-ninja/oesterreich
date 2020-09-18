@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.007400800000006
 longitude: 13.6519694
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Salzburger Straße"
 housenumber: 11

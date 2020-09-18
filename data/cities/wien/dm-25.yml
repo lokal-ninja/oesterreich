@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1790749
 longitude: 16.411463
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Simmeringer Hauptstraße"
 housenumber: 55-57

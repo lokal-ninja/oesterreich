@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.711924100000005
 longitude: 16.3694803
-postcode: 2136
+postcode: "2136"
 city: Laa an der Thaya
 street: "Thayapark"
 housenumber: 19

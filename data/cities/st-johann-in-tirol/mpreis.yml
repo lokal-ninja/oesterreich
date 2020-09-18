@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.529465900000005
 longitude: 12.427557700000001
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Mauthfeld"
 housenumber: 4

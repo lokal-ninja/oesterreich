@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.390615600000004
 longitude: 15.987183000000002
-postcode: 8234
+postcode: "8234"
 city: Rohrbach an der Lafnitz
 street: "Schulgasse"
 housenumber: 8

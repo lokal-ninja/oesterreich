@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.3288328
 longitude: 11.1885486
-postcode: 6100
+postcode: "6100"
 city: Seefeld in Tirol
 street: "Bahnhofstraße"
 housenumber: 163

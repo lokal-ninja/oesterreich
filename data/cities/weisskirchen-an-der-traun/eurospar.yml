@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1652843
 longitude: 14.1286635
-postcode: 4616
+postcode: "4616"
 city: Weißkirchen an der Traun
 street: "Traunuferweg"
 housenumber: 1

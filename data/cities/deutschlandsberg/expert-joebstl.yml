@@ -3,7 +3,7 @@ type: way
 shop: Elektrisch
 latitude: 46.8186255
 longitude: 15.246567500000001
-postcode: 8530
+postcode: "8530"
 city: Deutschlandsberg
 street: "Wirtschaftspark"
 housenumber: 40

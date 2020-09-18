@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.268957
 longitude: 14.292567900000002
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Am Bindermichl"
 housenumber: 56

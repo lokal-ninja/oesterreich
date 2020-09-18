@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2232435
 longitude: 15.6385491
-postcode: 3107
+postcode: "3107"
 city: St. Pölten
 street: "Dr.-Adolf-Schärf-Straße"
 housenumber: 9

@@ -3,10 +3,10 @@ type: node
 shop: Käse
 latitude: 47.259170100000006
 longitude: 9.615090400000001
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Kaiserstraße"
 housenumber: 5
-phone: ""
+phone: "+43 5522 37180"
 opening_hours: ""
 website: ""

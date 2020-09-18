@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.059772800000005
 longitude: 15.396400600000002
-postcode: 8052
+postcode: "8052"
 city: Graz
 street: "Wetzelsdorfer Straße"
 housenumber: 131

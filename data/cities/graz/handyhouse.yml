@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.0658905
 longitude: 15.4632301
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Plüddemanngasse"
 housenumber: 34a

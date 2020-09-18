@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1728809
 longitude: 16.413120900000003
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Lorystraße"
 housenumber: 39

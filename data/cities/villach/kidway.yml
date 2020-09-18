@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 46.615844
 longitude: 13.8453896
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Lederergasse"
 housenumber: 32

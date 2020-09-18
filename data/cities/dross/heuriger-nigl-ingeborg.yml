@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.463905600000004
 longitude: 15.5750676
-postcode: 3552
+postcode: "3552"
 city: Droß
 street: "Am Platzl"
 housenumber: 73

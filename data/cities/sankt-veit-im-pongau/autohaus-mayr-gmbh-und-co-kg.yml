@@ -3,9 +3,9 @@ type: way
 shop: Autowerkstatt
 latitude: 47.3230257
 longitude: 13.1617273
-postcode: 5621
+postcode: "5621"
 city: Sankt Veit im Pongau
-street: ""
+street: "Abtsdorf"
 housenumber: 13
 phone: ""
 opening_hours: ""

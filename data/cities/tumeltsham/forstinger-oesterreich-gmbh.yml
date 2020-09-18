@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.2162462
 longitude: 13.497094500000001
-postcode: 4911
+postcode: "4911"
 city: Tumeltsham
 street: ""
 housenumber: 5

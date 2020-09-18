@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 48.039247100000004
 longitude: 16.3764819
-postcode: 2482
+postcode: "2482"
 city: Münchendorf
 street: "Gärtnerweg"
 housenumber: 1

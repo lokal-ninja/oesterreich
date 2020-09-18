@@ -1,6 +1,6 @@
 ---
 title: Lieboch
 url: /lieboch/
-latitude: 46.981229400000004
-longitude: 15.323694900000001
+latitude: 46.9749381
+longitude: 15.333760000000002
 ---

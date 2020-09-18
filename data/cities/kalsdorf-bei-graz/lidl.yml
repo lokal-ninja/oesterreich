@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.9673895
 longitude: 15.4757093
-postcode: 8401
+postcode: "8401"
 city: Kalsdorf bei Graz
 street: "Kalsdorfer Ring"
 housenumber: 1

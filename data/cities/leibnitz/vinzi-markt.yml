@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 46.7799186
 longitude: 15.539590500000001
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Schmiedgasse"
 housenumber: 20

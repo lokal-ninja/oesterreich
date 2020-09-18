@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.3278394
 longitude: 11.1817306
-postcode: 6100
+postcode: "6100"
 city: Seefeld in Tirol
 street: "Möserer Straße"
 housenumber: 120

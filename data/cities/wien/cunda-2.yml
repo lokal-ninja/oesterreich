@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.245958800000004
 longitude: 16.462405
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Gewerbeparkstraße"
 housenumber: 

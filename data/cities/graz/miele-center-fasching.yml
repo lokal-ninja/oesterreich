@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.073171300000006
 longitude: 15.419477400000002
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Keplerstraße"
 housenumber: 105

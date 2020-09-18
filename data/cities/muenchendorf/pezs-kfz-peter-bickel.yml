@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0273145
 longitude: 16.3776897
-postcode: 2482
+postcode: "2482"
 city: Münchendorf
 street: "Hauptstraße"
 housenumber: 3

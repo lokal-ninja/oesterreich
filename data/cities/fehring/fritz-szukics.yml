@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 46.9375713
 longitude: 16.031012
-postcode: 8350
+postcode: "8350"
 city: Fehring
 street: "Hartweg"
 housenumber: 3

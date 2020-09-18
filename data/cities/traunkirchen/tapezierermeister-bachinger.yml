@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 47.853213000000004
 longitude: 13.778368200000001
-postcode: 4801
+postcode: "4801"
 city: Traunkirchen
 street: "Mitterndorf"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.069383800000004
 longitude: 15.4515542
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Rechbauerstraße"
 housenumber: 23

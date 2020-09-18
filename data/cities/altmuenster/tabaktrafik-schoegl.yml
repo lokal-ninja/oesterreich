@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.89930510000001
 longitude: 13.7647367
-postcode: 4813
+postcode: "4813"
 city: Altmünster
 street: "Teichwiesweg"
 housenumber: 7

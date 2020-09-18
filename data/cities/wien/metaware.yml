@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.191119300000004
 longitude: 16.3298704
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Reindorfgasse"
 housenumber: 39

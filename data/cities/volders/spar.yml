@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2887076
 longitude: 11.5747648
-postcode: 6111
+postcode: "6111"
 city: Volders
 street: "Bundesstraße"
 housenumber: 2a

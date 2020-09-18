@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 46.7813017
 longitude: 15.5377524
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Hauptplatz"
 housenumber: 26

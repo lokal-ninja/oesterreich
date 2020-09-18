@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.0481056
 longitude: 12.916484700000002
-postcode: 5131
+postcode: "5131"
 city: Franking
 street: "Franking"
 housenumber: 65

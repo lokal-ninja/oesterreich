@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1178437
 longitude: 14.902613500000001
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Reichsstraße"
 housenumber: 56

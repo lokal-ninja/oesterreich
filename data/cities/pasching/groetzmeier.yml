@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.2379856
 longitude: 14.2328302
-postcode: 4061
+postcode: "4061"
 city: Pasching
 street: "Kürnbergstraße"
 housenumber: 5

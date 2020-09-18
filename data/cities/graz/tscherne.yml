@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.0428085
 longitude: 15.4137754
-postcode: 8053
+postcode: "8053"
 city: Graz
 street: "Kärntner Straße"
 housenumber: 192

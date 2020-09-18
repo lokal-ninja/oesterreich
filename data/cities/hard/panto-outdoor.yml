@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 47.487479500000006
 longitude: 9.701000800000001
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Rauhholzstraße"
 housenumber: 18

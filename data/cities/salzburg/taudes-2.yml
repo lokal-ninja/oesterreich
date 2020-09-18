@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8104724
 longitude: 13.0431267
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Rainerstraße"
 housenumber: 24

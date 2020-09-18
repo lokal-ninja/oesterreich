@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.177329
 longitude: 16.327885000000002
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Ratschkygasse"
 housenumber: 14

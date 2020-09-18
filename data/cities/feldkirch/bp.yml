@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.2411644
 longitude: 9.5913377
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Hämmerlestraße"
 housenumber: 99

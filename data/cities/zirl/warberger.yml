@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.2731757
 longitude: 11.2428272
-postcode: 6170
+postcode: "6170"
 city: Zirl
 street: "Meilstraße"
 housenumber: 5

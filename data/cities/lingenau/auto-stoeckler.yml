@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.447861100000004
 longitude: 9.9019438
-postcode: 6951
+postcode: "6951"
 city: Lingenau
 street: "Lässern"
 housenumber: 478

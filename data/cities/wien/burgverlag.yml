@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.203059700000004
 longitude: 16.3514287
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kirchengasse"
 housenumber: 31

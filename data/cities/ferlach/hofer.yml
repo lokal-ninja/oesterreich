@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.528521100000006
 longitude: 14.292264500000002
-postcode: 9170
+postcode: "9170"
 city: Ferlach
 street: "Klagenfurter Straße"
 housenumber: 38

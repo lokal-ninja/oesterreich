@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.2246376
 longitude: 15.3360648
-postcode: 3390
+postcode: "3390"
 city: Melk
 street: "Löwenpark"
 housenumber: 1

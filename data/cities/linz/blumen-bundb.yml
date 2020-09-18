@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.3121772
 longitude: 14.285185
-postcode: 4040
+postcode: "4040"
 city: Linz
 street: "Ferihumerstraße"
 housenumber: 14

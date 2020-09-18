@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.206907
 longitude: 16.372687600000003
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Weihburggasse"
 housenumber: 4

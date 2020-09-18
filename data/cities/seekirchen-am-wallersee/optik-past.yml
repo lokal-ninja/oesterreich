@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.8942367
 longitude: 13.125213800000001
-postcode: 5201
+postcode: "5201"
 city: Seekirchen am Wallersee
 street: "Hauptstraße"
 housenumber: 29

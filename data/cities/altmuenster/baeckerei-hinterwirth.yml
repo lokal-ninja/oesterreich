@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8738502
 longitude: 13.7089402
-postcode: 4814
+postcode: "4814"
 city: Altmünster
 street: "Neukirchen"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 47.070175400000004
 longitude: 15.437716100000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Albrechtgasse"
 housenumber: 1

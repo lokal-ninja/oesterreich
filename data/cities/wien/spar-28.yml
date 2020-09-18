@@ -1,12 +1,12 @@
-id: 1502260674
+id: 1360360650
 type: node
 shop: Supermarkt
-latitude: 48.1730023
-longitude: 16.381412100000002
-postcode: 1100
+latitude: 48.238062400000004
+longitude: 16.366210600000002
+postcode: "1200"
 city: Wien
-street: ""
-housenumber: 48-50
-phone: "+43 1 6004261"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.spar.at/standorte/spar-wien-favoriten-1100-kudlichgasse-48-50"
+street: "Adalbert-Stifter-Straße"
+housenumber: 19-21
+phone: "+43 1 3345106"
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+website: "https://www.spar.at/standorte/spar-wien-1200-adalbert-stifter-strasse-19-21"

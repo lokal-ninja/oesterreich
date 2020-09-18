@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.2182637
 longitude: 14.8345605
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Seckauer Straße"
 housenumber: 17

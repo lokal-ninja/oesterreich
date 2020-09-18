@@ -1,12 +1,12 @@
-id: 5288227738
+id: 5568996880
 type: node
 shop: Supermarkt
-latitude: 48.2483372
-longitude: 16.367639500000003
-postcode: 1190
+latitude: 48.1652374
+longitude: 16.421008
+postcode: "1110"
 city: Wien
-street: "Muthgasse"
-housenumber: 13
+street: "Lorystraße"
+housenumber: 122
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.786492900000006
 longitude: 12.6411446
-postcode: 9911
+postcode: "9911"
 city: Assling
 street: ""
 housenumber: 32

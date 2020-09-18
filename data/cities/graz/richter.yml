@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.071832900000004
 longitude: 15.439617600000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Färbergasse"
 housenumber: 11

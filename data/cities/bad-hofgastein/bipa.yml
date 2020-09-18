@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.1695391
 longitude: 13.1083618
-postcode: 5630
+postcode: "5630"
 city: Bad Hofgastein
 street: "Kurpromenade"
 housenumber: 13

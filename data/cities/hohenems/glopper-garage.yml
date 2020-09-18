@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.374453800000005
 longitude: 9.696591300000001
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Hellbrunnenstraße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.662547800000006
 longitude: 14.637731200000001
-postcode: 9100
+postcode: "9100"
 city: Völkermarkt
 street: "Griffner Straße"
 housenumber: 16

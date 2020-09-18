@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.4265957
 longitude: 12.8473033
-postcode: 5760
+postcode: "5760"
 city: Saalfelden am Steinernen Meer
 street: "Almerstraße"
 housenumber: 3

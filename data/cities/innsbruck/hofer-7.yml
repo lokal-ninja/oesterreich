@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2594347
 longitude: 11.375268
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Mitterweg"
 housenumber: 18

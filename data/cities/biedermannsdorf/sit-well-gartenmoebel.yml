@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.076838800000004
 longitude: 16.335135700000002
-postcode: 2362
+postcode: "2362"
 city: Biedermannsdorf
 street: "IZ-NÖ-Süd Straße 14"
 housenumber: 37B

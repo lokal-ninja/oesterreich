@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.375081300000005
 longitude: 10.8901751
-postcode: 6633
+postcode: "6633"
 city: Biberwier
 street: "Marienbergweg"
 housenumber: 9

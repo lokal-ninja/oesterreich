@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.0863838
 longitude: 16.444033100000002
-postcode: 2325
+postcode: "2325"
 city: Himberg
 street: "Franz-Lehn-Gasse"
 housenumber: 7

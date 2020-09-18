@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.1867129
 longitude: 14.189362500000001
-postcode: 8843
+postcode: "8843"
 city: St. Peter am Kammersberg
 street: ""
 housenumber: 54

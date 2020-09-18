@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.2375127
 longitude: 10.858858300000001
-postcode: 6430
+postcode: "6430"
 city: Haiming
 street: "Bahnhofplatz"
 housenumber: 6

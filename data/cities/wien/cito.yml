@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.1396923
 longitude: 16.2929852
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Carlbergergasse"
 housenumber: 38

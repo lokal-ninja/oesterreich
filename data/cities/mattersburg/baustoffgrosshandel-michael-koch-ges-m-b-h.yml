@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 47.7368048
 longitude: 16.410094700000002
-postcode: 7210
+postcode: "7210"
 city: Mattersburg
 street: "Bauweltstraße"
 housenumber: 7

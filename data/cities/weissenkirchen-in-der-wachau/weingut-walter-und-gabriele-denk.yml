@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.3967022
 longitude: 15.4673703
-postcode: 3610
+postcode: "3610"
 city: Weißenkirchen in der Wachau
 street: "Auf der Burg"
 housenumber: 150

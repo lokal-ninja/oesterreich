@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.457869900000006
 longitude: 9.959300200000001
-postcode: 6952
+postcode: "6952"
 city: Hittisau
 street: "Platz"
 housenumber: 247

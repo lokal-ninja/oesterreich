@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.364059600000004
 longitude: 9.689854700000001
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Marktstraße"
 housenumber: 8

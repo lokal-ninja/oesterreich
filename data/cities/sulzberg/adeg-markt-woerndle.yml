@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5211004
 longitude: 9.912559100000001
-postcode: 6934
+postcode: "6934"
 city: Sulzberg
 street: "Dorf"
 housenumber: 4

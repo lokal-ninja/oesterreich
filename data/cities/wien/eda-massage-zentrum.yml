@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.1903081
 longitude: 16.3650889
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Lambrechtgasse"
 housenumber: 8A

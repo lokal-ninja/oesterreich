@@ -3,7 +3,7 @@ type: way
 shop: Pokal
 latitude: 48.256874
 longitude: 14.255185200000001
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Kornstraße"
 housenumber: 13

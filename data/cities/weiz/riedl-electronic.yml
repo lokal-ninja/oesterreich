@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.1885756
 longitude: 15.622170800000001
-postcode: 8160
+postcode: "8160"
 city: Weiz
 street: ""
 housenumber: 52

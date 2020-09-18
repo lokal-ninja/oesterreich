@@ -1,12 +1,12 @@
-id: 128632714
-type: way
+id: 1349095912
+type: node
 shop: Supermarkt
-latitude: 47.164611900000004
-longitude: 11.8554493
-postcode: 6290
+latitude: 47.163510300000006
+longitude: 11.861661900000001
+postcode: "6290"
 city: Mayrhofen
-street: "Rauchenwald"
-housenumber: 675
-phone: "05285-65011"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+street: "Hauptstraße"
+housenumber: 473
+phone: ""
+opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-12:00, 16:00-18:00; Su, PH 08:00-12:00, 16:00-18:00"
 website: ""

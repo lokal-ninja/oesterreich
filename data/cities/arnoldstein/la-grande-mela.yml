@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.549792000000004
 longitude: 13.7034769
-postcode: 9601
+postcode: "9601"
 city: Arnoldstein
 street: "Kärntner Straße"
 housenumber: 49

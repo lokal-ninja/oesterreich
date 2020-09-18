@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.083386000000004
 longitude: 14.931214500000001
-postcode: 3324
+postcode: "3324"
 city: Euratsfeld
 street: "Hauptstraße"
 housenumber: 6

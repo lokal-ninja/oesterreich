@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.511115800000006
 longitude: 14.503089300000001
-postcode: 4240
+postcode: "4240"
 city: Freistadt
 street: "Pfarrgasse"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 47.909500900000005
 longitude: 16.694077200000002
-postcode: 7083
+postcode: "7083"
 city: Purbach am Neusiedler See
 street: "Sätzgasse"
 housenumber: 13

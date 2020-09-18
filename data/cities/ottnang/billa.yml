@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.095061
 longitude: 13.661933500000002
-postcode: 4901
+postcode: "4901"
 city: Ottnang
 street: "Attnanger Straße"
 housenumber: 4

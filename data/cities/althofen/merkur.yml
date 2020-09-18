@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8699634
 longitude: 14.467497100000001
-postcode: 9330
+postcode: "9330"
 city: Althofen
 street: "Kreuzstraße"
 housenumber: 29

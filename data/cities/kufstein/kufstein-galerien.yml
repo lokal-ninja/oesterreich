@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 47.584639300000006
 longitude: 12.1694981
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Feldgasse"
 housenumber: 1

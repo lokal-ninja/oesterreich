@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2758723
 longitude: 14.4464705
-postcode: 4222
+postcode: "4222"
 city: St. Georgen an der Gusen
 street: "Gusentalstraße"
 housenumber: 37

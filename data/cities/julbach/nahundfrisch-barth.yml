@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6586597
 longitude: 13.865318100000001
-postcode: 4162
+postcode: "4162"
 city: Julbach
 street: "Schulstraße"
 housenumber: 21

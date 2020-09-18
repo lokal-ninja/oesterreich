@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.2638784
 longitude: 11.387977000000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Anichstraße"
 housenumber: 38

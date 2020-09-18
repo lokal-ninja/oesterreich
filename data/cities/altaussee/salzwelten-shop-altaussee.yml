@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 47.6514765
 longitude: 13.738993800000001
-postcode: 8992
+postcode: "8992"
 city: Altaussee
 street: "Lichtersberg"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 48.270534500000004
 longitude: 14.267012000000001
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Werfelstraße"
 housenumber: 3

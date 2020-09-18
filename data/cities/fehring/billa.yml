@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.941439
 longitude: 16.010819100000003
-postcode: 8350
+postcode: "8350"
 city: Fehring
 street: "Bahnhofstraße"
 housenumber: 23a

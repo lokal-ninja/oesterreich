@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.157642900000006
 longitude: 15.6874792
-postcode: 3143
+postcode: "3143"
 city: Pyhra
 street: "Hauptstraße"
 housenumber: 30

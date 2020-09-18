@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.1941806
 longitude: 16.362141
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Margaretenstraße"
 housenumber: 47

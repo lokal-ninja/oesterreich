@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.449173
 longitude: 12.3250328
-postcode: 6365
+postcode: "6365"
 city: Kirchberg in Tirol
 street: "Kitzbüheler Straße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 46.626514500000006
 longitude: 14.346700100000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Südring"
 housenumber: 362

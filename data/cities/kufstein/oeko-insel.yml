@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.584092500000004
 longitude: 12.1706325
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Inngasse"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2376705
 longitude: 16.4775327
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Quadenstraße"
 housenumber: 33

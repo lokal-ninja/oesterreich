@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3840523
 longitude: 12.3067817
-postcode: 6365
+postcode: "6365"
 city: Kirchberg in Tirol
 street: "Falkensteinweg"
 housenumber: 4

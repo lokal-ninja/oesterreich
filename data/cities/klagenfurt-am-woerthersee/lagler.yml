@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.6253302
 longitude: 14.3415098
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Hermann-Gmeiner-Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.1470469
 longitude: 9.828251900000001
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Sankt-Peter-Straße"
 housenumber: 18

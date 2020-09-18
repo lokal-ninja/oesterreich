@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.425959600000006
 longitude: 9.7400626
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Johann-Georg-Ulmer-Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0837439
 longitude: 16.282113300000002
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Brühler Straße"
 housenumber: 4

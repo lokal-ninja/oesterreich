@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.198678
 longitude: 15.759454700000001
-postcode: 3071
+postcode: "3071"
 city: Böheimkirchen
 street: "Obere Hauptstraße"
 housenumber: 15

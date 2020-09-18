@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.1372444
 longitude: 16.2789791
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 372/103

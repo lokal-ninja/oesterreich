@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.943589200000005
 longitude: 16.1075781
-postcode: 2560
+postcode: "2560"
 city: Berndorf
 street: "Hernsteiner Straße"
 housenumber: 11

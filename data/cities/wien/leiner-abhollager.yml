@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.217642100000006
 longitude: 16.3108392
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Seeböckgasse"
 housenumber: 55

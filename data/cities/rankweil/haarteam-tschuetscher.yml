@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2780446
 longitude: 9.6094612
-postcode: 6830
+postcode: "6830"
 city: Rankweil
 street: "Kirchstraße"
 housenumber: 6

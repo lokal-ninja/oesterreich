@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 48.198315300000004
 longitude: 16.4007881
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Erdbergstraße"
 housenumber: 67

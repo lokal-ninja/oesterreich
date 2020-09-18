@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3316851
 longitude: 14.6196964
-postcode: 4284
+postcode: "4284"
 city: Tragwein
 street: "Pregartener Straße"
 housenumber: 1

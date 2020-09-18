@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.906834
 longitude: 13.535013800000002
-postcode: 9853
+postcode: "9853"
 city: Gmünd in Kärnten
 street: "Hauptplatz"
 housenumber: 18

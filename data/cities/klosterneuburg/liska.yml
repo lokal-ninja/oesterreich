@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3100138
 longitude: 16.3250527
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Niedermarkt"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1904125
 longitude: 13.1344989
-postcode: 5270
+postcode: "5270"
 city: Mauerkirchen
 street: "Obermarkt"
 housenumber: 33

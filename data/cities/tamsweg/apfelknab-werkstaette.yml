@@ -3,7 +3,7 @@ type: way
 shop: Schlüsseldienst
 latitude: 47.1296047
 longitude: 13.8108029
-postcode: 5580
+postcode: "5580"
 city: Tamsweg
 street: "Griesgasse"
 housenumber: 4

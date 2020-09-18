@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.511091900000004
 longitude: 14.5036991
-postcode: 4240
+postcode: "4240"
 city: Freistadt
 street: "Pfarrgasse"
 housenumber: 14

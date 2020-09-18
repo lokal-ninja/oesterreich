@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 47.172666500000005
 longitude: 13.104732700000001
-postcode: 5630
+postcode: "5630"
 city: Bad Hofgastein
 street: "Salzburger Straße"
 housenumber: 12

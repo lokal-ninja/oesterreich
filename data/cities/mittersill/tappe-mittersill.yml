@@ -1,12 +1,12 @@
-id: 5480609021
-type: node
+id: 291877857
+type: way
 shop: Sanitätshaus
-latitude: 47.2784502
-longitude: 12.483397700000001
-postcode: 5730
+latitude: 47.2827664
+longitude: 12.481811200000001
+postcode: "5730"
 city: Mittersill
 street: "Lendstraße"
-housenumber: 9
-phone: "+43 (0) 5 7071 8221"
+housenumber: 5
+phone: "+43570718221"
 opening_hours: ""
-website: "https://www.tappe.at"
+website: "https://www.tappe.at/live/de/"

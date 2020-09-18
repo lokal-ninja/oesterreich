@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3379477
 longitude: 16.337868800000003
-postcode: 2100
+postcode: "2100"
 city: Korneuburg
 street: "Wiener Straße"
 housenumber: 42

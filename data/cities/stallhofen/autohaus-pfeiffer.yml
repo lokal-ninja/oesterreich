@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.051612600000006
 longitude: 15.2189609
-postcode: 8152
+postcode: "8152"
 city: Stallhofen
 street: ""
 housenumber: 270

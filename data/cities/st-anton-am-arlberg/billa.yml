@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1304188
 longitude: 10.269642800000002
-postcode: 6580
+postcode: "6580"
 city: St. Anton am Arlberg
 street: "Arlbergstraße"
 housenumber: 73

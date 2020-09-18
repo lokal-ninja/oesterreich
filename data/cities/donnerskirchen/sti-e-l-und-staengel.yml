@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.8953543
 longitude: 16.648791000000003
-postcode: 7082
+postcode: "7082"
 city: Donnerskirchen
 street: "Neusiedler Straße"
 housenumber: 15

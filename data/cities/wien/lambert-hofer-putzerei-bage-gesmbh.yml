@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.2188892
 longitude: 16.388361
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Heinestraße"
 housenumber: 34

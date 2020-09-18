@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2094371
 longitude: 16.3335897
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Hofferplatz"
 housenumber: 9

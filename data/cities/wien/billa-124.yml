@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2509032
 longitude: 16.4784389
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Breitenleer Straße"
 housenumber: 148

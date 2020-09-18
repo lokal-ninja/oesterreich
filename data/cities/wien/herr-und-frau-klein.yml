@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.200510400000006
 longitude: 16.352294
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kirchengasse"
 housenumber: 7

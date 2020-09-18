@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.205020000000005
 longitude: 16.3761458
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Schellinggasse"
 housenumber: 1

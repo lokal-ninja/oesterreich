@@ -1,12 +1,12 @@
-id: 2484964785
+id: 2526139375
 type: node
 shop: Kiosk
-latitude: 48.2300448
-longitude: 16.3708454
-postcode: 1200
+latitude: 48.196384300000005
+longitude: 16.405497800000003
+postcode: "1030"
 city: Wien
-street: "Jägerstraße"
-housenumber: 29
+street: ""
+housenumber: 
 phone: ""
 opening_hours: ""
 website: ""

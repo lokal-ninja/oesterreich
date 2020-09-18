@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.793289800000004
 longitude: 12.9860284
-postcode: 5071
+postcode: "5071"
 city: Wals-Siezenheim
 street: "Josef Lindner Straße"
 housenumber: 4

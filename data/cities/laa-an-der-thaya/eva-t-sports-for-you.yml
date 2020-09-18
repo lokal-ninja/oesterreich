@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.7219336
 longitude: 16.3847671
-postcode: 2136
+postcode: "2136"
 city: Laa an der Thaya
 street: "Stadtplatz"
 housenumber: 58

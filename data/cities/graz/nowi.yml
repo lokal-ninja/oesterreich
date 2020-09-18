@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 47.067121500000006
 longitude: 15.4425772
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Jakominiplatz"
 housenumber: 16

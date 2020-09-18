@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.228003900000004
 longitude: 16.3369501
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Währinger Straße"
 housenumber: 162

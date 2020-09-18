@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 47.2611046
 longitude: 11.3907918
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Müllerstraße"
 housenumber: 27

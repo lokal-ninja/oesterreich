@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 47.4825042
 longitude: 12.057972600000001
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "Wolkensteinstraße"
 housenumber: 1

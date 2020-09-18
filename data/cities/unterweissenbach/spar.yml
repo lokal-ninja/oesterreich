@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4352797
 longitude: 14.7830846
-postcode: 4273
+postcode: "4273"
 city: Unterweißenbach
 street: "Markt"
 housenumber: 4

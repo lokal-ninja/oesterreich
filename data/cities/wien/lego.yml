@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.2147104
 longitude: 16.353202500000002
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Alser Straße"
 housenumber: 15

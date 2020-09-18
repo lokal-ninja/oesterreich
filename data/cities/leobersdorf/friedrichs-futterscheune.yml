@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 47.9337858
 longitude: 16.2148288
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "Hirtenberger Straße"
 housenumber: 35

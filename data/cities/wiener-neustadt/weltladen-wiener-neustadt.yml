@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.8117369
 longitude: 16.2436329
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Neunkirchner Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2099069
 longitude: 16.374055900000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Rotenturmstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.2592968
 longitude: 16.389661500000003
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Jedleseer Straße"
 housenumber: 56

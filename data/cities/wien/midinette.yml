@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.192028400000005
 longitude: 16.3591994
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretenstraße"
 housenumber: 84

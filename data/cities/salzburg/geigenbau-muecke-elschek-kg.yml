@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.8036581
 longitude: 13.0455556
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Bergstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.070779800000004
 longitude: 15.434248700000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Südtiroler Platz"
 housenumber: 1

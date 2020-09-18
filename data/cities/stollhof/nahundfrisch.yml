@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.8308035
 longitude: 16.069309800000003
-postcode: 2724
+postcode: "2724"
 city: Stollhof
 street: "Hauptstraße"
 housenumber: 33

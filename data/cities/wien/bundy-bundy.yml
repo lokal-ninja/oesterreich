@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2150985
 longitude: 16.3481916
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Alser Straße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9749573
 longitude: 13.8992658
-postcode: 4656
+postcode: "4656"
 city: Kirchham
 street: "Kirchham"
 housenumber: 9

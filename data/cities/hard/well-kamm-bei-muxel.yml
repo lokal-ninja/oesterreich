@@ -1,12 +1,12 @@
 id: 794377302
 type: node
 shop: Friseur
-latitude: 47.4902518
+latitude: 47.490244600000004
 longitude: 9.6918349
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Hofsteigstraße"
 housenumber: 9
 phone: "+43 5574 73355"
-opening_hours: ""
+opening_hours: "Di, Mi, Do 8.00 - 12.00 und 14.00 - 18.00, Fr 8.00 - 18.00, Sa 7.30 - 13.00"
 website: ""

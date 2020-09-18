@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5865206
 longitude: 12.160028500000001
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Lausbichl"
 housenumber: 2

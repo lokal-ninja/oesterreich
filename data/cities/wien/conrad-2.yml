@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.1985424
 longitude: 16.3203532
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Hütteldorfer Straße"
 housenumber: 81b

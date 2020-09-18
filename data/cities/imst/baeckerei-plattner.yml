@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.2403077
 longitude: 10.7398444
-postcode: 6460
+postcode: "6460"
 city: Imst
 street: "Floriangasse"
 housenumber: 3

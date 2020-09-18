@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.2045302
 longitude: 16.3849199
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Invalidenstraße"
 housenumber: 17

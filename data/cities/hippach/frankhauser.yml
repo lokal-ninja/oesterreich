@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 47.203962100000005
 longitude: 11.867176800000001
-postcode: 6283
+postcode: "6283"
 city: Hippach
 street: "Augasse"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.3120313
 longitude: 9.6152622
-postcode: 6842
+postcode: "6842"
 city: Koblach
 street: "Dürne"
 housenumber: 51a

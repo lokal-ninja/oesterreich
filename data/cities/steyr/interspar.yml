@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0534078
 longitude: 14.419305600000001
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Ennser Straße"
 housenumber: 23

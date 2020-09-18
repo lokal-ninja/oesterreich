@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.269471300000006
 longitude: 11.390548
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Innstraße"
 housenumber: 11

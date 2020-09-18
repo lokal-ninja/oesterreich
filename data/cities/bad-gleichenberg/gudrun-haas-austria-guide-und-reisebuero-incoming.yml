@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 46.881825500000005
 longitude: 15.914839700000002
-postcode: 8344
+postcode: "8344"
 city: Bad Gleichenberg
 street: "Bernreither Straße"
 housenumber: 64

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.2253222
 longitude: 16.347070900000002
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Währinger Straße"
 housenumber: 81-83

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.0822462
 longitude: 15.432970300000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Theodor-Körner-Straße"
 housenumber: 43

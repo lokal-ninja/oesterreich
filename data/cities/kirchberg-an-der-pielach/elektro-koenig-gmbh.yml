@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.0258029
 longitude: 15.430989100000001
-postcode: 3204
+postcode: "3204"
 city: Kirchberg an der Pielach
 street: "Sankt Pöltner Straße"
 housenumber: 8

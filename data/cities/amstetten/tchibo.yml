@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.1212698
 longitude: 14.868446700000002
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Waidhofner Strasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.225579700000004
 longitude: 16.5021859
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Sonnenallee"
 housenumber: 36

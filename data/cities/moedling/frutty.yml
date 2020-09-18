@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.0866404
 longitude: 16.293753000000002
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Hauptstraße"
 housenumber: 6

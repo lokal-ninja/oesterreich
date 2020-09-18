@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.247511
 longitude: 9.6104944
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Reichsstraße"
 housenumber: 133

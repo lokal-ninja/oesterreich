@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1660143
 longitude: 16.7773353
-postcode: 2305
+postcode: "2305"
 city: Eckartsau
 street: ""
 housenumber: 63

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.066121300000006
 longitude: 15.4423329
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Jakoministraße"
 housenumber: 9

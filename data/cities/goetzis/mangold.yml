@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.3352494
 longitude: 9.646046700000001
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Am Garnmarkt"
 housenumber: 4

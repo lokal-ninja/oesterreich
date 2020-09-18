@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.313779600000004
 longitude: 10.0166755
-postcode: 6886
+postcode: "6886"
 city: Schoppernau
 street: "Unterdorf"
 housenumber: 9

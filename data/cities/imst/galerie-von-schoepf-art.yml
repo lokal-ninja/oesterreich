@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.2389534
 longitude: 10.7401073
-postcode: 6460
+postcode: "6460"
 city: Imst
 street: "Floriangasse"
 housenumber: 

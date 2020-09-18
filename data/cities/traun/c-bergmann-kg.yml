@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.244225400000005
 longitude: 14.2654656
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Bergmann-Platz"
 housenumber: 1

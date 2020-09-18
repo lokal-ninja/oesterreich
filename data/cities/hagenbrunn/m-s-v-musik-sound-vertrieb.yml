@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.3420247
 longitude: 16.4594403
-postcode: 2201
+postcode: "2201"
 city: Hagenbrunn
 street: "Wirtschaftsstraße"
 housenumber: 14

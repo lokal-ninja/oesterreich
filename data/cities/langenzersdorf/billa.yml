@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3091632
 longitude: 16.3577403
-postcode: 2103
+postcode: "2103"
 city: Langenzersdorf
 street: "Hauptplatz"
 housenumber: 8

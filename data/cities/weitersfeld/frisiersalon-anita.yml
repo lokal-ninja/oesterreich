@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7819695
 longitude: 15.810597900000001
-postcode: 2084
+postcode: "2084"
 city: Weitersfeld
 street: ""
 housenumber: 115

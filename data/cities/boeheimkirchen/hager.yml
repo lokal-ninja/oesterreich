@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.196550200000004
 longitude: 15.7646896
-postcode: 3071
+postcode: "3071"
 city: Böheimkirchen
 street: "Hainfelder Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.6128288
 longitude: 14.042091500000002
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Seecorso"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.4897569
 longitude: 12.1065158
-postcode: 6322
+postcode: "6322"
 city: Kirchbichl
 street: "Achenstraße"
 housenumber: 7

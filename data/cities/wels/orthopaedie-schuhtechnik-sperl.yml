@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.1672646
 longitude: 14.023001800000001
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Wallerer Straße"
 housenumber: 7

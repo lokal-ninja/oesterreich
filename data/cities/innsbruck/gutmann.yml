@@ -3,10 +3,10 @@ type: way
 shop: Kiosk
 latitude: 47.2625565
 longitude: 11.3729312
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Fürstenweg"
 housenumber: 87
-phone: ""
+phone: "+43 502277"
 opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00; PH 08:00-20:00"
-website: ""
+website: "https://www.gutmann.cc/index.php?id=76&item-id=12"

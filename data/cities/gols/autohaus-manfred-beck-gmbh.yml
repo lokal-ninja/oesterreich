@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8893575
 longitude: 16.927658700000002
-postcode: 7122
+postcode: "7122"
 city: Gols
 street: "Gewerbestraße"
 housenumber: 3

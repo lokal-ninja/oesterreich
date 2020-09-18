@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.2013454
 longitude: 16.3451364
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: ""
 housenumber: 

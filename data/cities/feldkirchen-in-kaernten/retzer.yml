@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.7230049
 longitude: 14.0978212
-postcode: 9560
+postcode: "9560"
 city: Feldkirchen in Kärnten
 street: "Gurktaler Straße"
 housenumber: 1

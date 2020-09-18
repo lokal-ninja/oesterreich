@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 46.7360198
 longitude: 15.4457734
-postcode: 8452
+postcode: "8452"
 city: Großklein
 street: ""
 housenumber: 62

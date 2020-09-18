@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 46.769365400000005
 longitude: 15.5656595
-postcode: 8435
+postcode: "8435"
 city: Wagna
 street: "Marburger Straße"
 housenumber: 98

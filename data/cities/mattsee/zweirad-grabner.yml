@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.9661157
 longitude: 13.1012868
-postcode: 5163
+postcode: "5163"
 city: Mattsee
 street: "Salzburger Straße"
 housenumber: 29

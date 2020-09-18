@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.2079406
 longitude: 16.3783506
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Postgasse"
 housenumber: 1

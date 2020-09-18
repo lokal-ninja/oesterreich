@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7187126
 longitude: 16.3968163
-postcode: 2136
+postcode: "2136"
 city: Laa an der Thaya
 street: "Simon-Scheiner-Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2666594
 longitude: 16.428279
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Siemensstraße"
 housenumber: 134

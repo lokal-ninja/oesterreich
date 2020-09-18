@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.6117855
 longitude: 13.839344100000002
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Völkendorfer Straße"
 housenumber: 6

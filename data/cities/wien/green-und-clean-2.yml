@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.1764085
 longitude: 16.4134239
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Enkplatz"
 housenumber: 6-7

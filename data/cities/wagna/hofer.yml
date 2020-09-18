@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.7699341
 longitude: 15.5628253
-postcode: 8435
+postcode: "8435"
 city: Wagna
 street: "Marburger Straße"
 housenumber: 92

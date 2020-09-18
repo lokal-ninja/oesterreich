@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.609121300000005
 longitude: 14.2999828
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Rosentaler Straße"
 housenumber: 105

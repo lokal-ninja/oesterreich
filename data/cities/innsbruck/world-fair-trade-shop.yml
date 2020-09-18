@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.2621626
 longitude: 11.394659200000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Leopoldstraße"
 housenumber: 2

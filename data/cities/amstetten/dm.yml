@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.1072567
 longitude: 14.8316355
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Gottlieb-Daimler-Straße"
 housenumber: 2

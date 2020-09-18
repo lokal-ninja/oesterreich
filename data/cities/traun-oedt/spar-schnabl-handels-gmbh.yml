@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.215640400000005
 longitude: 14.2094319
-postcode: 4050
+postcode: "4050"
 city: Traun/Oedt
 street: "Traunerstraße"
 housenumber: 82

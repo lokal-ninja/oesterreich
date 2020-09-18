@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 47.2670133
 longitude: 11.398291500000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Museumstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.2161197
 longitude: 16.3570985
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Ferstelgasse"
 housenumber: 5

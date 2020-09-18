@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.1566496
 longitude: 9.8195449
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Kirchgasse"
 housenumber: 2

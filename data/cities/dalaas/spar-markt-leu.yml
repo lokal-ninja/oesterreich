@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.122753900000006
 longitude: 9.9956514
-postcode: 6752
+postcode: "6752"
 city: Dalaas
 street: "Klostertalerstraße"
 housenumber: 59

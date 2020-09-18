@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.291437900000005
 longitude: 16.2073462
-postcode: 
+postcode: ""
 city: Oberwart
 street: "Wienerstraße"
 housenumber: 27

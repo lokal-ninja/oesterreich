@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.652781100000006
 longitude: 14.313023300000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "St. Veiter Straße"
 housenumber: 199

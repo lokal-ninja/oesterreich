@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.2182467
 longitude: 16.3330077
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Jörgerstraße"
 housenumber: 56-58

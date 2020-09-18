@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.186619500000006
 longitude: 15.635185100000001
-postcode: 3100
+postcode: "3100"
 city: Sankt Pölten
 street: "Fialastraße"
 housenumber: 13

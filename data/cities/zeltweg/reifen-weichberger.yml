@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 47.1980615
 longitude: 14.7661876
-postcode: 8740
+postcode: "8740"
 city: Zeltweg
 street: "Flatschacherweg"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 46.7659801
 longitude: 14.8247546
-postcode: 9433
+postcode: "9433"
 city: Sankt Andrä
 street: "Blaiken"
 housenumber: 14

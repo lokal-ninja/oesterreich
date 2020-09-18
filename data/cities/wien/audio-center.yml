@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 48.2119401
 longitude: 16.3693736
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Judenplatz"
 housenumber: 9

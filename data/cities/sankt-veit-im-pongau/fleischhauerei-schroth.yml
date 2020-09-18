@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.328893400000005
 longitude: 13.153238700000001
-postcode: 5621
+postcode: "5621"
 city: Sankt Veit im Pongau
 street: "Markt"
 housenumber: 6

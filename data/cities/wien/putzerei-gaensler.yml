@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.2530647
 longitude: 16.3647438
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Heiligenstädter Straße"
 housenumber: 86

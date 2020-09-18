@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.937070000000006
 longitude: 16.1399507
-postcode: 8380
+postcode: "8380"
 city: Jennersdorf
 street: ""
 housenumber: 

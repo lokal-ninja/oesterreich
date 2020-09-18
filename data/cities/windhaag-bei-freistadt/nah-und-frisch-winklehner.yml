@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5850322
 longitude: 14.5598714
-postcode: 4263
+postcode: "4263"
 city: Windhaag bei Freistadt
 street: "Schulstraße"
 housenumber: 1

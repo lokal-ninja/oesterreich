@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1423563
 longitude: 10.5636974
-postcode: 6500
+postcode: "6500"
 city: Landeck
 street: "Innstraße"
 housenumber: 40

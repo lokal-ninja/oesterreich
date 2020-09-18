@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.009588900000004
 longitude: 13.7201696
-postcode: 4800
+postcode: "4800"
 city: Attnang-Puchheim
 street: "Römerstraße"
 housenumber: 13

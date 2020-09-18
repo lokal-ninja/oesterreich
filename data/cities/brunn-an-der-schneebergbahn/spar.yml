@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.825826500000005
 longitude: 16.1595717
-postcode: 2721
+postcode: "2721"
 city: Brunn an der Schneebergbahn
 street: "Blätterstraße"
 housenumber: 2a

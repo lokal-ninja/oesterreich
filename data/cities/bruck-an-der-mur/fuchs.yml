@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.4116189
 longitude: 15.272437100000001
-postcode: 8600
+postcode: "8600"
 city: Bruck an der Mur
 street: "Herzog-Ernst-Gasse"
 housenumber: 29

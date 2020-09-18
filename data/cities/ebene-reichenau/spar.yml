@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8553573
 longitude: 13.8924292
-postcode: 9565
+postcode: "9565"
 city: Ebene Reichenau
 street: "Ebene Reichenau"
 housenumber: 89

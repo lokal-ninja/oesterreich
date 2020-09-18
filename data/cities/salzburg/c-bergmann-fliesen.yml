@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.801555900000004
 longitude: 13.011203
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Moserstraße"
 housenumber: 29

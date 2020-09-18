@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.1039268
 longitude: 15.4005343
-postcode: 8051
+postcode: "8051"
 city: Graz
 street: ""
 housenumber: 

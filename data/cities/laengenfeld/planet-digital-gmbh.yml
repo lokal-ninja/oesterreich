@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 47.0769541
 longitude: 10.969697
-postcode: 6444
+postcode: "6444"
 city: Längenfeld
 street: "Unterlängenfeld"
 housenumber: 127

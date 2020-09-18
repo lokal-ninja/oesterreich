@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.2858195
 longitude: 14.306310700000001
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Poschacherstraße"
 housenumber: 23

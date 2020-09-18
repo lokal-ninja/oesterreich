@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.601613400000005
 longitude: 15.1855513
-postcode: 3910
+postcode: "3910"
 city: Zwettl
 street: "Franz Eigl-Straße"
 housenumber: 9

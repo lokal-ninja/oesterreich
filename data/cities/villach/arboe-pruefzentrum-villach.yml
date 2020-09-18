@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.604336700000005
 longitude: 13.8648804
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Maria-Gailer-Straße"
 housenumber: 28a

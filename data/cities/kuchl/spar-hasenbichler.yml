@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.626500400000005
 longitude: 13.144615600000002
-postcode: 5431
+postcode: "5431"
 city: Kuchl
 street: "Markt"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.085329400000006
 longitude: 16.283465500000002
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Schrannenplatz"
 housenumber: 6

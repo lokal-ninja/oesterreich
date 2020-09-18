@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 47.267464200000006
 longitude: 11.395049400000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Museumstraße"
 housenumber: 1

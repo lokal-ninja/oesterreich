@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2037782
 longitude: 15.624505000000001
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Schreinergasse"
 housenumber: 4

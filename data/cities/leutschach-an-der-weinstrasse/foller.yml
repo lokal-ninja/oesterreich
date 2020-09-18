@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 46.668863300000005
 longitude: 15.4677626
-postcode: 8463
+postcode: "8463"
 city: Leutschach an der Weinstraße
 street: "Hauptplatz"
 housenumber: 15

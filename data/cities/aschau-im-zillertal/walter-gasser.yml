@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.2620415
 longitude: 11.8951378
-postcode: 6274
+postcode: "6274"
 city: Aschau im Zillertal
 street: "Dorfstraße"
 housenumber: 50

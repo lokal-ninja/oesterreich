@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2347322
 longitude: 16.4725265
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Emichgasse"
 housenumber: 6

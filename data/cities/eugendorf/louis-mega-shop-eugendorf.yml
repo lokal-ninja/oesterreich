@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 47.8652279
 longitude: 13.130432800000001
-postcode: 5301
+postcode: "5301"
 city: Eugendorf
 street: "Wiener Straße"
 housenumber: 6

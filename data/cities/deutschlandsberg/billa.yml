@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8160156
 longitude: 15.2361421
-postcode: 8530
+postcode: "8530"
 city: Deutschlandsberg
 street: "Radlpass Straße"
 housenumber: 15

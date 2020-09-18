@@ -1,4 +1,4 @@
 ---
-title: "Matratzen CONCORD"
+title: "Matratzen Concord"
 url: /graz/matratzen-concord-4/
 ---

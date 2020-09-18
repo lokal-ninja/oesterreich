@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 46.822605800000005
 longitude: 15.2543427
-postcode: 8523
+postcode: "8523"
 city: Frauental an der Laßnitz
 street: "Grazerstraße"
 housenumber: 231

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.391602400000004
 longitude: 11.7746045
-postcode: 6200
+postcode: "6200"
 city: Jenbach
 street: "Schalserstraße"
 housenumber: 7

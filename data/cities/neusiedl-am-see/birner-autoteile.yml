@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 47.9690846
 longitude: 16.8376165
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Rot-Kreuz-Gasse"
 housenumber: 12

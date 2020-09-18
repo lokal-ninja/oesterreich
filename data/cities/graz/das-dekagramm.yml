@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0671369
 longitude: 15.4395594
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Joanneumring"
 housenumber: 16

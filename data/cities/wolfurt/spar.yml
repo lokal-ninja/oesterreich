@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.467886400000005
 longitude: 9.749776800000001
-postcode: 6922
+postcode: "6922"
 city: Wolfurt
 street: "Sternenplatz"
 housenumber: 10

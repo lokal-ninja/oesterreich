@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 48.1802142
 longitude: 16.410178000000002
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Simmeringer Hauptstraße"
 housenumber: 45

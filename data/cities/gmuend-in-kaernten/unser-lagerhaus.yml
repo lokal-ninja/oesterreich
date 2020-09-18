@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.903062500000004
 longitude: 13.530285600000001
-postcode: 9853
+postcode: "9853"
 city: Gmünd in Kärnten
 street: "Untere Vorstadt"
 housenumber: 35

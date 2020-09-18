@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 47.8004984
 longitude: 13.040052300000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Münzgasse"
 housenumber: 2

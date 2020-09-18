@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.946824400000004
 longitude: 14.3593548
-postcode: 4452
+postcode: "4452"
 city: Ternberg
 street: "Alois-Derfler-Straße"
 housenumber: 7

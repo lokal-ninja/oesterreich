@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.821463400000006
 longitude: 13.152468
-postcode: 5321
+postcode: "5321"
 city: Koppl
 street: "Wolfgangseestraße"
 housenumber: 101

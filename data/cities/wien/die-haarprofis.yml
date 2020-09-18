@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.211438900000005
 longitude: 16.3904253
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Radetzkystraße"
 housenumber: 21

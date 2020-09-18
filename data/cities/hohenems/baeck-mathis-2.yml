@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.3601414
 longitude: 9.6813255
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Kaiserin-Elisabeth-Straße"
 housenumber: 29

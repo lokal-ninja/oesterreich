@@ -3,7 +3,7 @@ type: way
 shop: Milch
 latitude: 47.214663300000005
 longitude: 9.724274600000001
-postcode: 6822
+postcode: "6822"
 city: Schnifis
 street: "Jagdbergstraße"
 housenumber: 84

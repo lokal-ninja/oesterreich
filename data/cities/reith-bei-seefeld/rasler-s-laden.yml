@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.2984693
 longitude: 11.205238300000001
-postcode: 6103
+postcode: "6103"
 city: Reith bei Seefeld
 street: "Römerstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.2426496
 longitude: 16.4356628
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Wagramer Straße"
 housenumber: 81/2/3

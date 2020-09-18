@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 47.207532400000005
 longitude: 14.678260100000001
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Judenburgerstraße"
 housenumber: 2

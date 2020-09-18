@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.227608000000004
 longitude: 16.3378246
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Währinger Straße"
 housenumber: 129

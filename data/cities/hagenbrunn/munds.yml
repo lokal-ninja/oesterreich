@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.3326444
 longitude: 16.410211
-postcode: 2102
+postcode: "2102"
 city: Hagenbrunn
 street: "Bahnstraße"
 housenumber: 4

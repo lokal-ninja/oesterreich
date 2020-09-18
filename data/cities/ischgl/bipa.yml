@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.0139804
 longitude: 10.2946041
-postcode: 6561
+postcode: "6561"
 city: Ischgl
 street: "Dorfstraße"
 housenumber: 18

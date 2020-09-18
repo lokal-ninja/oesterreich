@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4770321
 longitude: 16.5893805
-postcode: 2191
+postcode: "2191"
 city: Gaweinstal
 street: "Hauptplatz"
 housenumber: 7-9

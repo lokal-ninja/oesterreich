@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.8133734
 longitude: 16.241792800000002
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Herzog-Leopold-Straße"
 housenumber: 8

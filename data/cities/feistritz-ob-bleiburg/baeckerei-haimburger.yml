@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.5781824
 longitude: 14.743135800000001
-postcode: 9143
+postcode: "9143"
 city: Feistritz ob Bleiburg
 street: ""
 housenumber: 31

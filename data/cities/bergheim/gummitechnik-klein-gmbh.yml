@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 47.8322602
 longitude: 13.0309001
-postcode: 5101
+postcode: "5101"
 city: Bergheim
 street: "Freyweg"
 housenumber: 1

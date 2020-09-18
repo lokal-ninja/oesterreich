@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.053684600000004
 longitude: 15.1292606
-postcode: 8572
+postcode: "8572"
 city: Bärnbach
 street: "Packer Straße"
 housenumber: 18

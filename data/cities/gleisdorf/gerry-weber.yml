@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.105846
 longitude: 15.704537900000002
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Ludwig-Binder-Straße"
 housenumber: 22

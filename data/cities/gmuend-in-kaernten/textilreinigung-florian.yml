@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 46.9084828
 longitude: 13.541798400000001
-postcode: 9853
+postcode: "9853"
 city: Gmünd in Kärnten
 street: "Waschanger"
 housenumber: 49

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.9357224
 longitude: 13.4809532
-postcode: 4880
+postcode: "4880"
 city: St. Georgen im Attergau
 street: "Im Weidach"
 housenumber: 15

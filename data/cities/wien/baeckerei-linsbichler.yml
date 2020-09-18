@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.235616900000004
 longitude: 16.3489329
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Gymnasiumstraße"
 housenumber: 62

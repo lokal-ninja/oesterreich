@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.7159537
 longitude: 16.1743016
-postcode: 2062
+postcode: "2062"
 city: Seefeld-Kadolz
 street: "Seefeld"
 housenumber: 70

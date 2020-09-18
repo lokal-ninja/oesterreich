@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.9787617
 longitude: 17.009980600000002
-postcode: 2424
+postcode: "2424"
 city: Zurndorf
 street: "Untere Hauptstraße"
 housenumber: 63

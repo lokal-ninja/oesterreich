@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.0338014
 longitude: 14.2106867
-postcode: 4540
+postcode: "4540"
 city: Bad Hall
 street: "Hauptplatz"
 housenumber: 26

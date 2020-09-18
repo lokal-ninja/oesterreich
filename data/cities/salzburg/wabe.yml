@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 47.8251549
 longitude: 13.049337300000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Kirchenstraße"
 housenumber: 43A

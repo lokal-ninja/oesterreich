@@ -3,9 +3,9 @@ type: way
 shop: Fisch
 latitude: 47.425657900000004
 longitude: 14.720104800000001
-postcode: 8775
+postcode: "8775"
 city: Kalwang
-street: "Sonnberg"
+street: "Teichweg"
 housenumber: 1
 phone: ""
 opening_hours: ""

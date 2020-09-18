@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.699099700000005
 longitude: 15.401327900000002
-postcode: 8453
+postcode: "8453"
 city: Sankt Johann im Saggautal
 street: ""
 housenumber: 41

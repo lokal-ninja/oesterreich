@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.351388
 longitude: 16.3414504
-postcode: 2100
+postcode: "2100"
 city: Korneuburg
 street: "Teiritzstraße"
 housenumber: 2

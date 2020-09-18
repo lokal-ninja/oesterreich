@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.162954600000006
 longitude: 11.7443386
-postcode: 6293
+postcode: "6293"
 city: Tux
 street: "Vorderlanersbach"
 housenumber: 82

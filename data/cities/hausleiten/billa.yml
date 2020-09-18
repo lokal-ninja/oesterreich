@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3929521
 longitude: 16.1027589
-postcode: 3464
+postcode: "3464"
 city: Hausleiten
 street: "Stockerauer Straße"
 housenumber: 2

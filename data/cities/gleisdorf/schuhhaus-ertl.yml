@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.104976
 longitude: 15.7089338
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Bürgergasse"
 housenumber: 4

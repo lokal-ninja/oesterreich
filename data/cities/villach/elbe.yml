@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 46.6128585
 longitude: 13.834773100000001
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Tiroler Straße"
 housenumber: 21

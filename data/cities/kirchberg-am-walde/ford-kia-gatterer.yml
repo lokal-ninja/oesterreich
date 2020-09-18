@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.719297600000004
 longitude: 15.090182800000001
-postcode: 3932
+postcode: "3932"
 city: Kirchberg am Walde
 street: ""
 housenumber: 185

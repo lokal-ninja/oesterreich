@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5450001
 longitude: 16.7544526
-postcode: 2225
+postcode: "2225"
 city: Zistersdorf
 street: "Umfahrungsstraße"
 housenumber: 14

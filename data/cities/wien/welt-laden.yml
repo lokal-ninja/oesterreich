@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.299460800000006
 longitude: 16.4192763
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Dr.-Skala-Straße"
 housenumber: 2

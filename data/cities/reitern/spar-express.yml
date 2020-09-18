@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6127802
 longitude: 13.766486800000001
-postcode: 8990
+postcode: "8990"
 city: Reitern
 street: "Pötschenstraße"
 housenumber: 145

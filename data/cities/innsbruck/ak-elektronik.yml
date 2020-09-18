@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.261942000000005
 longitude: 11.399180900000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Heiliggeiststraße"
 housenumber: 21

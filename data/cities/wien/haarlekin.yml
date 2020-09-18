@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2931089
 longitude: 16.4175227
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Brünner Straße"
 housenumber: 221

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.568248100000005
 longitude: 13.9821507
-postcode: 4150
+postcode: "4150"
 city: Rohrbach-Berg
 street: "Hanriederstraße"
 housenumber: 42

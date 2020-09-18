@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.156904000000004
 longitude: 14.0255285
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Stadtplatz"
 housenumber: 8

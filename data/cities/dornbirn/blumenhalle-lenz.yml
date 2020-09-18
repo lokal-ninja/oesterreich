@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.4241626
 longitude: 9.728315100000001
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Rohrbach"
 housenumber: 61

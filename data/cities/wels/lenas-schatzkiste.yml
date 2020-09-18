@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 48.156564100000004
 longitude: 14.003536200000001
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Salzburger Straße"
 housenumber: 140

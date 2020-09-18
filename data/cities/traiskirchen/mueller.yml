@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.984239200000005
 longitude: 16.289836
-postcode: 2512
+postcode: "2512"
 city: Traiskirchen
 street: "Triester Straße"
 housenumber: 72

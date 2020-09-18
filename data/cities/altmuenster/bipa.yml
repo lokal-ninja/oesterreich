@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.893567700000006
 longitude: 13.7657874
-postcode: 4813
+postcode: "4813"
 city: Altmünster
 street: "Am Schloßwald"
 housenumber: 1

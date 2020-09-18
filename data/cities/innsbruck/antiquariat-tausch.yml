@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.2656841
 longitude: 11.3914519
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Adolf-Pichler-Platz"
 housenumber: 12

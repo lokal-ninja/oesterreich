@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.8050848
 longitude: 13.043639800000001
-postcode: 5020
+postcode: "5020"
 city: Salzurg
 street: "Mirabellplatz"
 housenumber: 6

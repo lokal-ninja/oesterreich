@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.611376
 longitude: 13.7855342
-postcode: 8990
+postcode: "8990"
 city: Bad Aussee
 street: "Meranplatz"
 housenumber: 39

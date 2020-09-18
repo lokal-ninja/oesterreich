@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.2462582
 longitude: 14.555947600000001
-postcode: 4310
+postcode: "4310"
 city: Mauthausen
 street: "Perger Straße"
 housenumber: 6

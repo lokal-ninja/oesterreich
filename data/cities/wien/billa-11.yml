@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.206722000000006
 longitude: 16.398130300000002
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Schüttelstraße"
 housenumber: 39

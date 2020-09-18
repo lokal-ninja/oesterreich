@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.617133300000006
 longitude: 14.298508400000001
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Ankershofenstraße"
 housenumber: 16

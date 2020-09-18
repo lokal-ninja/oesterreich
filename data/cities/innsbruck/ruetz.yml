@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2652683
 longitude: 11.397300900000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Bozner Platz"
 housenumber: 1

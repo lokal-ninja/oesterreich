@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.736417800000005
 longitude: 16.3979137
-postcode: 7210
+postcode: "7210"
 city: Mattersburg
 street: "Hauptstraße"
 housenumber: 1

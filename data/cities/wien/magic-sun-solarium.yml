@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1975952
 longitude: 16.2976284
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Hütteldorfer Straße"
 housenumber: 130D

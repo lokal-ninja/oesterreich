@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.151124900000006
 longitude: 15.539260800000001
-postcode: 3200
+postcode: "3200"
 city: Ober-Grafendorf
 street: "Manker Straße"
 housenumber: 10

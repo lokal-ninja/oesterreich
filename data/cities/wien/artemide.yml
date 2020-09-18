@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 48.2128833
 longitude: 16.3738989
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Morzinplatz"
 housenumber: 3

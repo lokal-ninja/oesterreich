@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 48.197599100000005
 longitude: 16.3263261
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Märzstraße"
 housenumber: 57

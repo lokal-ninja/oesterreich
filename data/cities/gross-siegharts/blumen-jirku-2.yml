@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.7907008
 longitude: 15.393442
-postcode: 3812
+postcode: "3812"
 city: Groß Siegharts
 street: "Waidhofner Straße"
 housenumber: 65a

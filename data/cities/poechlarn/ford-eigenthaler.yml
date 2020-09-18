@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1975264
 longitude: 15.219243
-postcode: 3380
+postcode: "3380"
 city: Pöchlarn
 street: "Reichsstraße"
 housenumber: 10

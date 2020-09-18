@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.214022400000005
 longitude: 13.9360794
-postcode: 4702
+postcode: "4702"
 city: Wallern an der Trattnach
 street: "Hungerberg"
 housenumber: 2

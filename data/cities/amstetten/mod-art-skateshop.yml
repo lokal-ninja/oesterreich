@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.1222287
 longitude: 14.873766300000002
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Graben"
 housenumber: 31/1

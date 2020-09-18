@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 47.1843524
 longitude: 14.6799928
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Arena am Waldfeld"
 housenumber: 23a

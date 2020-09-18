@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2658101
 longitude: 11.391403700000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Adolf-Pichler-Platz"
 housenumber: 10

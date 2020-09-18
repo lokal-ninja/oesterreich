@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.294727
 longitude: 16.5553575
-postcode: 2232
+postcode: "2232"
 city: Deutsch-Wagram
 street: "Angerner Bundesstraße"
 housenumber: 6

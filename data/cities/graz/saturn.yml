@@ -3,10 +3,10 @@ type: node
 shop: Elektronik
 latitude: 47.105177600000005
 longitude: 15.3980168
-postcode: 8051
+postcode: "8051"
 city: Graz
 street: "Wiener Straße"
 housenumber: 351
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.saturn.at/mcs/marketinfo/_Saturn-Saturn-Graz-Shopping-Nord,94953,-15.html"

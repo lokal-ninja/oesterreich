@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.190755900000006
 longitude: 16.344741900000002
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Gumpendorfer Straße"
 housenumber: 114

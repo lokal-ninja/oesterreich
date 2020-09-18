@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.0607053
 longitude: 15.4682884
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Plüddemanngasse"
 housenumber: 98

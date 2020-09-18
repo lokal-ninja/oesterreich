@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.5225529
 longitude: 12.4259328
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Kaiserstraße"
 housenumber: 10

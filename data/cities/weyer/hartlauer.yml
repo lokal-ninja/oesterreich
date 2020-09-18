@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.856761000000006
 longitude: 14.663377800000001
-postcode: 3335
+postcode: "3335"
 city: Weyer
 street: "Oberer Markt"
 housenumber: 8

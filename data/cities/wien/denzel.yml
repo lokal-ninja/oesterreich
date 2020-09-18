@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 48.2653455
 longitude: 16.403035900000003
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: ""
 housenumber: 
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
+website: "https://www.denzel.at/standorte/denzel-wien-floridsdorf"

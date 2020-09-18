@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2676571
 longitude: 15.038766800000001
-postcode: 3684
+postcode: "3684"
 city: Sankt Oswald
 street: "Untere Hauptstraße"
 housenumber: 3

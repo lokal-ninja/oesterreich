@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0622454
 longitude: 15.214019700000001
-postcode: 3281
+postcode: "3281"
 city: Oberndorf
 street: "Oberer Gries"
 housenumber: 32

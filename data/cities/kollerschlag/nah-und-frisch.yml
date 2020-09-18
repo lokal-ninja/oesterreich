@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.605282900000006
 longitude: 13.840629600000002
-postcode: 4154
+postcode: "4154"
 city: Kollerschlag
 street: "Markt"
 housenumber: 13

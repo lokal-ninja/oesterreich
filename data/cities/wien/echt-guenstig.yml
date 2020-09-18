@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.192084
 longitude: 16.359873200000003
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Margaretenstraße"
 housenumber: 69

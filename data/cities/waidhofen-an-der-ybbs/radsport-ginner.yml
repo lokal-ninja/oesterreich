@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.960616400000006
 longitude: 14.7760583
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Ybbstorgasse"
 housenumber: 5

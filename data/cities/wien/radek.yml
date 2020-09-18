@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.237733500000004
 longitude: 16.4347588
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Erzherzog-Karl-Straße"
 housenumber: 17a

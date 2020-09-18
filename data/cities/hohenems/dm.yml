@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.3728441
 longitude: 9.6792405
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Schweizer Straße"
 housenumber: 79

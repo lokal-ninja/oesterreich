@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 47.036037300000004
 longitude: 15.484630500000002
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Sankt-Peter-Gürtel"
 housenumber: 12a

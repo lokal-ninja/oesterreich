@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2018775
 longitude: 15.900609900000001
-postcode: 3040
+postcode: "3040"
 city: Neulengbach
 street: "Florianigasse"
 housenumber: 40

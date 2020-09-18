@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.938711500000004
 longitude: 13.851462000000001
-postcode: 4816
+postcode: "4816"
 city: Gschwandt
 street: "Hauptstraße"
 housenumber: 46

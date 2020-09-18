@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.217961100000004
 longitude: 16.3772129
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Leopoldsgasse"
 housenumber: 30

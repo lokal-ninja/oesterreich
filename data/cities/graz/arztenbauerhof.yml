@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.089559200000004
 longitude: 15.509602800000001
-postcode: 8047
+postcode: "8047"
 city: Graz
 street: "Riesstraße"
 housenumber: 254

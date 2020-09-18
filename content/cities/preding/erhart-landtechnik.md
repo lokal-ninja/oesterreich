@@ -1,4 +1,4 @@
 ---
-title: "ERHART Landtechnik"
+title: "Erhart Landtechnik"
 url: /preding/erhart-landtechnik/
 ---

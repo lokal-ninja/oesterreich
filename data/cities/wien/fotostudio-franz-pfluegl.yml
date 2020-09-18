@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.213762
 longitude: 16.3703969
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Heinrichsgasse"
 housenumber: 2

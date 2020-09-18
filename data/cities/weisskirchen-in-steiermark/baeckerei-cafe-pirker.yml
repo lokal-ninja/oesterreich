@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.153848800000006
 longitude: 14.7395773
-postcode: 8741
+postcode: "8741"
 city: Weißkirchen in Steiermark
 street: "Hauptplatz"
 housenumber: 5

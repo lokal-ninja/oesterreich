@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.251943700000005
 longitude: 16.4016521
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Prießnitzgasse"
 housenumber: 8/10

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.4389344
 longitude: 11.875611600000001
-postcode: 6233
+postcode: "6233"
 city: Kramsach
 street: "Amerling"
 housenumber: 131

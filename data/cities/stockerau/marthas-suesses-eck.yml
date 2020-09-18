@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.3846258
 longitude: 16.2049074
-postcode: 2000
+postcode: "2000"
 city: Stockerau
 street: "Josef-Wolfik-Straße"
 housenumber: 18

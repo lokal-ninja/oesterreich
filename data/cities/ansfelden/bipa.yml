@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.196489
 longitude: 14.2477008
-postcode: 4053
+postcode: "4053"
 city: Ansfelden
 street: "Ikea Platz"
 housenumber: 4

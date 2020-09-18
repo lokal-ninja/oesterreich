@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.641818
 longitude: 15.869007900000001
-postcode: 2641
+postcode: "2641"
 city: Schottwien
 street: "Maria Schutz"
 housenumber: 9

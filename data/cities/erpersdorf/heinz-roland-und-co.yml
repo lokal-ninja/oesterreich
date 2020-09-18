@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.3394801
 longitude: 15.925688500000001
-postcode: 3435
+postcode: "3435"
 city: Erpersdorf
 street: "Kraftwerkstraße"
 housenumber: 4

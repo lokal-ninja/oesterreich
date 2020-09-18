@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.3318287
 longitude: 11.188135200000001
-postcode: 6100
+postcode: "6100"
 city: Seefeld in Tirol
 street: "Münchner Straße"
 housenumber: 143

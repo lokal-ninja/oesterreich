@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.332851000000005
 longitude: 9.643924700000001
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Hauptstraße"
 housenumber: 1a

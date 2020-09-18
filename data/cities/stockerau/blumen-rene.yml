@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.3984815
 longitude: 16.209601300000003
-postcode: 2000
+postcode: "2000"
 city: Stockerau
 street: "Johann-Strauß-Promenade"
 housenumber: 118

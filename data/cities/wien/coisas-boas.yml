@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.1910424
 longitude: 16.3613517
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Ziegelofengasse"
 housenumber: 18

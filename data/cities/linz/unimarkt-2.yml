@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.314673500000005
 longitude: 14.2735538
-postcode: 4040
+postcode: "4040"
 city: Linz
 street: "Nißlstraße"
 housenumber: 10

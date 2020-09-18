@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.310565000000004
 longitude: 14.234097400000001
-postcode: 4048
+postcode: "4048"
 city: Puchenau
 street: "Golfplatzstraße"
 housenumber: 1b

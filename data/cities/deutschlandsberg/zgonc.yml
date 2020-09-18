@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 46.8200912
 longitude: 15.231830400000002
-postcode: 8530
+postcode: "8530"
 city: Deutschlandsberg
 street: "Frauentaler Straße"
 housenumber: 98

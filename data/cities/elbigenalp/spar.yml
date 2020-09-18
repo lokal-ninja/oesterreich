@@ -1,12 +1,12 @@
 id: 5413111903
 type: node
-shop: Lebensmittel
-latitude: 47.2897253
-longitude: 10.4351714
-postcode: 6652
+shop: Supermarkt
+latitude: 47.289273
+longitude: 10.4345321
+postcode: "6652"
 city: Elbigenalp
 street: "Dorf"
-housenumber: 46
+housenumber: 46a
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-18:00"
 website: "http://www.sparmarkt-winkler.at/"

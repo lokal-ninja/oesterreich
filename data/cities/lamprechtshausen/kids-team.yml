@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.986978400000005
 longitude: 12.9520531
-postcode: 5112
+postcode: "5112"
 city: Lamprechtshausen
 street: "Möslstraße"
 housenumber: 13

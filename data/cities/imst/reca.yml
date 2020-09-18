@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 47.235386600000005
 longitude: 10.7513454
-postcode: 6460
+postcode: "6460"
 city: Imst
 street: "Fabrikstraße"
 housenumber: 9

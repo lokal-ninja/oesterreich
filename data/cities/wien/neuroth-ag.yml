@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.201664900000004
 longitude: 16.391408300000002
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Rochusgasse"
 housenumber: 1

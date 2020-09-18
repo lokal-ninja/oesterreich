@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.245523500000004
 longitude: 16.4534299
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Hirschstettner Straße"
 housenumber: 19-21

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.3551865
 longitude: 14.418012800000001
-postcode: 4210
+postcode: "4210"
 city: Gallneukirchen
 street: "Hauptstraße"
 housenumber: 47

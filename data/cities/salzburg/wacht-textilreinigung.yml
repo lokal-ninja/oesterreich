@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.8235521
 longitude: 13.046060500000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Kirchenstraße"
 housenumber: 14

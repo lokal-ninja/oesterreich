@@ -1,12 +1,12 @@
-id: 1797284940
+id: 1544073308
 type: node
 shop: Kleidung
-latitude: 48.209498700000005
-longitude: 16.3490152
-postcode: 
+latitude: 48.2181713
+longitude: 16.3299767
+postcode: "1170"
 city: Wien
-street: "Josefstädter Straße"
-housenumber: 
+street: "Hernalser Hauptstraße"
+housenumber: 73
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.palmers.at"
+opening_hours: "Mo-Sa 09:00-13:00; Mo-Fr 13:30-18:00; Su, PH off"
+website: ""

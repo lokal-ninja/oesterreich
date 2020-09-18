@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0398627
 longitude: 14.419464900000001
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Stadtplatz"
 housenumber: 14

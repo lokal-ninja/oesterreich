@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 47.063252000000006
 longitude: 15.0817946
-postcode: 8580
+postcode: "8580"
 city: Köflach
 street: "Quergasse"
 housenumber: 3

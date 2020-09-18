@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 47.251711
 longitude: 11.447265000000002
-postcode: 6071
+postcode: "6071"
 city: Aldrans
 street: "Dorf"
 housenumber: 5a

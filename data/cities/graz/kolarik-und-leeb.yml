@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.030164000000006
 longitude: 15.4029132
-postcode: 8054
+postcode: "8054"
 city: Graz
 street: "Weblinger Straße"
 housenumber: 37

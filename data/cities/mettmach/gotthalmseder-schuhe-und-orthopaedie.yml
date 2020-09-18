@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.172634800000004
 longitude: 13.3441778
-postcode: 4931
+postcode: "4931"
 city: Mettmach
 street: "Marktplatz"
 housenumber: 6

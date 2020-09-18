@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.4699643
 longitude: 11.985498000000002
-postcode: 6250
+postcode: "6250"
 city: Kundl
 street: "Dorfstraße"
 housenumber: 19

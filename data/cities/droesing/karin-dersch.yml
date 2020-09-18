@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.538918
 longitude: 16.8920233
-postcode: 2265
+postcode: "2265"
 city: Drösing
 street: "Haidlstraße"
 housenumber: 14

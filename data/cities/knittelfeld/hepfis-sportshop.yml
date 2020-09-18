@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.214347700000005
 longitude: 14.829177300000001
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Hauptplatz"
 housenumber: 12

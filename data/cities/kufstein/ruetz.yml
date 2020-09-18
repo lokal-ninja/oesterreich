@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5847629
 longitude: 12.170887700000002
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Gewerbehof"
 housenumber: 1

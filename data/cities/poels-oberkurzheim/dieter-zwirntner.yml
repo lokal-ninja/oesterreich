@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.2200001
 longitude: 14.5813924
-postcode: 8761
+postcode: "8761"
 city: Pöls-Oberkurzheim
 street: "Fohnsdorfer Straße"
 housenumber: 8

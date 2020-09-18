@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.4885315
 longitude: 12.0694488
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "Salzburger Straße"
 housenumber: 32

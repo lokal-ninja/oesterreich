@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 47.2806762
 longitude: 11.506850700000001
-postcode: 6060
+postcode: "6060"
 city: Hall in Tirol
 street: "Unterer Stadtplatz"
 housenumber: 8

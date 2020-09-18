@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1796803
 longitude: 16.4241442
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Kopalgasse"
 housenumber: 74

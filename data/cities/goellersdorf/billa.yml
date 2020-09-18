@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.492282100000004
 longitude: 16.1098831
-postcode: 2013
+postcode: "2013"
 city: Göllersdorf
 street: "Lindengasse"
 housenumber: 28

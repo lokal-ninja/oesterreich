@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.490566900000005
 longitude: 9.708226400000001
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Rheinstraße"
 housenumber: 1

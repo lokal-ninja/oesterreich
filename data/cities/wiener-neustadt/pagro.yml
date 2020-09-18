@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 47.821482200000005
 longitude: 16.2191015
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Zehnergürtel"
 housenumber: 6

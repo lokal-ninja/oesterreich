@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1407396
 longitude: 10.5478743
-postcode: 6500
+postcode: "6500"
 city: Landeck
 street: "Flirstraße"
 housenumber: 25

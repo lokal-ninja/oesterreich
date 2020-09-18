@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5427479
 longitude: 14.8891816
-postcode: 8790
+postcode: "8790"
 city: Eisenerz
 street: "Hans-von-der-Sann-Straße"
 housenumber: 32

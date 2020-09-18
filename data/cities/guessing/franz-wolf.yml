@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.0640088
 longitude: 16.3279164
-postcode: 7540
+postcode: "7540"
 city: Güssing
 street: "Raiffeisenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.8028257
 longitude: 14.7717804
-postcode: 3343
+postcode: "3343"
 city: Hollenstein/Ybbs
 street: "Dorf"
 housenumber: 87

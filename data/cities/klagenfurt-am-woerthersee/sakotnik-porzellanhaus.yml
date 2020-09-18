@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 46.625407800000005
 longitude: 14.308727300000001
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Alter Platz"
 housenumber: 5

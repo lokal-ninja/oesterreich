@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.772639700000006
 longitude: 17.021326600000002
-postcode: 7163
+postcode: "7163"
 city: Andau
 street: "Ödenburgerstraße"
 housenumber: 51

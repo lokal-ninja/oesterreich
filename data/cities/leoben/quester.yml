@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.385775100000004
 longitude: 15.128838600000002
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Waltenbachstraße"
 housenumber: 5

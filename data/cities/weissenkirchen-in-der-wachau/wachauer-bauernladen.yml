@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.3957807
 longitude: 15.4711151
-postcode: 3610
+postcode: "3610"
 city: Weißenkirchen in der Wachau
 street: "Unter Bachgasse"
 housenumber: 58

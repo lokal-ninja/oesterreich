@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.256734900000005
 longitude: 10.884837800000001
-postcode: 6425
+postcode: "6425"
 city: Haiming
 street: "Kirchstraße"
 housenumber: 18

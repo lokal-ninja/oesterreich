@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.269379400000005
 longitude: 15.324299000000002
-postcode: 8130
+postcode: "8130"
 city: Frohnleiten
 street: "Brückenkopf"
 housenumber: 2

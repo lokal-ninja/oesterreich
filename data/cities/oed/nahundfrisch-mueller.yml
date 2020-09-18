@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.121695100000004
 longitude: 14.7429547
-postcode: 3312
+postcode: "3312"
 city: Oed
 street: ""
 housenumber: 29

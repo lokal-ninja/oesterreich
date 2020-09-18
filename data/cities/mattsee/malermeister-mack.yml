@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 47.995055400000005
 longitude: 13.1179714
-postcode: 5163
+postcode: "5163"
 city: Mattsee
 street: ""
 housenumber: 15

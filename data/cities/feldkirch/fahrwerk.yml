@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.257100300000005
 longitude: 9.587681
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Nofler Straße"
 housenumber: 27

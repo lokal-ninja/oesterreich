@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 47.068651800000005
 longitude: 15.4190503
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Prankergasse"
 housenumber: 75

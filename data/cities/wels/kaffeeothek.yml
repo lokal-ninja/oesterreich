@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.1570431
 longitude: 14.025048300000002
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Stadtplatz"
 housenumber: 42

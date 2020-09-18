@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2227371
 longitude: 16.3133851
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Julius-Meinl-Gasse"
 housenumber: 9

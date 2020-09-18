@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.2026655
 longitude: 16.343392100000003
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Schottenfeldgasse"
 housenumber: 52

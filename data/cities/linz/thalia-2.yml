@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 48.300665
 longitude: 14.291205000000001
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Landstraße"
 housenumber: 41

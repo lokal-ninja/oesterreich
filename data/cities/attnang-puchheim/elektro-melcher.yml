@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.0113117
 longitude: 13.720767100000002
-postcode: 4800
+postcode: "4800"
 city: Attnang-Puchheim
 street: "Straße des 21. April"
 housenumber: 4

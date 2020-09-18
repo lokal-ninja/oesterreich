@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3278875
 longitude: 14.328862200000001
-postcode: 4040
+postcode: "4040"
 city: Linz
 street: "Freistädter Straße"
 housenumber: 403a

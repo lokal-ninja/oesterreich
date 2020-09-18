@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 47.2811759
 longitude: 11.505550300000001
-postcode: 6060
+postcode: "6060"
 city: Hall in Tirol
 street: "Salvatorgasse"
 housenumber: 16

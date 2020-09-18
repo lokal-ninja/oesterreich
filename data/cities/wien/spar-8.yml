@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2166845
 longitude: 16.307118600000003
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Sandleitengasse"
 housenumber: 15-17

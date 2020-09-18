@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.259376800000005
 longitude: 10.343099800000001
-postcode: 6654
+postcode: "6654"
 city: Holzgau
 street: "Holzgau"
 housenumber: 50

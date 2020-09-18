@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.2008712
 longitude: 16.3589606
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Mariahilfer Straße"
 housenumber: 19-21

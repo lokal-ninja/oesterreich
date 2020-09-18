@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2227722
 longitude: 16.3415821
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Martinstraße"
 housenumber: 53

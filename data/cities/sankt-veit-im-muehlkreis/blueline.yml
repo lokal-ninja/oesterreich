@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 48.4716668
 longitude: 14.1592269
-postcode: 4173
+postcode: "4173"
 city: Sankt Veit im Mühlkreis
 street: "Ringstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.9244696
 longitude: 12.969509
-postcode: 5151
+postcode: "5151"
 city: Nußdorf am Haunsberg
 street: "Gewerbestraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.692008
 longitude: 14.616691500000002
-postcode: 8933
+postcode: "8933"
 city: Sankt Gallen
 street: ""
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.820179800000005
 longitude: 13.0561331
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Meierhofweg"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.9466381
 longitude: 14.851074800000001
-postcode: 3341
+postcode: "3341"
 city: Ybbsitz
 street: "Knieberg"
 housenumber: 6

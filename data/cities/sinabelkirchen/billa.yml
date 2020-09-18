@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.100658200000005
 longitude: 15.825033200000002
-postcode: 8261
+postcode: "8261"
 city: Sinabelkirchen
 street: ""
 housenumber: 300

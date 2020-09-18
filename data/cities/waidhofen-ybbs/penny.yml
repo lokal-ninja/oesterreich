@@ -3,8 +3,8 @@ type: way
 shop: Supermarkt
 latitude: 47.957749
 longitude: 14.775286500000002
-postcode: 3340
-city: Waidhofen/ybbs
+postcode: "3340"
+city: Waidhofen/Ybbs
 street: "Pocksteiner Straße"
 housenumber: 12
 phone: ""

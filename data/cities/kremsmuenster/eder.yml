@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0590397
 longitude: 14.1104155
-postcode: 4550
+postcode: "4550"
 city: Kremsmünster
 street: "Pochendorf"
 housenumber: 64

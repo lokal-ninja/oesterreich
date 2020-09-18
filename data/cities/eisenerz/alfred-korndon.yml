@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 47.541931500000004
 longitude: 14.8904577
-postcode: 8790
+postcode: "8790"
 city: Eisenerz
 street: "Austraße"
 housenumber: 2

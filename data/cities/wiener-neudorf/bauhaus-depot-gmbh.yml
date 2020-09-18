@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.076575500000004
 longitude: 16.330813600000003
-postcode: 2351
+postcode: "2351"
 city: Wiener Neudorf
 street: "IZ-NÖ-Süd Straße 6"
 housenumber: 6

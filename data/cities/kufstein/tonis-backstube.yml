@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5809231
 longitude: 12.170186300000001
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Kinkstraße"
 housenumber: 22

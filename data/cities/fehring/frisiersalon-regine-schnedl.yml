@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.936118900000004
 longitude: 16.0117288
-postcode: 8350
+postcode: "8350"
 city: Fehring
 street: "Ungarnstraße"
 housenumber: 2

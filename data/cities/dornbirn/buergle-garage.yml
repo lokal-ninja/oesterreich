@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.4105566
 longitude: 9.721854800000001
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Lustenauerstraße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.203986900000004
 longitude: 16.3760833
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Hegelgasse"
 housenumber: 5

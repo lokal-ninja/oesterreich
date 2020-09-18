@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.1919265
 longitude: 15.9012475
-postcode: 3040
+postcode: "3040"
 city: Neulengbach
 street: "Sankt Pöltner Straße"
 housenumber: 189

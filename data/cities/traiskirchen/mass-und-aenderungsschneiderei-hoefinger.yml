@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.013965400000004
 longitude: 16.294828000000003
-postcode: 2514
+postcode: "2514"
 city: Traiskirchen
 street: "Hauptplatz"
 housenumber: 1

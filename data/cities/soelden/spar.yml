@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.8693819
 longitude: 11.0261279
-postcode: 6456
+postcode: "6456"
 city: Sölden
 street: "Ramolweg"
 housenumber: 11

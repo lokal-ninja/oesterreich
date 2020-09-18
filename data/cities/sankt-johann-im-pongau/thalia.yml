@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.3464383
 longitude: 13.2013338
-postcode: 5600
+postcode: "5600"
 city: Sankt Johann im Pongau
 street: "Hans-Kappacher-Straße"
 housenumber: 1-2

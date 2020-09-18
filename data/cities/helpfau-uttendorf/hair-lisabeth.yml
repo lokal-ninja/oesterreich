@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.155812100000006
 longitude: 13.118201500000001
-postcode: 5261
+postcode: "5261"
 city: Helpfau-Uttendorf
 street: "Uttendorf"
 housenumber: 102

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.054172900000005
 longitude: 15.843829500000002
-postcode: 8311
+postcode: "8311"
 city: Markt Hartmannsdorf
 street: "Hauptstraße"
 housenumber: 39

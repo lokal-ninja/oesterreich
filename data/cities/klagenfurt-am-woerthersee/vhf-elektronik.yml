@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 46.622343
 longitude: 14.327080700000002
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Ebentaler Straße"
 housenumber: 37

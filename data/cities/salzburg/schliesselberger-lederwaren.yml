@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.802213900000005
 longitude: 13.0448345
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Lederergasse"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.037817200000006
 longitude: 10.605800100000002
-postcode: 6534
+postcode: "6534"
 city: Serfaus
 street: "Untere Dorfstraße"
 housenumber: 27

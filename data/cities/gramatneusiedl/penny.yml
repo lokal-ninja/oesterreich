@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0274349
 longitude: 16.485746300000002
-postcode: 2440
+postcode: "2440"
 city: Gramatneusiedl
 street: "Oberortsstraße"
 housenumber: 27

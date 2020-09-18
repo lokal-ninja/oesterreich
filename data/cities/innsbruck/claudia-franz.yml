@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.2690508
 longitude: 11.3995847
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Universitätsstraße"
 housenumber: 14

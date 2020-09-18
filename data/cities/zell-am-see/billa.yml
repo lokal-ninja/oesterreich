@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.323127400000004
 longitude: 12.7981209
-postcode: 5700
+postcode: "5700"
 city: Zell am See
 street: "Stadtplatz"
 housenumber: 2

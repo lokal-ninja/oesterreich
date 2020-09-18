@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1990022
 longitude: 16.3566693
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Stiegengasse"
 housenumber: 20

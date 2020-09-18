@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.1852882
 longitude: 16.299171100000002
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Altgasse"
 housenumber: 13

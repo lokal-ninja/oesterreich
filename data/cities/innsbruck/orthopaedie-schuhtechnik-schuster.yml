@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.261478600000004
 longitude: 11.3936904
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Müllerstraße"
 housenumber: 7

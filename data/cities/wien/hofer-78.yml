@@ -1,12 +1,12 @@
-id: 158546181
+id: 153603273
 type: way
 shop: Supermarkt
-latitude: 48.268151200000005
-longitude: 16.4280657
-postcode: 1210
+latitude: 48.203017100000004
+longitude: 16.2429783
+postcode: "1140"
 city: Wien
-street: "Siemensstraße"
-housenumber: 105
+street: "Linzer Straße"
+housenumber: 455
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+website: "https://www.hofer.at"

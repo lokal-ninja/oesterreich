@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1719372
 longitude: 16.3268497
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 21

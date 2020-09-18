@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.266434100000005
 longitude: 11.4037415
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Museumstraße"
 housenumber: 38

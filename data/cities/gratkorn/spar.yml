@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1343382
 longitude: 15.3434231
-postcode: 8101
+postcode: "8101"
 city: Gratkorn
 street: "Dr.-Karl-Renner-Straße"
 housenumber: 8

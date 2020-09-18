@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.6142704
 longitude: 13.8425858
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Ringmauergasse"
 housenumber: 9

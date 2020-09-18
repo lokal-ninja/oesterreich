@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.197744900000004
 longitude: 16.3954259
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Landstraßer Hauptstraße"
 housenumber: 105

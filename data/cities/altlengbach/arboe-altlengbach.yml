@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.152000900000004
 longitude: 15.907802900000002
-postcode: 3033
+postcode: "3033"
 city: Altlengbach
 street: "Außerfurth"
 housenumber: 45

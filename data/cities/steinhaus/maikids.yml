@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.1178472
 longitude: 14.0205476
-postcode: 4641
+postcode: "4641"
 city: Steinhaus
 street: "Bahnstraße"
 housenumber: 11

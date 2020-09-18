@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.2000442
 longitude: 16.3613335
-postcode: 1060
+postcode: "1060"
 city: Wien
 street: "Gumpendorfer Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.011921900000004
 longitude: 13.7220597
-postcode: 4800
+postcode: "4800"
 city: Attnang-Puchheim
 street: "Doktor Karl Renner-Platz"
 housenumber: 3

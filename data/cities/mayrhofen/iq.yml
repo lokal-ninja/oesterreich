@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.1703636
 longitude: 11.8660074
-postcode: 6290
+postcode: "6290"
 city: Mayrhofen
 street: "Am Marktplatz"
 housenumber: 213a

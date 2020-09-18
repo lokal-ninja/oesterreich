@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.9395965
 longitude: 16.1519218
-postcode: 8380
+postcode: "8380"
 city: Jennersdorf
 street: "Technologiepark"
 housenumber: 58

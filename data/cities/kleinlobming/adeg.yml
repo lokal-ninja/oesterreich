@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.150475400000005
 longitude: 14.8472489
-postcode: 8734
+postcode: "8734"
 city: Kleinlobming
 street: "Dorfstraße"
 housenumber: 28

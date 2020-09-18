@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.0677479
 longitude: 15.438838200000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Kaiserfeldgasse"
 housenumber: 20

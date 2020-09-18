@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.124381
 longitude: 14.1336478
-postcode: 4622
+postcode: "4622"
 city: Eggendorf im Traunkreis
 street: "Matzelsdorf"
 housenumber: 5

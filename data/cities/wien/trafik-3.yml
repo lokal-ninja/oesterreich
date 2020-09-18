@@ -1,12 +1,12 @@
-id: 956080365
+id: 2432244594
 type: node
 shop: Kiosk
-latitude: 48.2021251
-longitude: 16.383216
-postcode: 1030
+latitude: 48.2272715
+longitude: 16.364792400000002
+postcode: "1090"
 city: Wien
-street: "Beatrixgasse"
-housenumber: 21
-phone: ""
-opening_hours: ""
+street: "U-Bahn Station Friedensbrücke"
+housenumber: 
+phone: "+43 1 3105133"
+opening_hours: "Mo-Fr 05:30-19:00; Sa 07:00-13:00; Su,PH off"
 website: ""

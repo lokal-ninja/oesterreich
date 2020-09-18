@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 46.9382838
 longitude: 15.7626322
-postcode: 8341
+postcode: "8341"
 city: Paldau
 street: ""
 housenumber: 83

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.869266700000004
 longitude: 15.1256429
-postcode: 3860
+postcode: "3860"
 city: Heidenreichstein
 street: "Missongasse"
 housenumber: 2

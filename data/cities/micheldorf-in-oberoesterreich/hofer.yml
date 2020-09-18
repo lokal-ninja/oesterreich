@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8901934
 longitude: 14.1275057
-postcode: 4563
+postcode: "4563"
 city: Micheldorf in Oberösterreich
 street: "Kollingerfeld"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.1038599
 longitude: 15.421693300000001
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Andritzer Reichsstraße"
 housenumber: 42

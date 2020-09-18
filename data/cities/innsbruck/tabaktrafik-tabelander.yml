@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.265959200000005
 longitude: 11.3954274
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Sparkassenplatz"
 housenumber: 2

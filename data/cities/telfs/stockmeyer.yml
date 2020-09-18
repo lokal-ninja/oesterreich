@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 47.308189500000005
 longitude: 11.0762762
-postcode: 6410
+postcode: "6410"
 city: Telfs
 street: "Unterangerweg"
 housenumber: 1

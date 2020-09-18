@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 47.4858452
 longitude: 9.700947900000001
-postcode: 6971
+postcode: "6971"
 city: Hard
 street: "Rebengasse"
 housenumber: 12

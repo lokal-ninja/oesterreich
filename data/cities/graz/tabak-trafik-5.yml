@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.0805172
 longitude: 15.450841
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Heinrichstraße"
 housenumber: 51

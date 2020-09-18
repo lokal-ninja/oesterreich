@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.30309260000001
 longitude: 16.3268065
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Leopoldstraße"
 housenumber: 22

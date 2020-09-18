@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.0155297
 longitude: 15.441541800000001
-postcode: 8073
+postcode: "8073"
 city: Feldkirchen bei Graz
 street: "Triester Straße"
 housenumber: 1

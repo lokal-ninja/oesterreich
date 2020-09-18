@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.262976200000004
 longitude: 16.4388078
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Leopoldauer Platz"
 housenumber: 83

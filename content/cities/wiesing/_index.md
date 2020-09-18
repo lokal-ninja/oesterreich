@@ -1,6 +1,6 @@
 ---
 title: Wiesing
 url: /wiesing/
-latitude: 47.427875
-longitude: 11.8930886
+latitude: 48.158009400000005
+longitude: 13.6238247
 ---

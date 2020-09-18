@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.275102000000004
 longitude: 11.398028
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Karl-Schönherr-Straße"
 housenumber: 7-9

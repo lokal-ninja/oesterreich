@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.0415756
 longitude: 10.970755200000001
-postcode: 6444
+postcode: "6444"
 city: Längenfeld
 street: "Huben"
 housenumber: 113

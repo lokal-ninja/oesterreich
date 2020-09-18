@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.2285933
 longitude: 16.455030100000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Genochplatz"
 housenumber: 9

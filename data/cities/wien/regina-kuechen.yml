@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.2017101
 longitude: 16.3474943
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Westbahnstraße"
 housenumber: 5

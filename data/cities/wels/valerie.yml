@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1580573
 longitude: 14.025088700000001
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Schmidtgasse"
 housenumber: 26

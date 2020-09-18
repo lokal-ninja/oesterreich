@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 48.2854085
 longitude: 16.379895100000002
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Scheydgasse"
 housenumber: 21-25

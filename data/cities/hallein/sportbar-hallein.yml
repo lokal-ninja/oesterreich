@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.681147300000006
 longitude: 13.0932568
-postcode: 5400
+postcode: "5400"
 city: Hallein
 street: "Oberhofgasse"
 housenumber: 4

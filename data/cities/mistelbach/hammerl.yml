@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.568322
 longitude: 16.5716425
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Marktgasse"
 housenumber: 1-3

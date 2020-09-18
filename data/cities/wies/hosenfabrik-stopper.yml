@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 46.7190857
 longitude: 15.2601443
-postcode: 8551
+postcode: "8551"
 city: Wies
 street: "Am Bahnhof"
 housenumber: 10

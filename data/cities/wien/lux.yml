@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.203462
 longitude: 16.3556226
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Gutenberggasse"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 47.2343532
 longitude: 11.891583
-postcode: 6280
+postcode: "6280"
 city: Zell am Ziller
 street: "Aufeld"
 housenumber: 1a

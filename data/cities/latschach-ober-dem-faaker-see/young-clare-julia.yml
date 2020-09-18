@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.5584019
 longitude: 13.924543700000001
-postcode: 9582
+postcode: "9582"
 city: Latschach ober dem Faaker See
 street: "Rosentalstraße"
 housenumber: 22/102

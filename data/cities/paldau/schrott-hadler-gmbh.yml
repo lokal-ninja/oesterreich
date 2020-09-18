@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 46.938636
 longitude: 15.7795634
-postcode: 8341
+postcode: "8341"
 city: Paldau
 street: ""
 housenumber: 57

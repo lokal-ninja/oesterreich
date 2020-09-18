@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 48.4969758
 longitude: 14.9567712
-postcode: 3925
+postcode: "3925"
 city: Arbesbach
 street: ""
 housenumber: 188

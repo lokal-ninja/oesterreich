@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.8273798
 longitude: 12.8085061
-postcode: 9990
+postcode: "9990"
 city: Nußdorf-Debant
 street: "Draustraße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.135272900000004
 longitude: 16.324161
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Triester Straße"
 housenumber: 258

@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 48.201559200000005
 longitude: 16.340431000000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kaiserstraße"
 housenumber: 47

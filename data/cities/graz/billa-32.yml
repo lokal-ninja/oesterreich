@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.103138300000005
 longitude: 15.420447500000002
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Grazer Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 46.9505685
 longitude: 15.8928416
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Gleichenberger Straße"
 housenumber: 16-20

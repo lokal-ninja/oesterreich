@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.284322100000004
 longitude: 15.987337300000002
-postcode: 8230
+postcode: "8230"
 city: Hartberg
 street: "Weidenstraße"
 housenumber: 11

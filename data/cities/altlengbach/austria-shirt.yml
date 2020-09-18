@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.1559323
 longitude: 15.9034329
-postcode: 3033
+postcode: "3033"
 city: Altlengbach
 street: "Reitermühlstraße"
 housenumber: 38

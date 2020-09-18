@@ -1,12 +1,12 @@
 id: 109990363
 type: way
 shop: Supermarkt
-latitude: 46.8209243
-longitude: 15.2312115
-postcode: 8530
+latitude: 46.8209263
+longitude: 15.2311803
+postcode: "8530"
 city: Deutschlandsberg
 street: "Frauentaler Straße"
 housenumber: 91
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su,PH off"
 website: ""

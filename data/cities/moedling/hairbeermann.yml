@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0844431
 longitude: 16.282877900000003
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Kaiserin Elisabethstraße"
 housenumber: 14

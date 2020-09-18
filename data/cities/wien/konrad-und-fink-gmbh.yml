@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.2152374
 longitude: 16.3703198
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Gonzagagasse"
 housenumber: 13

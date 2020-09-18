@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2338068
 longitude: 16.353062100000002
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Döblinger Hauptstraße"
 housenumber: 16

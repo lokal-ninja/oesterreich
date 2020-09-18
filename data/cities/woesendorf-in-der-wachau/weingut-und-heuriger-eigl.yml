@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.380463000000006
 longitude: 15.452289700000001
-postcode: 3610
+postcode: "3610"
 city: Wösendorf in der Wachau
 street: "Winklgasse"
 housenumber: 42

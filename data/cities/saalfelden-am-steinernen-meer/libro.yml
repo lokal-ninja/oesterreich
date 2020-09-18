@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.4250771
 longitude: 12.848644
-postcode: 5760
+postcode: "5760"
 city: Saalfelden am Steinernen Meer
 street: "Almerstraße"
 housenumber: 13

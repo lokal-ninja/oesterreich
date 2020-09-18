@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.3850561
 longitude: 16.5151714
-postcode: 2120
+postcode: "2120"
 city: Wolkersdorf im Weinviertel
 street: "Julius Bittner-Platz"
 housenumber: 4

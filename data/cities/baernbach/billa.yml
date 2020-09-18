@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.070611400000004
 longitude: 15.128019100000001
-postcode: 8572
+postcode: "8572"
 city: Bärnbach
 street: "Hauptplatz"
 housenumber: 2

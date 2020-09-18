@@ -3,10 +3,10 @@ type: node
 shop: Baumarkt
 latitude: 47.034383000000005
 longitude: 15.444264
-postcode: 8055
+postcode: "8055"
 city: Graz
 street: "Puntigamer Straße"
 housenumber: 124
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"
-website: ""
+website: "https://www.quester.at/"

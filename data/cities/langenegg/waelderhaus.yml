@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.473005
 longitude: 9.9019169
-postcode: 6941
+postcode: "6941"
 city: Langenegg
 street: "Gfäll"
 housenumber: 134

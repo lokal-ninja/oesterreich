@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4806188
 longitude: 13.5555456
-postcode: 4792
+postcode: "4792"
 city: Münzkirchen
 street: "An der Kreuzstraße"
 housenumber: 2

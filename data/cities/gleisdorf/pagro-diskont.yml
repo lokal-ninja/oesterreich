@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.102507
 longitude: 15.7094567
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Schillerstraße"
 housenumber: 17

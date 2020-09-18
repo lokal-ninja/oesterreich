@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.0815355
 longitude: 9.9019306
-postcode: 6780
+postcode: "6780"
 city: Schruns
 street: "Gantschierstraße"
 housenumber: 15

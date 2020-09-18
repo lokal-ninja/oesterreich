@@ -1,12 +1,12 @@
-id: 4929487910
+id: 4611507161
 type: node
 shop: Supermarkt
-latitude: 48.150712000000006
-longitude: 16.2677281
-postcode: 1230
+latitude: 48.2439218
+longitude: 16.378828900000002
+postcode: "1200"
 city: Wien
-street: "Maurer Hauptplatz"
-housenumber: 7
-phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: ""
+street: "Friedrich-Engels-Platz"
+housenumber: 22
+phone: "+43 1 3301112"
+opening_hours: "Mo-Fr 07:15–19:30; Sa 07:15–18:00"
+website: "https://www.spar.at/standorte/spar-wien-brigittenau-1200-friedrich-engels-platz-22"

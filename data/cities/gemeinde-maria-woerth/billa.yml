@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.604724700000006
 longitude: 14.177134400000002
-postcode: 9081
+postcode: "9081"
 city: Gemeinde Maria Wörth
 street: "Koschatstraße"
 housenumber: 1

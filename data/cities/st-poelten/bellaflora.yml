@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.1672141
 longitude: 15.614232200000002
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Mariazeller Straße"
 housenumber: 232

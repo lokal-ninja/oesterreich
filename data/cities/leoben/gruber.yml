@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.361829500000006
 longitude: 15.0977838
-postcode: 8700
+postcode: "8700"
 city: Leoben
 street: "Steigtalstraße"
 housenumber: 11

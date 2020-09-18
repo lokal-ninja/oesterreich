@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.617592200000004
 longitude: 13.8492277
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Bahnhofplatz"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.034191
 longitude: 14.2098559
-postcode: 4540
+postcode: "4540"
 city: Bad Hall
 street: "Hauptplatz"
 housenumber: 20

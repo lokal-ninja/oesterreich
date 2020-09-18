@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3537918
 longitude: 9.648979200000001
-postcode: 6844
+postcode: "6844"
 city: Altach
 street: "Schweizerstraße"
 housenumber: 14a

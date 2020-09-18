@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 48.109593000000004
 longitude: 14.8385835
-postcode: 3300
+postcode: "3300"
 city: Greinsfurth
 street: "Waidhofner Straße"
 housenumber: 42a

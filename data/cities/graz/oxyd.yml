@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.0710375
 longitude: 15.4413259
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Glockenspielplatz"
 housenumber: 5

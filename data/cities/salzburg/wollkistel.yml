@@ -3,7 +3,7 @@ type: node
 shop: Wolle
 latitude: 47.805224900000006
 longitude: 13.043923000000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Schrannengasse"
 housenumber: 2

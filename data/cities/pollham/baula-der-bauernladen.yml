@@ -3,10 +3,10 @@ type: way
 shop: Hofladen
 latitude: 48.259872300000005
 longitude: 13.8506683
-postcode: 4710
+postcode: "4710"
 city: Pollham
 street: ""
 housenumber: 22
 phone: ""
-opening_hours: "Freitag 15:00-17:00"
+opening_hours: "Fr 15:00-17:00"
 website: ""

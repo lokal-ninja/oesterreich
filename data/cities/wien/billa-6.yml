@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.22622560000001
 longitude: 16.3607374
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Julius-Tandler-Platz"
 housenumber: 3

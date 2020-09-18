@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.9606191
 longitude: 14.7733927
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Unterer Stadtplatz"
 housenumber: 38

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.8245584
 longitude: 16.2132794
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Fischauer Gasse"
 housenumber: 160

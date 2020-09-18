@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 46.9550306
 longitude: 15.5886334
-postcode: 8081
+postcode: "8081"
 city: Heiligenkreuz am Waasen
 street: "Pirchingstraße"
 housenumber: 6

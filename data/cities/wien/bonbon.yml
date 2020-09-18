@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.2206733
 longitude: 16.360429800000002
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Bauernfeldplatz"
 housenumber: 4

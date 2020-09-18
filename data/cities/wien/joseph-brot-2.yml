@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2102115
 longitude: 16.367538500000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Naglergasse"
 housenumber: 9

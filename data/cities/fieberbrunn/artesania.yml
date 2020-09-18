@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 47.4914653
 longitude: 12.522037000000001
-postcode: 6391
+postcode: "6391"
 city: Fieberbrunn
 street: "Gruberau"
 housenumber: 49

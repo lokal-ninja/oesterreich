@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 47.183533000000004
 longitude: 14.5978253
-postcode: 8755
+postcode: "8755"
 city: Sankt Peter ob Judenburg
 street: "Furth"
 housenumber: 25

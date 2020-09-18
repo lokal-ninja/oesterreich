@@ -3,7 +3,7 @@ type: way
 shop: Pool
 latitude: 48.3676672
 longitude: 16.6438832
-postcode: 2214
+postcode: "2214"
 city: Auersthal
 street: "Bahnstraße"
 housenumber: 28

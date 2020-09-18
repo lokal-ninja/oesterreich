@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 47.5129079
 longitude: 13.4314879
-postcode: 5524
+postcode: "5524"
 city: Annaberg
 street: "Annaberg"
 housenumber: 96

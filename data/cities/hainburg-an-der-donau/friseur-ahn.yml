@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.147933
 longitude: 16.941493700000002
-postcode: 2410
+postcode: "2410"
 city: Hainburg an der Donau
 street: "Hauptplatz"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3954086
 longitude: 13.7486089
-postcode: 4723
+postcode: "4723"
 city: Natternbach
 street: "Pfenebergerstraße"
 housenumber: 2

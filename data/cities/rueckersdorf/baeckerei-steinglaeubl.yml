@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3930511
 longitude: 16.368857900000002
-postcode: 2111
+postcode: "2111"
 city: Rückersdorf
 street: "Ringgasse"
 housenumber: 24a

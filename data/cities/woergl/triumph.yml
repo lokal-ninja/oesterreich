@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.487889200000005
 longitude: 12.0638549
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "Bahnhofstraße"
 housenumber: 22

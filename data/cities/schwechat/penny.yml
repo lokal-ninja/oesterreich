@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.137673500000005
 longitude: 16.4756511
-postcode: 2320
+postcode: "2320"
 city: Schwechat
 street: "Himberger Straße"
 housenumber: 11

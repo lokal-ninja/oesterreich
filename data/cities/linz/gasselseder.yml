@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2518918
 longitude: 14.3582029
-postcode: 4030
+postcode: "4030"
 city: Linz
 street: "Oidener Straße"
 housenumber: 7

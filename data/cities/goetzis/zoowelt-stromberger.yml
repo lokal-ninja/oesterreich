@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 47.345794000000005
 longitude: 9.656077400000001
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Sonderberg"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 47.069805300000006
 longitude: 15.4363641
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Neutorgasse"
 housenumber: 33

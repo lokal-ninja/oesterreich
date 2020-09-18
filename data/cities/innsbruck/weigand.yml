@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.266078300000004
 longitude: 11.3942378
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maria-Theresien-Straße"
 housenumber: 17-19

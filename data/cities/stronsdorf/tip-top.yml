@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.652069000000004
 longitude: 16.2987658
-postcode: 2153
+postcode: "2153"
 city: Stronsdorf
 street: ""
 housenumber: 108

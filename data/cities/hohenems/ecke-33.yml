@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.3660986
 longitude: 9.689007100000001
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Marktstraße"
 housenumber: 33

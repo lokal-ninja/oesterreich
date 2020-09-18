@@ -1,4 +1,4 @@
 ---
-title: "Adeg"
+title: "ADEG"
 url: /rust/adeg/
 ---

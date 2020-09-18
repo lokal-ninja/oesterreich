@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.21551830000001
 longitude: 14.831714600000002
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Marktgasse"
 housenumber: 18

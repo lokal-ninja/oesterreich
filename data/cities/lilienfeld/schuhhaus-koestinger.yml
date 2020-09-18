@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.0138766
 longitude: 15.592203800000002
-postcode: 3180
+postcode: "3180"
 city: Lilienfeld
 street: "Mariazellerstraße"
 housenumber: 5

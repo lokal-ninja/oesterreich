@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 47.1099236
 longitude: 13.1331903
-postcode: 5640
+postcode: "5640"
 city: Bad Gastein
 street: "Böcksteiner Bundesstraße"
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Sa 07:15-19:30; Su 07:15-18:00"
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
 website: ""

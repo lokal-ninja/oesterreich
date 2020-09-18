@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2127689
 longitude: 16.2902503
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Johann-Staud-Straße"
 housenumber: 14

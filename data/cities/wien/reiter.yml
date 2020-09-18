@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.1966551
 longitude: 16.3419448
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Mariahilfer Straße"
 housenumber: 120

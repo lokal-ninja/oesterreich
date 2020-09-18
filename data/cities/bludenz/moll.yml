@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.1554913
 longitude: 9.8199197
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Mühlgasse"
 housenumber: 5

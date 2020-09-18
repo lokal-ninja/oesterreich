@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0425971
 longitude: 14.4066375
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Wehrgrabengasse"
 housenumber: 18

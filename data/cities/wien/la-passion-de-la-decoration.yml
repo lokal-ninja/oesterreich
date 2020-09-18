@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.2121225
 longitude: 16.3696983
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Wipplingerstraße"
 housenumber: 13

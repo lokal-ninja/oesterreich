@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.2069496
 longitude: 16.3890987
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Marxergasse"
 housenumber: 9

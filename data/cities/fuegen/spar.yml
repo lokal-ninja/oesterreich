@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.348703300000004
 longitude: 11.8518573
-postcode: 6263
+postcode: "6263"
 city: Fügen
 street: "Zillerweg"
 housenumber: 6

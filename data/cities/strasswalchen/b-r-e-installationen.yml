@@ -3,7 +3,7 @@ type: node
 shop: Klempner
 latitude: 47.977054700000004
 longitude: 13.2535667
-postcode: 5204
+postcode: "5204"
 city: Straßwalchen
 street: "Mondseerstraße"
 housenumber: 1

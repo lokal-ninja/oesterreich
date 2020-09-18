@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 48.8477022
 longitude: 15.4928378
-postcode: 3820
+postcode: "3820"
 city: Raabs an der Thaya
 street: "Hauptplatz"
 housenumber: 

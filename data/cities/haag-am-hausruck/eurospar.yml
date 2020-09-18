@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1815748
 longitude: 13.646954500000001
-postcode: 4680
+postcode: "4680"
 city: Haag am Hausruck
 street: "Lambacherstraße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.211985500000004
 longitude: 16.3560699
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Landesgerichtsstraße"
 housenumber: 10

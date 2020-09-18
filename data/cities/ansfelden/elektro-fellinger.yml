@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.2040537
 longitude: 14.251352
-postcode: 4053
+postcode: "4053"
 city: Ansfelden
 street: "Hauptplatz"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.2834896
 longitude: 10.8109953
-postcode: 6464
+postcode: "6464"
 city: Tarrenz
 street: ""
 housenumber: 60

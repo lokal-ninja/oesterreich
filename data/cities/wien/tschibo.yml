@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.2001094
 longitude: 16.354685500000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Mariahilfer Straße"
 housenumber: 34

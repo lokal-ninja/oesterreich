@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.005885500000005
 longitude: 13.663548800000001
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Industriestraße"
 housenumber: 33

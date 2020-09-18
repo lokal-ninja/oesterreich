@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3415771
 longitude: 15.918756600000002
-postcode: 3435
+postcode: "3435"
 city: Erpersdorf
 street: "Tullner Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.035559000000006
 longitude: 15.300578400000001
-postcode: 8151
+postcode: "8151"
 city: Hitzendorf
 street: ""
 housenumber: 60

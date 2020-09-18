@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.012044
 longitude: 13.7225894
-postcode: 4800
+postcode: "4800"
 city: Attnang-Puchheim
 street: "Brucknerstraße"
 housenumber: 10

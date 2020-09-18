@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.261524800000004
 longitude: 11.3722145
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Fürstenweg"
 housenumber: 97

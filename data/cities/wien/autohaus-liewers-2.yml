@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.214845200000006
 longitude: 16.5129765
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Eßlinger Hauptstraße"
 housenumber: 13

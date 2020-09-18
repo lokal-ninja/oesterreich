@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.265848000000005
 longitude: 11.3948028
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Sparkassenplatz"
 housenumber: 2

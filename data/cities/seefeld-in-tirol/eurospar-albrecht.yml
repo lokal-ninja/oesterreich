@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.329504500000006
 longitude: 11.184324700000001
-postcode: 6100
+postcode: "6100"
 city: Seefeld in Tirol
 street: "Olympiastraße"
 housenumber: 882

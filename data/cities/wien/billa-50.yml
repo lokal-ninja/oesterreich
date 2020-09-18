@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1846369
 longitude: 16.3569515
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Stolberggasse"
 housenumber: 42

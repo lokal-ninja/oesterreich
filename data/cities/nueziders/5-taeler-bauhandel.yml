@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.1628916
 longitude: 9.796718100000001
-postcode: 6714
+postcode: "6714"
 city: Nüziders
 street: "Katils Werkstraße"
 housenumber: 2

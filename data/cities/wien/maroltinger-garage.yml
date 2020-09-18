@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.2103224
 longitude: 16.30593
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Maroltingergasse"
 housenumber: 66

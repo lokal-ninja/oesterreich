@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.574694900000004
 longitude: 14.0517359
-postcode: 4170
+postcode: "4170"
 city: Haslach an der Mühl
 street: "Sternwaldstraße"
 housenumber: 48

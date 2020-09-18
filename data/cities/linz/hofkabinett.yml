@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.305876100000006
 longitude: 14.284860100000001
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Hofgasse"
 housenumber: 12

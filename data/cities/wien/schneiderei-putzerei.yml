@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.1374493
 longitude: 16.27761
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 372/21

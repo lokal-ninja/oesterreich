@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1687299
 longitude: 16.378887600000002
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Troststraße"
 housenumber: 5-9

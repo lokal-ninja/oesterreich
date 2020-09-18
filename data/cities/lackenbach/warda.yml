@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.589221800000004
 longitude: 16.4651658
-postcode: 7322
+postcode: "7322"
 city: Lackenbach
 street: "Hauptplatz"
 housenumber: 5

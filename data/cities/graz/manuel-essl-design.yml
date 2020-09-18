@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.0659775
 longitude: 15.4473432
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Münzgrabenstraße"
 housenumber: 5

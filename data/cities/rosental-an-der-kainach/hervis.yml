@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.055069200000005
 longitude: 15.116286700000002
-postcode: 8582
+postcode: "8582"
 city: Rosental an der Kainach
 street: "Hauptstraße"
 housenumber: 68

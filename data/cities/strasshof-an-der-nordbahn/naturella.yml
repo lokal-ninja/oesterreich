@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.3220826
 longitude: 16.674858200000003
-postcode: 2231
+postcode: "2231"
 city: Strasshof an der Nordbahn
 street: "Hauptstraße"
 housenumber: 426

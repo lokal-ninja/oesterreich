@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 46.6513852
 longitude: 13.873562300000001
-postcode: 9521
+postcode: "9521"
 city: Treffen
 street: "Gewerbegebiet"
 housenumber: 

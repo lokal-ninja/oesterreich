@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.957244900000006
 longitude: 13.817351700000001
-postcode: 4664
+postcode: "4664"
 city: Laakirchen
 street: "August Mairhuber-Straße"
 housenumber: 1

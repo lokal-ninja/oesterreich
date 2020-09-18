@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.9045672
 longitude: 16.9197236
-postcode: 7122
+postcode: "7122"
 city: Gols
 street: "Am Berg"
 housenumber: 8

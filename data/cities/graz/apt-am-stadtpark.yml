@@ -3,7 +3,7 @@ type: way
 shop: Massage
 latitude: 47.0704183
 longitude: 15.4482364
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Rechbauerstraße"
 housenumber: 3

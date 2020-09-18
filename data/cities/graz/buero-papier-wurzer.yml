@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.064606500000004
 longitude: 15.439781400000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Wielandgasse"
 housenumber: 15

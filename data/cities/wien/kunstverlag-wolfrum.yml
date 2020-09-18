@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.205455
 longitude: 16.368163000000003
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Augustinerstraße"
 housenumber: 10

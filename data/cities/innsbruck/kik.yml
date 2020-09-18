@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.265176800000006
 longitude: 11.4307201
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Grabenweg"
 housenumber: 5

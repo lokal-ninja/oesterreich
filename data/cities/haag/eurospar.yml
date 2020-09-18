@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.108527800000005
 longitude: 14.5702104
-postcode: 3350
+postcode: "3350"
 city: Haag
 street: "Bahnhofstraße"
 housenumber: 9

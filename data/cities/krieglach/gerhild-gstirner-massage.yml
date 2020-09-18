@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.547142300000004
 longitude: 15.5562801
-postcode: 8670
+postcode: "8670"
 city: Krieglach
 street: "Alter Sommer"
 housenumber: 2

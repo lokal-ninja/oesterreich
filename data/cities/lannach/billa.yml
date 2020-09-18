@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.9460582
 longitude: 15.335471
-postcode: 8502
+postcode: "8502"
 city: Lannach
 street: "Hauptstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 46.686308600000004
 longitude: 15.6106332
-postcode: 8461
+postcode: "8461"
 city: Ehrenhausen an der Weinstraße
 street: ""
 housenumber: 2

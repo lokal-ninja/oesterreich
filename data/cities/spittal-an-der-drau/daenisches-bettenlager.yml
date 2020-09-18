@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 46.7893854
 longitude: 13.518857500000001
-postcode: 9800
+postcode: "9800"
 city: Spittal an der Drau
 street: "St.-Sigmund-Straße"
 housenumber: 3

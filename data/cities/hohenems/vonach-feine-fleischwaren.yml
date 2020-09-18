@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 47.3711343
 longitude: 9.680738
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Schweizer Straße"
 housenumber: 75

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.4166572
 longitude: 9.750335300000001
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Kehlerstraße"
 housenumber: 20

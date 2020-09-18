@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 47.945426000000005
 longitude: 16.846490900000003
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Gartenweg"
 housenumber: 26

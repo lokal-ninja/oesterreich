@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.281605500000005
 longitude: 11.5039634
-postcode: 6060
+postcode: "6060"
 city: Hall in Tirol
 street: "Stadtgraben"
 housenumber: 3

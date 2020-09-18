@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.318778300000005
 longitude: 13.625987100000001
-postcode: 4755
+postcode: "4755"
 city: Zell an der Pram
 street: "Andorfer Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3886416
 longitude: 16.1873076
-postcode: 2000
+postcode: "2000"
 city: Stockerau
 street: "Ing.-Josef-Heckl-Straße"
 housenumber: 1

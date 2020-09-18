@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2595941
 longitude: 16.3650549
-postcode: 1190
+postcode: "1190"
 city: Wien
 street: "Greinergasse"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.085062
 longitude: 13.873848200000001
-postcode: 4651
+postcode: "4651"
 city: Stadl-Paura
 street: "Gmundner Straße"
 housenumber: 23

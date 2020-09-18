@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.2583568
 longitude: 11.3920498
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Franz-Fischer-Straße"
 housenumber: 19

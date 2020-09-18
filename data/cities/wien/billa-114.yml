@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2189953
 longitude: 16.3313288
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Elterleinplatz"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.148088800000004
 longitude: 16.3436911
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Sterngasse"
 housenumber: 3

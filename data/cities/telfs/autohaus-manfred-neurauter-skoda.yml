@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.3157845
 longitude: 11.0894194
-postcode: 6410
+postcode: "6410"
 city: Telfs
 street: "Saglstraße"
 housenumber: 69c

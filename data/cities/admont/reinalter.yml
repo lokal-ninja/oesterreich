@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 47.572772
 longitude: 14.459897000000002
-postcode: 8911
+postcode: "8911"
 city: Admont
 street: "Obere Bachgasse"
 housenumber: 74

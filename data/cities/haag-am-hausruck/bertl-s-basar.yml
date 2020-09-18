@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.183449700000004
 longitude: 13.642748600000001
-postcode: 4680
+postcode: "4680"
 city: Haag am Hausruck
 street: "Lambacherstraße"
 housenumber: 20

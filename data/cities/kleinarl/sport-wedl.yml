@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.2794618
 longitude: 13.3175758
-postcode: 5603
+postcode: "5603"
 city: Kleinarl
 street: "Peilsteingasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.1676115
 longitude: 14.660290600000002
-postcode: 8750
+postcode: "8750"
 city: Judenburg
 street: "Burggasse"
 housenumber: 5

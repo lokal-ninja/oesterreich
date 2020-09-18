@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.589893800000006
 longitude: 13.623414200000001
-postcode: 9611
+postcode: "9611"
 city: Nötsch im Gailtal
 street: "Nötsch im Gailtal"
 housenumber: 64

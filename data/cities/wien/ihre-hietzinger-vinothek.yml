@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.1859577
 longitude: 16.2984858
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Altgasse"
 housenumber: 1

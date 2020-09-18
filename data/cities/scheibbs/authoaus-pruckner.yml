@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0129055
 longitude: 15.1571744
-postcode: 3270
+postcode: "3270"
 city: Scheibbs
 street: "Gewerbestraße"
 housenumber: 5

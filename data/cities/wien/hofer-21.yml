@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.177196
 longitude: 16.3303371
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Meidlinger Hauptstraße"
 housenumber: 51-53

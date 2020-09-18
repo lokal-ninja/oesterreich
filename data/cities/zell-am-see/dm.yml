@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.2972381
 longitude: 12.7866724
-postcode: 5700
+postcode: "5700"
 city: Zell am See
 street: "Kaprunerstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.499456200000004
 longitude: 14.503213700000002
-postcode: 4240
+postcode: "4240"
 city: Freistadt
 street: "Linzer Straße"
 housenumber: 51

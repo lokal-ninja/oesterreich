@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.075364500000006
 longitude: 15.4332071
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Lendkai"
 housenumber: 45

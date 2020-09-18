@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.210759700000004
 longitude: 16.372060700000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Landskrongasse"
 housenumber: 10

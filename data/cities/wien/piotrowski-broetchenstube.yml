@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.2124693
 longitude: 16.3696129
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Schwertgasse"
 housenumber: 2

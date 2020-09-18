@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.301818700000005
 longitude: 11.6352661
-postcode: 6114
+postcode: "6114"
 city: Kolsass
 street: "Rettenbergstraße"
 housenumber: 28a

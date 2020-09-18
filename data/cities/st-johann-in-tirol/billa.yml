@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5187651
 longitude: 12.415432800000001
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Paß-Thurn-Straße"
 housenumber: 17/G6

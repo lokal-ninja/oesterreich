@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.1360855
 longitude: 16.3118218
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Lemböckgasse"
 housenumber: 63

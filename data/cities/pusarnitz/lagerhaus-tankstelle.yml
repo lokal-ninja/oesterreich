@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 46.8331797
 longitude: 13.403498
-postcode: 9812
+postcode: "9812"
 city: Pusarnitz
 street: "Gewerbepark Mitterbreiten"
 housenumber: 1

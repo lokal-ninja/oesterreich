@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.317590200000005
 longitude: 14.478674700000001
-postcode: 4223
+postcode: "4223"
 city: Katsdorf
 street: "Baderberg"
 housenumber: 15

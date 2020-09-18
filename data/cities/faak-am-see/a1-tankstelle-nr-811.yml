@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 46.565457800000004
 longitude: 13.9187063
-postcode: 9583
+postcode: "9583"
 city: Faak am See
 street: "Seeufer-Landesstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.419569800000005
 longitude: 9.6607684
-postcode: 6890
+postcode: "6890"
 city: Lustenau
 street: "Kaiser-Franz-Josef-Straße"
 housenumber: 48

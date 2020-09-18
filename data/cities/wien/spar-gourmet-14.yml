@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.231927400000004
 longitude: 16.324705
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Herbeckstraße"
 housenumber: 30

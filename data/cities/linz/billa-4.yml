@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.244872
 longitude: 14.282948600000001
-postcode: 4030
+postcode: "4030"
 city: Linz
 street: "Neubauzeile"
 housenumber: 69-79

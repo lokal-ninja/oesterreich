@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2617976
 longitude: 11.364734
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Fischerhäuslweg"
 housenumber: 31

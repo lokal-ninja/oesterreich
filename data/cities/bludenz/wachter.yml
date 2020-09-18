@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.1490443
 longitude: 9.8150381
-postcode: 6706
+postcode: "6706"
 city: Bludenz
 street: "Almteilweg"
 housenumber: 7

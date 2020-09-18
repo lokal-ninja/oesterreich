@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5248397
 longitude: 14.3422298
-postcode: 8786
+postcode: "8786"
 city: Rottenmann
 street: "Technologiepark"
 housenumber: 1

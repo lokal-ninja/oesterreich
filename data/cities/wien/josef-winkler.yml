@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.211842100000005
 longitude: 16.3739201
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Judengasse"
 housenumber: 11

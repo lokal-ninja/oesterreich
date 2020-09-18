@@ -1,12 +1,12 @@
 id: 3603561837
 type: node
 shop: Drogerie
-latitude: 48.2174162
-longitude: 16.380578200000002
-postcode: 1020
+latitude: 48.217406800000006
+longitude: 16.3805824
+postcode: "1020"
 city: Wien
 street: "Taborstraße"
 housenumber: 25
-phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
+phone: "+43 1 2144705"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
 website: ""

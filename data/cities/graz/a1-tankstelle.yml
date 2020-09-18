@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.0912079
 longitude: 15.4302161
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Grabenstraße"
 housenumber: 166

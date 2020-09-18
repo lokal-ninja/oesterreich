@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.155208900000005
 longitude: 16.349662600000002
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Tesarekplatz"
 housenumber: 1

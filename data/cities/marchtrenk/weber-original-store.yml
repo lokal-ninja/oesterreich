@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsartikel
 latitude: 48.1897097
 longitude: 14.1050424
-postcode: 4614
+postcode: "4614"
 city: Marchtrenk
 street: "Welser Straße"
 housenumber: 33

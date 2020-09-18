@@ -1,4 +1,4 @@
 ---
-title: "Bäckerei-Cafe PIRKER"
+title: "Bäckerei-Cafe Pirker"
 url: /weisskirchen-in-steiermark/baeckerei-cafe-pirker/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.268840000000004
 longitude: 11.393646700000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Pfarrgasse"
 housenumber: 4

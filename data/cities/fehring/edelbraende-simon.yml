@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 46.964491900000006
 longitude: 16.0339218
-postcode: 8350
+postcode: "8350"
 city: Fehring
 street: ""
 housenumber: 76

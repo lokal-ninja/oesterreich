@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 46.814902100000005
 longitude: 15.215053800000002
-postcode: 8530
+postcode: "8530"
 city: Deutschlandsberg
 street: "Hauptplatz"
 housenumber: 11

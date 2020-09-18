@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.550986
 longitude: 15.847981500000001
-postcode: 3720
+postcode: "3720"
 city: Ravelsbach
 street: "Hauptstraße"
 housenumber: 18

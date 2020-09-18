@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.2685298
 longitude: 16.4045379
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Brünner Straße"
 housenumber: 68

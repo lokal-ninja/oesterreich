@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.018860000000004
 longitude: 15.4720618
-postcode: 8041
+postcode: "8041"
 city: Graz
 street: "Liebenauer Hauptstraße"
 housenumber: 320

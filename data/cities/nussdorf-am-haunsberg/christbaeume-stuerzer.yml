@@ -3,10 +3,10 @@ type: way
 shop: Allgemein
 latitude: 47.9245407
 longitude: 12.974207700000001
-postcode: 5151
+postcode: "5151"
 city: Nußdorf am Haunsberg
 street: ""
 housenumber: 5
 phone: ""
 opening_hours: ""
-website: "www.salzburger-christbaum.at"
+website: "http://www.salzburger-christbaum.at"

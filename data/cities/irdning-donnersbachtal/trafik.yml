@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.505378300000004
 longitude: 14.1039121
-postcode: 8952
+postcode: "8952"
 city: Irdning-Donnersbachtal
 street: "Irdning Hauptplatz"
 housenumber: 9

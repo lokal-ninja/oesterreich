@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.039917200000005
 longitude: 12.8429184
-postcode: 9844
+postcode: "9844"
 city: Heiligenblut am Großglockner
 street: "Hof"
 housenumber: 46

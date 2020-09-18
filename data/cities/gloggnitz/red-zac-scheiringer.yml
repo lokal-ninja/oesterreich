@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.675721200000005
 longitude: 15.939132500000001
-postcode: 2640
+postcode: "2640"
 city: Gloggnitz
 street: "Hauptstraße"
 housenumber: 6

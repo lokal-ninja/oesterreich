@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.320863200000005
 longitude: 16.6690699
-postcode: 2231
+postcode: "2231"
 city: Strasshof an der Nordbahn
 street: "Hauptstraße"
 housenumber: 376a

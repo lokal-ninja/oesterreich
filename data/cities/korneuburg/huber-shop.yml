@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3521793
 longitude: 16.341922200000003
-postcode: 2100
+postcode: "2100"
 city: Korneuburg
 street: "Laaer Straße"
 housenumber: 107

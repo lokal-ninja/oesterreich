@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.9178987
 longitude: 13.802842600000002
-postcode: 4810
+postcode: "4810"
 city: Gmunden
 street: "Schiffslände"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.247776
 longitude: 13.23564
-postcode: 4950
+postcode: "4950"
 city: Altheim
 street: "Finkenzellergasse"
 housenumber: 8

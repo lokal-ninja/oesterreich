@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.2195114
 longitude: 16.3797323
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Obere Augartenstraße"
 housenumber: 70

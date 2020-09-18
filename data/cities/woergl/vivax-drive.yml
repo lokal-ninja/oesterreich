@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.481248900000004
 longitude: 12.053167400000001
-postcode: 6300
+postcode: "6300"
 city: Wörgl
 street: "Karl Schönherr-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 46.62662
 longitude: 14.30766
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Heuplatz"
 housenumber: 2

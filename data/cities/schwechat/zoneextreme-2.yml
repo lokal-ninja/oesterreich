@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1403095
 longitude: 16.476079300000002
-postcode: 2320
+postcode: "2320"
 city: Schwechat
 street: "Rathausplatz"
 housenumber: 3

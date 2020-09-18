@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.652747500000004
 longitude: 13.6116442
-postcode: 4822
+postcode: "4822"
 city: Bad Goisern am Hallstättersee
 street: "Bundesstraße"
 housenumber: 69

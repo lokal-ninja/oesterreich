@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.0072759
 longitude: 13.6530204
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Salzburger Straße"
 housenumber: 2

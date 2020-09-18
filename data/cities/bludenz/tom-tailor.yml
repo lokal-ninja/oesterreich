@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.156413
 longitude: 9.8189241
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Josef-Wolf-Platz"
 housenumber: 1

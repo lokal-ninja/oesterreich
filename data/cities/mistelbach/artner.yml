@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.570165800000005
 longitude: 16.5725905
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Hauptplatz"
 housenumber: 9

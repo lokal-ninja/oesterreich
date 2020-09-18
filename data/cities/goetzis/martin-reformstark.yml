@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.331916500000005
 longitude: 9.6402617
-postcode: 6840
+postcode: "6840"
 city: Götzis
 street: "Ringstraße"
 housenumber: 14

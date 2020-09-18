@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9445479
 longitude: 14.3585705
-postcode: 4452
+postcode: "4452"
 city: Ternberg
 street: "Prinzstraße"
 housenumber: 11

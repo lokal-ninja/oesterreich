@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.156133200000006
 longitude: 9.8209403
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Untersteinstraße"
 housenumber: 1

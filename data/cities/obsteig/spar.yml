@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.2975146
 longitude: 10.9270821
-postcode: 6416
+postcode: "6416"
 city: Obsteig
 street: "Unterstrass"
 housenumber: 251

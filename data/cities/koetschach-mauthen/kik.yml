@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.672138800000006
 longitude: 13.002690300000001
-postcode: 9640
+postcode: "9640"
 city: Kötschach-Mauthen
 street: ""
 housenumber: 

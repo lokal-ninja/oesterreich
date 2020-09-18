@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.588801700000005
 longitude: 16.4653163
-postcode: 7322
+postcode: "7322"
 city: Lackenbach
 street: "Hauptplatz"
 housenumber: 1

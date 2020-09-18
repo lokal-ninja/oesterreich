@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.658590100000005
 longitude: 13.865427400000002
-postcode: 4162
+postcode: "4162"
 city: Julbach
 street: "Schulstraße"
 housenumber: 22

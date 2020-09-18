@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1913014
 longitude: 16.3669946
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 55

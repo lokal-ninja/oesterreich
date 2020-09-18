@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.4915977
 longitude: 14.5038119
-postcode: 4240
+postcode: "4240"
 city: Freistadt
 street: "Etrichstraße"
 housenumber: 15

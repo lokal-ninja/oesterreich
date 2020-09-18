@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.785482
 longitude: 13.051334800000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Fürstenallee"
 housenumber: 39

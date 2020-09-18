@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.9532286
 longitude: 15.879197300000001
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Schillerstraße"
 housenumber: 60

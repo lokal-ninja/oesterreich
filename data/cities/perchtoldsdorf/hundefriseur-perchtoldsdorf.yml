@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 48.120237200000005
 longitude: 16.2666106
-postcode: 2380
+postcode: "2380"
 city: Perchtoldsdorf
 street: "Franz-Josef-Straße"
 housenumber: 6

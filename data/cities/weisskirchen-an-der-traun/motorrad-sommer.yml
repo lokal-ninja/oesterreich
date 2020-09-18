@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.1675102
 longitude: 14.127751900000002
-postcode: 4616
+postcode: "4616"
 city: Weißkirchen an der Traun
 street: "Gewerbepark"
 housenumber: 2

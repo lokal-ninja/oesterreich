@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.804537100000005
 longitude: 13.0482157
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Wolf-Dietrich-Straße"
 housenumber: 3

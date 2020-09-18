@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2898773
 longitude: 14.131234800000001
-postcode: 4072
+postcode: "4072"
 city: Alkoven
 street: "Gewerbestraße"
 housenumber: 17

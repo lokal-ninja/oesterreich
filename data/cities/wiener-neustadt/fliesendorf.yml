@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 47.827094800000005
 longitude: 16.2529738
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Pottendorfer Straße"
 housenumber: 43

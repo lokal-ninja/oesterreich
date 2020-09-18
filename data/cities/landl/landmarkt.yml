@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 47.6561619
 longitude: 14.735285200000002
-postcode: 8931
+postcode: "8931"
 city: Landl
 street: ""
 housenumber: 152
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:30"
 website: ""

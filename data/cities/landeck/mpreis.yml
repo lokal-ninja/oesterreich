@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1375503
 longitude: 10.5663362
-postcode: 6500
+postcode: "6500"
 city: Landeck
 street: "Malserstraße"
 housenumber: 19

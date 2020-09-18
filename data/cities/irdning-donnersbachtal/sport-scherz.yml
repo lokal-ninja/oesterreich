@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.404097300000004
 longitude: 14.198812
-postcode: 8953
+postcode: "8953"
 city: Irdning-Donnersbachtal
 street: ""
 housenumber: 32

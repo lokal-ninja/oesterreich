@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.2774188
 longitude: 11.447639200000001
-postcode: 6063
+postcode: "6063"
 city: Rum
 street: "Bundesstraße"
 housenumber: 35

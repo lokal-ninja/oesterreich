@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.641343500000005
 longitude: 13.6165151
-postcode: 4822
+postcode: "4822"
 city: Bad Goisern
 street: "Au"
 housenumber: 55

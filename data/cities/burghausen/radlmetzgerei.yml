@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.160005500000004
 longitude: 12.833674
-postcode: 84489
+postcode: "84489"
 city: Burghausen
 street: "Kanzelmüllerstraße"
 housenumber: 94

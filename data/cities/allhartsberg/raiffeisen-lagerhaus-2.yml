@@ -3,9 +3,9 @@ type: way
 shop: Baumarkt
 latitude: 48.0420759
 longitude: 14.7897768
-postcode: 3365
+postcode: "3365"
 city: Allhartsberg
-street: "Kröllendorf"
+street: ""
 housenumber: 77
 phone: "07448/22 85"
 opening_hours: "Mo-Fr 7:30-12:00 , 13:00-18:00; Sa 7:30-12:00"

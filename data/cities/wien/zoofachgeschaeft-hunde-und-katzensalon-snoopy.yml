@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.189920900000004
 longitude: 16.3737637
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Karolinengasse"
 housenumber: 27

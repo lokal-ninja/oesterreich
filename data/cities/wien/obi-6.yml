@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.1860543
 longitude: 16.4110458
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Litfaßstraße"
 housenumber: 8

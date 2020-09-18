@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.5491898
 longitude: 10.6577914
-postcode: 6682
+postcode: "6682"
 city: Vils
 street: "Stegen"
 housenumber: 5

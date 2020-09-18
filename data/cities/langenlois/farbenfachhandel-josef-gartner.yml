@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.471982700000005
 longitude: 15.6743868
-postcode: 3550
+postcode: "3550"
 city: Langenlois
 street: "Rudolfstraße"
 housenumber: 15

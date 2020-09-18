@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.4645213
 longitude: 13.3815781
-postcode: 5522
+postcode: "5522"
 city: Sankt Martin am Tennengebirge
 street: "Martinerstraße"
 housenumber: 9

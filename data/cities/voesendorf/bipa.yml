@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1106406
 longitude: 16.3181486
-postcode: 2331
+postcode: "2331"
 city: Vösendorf
 street: "SCS ALLEE"
 housenumber: 115

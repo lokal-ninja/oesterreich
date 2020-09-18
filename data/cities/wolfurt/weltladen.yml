@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.4735555
 longitude: 9.751134500000001
-postcode: 6922
+postcode: "6922"
 city: Wolfurt
 street: "Kellhofstraße"
 housenumber: 10

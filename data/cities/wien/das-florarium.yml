@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.232294700000004
 longitude: 16.3176819
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Herbeckstraße"
 housenumber: 73

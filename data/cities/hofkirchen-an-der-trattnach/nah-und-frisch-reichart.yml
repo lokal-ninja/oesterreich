@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2185368
 longitude: 13.740042500000001
-postcode: 4716
+postcode: "4716"
 city: Hofkirchen an der Trattnach
 street: "Hauptstraße"
 housenumber: 14

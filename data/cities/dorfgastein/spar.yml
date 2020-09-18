@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.240934800000005
 longitude: 13.1046144
-postcode: 5632
+postcode: "5632"
 city: Dorfgastein
 street: "Bergbahnstraße"
 housenumber: 1

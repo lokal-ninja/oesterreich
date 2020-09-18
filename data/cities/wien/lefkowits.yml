@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.197458000000005
 longitude: 16.3956679
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Landstraßer Hauptstraße"
 housenumber: 109

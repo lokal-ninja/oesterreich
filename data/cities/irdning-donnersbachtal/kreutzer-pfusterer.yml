@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.5055099
 longitude: 14.104789
-postcode: 8952
+postcode: "8952"
 city: Irdning-Donnersbachtal
 street: "Irdning Hauptplatz"
 housenumber: 51

@@ -1,12 +1,12 @@
-id: 720586354
+id: 310966577
 type: way
 shop: Supermarkt
-latitude: 48.1889867
-longitude: 16.352659000000003
-postcode: 1050
+latitude: 48.266729600000005
+longitude: 16.4517409
+postcode: "1210"
 city: Wien
-street: "Bräuhausgasse"
-housenumber: 37
-phone: "+43 (0)1 544 08 54"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.hofer.at/"
+street: "Julius-Ficker-Straße"
+housenumber: 89
+phone: ""
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:45-18:00"
+website: ""

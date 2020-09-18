@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.0607198
 longitude: 15.442131700000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Steyrergasse"
 housenumber: 116

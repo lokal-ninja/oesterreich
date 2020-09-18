@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.544967
 longitude: 16.762964500000002
-postcode: 2225
+postcode: "2225"
 city: Zistersdorf
 street: "Kirchenplatz"
 housenumber: 14

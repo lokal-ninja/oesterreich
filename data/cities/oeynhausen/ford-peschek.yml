@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9833173
 longitude: 16.290402200000003
-postcode: 2512
+postcode: "2512"
 city: Oeynhausen
 street: "Triester Straße"
 housenumber: 83-89

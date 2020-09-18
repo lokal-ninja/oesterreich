@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.1500599
 longitude: 9.825970700000001
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Sankt-Peter-Straße"
 housenumber: 19

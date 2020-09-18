@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2122113
 longitude: 16.3413302
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Florianigasse"
 housenumber: 68

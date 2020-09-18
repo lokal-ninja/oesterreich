@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1913251
 longitude: 14.5196052
-postcode: 4300
+postcode: "4300"
 city: St. Valentin
 street: ""
 housenumber: 

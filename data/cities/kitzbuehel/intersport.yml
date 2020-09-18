@@ -3,7 +3,7 @@ type: way
 shop: Ski
 latitude: 47.4438539
 longitude: 12.390100200000001
-postcode: 6370
+postcode: "6370"
 city: Kitzbühel
 street: "Josef-Herold-Straße"
 housenumber: 19

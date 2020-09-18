@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.456084100000005
 longitude: 16.212440700000002
-postcode: 2011
+postcode: "2011"
 city: Senning
 street: "Herrengasse"
 housenumber: 10

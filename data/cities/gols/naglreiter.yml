@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.8943591
 longitude: 16.9164345
-postcode: 7122
+postcode: "7122"
 city: Gols
 street: "Untere Hauptstraße"
 housenumber: 121

@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 48.222517100000005
 longitude: 16.4504129
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Stadlauer Straße"
 housenumber: 8

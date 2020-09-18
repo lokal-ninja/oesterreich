@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 48.210098300000006
 longitude: 16.3871036
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Hintere Zollamtsstraße"
 housenumber: 11
-phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:00; Sa 10:30-13:00"
-website: "http://www.galaxy-fahrraeder.at/"
+phone: "+4369911398484"
+opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:30-13:00; PH off"
+website: "http://galaxy-fahrraeder.at/"

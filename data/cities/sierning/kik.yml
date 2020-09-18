@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.036658800000005
 longitude: 14.314259900000001
-postcode: 4523
+postcode: "4523"
 city: Sierning
 street: "Gewerbestraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.9803013
 longitude: 16.851122500000002
-postcode: 7111
+postcode: "7111"
 city: Parndorf
 street: "Gewerbestraße"
 housenumber: 4

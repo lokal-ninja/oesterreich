@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.144092
 longitude: 13.4048788
-postcode: 4923
+postcode: "4923"
 city: Lohnsburg am Kobernaußerwald
 street: "Marktplatz"
 housenumber: 10

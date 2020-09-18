@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 48.197304100000004
 longitude: 16.3655857
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Operngasse"
 housenumber: 36

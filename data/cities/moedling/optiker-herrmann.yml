@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.0863324
 longitude: 16.2931299
-postcode: 2340
+postcode: "2340"
 city: Mödling
 street: "Hauptstraße"
 housenumber: 13

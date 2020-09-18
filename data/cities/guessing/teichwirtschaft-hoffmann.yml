@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 47.054588100000004
 longitude: 16.3178862
-postcode: 7540
+postcode: "7540"
 city: Güssing
 street: "Teichgasse"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 46.625626700000005
 longitude: 14.305272800000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "Ursulinengasse"
 housenumber: 5

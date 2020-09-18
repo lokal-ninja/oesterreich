@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.2619221
 longitude: 11.371307700000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Fürstenweg"
 housenumber: 103

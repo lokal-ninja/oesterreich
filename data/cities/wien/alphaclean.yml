@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.136823400000004
 longitude: 16.279278
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 372/119

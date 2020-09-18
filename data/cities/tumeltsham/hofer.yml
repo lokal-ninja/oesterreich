@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.221020200000005
 longitude: 13.4963694
-postcode: 4911
+postcode: "4911"
 city: Tumeltsham
 street: "Hannesgrub Nord"
 housenumber: 1

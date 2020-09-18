@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.167919600000005
 longitude: 16.312962600000002
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Schlöglgasse"
 housenumber: 19

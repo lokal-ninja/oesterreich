@@ -3,7 +3,7 @@ type: node
 shop: Hüte
 latitude: 47.0676909
 longitude: 15.4435014
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Jakominiplatz"
 housenumber: 9

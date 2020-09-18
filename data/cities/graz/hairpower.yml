@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.0755332
 longitude: 15.4485305
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Zinzendorfgasse"
 housenumber: 20

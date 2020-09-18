@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.2584024
 longitude: 11.3737329
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Mitterweg"
 housenumber: 27

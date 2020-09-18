@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 48.334844200000006
 longitude: 16.3001472
-postcode: 3420
+postcode: "3420"
 city: Kritzendorf
 street: "Durchstichstraße"
 housenumber: 2

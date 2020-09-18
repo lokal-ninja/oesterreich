@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.209778400000005
 longitude: 16.3369487
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Grundsteingasse"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.6078099
 longitude: 13.848751600000002
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Ossiacher Zeile"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.330413400000005
 longitude: 16.0510023
-postcode: 3430
+postcode: "3430"
 city: Tulln an der Donau
 street: "Hauptplatz"
 housenumber: 12

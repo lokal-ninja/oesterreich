@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.934261500000005
 longitude: 16.2149793
-postcode: 2544
+postcode: "2544"
 city: Leobersdorf
 street: "Hirtenberger Straße"
 housenumber: 4f

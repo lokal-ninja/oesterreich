@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.5830515
 longitude: 12.166663900000001
-postcode: 6330
+postcode: "6330"
 city: Kufstein
 street: "Münchner Straße"
 housenumber: 2

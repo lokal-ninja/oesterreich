@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.558660100000004
 longitude: 16.562467
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Ernstbrunnerstraße"
 housenumber: 15

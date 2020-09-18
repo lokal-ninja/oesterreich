@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.107992200000005
 longitude: 16.3128591
-postcode: 2345
+postcode: "2345"
 city: Brunn am Gebirge
 street: "Johann-Steinböck-Straße"
 housenumber: 7a

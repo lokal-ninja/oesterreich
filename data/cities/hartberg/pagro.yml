@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.283255600000004
 longitude: 15.990772300000001
-postcode: 8230
+postcode: "8230"
 city: Hartberg
 street: "Im Hatric"
 housenumber: 10/Top 1

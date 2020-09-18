@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2302885
 longitude: 13.833855600000001
-postcode: 4710
+postcode: "4710"
 city: Grieskirchen
 street: "Gries"
 housenumber: 5

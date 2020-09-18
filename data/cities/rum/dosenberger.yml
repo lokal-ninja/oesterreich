@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.2769654
 longitude: 11.4541041
-postcode: 6063
+postcode: "6063"
 city: Rum
 street: "Serlesstraße"
 housenumber: 1

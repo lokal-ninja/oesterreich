@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 46.640962200000004
 longitude: 14.9476793
-postcode: 9473
+postcode: "9473"
 city: Lavamünd
 street: ""
 housenumber: 58

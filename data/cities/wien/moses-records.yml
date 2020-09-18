@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 48.2062381
 longitude: 16.3508339
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Lerchenfelder Straße"
 housenumber: 33

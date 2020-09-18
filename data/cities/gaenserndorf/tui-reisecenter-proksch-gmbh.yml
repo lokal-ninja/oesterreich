@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.341411900000004
 longitude: 16.719932800000002
-postcode: 2230
+postcode: "2230"
 city: Gänserndorf
 street: "Hans-Kudlich-Gasse"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 48.0092237
 longitude: 13.657258700000002
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Vorstadt"
 housenumber: 12

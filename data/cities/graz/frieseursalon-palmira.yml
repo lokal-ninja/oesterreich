@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.0665885
 longitude: 15.4324019
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Brückenkopfgasse"
 housenumber: 6

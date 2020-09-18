@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 48.2021722
 longitude: 16.3722949
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Kärntner Ring"
 housenumber: 11-13

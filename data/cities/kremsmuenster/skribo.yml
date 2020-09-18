@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.0535427
 longitude: 14.131375700000001
-postcode: 4550
+postcode: "4550"
 city: Kremsmünster
 street: "Marktplatz"
 housenumber: 32

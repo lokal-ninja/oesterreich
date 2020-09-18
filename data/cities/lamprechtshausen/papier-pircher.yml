@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.9920228
 longitude: 12.957961800000001
-postcode: 5112
+postcode: "5112"
 city: Lamprechtshausen
 street: "Franz Xaver Gruber-Straße"
 housenumber: 3

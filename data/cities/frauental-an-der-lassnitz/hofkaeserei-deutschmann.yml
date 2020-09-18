@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 46.832844300000005
 longitude: 15.2677992
-postcode: 8523
+postcode: "8523"
 city: Frauental an der Laßnitz
 street: "Oberberglastraße"
 housenumber: 10

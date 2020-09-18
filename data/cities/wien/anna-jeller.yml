@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1949921
 longitude: 16.363253800000003
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Margaretenstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1478801
 longitude: 16.2683846
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Geßlgasse"
 housenumber: 19

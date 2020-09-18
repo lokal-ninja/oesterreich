@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.2040701
 longitude: 16.353450600000002
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Burggasse"
 housenumber: 27

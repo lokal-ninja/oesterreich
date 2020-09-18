@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.182019000000004
 longitude: 13.974174900000001
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Vogelweiderstraße"
 housenumber: 188

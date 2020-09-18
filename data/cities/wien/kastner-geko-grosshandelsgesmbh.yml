@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 48.137794400000004
 longitude: 16.3635878
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Laxenburger Straße"
 housenumber: 

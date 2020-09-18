@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8090872
 longitude: 13.011969800000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Kleßheimer Allee"
 housenumber: 53

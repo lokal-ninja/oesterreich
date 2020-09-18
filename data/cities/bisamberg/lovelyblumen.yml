@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.3305087
 longitude: 16.3600217
-postcode: 2102
+postcode: "2102"
 city: Bisamberg
 street: "Hauptstraße"
 housenumber: 20

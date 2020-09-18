@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.1910128
 longitude: 16.3668921
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 59

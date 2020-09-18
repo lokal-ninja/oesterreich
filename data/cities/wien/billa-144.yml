@@ -1,12 +1,12 @@
-id: 3834035433
+id: 4292904086
 type: node
 shop: Supermarkt
-latitude: 48.147013
-longitude: 16.296687900000002
-postcode: 1230
+latitude: 48.1468252
+longitude: 16.461711
+postcode: "1110"
 city: Wien
-street: "Breitenfurter Straße"
-housenumber: 234
-phone: "+43 1 865 20 05"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at/"
+street: "Baudissgasse"
+housenumber: 4-6
+phone: "+43 1 7672539"
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off"
+website: ""

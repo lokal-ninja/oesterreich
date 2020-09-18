@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2187932
 longitude: 16.381425800000002
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Taborstraße"
 housenumber: 40

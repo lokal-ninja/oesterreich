@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1708155
 longitude: 12.8386831
-postcode: 84489
+postcode: "84489"
 city: Burghausen
 street: "Hermann-Hiller-Straße"
 housenumber: 7

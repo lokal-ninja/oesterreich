@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.1716673
 longitude: 13.105358200000001
-postcode: 5630
+postcode: "5630"
 city: Bad Hofgastein
 street: "Kaiser-Franz-Platz"
 housenumber: 6

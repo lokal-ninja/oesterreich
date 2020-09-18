@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 48.228300000000004
 longitude: 16.368435100000003
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: ""
 housenumber: 

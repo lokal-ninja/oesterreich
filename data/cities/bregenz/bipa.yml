@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.503302000000005
 longitude: 9.7452127
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Kaspar Hagen Strasse"
 housenumber: 2a

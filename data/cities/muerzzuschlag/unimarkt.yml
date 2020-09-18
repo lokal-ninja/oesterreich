@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.6062862
 longitude: 15.6730184
-postcode: 8680
+postcode: "8680"
 city: Mürzzuschlag
 street: "Stadtplatz"
 housenumber: 6

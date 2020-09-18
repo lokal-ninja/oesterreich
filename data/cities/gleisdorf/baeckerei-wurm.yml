@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.102120600000006
 longitude: 15.7107852
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Gartengasse"
 housenumber: 14

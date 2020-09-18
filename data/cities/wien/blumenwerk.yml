@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.211966100000005
 longitude: 16.3730726
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Marc-Aurel-Straße"
 housenumber: 6

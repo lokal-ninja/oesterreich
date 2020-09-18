@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.201939100000004
 longitude: 16.3443173
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Westbahnstraße"
 housenumber: 28

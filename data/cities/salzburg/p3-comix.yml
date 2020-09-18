@@ -3,7 +3,7 @@ type: node
 shop: Spiele
 latitude: 47.8160454
 longitude: 13.043083500000002
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Elisabethstraße"
 housenumber: 43a

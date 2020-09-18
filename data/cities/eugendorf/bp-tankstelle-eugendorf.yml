@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.8616503
 longitude: 13.128477
-postcode: 5301
+postcode: "5301"
 city: Eugendorf
 street: "Gewerbestraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.2004506
 longitude: 16.333859
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Hütteldorfer Straße"
 housenumber: 23

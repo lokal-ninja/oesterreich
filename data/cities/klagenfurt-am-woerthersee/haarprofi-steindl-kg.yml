@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.625984100000004
 longitude: 14.312749700000001
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Priesterhausgasse"
 housenumber: 7

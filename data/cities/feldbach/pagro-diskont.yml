@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.948548800000005
 longitude: 15.912740200000002
-postcode: 8330
+postcode: "8330"
 city: Feldbach
 street: "Öko-Platz"
 housenumber: 2

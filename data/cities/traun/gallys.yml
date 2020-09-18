@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 48.2217378
 longitude: 14.2369122
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Hauptplatz"
 housenumber: 17

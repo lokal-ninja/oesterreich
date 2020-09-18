@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 47.371262200000004
 longitude: 9.675382800000001
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Markus-Sittikus-Straße"
 housenumber: 20

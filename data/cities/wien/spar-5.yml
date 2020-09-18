@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2025281
 longitude: 16.361806
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Babenbergerstraße"
 housenumber: 9

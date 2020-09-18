@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6498621
 longitude: 16.3004606
-postcode: 2153
+postcode: "2153"
 city: Stronsdorf
 street: ""
 housenumber: 290

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.273616100000005
 longitude: 11.8986441
-postcode: 6274
+postcode: "6274"
 city: Aschau im Zillertal
 street: "Gewerbestraße"
 housenumber: 11

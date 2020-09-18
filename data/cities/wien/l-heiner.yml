@@ -3,7 +3,7 @@ type: way
 shop: Konditorei
 latitude: 48.1519412
 longitude: 16.454764100000002
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Simmeringer Hauptstraße"
 housenumber: 423

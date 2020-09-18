@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1357548
 longitude: 16.2832262
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 358

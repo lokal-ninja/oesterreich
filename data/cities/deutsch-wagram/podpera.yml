@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.2986652
 longitude: 16.563722600000002
-postcode: 2232
+postcode: "2232"
 city: Deutsch-Wagram
 street: "Hauptstraße"
 housenumber: 2

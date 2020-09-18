@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5134904
 longitude: 16.068746100000002
-postcode: 2014
+postcode: "2014"
 city: Breitenwaida
 street: "Hauptstraße"
 housenumber: 21a

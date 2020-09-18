@@ -1,12 +1,12 @@
-id: 4550863891
+id: 4550931989
 type: node
 shop: Supermarkt
-latitude: 48.177229100000005
-longitude: 16.3236001
-postcode: 1120
+latitude: 48.2083019
+longitude: 16.340569900000002
+postcode: "1080"
 city: Wien
-street: "Aichholzgasse"
-housenumber: 52
+street: "Lerchenfelder Straße"
+housenumber: 150
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
 website: ""

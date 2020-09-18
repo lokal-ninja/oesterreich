@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.877394200000005
 longitude: 16.367249700000002
-postcode: 2490
+postcode: "2490"
 city: Ebenfurth
 street: "Wiener Neustädter Straße"
 housenumber: 1

@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.811625600000006
 longitude: 13.034233100000002
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Schießstattstraße"
-housenumber: 
+housenumber: 7
 phone: ""
 opening_hours: ""
 website: ""

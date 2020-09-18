@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.0256732
 longitude: 15.429956500000001
-postcode: 3204
+postcode: "3204"
 city: Kirchberg an der Pielach
 street: "Schloßstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.209931000000005
 longitude: 13.4869324
-postcode: 4910
+postcode: "4910"
 city: Ried im Innkreis
 street: "Roßmarkt"
 housenumber: 7

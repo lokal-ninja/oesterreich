@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.786517200000006
 longitude: 13.0311588
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Firmianstraße"
 housenumber: 12

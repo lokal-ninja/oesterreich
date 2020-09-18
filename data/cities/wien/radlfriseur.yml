@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.205817800000005
 longitude: 16.3319422
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Herbststraße"
 housenumber: 24

@@ -1,12 +1,12 @@
-id: 148387843
+id: 133349173
 type: way
 shop: Drogerie
-latitude: 48.149597500000006
-longitude: 16.2897693
-postcode: 1230
+latitude: 48.148767400000004
+longitude: 16.2681662
+postcode: "1230"
 city: Wien
-street: "Gatterederstraße"
-housenumber: 19
+street: "Geßlgasse"
+housenumber: 8
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.dm-drogeriemarkt.at/"
+opening_hours: ""
+website: ""

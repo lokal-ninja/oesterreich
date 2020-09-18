@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.840195200000004
 longitude: 16.185893200000002
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Steinfeldgasse"
 housenumber: 1

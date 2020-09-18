@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1444922
 longitude: 13.4658239
-postcode: 4920
+postcode: "4920"
 city: Schildorn
 street: "Kellerberg"
 housenumber: 1

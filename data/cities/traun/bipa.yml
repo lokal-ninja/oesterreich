@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.2200634
 longitude: 14.2392473
-postcode: 4050
+postcode: "4050"
 city: Traun
 street: "Heinrich Gruber-Straße"
 housenumber: 3

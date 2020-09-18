@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5684886
 longitude: 13.521552100000001
-postcode: 4824
+postcode: "4824"
 city: Gosau
 street: "Gosauseestraße"
 housenumber: 57

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9141787
 longitude: 13.9840216
-postcode: 4643
+postcode: "4643"
 city: Pettenbach
 street: "Hinterbergstraße"
 housenumber: 2

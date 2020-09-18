@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.159096700000006
 longitude: 14.024777400000001
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Bäckergasse"
 housenumber: 8

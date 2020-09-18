@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.937616500000004
 longitude: 16.1470807
-postcode: 2560
+postcode: "2560"
 city: Sankt Veit an der Triesting
 street: "Leobersdorfer Straße"
 housenumber: 86

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.9458793
 longitude: 16.8473334
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Untere Hauptstraße"
 housenumber: 56

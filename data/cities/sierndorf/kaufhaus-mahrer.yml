@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4293552
 longitude: 16.167774100000003
-postcode: 2011
+postcode: "2011"
 city: Sierndorf
 street: "Prager Straße"
 housenumber: 4

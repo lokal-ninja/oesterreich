@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.8589654
 longitude: 16.8303648
-postcode: 7141
+postcode: "7141"
 city: Podersdorf am See
 street: "An der Promenade"
 housenumber: 1

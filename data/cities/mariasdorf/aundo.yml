@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.363320800000004
 longitude: 16.2407176
-postcode: 7433
+postcode: "7433"
 city: Mariasdorf
 street: ""
 housenumber: 54a

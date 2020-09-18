@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.1033854
 longitude: 15.4233121
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Zelinkagasse"
 housenumber: 1

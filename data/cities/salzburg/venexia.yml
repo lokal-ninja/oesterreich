@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.800693
 longitude: 13.039007400000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Gstättengasse"
 housenumber: 9

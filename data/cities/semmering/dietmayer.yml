@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.6348135
 longitude: 15.8301086
-postcode: 2680
+postcode: "2680"
 city: Semmering
 street: "Hochstraße"
 housenumber: 16

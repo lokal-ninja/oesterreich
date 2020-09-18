@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.2688245
 longitude: 16.3942833
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Koloniestraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.201409600000005
 longitude: 15.5471397
-postcode: 3385
+postcode: "3385"
 city: Gerersdorf
 street: "Eichenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.093548500000004
 longitude: 16.284498
-postcode: 2344
+postcode: "2344"
 city: Maria Enzersdorf
 street: "Grenzgasse"
 housenumber: 7

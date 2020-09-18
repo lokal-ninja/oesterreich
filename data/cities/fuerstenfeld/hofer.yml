@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.0547033
 longitude: 16.0803058
-postcode: 8280
+postcode: "8280"
 city: Fürstenfeld
 street: "Körmenderstraße"
 housenumber: 25

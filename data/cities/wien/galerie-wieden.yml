@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 48.189618800000005
 longitude: 16.3650924
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 76

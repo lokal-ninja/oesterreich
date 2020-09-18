@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 47.371658100000005
 longitude: 14.9973095
-postcode: 8772
+postcode: "8772"
 city: Traboch
 street: "Bundesstraße"
 housenumber: 24

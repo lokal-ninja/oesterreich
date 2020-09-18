@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.099027500000005
 longitude: 16.137253400000002
-postcode: 2392
+postcode: "2392"
 city: Sulz im Wienerwald
 street: "Hauptstraße"
 housenumber: 125

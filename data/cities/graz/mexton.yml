@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.070812700000005
 longitude: 15.4420882
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Bindergasse"
 housenumber: 4

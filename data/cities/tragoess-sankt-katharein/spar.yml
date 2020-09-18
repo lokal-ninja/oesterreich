@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4708879
 longitude: 15.1598024
-postcode: 8611
+postcode: "8611"
 city: Tragöß-Sankt Katharein
 street: ""
 housenumber: 94

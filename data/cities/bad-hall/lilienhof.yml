@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.035508500000006
 longitude: 14.207993900000002
-postcode: 4540
+postcode: "4540"
 city: Bad Hall
 street: "Bahnhofstraße"
 housenumber: 1

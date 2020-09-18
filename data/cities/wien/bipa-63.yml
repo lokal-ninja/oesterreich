@@ -1,12 +1,12 @@
-id: 2484899318
+id: 2500753295
 type: node
 shop: Drogerie
-latitude: 48.2310177
-longitude: 16.3669572
-postcode: 1200
+latitude: 48.2428206
+longitude: 16.4355838
+postcode: "1220"
 city: Wien
-street: "Klosterneuburger Straße"
-housenumber: 46
-phone: ""
-opening_hours: "Mo-Fr 08:00-19:30;Sa 08:00-18:00"
+street: ""
+housenumber: 
+phone: "+43-1-203 4751"
+opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00"
 website: ""

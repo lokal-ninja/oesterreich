@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 48.0607155
 longitude: 13.114890800000001
-postcode: 5224
+postcode: "5224"
 city: Auerbach
 street: "Holz"
 housenumber: 11

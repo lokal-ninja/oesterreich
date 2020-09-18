@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 46.939044100000004
 longitude: 14.924784700000002
-postcode: 9451
+postcode: "9451"
 city: Preitenegg
 street: ""
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.805110400000004
 longitude: 13.0480709
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Wolf-Dietrich-Straße"
 housenumber: 8

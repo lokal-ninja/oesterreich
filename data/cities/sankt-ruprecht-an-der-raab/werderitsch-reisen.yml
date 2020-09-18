@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 47.1573702
 longitude: 15.6653564
-postcode: 8181
+postcode: "8181"
 city: Sankt Ruprecht an der Raab
 street: ""
 housenumber: 78

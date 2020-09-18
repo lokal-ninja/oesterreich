@@ -3,9 +3,9 @@ type: way
 shop: Autohaus
 latitude: 47.1716591
 longitude: 13.0974561
-postcode: 5630
+postcode: "5630"
 city: Bad Hofgastein
-street: "Gasteiner Bundesstraße"
+street: "Bundesstraße"
 housenumber: 463
 phone: ""
 opening_hours: ""

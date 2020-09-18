@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.2358545
 longitude: 11.8801489
-postcode: 6277
+postcode: "6277"
 city: Zellberg
 street: "Zellbergeben"
 housenumber: 16

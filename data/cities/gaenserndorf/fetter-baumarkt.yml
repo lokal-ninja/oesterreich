@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.3482557
 longitude: 16.7260739
-postcode: 2230
+postcode: "2230"
 city: Gänserndorf
 street: "Protteser Straße"
 housenumber: 32

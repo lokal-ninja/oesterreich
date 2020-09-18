@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.508849000000005
 longitude: 16.4997601
-postcode: 7344
+postcode: "7344"
 city: Stoob Süd
 street: "Bauweltstrasse"
 housenumber: 1

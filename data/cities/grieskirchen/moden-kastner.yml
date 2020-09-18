@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.234194900000006
 longitude: 13.8302353
-postcode: 4710
+postcode: "4710"
 city: Grieskirchen
 street: "Roßmarkt"
 housenumber: 16-18

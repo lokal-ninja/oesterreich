@@ -3,7 +3,7 @@ type: node
 shop: Gewürze
 latitude: 47.8003116
 longitude: 13.0448736
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Rudolfskai"
 housenumber: 2

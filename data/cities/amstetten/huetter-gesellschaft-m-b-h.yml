@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.108405700000006
 longitude: 14.834672600000001
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Carl-Benz-Straße"
 housenumber: 12

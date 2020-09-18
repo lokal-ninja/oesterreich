@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.1556287
 longitude: 9.8203951
-postcode: 6700
+postcode: "6700"
 city: Bludenz
 street: "Werdenbergerstraße"
 housenumber: 17

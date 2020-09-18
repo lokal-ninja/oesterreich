@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.307894600000004
 longitude: 11.082612000000001
-postcode: 6410
+postcode: "6410"
 city: Telfs
 street: "Untermarktstraße"
 housenumber: 72

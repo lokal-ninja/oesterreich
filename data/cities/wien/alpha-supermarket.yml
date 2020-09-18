@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1733514
 longitude: 16.414785900000002
-postcode: 1110
+postcode: "1110"
 city: Wien
 street: "Sedlitzkygasse"
 housenumber: 42

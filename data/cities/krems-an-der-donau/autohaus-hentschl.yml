@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.4191869
 longitude: 15.6301906
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Wiener Straße"
 housenumber: 125

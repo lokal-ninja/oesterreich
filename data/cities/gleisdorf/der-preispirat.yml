@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 47.102386700000004
 longitude: 15.709156100000001
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Schillerstraße"
 housenumber: 17

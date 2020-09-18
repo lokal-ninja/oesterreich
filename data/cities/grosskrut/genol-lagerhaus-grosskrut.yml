@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.6416848
 longitude: 16.721675100000002
-postcode: 2143
+postcode: "2143"
 city: Großkrut
 street: "Ginzersdorfer Straße"
 housenumber: 2

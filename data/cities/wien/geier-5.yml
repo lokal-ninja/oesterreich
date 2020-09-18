@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.218402100000006
 longitude: 16.3806289
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Taborstraße"
 housenumber: 33

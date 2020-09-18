@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2621854
 longitude: 16.9107464
-postcode: 2293
+postcode: "2293"
 city: Marchegg
 street: "Fünfhaus"
 housenumber: 71

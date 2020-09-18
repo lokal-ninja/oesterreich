@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 46.9527821
 longitude: 15.341002900000001
-postcode: 8502
+postcode: "8502"
 city: Lannach
 street: "Radlpaßstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Th 07:00-19:00; Fr 07:00-19:30; Sa 07:00-18:00"
-website: ""
+website: "https://www.spar.at/standorte/spar-lannach-8502-radlpassstrasse-8"

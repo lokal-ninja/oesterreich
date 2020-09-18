@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.6489272
 longitude: 12.196469100000002
-postcode: 6342
+postcode: "6342"
 city: Niederndorf
 street: "Audorfer Straße"
 housenumber: 41

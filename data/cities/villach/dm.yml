@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 46.5952478
 longitude: 13.835287800000001
-postcode: 9500
+postcode: "9500"
 city: Villach
 street: "Kärntner Straße"
 housenumber: 34

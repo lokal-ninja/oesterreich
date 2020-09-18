@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.6818065
 longitude: 13.0957393
-postcode: 5400
+postcode: "5400"
 city: Hallein
 street: "Metzgergasse"
 housenumber: 5

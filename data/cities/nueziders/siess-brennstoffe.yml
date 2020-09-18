@@ -3,7 +3,7 @@ type: way
 shop: Treibstoff
 latitude: 47.1610261
 longitude: 9.8033645
-postcode: 6714
+postcode: "6714"
 city: Nüziders
 street: "Bundesstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.195949500000005
 longitude: 16.3724908
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Argentinierstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.062052300000005
 longitude: 15.437940000000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Pestalozzistraße"
 housenumber: 33

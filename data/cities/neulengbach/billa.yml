@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1922451
 longitude: 15.8940192
-postcode: 3040
+postcode: "3040"
 city: Neulengbach
 street: "Sankt Christophener Straße"
 housenumber: 62

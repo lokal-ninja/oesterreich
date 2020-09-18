@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 47.2139705
 longitude: 14.8288688
-postcode: 8720
+postcode: "8720"
 city: Knittefeld
 street: "Herrengasse"
 housenumber: 1

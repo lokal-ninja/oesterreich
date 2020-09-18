@@ -3,7 +3,7 @@ type: node
 shop: Friseurbedarf
 latitude: 47.8260194
 longitude: 13.0342982
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Wasserfeldstraße"
 housenumber: 19

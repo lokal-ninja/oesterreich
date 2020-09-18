@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1595445
 longitude: 16.1533009
-postcode: 2381
+postcode: "2381"
 city: Laab im Walde
 street: "Hauptstraße"
 housenumber: 62

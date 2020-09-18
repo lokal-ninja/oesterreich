@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1800541
 longitude: 16.342210700000003
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Flurschützstraße"
 housenumber: 26

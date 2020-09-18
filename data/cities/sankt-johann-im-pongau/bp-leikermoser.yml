@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.3344029
 longitude: 13.1889584
-postcode: 5600
+postcode: "5600"
 city: Sankt Johann im Pongau
 street: "Bundesstraße"
 housenumber: 2

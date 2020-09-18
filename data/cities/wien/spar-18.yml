@@ -1,12 +1,12 @@
-id: 623160886
+id: 583224524
 type: node
 shop: Supermarkt
-latitude: 48.1932824
-longitude: 16.353460600000002
-postcode: 1060
+latitude: 48.15317
+longitude: 16.4508724
+postcode: "1110"
 city: Wien
-street: "Hofmühlgasse"
-housenumber: 4
-phone: "+43 1 5853264"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.spar.at/standorte/spar-wien-1060-hofmuehlgasse-4"
+street: "Simmeringer Hauptstraße"
+housenumber: 397
+phone: ""
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+website: ""

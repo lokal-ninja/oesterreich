@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 48.8087103
 longitude: 15.302089400000002
-postcode: 3830
+postcode: "3830"
 city: Waidhofen an der Thaya
 street: "ÖAMTC-Straße"
 housenumber: 3

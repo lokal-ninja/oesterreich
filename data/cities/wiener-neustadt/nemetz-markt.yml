@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.8358392
 longitude: 16.2444932
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Wiener Straße"
 housenumber: 111

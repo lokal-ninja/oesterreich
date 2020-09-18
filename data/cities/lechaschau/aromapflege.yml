@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.479990900000004
 longitude: 10.697644400000001
-postcode: 6600
+postcode: "6600"
 city: Lechaschau
 street: "Sepp-Hagenmüller-Straße"
 housenumber: 6

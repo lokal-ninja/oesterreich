@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.2466291
 longitude: 16.642785200000002
-postcode: 2280
+postcode: "2280"
 city: Glinzendorf
 street: "Sonnenweg"
 housenumber: 11

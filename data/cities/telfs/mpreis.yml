@@ -1,12 +1,12 @@
-id: 54065537
-type: way
+id: 254485996
+type: node
 shop: Supermarkt
-latitude: 47.303467600000005
-longitude: 11.070869
-postcode: 6410
+latitude: 47.3082184
+longitude: 11.0666904
+postcode: "6410"
 city: Telfs
-street: "Anton-Auer-Straße"
-housenumber: 29
-phone: ""
-opening_hours: ""
-website: ""
+street: "Obermarktstraße"
+housenumber: 41
+phone: "+43 50321 928096"
+opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; PH off"
+website: "https://www.mpreis.at/sp/standorte"

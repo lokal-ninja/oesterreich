@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.8361699
 longitude: 16.2429712
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Wiener Straße"
 housenumber: 113 Halle 2.9.A

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.232845700000006
 longitude: 16.3749559
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Dammstraße"
 housenumber: 18

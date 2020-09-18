@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.056715600000004
 longitude: 15.4719425
-postcode: 8042
+postcode: "8042"
 city: Graz
 street: "Sankt-Peter-Hauptstraße"
 housenumber: 30

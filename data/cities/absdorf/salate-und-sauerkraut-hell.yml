@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.3063068
 longitude: 15.619109400000001
-postcode: 3125
+postcode: "3125"
 city: Absdorf
 street: "Helenengasse"
 housenumber: 6

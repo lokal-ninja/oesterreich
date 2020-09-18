@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 46.6236983
 longitude: 14.3033712
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Villacher Straße"
 housenumber: 6

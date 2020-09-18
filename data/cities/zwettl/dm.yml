@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.6006871
 longitude: 15.186295000000001
-postcode: 3910
+postcode: "3910"
 city: Zwettl
 street: "Anton Gareis-Straße"
 housenumber: 3

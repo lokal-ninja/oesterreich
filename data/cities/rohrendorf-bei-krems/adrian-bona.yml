@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.4175929
 longitude: 15.644631200000001
-postcode: 3495
+postcode: "3495"
 city: Rohrendorf bei Krems
 street: "Admonterstraße"
 housenumber: 2

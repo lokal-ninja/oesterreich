@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.2154302
 longitude: 15.651056
-postcode: 3100
+postcode: "3100"
 city: Sankt Pölten
 street: "Engelbert-Laimer-Straße"
 housenumber: 2

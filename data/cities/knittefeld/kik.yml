@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.2098774
 longitude: 14.8078886
-postcode: 8720
+postcode: "8720"
 city: Knittefeld
 street: "Kärntner Straße"
 housenumber: 77

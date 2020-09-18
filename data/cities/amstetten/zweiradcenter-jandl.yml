@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.1189954
 longitude: 14.8684246
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Ignaz-Innerhuber-Straße"
 housenumber: 2-4

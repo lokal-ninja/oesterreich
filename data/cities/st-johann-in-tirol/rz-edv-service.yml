@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.5343486
 longitude: 12.4393138
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Niederhofen"
 housenumber: 15

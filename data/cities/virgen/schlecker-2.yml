@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.0035572
 longitude: 12.4585273
-postcode: 9972
+postcode: "9972"
 city: Virgen
 street: "Virgental Straße"
 housenumber: 72

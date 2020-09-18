@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.2805241
 longitude: 11.505583000000001
-postcode: 6060
+postcode: "6060"
 city: Hall in Tirol
 street: "Schmiedtorgasse"
 housenumber: 3

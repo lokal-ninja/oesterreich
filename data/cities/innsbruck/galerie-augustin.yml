@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.2675229
 longitude: 11.3918367
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Seilergasse"
 housenumber: 17

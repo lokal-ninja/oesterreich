@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.301873300000004
 longitude: 14.2942762
-postcode: 4020
+postcode: "4020"
 city: Linz
 street: "Mozartstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.1199499
 longitude: 13.1504732
-postcode: 5231
+postcode: "5231"
 city: Schalchen
 street: "Schweigererstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.237190000000005
 longitude: 9.595909500000001
-postcode: 6800
+postcode: "6800"
 city: Feldkirch
 street: "Marktplatz"
 housenumber: 15

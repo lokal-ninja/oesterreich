@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.106192
 longitude: 16.308312700000002
-postcode: 2345
+postcode: "2345"
 city: Brunn am Gebirge
 street: "Johann Steinböck Straße"
 housenumber: 16

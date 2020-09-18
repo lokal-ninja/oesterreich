@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.200948600000004
 longitude: 16.3521293
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Kirchengasse"
 housenumber: 9a

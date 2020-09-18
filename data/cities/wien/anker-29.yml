@@ -1,12 +1,12 @@
-id: 3228746443
+id: 3222185301
 type: node
 shop: Bäckerei
-latitude: 48.1853507
-longitude: 16.418258700000003
-postcode: 1110
+latitude: 48.155857700000006
+longitude: 16.355695100000002
+postcode: ""
 city: Wien
-street: "Guglgasse"
-housenumber: 6
+street: "Otto-Probst-Straße"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 07:30-18:00"
+opening_hours: ""
 website: ""

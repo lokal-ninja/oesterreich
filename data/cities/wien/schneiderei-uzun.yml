@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.2054757
 longitude: 16.347472
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Neustiftgasse"
 housenumber: 79

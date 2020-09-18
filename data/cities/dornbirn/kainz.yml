@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4097838
 longitude: 9.7244676
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Härte"
 housenumber: 2

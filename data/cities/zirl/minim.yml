@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.2738175
 longitude: 11.2397937
-postcode: 6170
+postcode: "6170"
 city: Zirl
 street: "Schwabstraße"
 housenumber: 11

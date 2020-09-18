@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.265092800000005
 longitude: 11.3962233
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Erlerstraße"
 housenumber: 17-19

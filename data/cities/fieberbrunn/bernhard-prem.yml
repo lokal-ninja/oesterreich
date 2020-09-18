@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.476775
 longitude: 12.5445638
-postcode: 6391
+postcode: "6391"
 city: Fieberbrunn
 street: "Dorfplatz"
 housenumber: 1

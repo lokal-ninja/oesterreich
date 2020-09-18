@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.320766000000006
 longitude: 11.5713305
-postcode: 6069
+postcode: "6069"
 city: Gnadenwald
 street: "Gnadenwald"
 housenumber: 119c

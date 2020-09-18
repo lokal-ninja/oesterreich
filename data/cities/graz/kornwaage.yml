@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.082418700000005
 longitude: 15.4328394
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Theodor-Körner-Straße"
 housenumber: 47

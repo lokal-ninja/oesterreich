@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.2633829
 longitude: 16.444584300000002
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Leopoldauer Platz"
 housenumber: 39

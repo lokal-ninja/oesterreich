@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.1099927
 longitude: 14.1700756
-postcode: 8850
+postcode: "8850"
 city: Murau
 street: "Anna-Neumann-Straße"
 housenumber: 8

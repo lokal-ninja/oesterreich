@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.160515200000006
 longitude: 14.0265693
-postcode: 4600
+postcode: "4600"
 city: Wels
 street: "Stelzhamerstraße"
 housenumber: 8

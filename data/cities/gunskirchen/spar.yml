@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1345223
 longitude: 13.9406282
-postcode: 4623
+postcode: "4623"
 city: Gunskirchen
 street: "Pichler Straße"
 housenumber: 4

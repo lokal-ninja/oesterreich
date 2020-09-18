@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.0678069
 longitude: 15.4210866
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Friedhofgasse"
 housenumber: 3

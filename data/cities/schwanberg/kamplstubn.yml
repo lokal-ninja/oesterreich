@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 46.755855600000004
 longitude: 15.2002479
-postcode: 8541
+postcode: "8541"
 city: Schwanberg
 street: "Schulgasse"
 housenumber: 4

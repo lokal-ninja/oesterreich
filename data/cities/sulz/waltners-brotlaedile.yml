@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.2869058
 longitude: 9.652263000000001
-postcode: 6832
+postcode: "6832"
 city: Sulz
 street: "Müsinenstraße"
 housenumber: 27

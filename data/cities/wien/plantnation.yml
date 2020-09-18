@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.2199554
 longitude: 16.324092800000003
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Klopstockgasse"
 housenumber: 58

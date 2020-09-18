@@ -1,12 +1,12 @@
-id: 2432244594
+id: 2447871270
 type: node
 shop: Kiosk
-latitude: 48.2272715
-longitude: 16.364792400000002
-postcode: 1090
+latitude: 48.271342600000004
+longitude: 16.4463914
+postcode: "1210"
 city: Wien
-street: "U-Bahn Station Friedensbrücke"
-housenumber: 
-phone: "+43 1 3105133"
-opening_hours: "Mo-Fr 05:30-19:00; Sa 07:00-13:00; Su,PH off"
+street: "Pastorstraße"
+housenumber: 18
+phone: ""
+opening_hours: ""
 website: ""

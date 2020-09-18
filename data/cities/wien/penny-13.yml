@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.212613000000005
 longitude: 16.3126988
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Thaliastraße"
 housenumber: 138

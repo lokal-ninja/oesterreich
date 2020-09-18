@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.208524700000005
 longitude: 16.371856
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Stephansplatz"
 housenumber: 11

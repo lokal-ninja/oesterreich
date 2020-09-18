@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 47.802545900000005
 longitude: 13.0446805
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Dreifaltigkeitsgasse"
 housenumber: 9

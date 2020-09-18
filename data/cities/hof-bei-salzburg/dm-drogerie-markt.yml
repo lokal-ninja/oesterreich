@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.818889000000006
 longitude: 13.215694500000001
-postcode: 5322
+postcode: "5322"
 city: Hof bei Salzburg
 street: "Wolfgangseestraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.3658346
 longitude: 9.688123200000001
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Harrachgasse"
 housenumber: 6

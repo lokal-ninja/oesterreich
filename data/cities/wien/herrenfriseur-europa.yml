@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2421013
 longitude: 16.3781278
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Marchfeldstraße"
 housenumber: 17

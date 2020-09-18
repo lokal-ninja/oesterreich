@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.707592500000004
 longitude: 16.075942100000002
-postcode: 2054
+postcode: "2054"
 city: Haugsdorf
 street: "Hauptplatz"
 housenumber: 5

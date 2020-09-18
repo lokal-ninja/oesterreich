@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6944717
 longitude: 15.955049200000001
-postcode: 2051
+postcode: "2051"
 city: Zellerndorf
 street: "Zellerndorf"
 housenumber: 303

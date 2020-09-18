@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.9700135
 longitude: 16.8374168
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Äußeres Hirschfeld"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.165620000000004
 longitude: 16.3144132
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Hetzendorfer Straße"
 housenumber: 52/4

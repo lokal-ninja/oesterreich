@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.0105486
 longitude: 14.739562000000001
-postcode: 3332
+postcode: "3332"
 city: Rosenau am Sonntagberg
 street: "Gewerbepark"
 housenumber: 3

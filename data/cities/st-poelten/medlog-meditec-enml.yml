@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 48.1730602
 longitude: 15.638257000000001
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Mathilde-Beyerknecht-Straße"
 housenumber: 9

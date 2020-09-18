@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2266211
 longitude: 16.3414842
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Währinger Straße"
 housenumber: 113

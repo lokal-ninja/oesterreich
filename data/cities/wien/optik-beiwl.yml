@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.2154523
 longitude: 16.3473845
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Alser Straße"
 housenumber: 26

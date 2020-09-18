@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.521767600000004
 longitude: 12.4271952
-postcode: 6380
+postcode: "6380"
 city: St. Johann in Tirol
 street: "Poststraße"
 housenumber: 4

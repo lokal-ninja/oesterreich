@@ -3,10 +3,10 @@ type: node
 shop: Kopieren
 latitude: 48.137122500000004
 longitude: 16.3141454
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Perfektastraße"
 housenumber: 58
 phone: "+43 1 890 78 78"
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-18:30"
 website: "https://druckraum.at"

@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.203863000000005
 longitude: 16.375950500000002
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Hegelgasse"
 housenumber: 7

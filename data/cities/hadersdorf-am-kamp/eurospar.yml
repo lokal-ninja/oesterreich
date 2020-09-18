@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.461488
 longitude: 15.723621900000001
-postcode: 3493
+postcode: "3493"
 city: Hadersdorf am Kamp
 street: "Angerstraße"
 housenumber: 2

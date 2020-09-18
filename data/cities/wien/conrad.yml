@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.2440389
 longitude: 16.460893300000002
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Gewerbeparkstraße"
 housenumber: 12

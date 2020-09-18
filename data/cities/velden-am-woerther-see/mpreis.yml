@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.6134381
 longitude: 14.038658600000002
-postcode: 9220
+postcode: "9220"
 city: Velden am Wörther See
 street: "Villacher Straße"
 housenumber: 9

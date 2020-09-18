@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.297007300000004
 longitude: 12.788620100000001
-postcode: 5700
+postcode: "5700"
 city: Zell am See
 street: "Gletschermoosstraße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.3279306
 longitude: 11.1872734
-postcode: 6100
+postcode: "6100"
 city: Seefeld
 street: "Innsbrucker Straße"
 housenumber: 20

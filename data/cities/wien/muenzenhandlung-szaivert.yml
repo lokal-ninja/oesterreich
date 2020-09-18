@@ -3,7 +3,7 @@ type: node
 shop: Sammler
 latitude: 48.2078691
 longitude: 16.3774681
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Riemergasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 47.081858600000004
 longitude: 15.433271000000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Theodor-Körner-Straße"
 housenumber: 37

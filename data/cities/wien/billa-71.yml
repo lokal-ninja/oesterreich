@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1719158
 longitude: 16.3536624
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Knöllgasse"
 housenumber: 49-51

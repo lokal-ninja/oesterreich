@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.0853982
 longitude: 15.4189152
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Kalvariengürtel"
 housenumber: 38

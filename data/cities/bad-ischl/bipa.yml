@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.7110664
 longitude: 13.621883100000002
-postcode: 4820
+postcode: "4820"
 city: Bad Ischl
 street: "Pfarrgasse"
 housenumber: 9

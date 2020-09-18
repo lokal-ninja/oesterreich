@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.224003800000006
 longitude: 16.397523200000002
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Walcherstraße"
 housenumber: 11

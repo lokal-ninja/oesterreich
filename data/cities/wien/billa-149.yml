@@ -1,12 +1,12 @@
-id: 4512270471
+id: 4512270472
 type: node
 shop: Supermarkt
-latitude: 48.186026700000006
-longitude: 16.4139078
-postcode: 1030
+latitude: 48.1868113
+longitude: 16.4003333
+postcode: "1030"
 city: Wien
-street: "Franzosengraben"
-housenumber: 17
-phone: "+43 1 7980847"
+street: "Leberstraße"
+housenumber: 2-4
+phone: "+43 1 7981384"
 opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su off; PH off"
 website: "https://www.billa.at/"

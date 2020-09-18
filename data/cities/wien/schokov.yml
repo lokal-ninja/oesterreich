@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.202457700000004
 longitude: 16.354198500000003
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Siebensterngasse"
 housenumber: 20

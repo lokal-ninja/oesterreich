@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.2250699
 longitude: 16.4990272
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Mimi-Grossberg-Gasse"
 housenumber: 11

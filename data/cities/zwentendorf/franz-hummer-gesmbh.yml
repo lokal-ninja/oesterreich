@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.3445984
 longitude: 15.9054432
-postcode: 3435
+postcode: "3435"
 city: Zwentendorf
 street: "Postgasse"
 housenumber: 63

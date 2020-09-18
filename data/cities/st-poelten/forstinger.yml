@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2236916
 longitude: 15.635210500000001
-postcode: 3107
+postcode: "3107"
 city: St. Pölten
 street: "Dr.-Wilhelm-Steingötter-Straße"
 housenumber: 28

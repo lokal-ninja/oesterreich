@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.2256738
 longitude: 16.3944569
-postcode: 1020
+postcode: "1020"
 city: Wien
 street: "Krakauer Straße"
 housenumber: 14

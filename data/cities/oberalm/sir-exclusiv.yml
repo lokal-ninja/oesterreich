@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.699357400000004
 longitude: 13.0997689
-postcode: 5411
+postcode: "5411"
 city: Oberalm
 street: "Halleiner Landesstraße"
 housenumber: 40

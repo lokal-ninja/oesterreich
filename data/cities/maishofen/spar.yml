@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.3615313
 longitude: 12.805949400000001
-postcode: 5751
+postcode: "5751"
 city: Maishofen
 street: "Anton-Faistauer-Platz"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.2682031
 longitude: 14.2660145
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Welser Straße"
 housenumber: 37

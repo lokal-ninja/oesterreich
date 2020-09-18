@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2098402
 longitude: 16.335951700000003
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Brunnengasse"
 housenumber: 38

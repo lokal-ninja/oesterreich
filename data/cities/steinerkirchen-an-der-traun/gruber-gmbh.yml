@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.070849700000004
 longitude: 14.005422000000001
-postcode: 4652
+postcode: "4652"
 city: Steinerkirchen an der Traun
 street: "Gundersdorf"
 housenumber: 17

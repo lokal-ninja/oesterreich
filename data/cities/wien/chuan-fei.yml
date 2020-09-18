@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1959718
 longitude: 16.359866800000002
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Kettenbrückengasse"
 housenumber: 19

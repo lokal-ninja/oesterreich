@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.364276100000005
 longitude: 9.6807961
-postcode: 6845
+postcode: "6845"
 city: Hohenems
 street: "Angelika-Kauffmann-Straße"
 housenumber: 5

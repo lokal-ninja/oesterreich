@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.103858
 longitude: 16.3994404
-postcode: 2333
+postcode: "2333"
 city: Leopoldsdorf
 street: "Maria Lanzendorferstraße"
 housenumber: 1

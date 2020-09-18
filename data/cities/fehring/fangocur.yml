@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 46.952916200000004
 longitude: 15.998133500000002
-postcode: 8350
+postcode: "8350"
 city: Fehring
 street: ""
 housenumber: 105b

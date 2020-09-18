@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.0742628
 longitude: 15.4312023
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Lendplatz"
 housenumber: 7

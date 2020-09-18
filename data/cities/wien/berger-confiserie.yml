@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.208144700000005
 longitude: 16.3767138
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Wollzeile"
 housenumber: 22

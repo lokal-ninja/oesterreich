@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.236207900000004
 longitude: 16.4412872
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Donaustadtstraße"
 housenumber: 34

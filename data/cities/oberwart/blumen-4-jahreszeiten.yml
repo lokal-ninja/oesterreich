@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.289230700000005
 longitude: 16.1997882
-postcode: 7400
+postcode: "7400"
 city: Oberwart
 street: "Grazer Straße"
 housenumber: 43

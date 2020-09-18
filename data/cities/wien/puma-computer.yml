@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.2577215
 longitude: 16.395565
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Schwaigergasse"
 housenumber: 35

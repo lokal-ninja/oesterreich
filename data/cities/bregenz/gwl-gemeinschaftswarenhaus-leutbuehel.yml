@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.502333400000005
 longitude: 9.7467857
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Römerstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.2927005
 longitude: 11.590243300000001
-postcode: 6112
+postcode: "6112"
 city: Wattens
 street: "Bahnhofstraße"
 housenumber: 17

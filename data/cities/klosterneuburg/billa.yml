@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.302893600000004
 longitude: 16.3269938
-postcode: 3400
+postcode: "3400"
 city: Klosterneuburg
 street: "Leopoldstraße"
 housenumber: 24

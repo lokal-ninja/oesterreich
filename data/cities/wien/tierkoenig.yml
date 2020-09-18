@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.243398400000004
 longitude: 16.3787889
-postcode: 1200
+postcode: "1200"
 city: Wien
 street: "Marchfeldstraße"
 housenumber: 25

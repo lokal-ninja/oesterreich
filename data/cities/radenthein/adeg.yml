@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 46.7684982
 longitude: 13.649360900000001
-postcode: 9873
+postcode: "9873"
 city: Radenthein
 street: "Glanzerstraße"
 housenumber: 104
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 08:00-12:30; Mo-Sa 14:30-18:00"
 website: ""

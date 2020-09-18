@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 47.2675027
 longitude: 11.3923953
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Kiebachgasse"
 housenumber: 10

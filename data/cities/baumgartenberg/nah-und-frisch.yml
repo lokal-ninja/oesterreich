@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2101947
 longitude: 14.741740900000002
-postcode: 4342
+postcode: "4342"
 city: Baumgartenberg
 street: ""
 housenumber: 30

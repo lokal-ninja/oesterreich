@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.086467500000005
 longitude: 16.4346071
-postcode: 2325
+postcode: "2325"
 city: Himberg
 street: "Wienerstraße"
 housenumber: 33

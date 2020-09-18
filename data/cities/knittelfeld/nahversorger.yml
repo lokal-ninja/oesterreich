@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.208859600000004
 longitude: 14.8296781
-postcode: 8720
+postcode: "8720"
 city: Knittelfeld
 street: "Esperantostraße"
 housenumber: 34

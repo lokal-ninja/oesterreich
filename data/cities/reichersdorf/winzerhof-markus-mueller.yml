@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.3339331
 longitude: 15.698634100000001
-postcode: 3134
+postcode: "3134"
 city: Reichersdorf
 street: "Wegscheidgasse"
 housenumber: 4

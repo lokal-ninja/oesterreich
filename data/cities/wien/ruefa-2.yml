@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.211330600000004
 longitude: 16.377699
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Franz-Josefs-Kai"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.2591704
 longitude: 11.386990200000001
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Freisingstraße"
 housenumber: 8

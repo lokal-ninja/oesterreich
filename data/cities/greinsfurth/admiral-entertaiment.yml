@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.1098598
 longitude: 14.839379600000001
-postcode: 3300
+postcode: "3300"
 city: Greinsfurth
 street: "Waidhofner Straße"
 housenumber: 42b

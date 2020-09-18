@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1887186
 longitude: 15.619264600000001
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Franz-Jonas-Straße"
 housenumber: 4

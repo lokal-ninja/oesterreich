@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 46.6620216
 longitude: 13.0785233
-postcode: 9635
+postcode: "9635"
 city: Dellach
 street: "Dellach"
 housenumber: 12

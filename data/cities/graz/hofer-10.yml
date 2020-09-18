@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.0286387
 longitude: 15.465470300000002
-postcode: 8041
+postcode: "8041"
 city: Graz
 street: "Liebenauer Hauptstraße"
 housenumber: 224

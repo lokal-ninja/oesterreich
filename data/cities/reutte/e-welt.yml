@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.494242
 longitude: 10.7249028
-postcode: 6600
+postcode: "6600"
 city: Reutte
 street: "Großfeldstraße"
 housenumber: 10

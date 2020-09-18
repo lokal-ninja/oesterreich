@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.6703166
 longitude: 14.784018600000001
-postcode: 8922
+postcode: "8922"
 city: Landl
 street: ""
 housenumber: 166a

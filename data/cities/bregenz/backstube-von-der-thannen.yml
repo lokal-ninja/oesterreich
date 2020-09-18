@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.504721700000005
 longitude: 9.749015
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Anton-Schneider-Straße"
 housenumber: 30

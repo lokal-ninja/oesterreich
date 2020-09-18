@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1989412
 longitude: 16.3680536
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Wiedner Hauptstraße"
 housenumber: 3

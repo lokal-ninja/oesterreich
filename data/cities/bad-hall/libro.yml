@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.0369133
 longitude: 14.2106533
-postcode: 4540
+postcode: "4540"
 city: Bad Hall
 street: "Bahnhofplatz"
 housenumber: 11

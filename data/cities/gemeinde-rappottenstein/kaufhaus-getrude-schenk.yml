@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.538546200000006
 longitude: 15.051427100000002
-postcode: 3911
+postcode: "3911"
 city: Gemeinde Rappottenstein
 street: ""
 housenumber: 6

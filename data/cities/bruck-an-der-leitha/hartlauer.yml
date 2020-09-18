@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.0346294
 longitude: 16.808815000000003
-postcode: 2460
+postcode: "2460"
 city: Bruck an der Leitha
 street: "Eco-Plus-Park"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.0682874
 longitude: 15.446500100000002
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Kaiser-Josef-Platz"
 housenumber: 6-8

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.235015000000004
 longitude: 16.4107421
-postcode: 1220
+postcode: "1220"
 city: Wien
 street: "Leonard-Bernstein-Straße"
 housenumber: 4-6

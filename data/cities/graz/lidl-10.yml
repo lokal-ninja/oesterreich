@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.059331400000005
 longitude: 15.394796200000002
-postcode: 8052
+postcode: "8052"
 city: Graz
 street: "Straßganger Straße"
 housenumber: 108

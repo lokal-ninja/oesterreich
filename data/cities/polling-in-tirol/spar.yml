@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2817043
 longitude: 11.1499091
-postcode: 6404
+postcode: "6404"
 city: Polling in Tirol
 street: "Polling in Tirol"
 housenumber: 201

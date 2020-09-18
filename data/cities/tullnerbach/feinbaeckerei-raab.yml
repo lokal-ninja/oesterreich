@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1848484
 longitude: 16.0941185
-postcode: 3013
+postcode: "3013"
 city: Tullnerbach
 street: "Hauptstraße"
 housenumber: 43

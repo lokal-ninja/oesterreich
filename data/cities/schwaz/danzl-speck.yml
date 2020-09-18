@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3532129
 longitude: 11.7305243
-postcode: 6130
+postcode: "6130"
 city: Schwaz
 street: "Ried"
 housenumber: 29

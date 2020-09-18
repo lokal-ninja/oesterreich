@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.646188
 longitude: 13.6150181
-postcode: 4822
+postcode: "4822"
 city: Bad Goisern am Hallstättersee
 street: "Bundesstraße"
 housenumber: 120

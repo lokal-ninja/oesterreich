@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 48.3852484
 longitude: 16.2027553
-postcode: 2000
+postcode: "2000"
 city: Stockerau
 street: "Josef-Wolfik-Straße"
 housenumber: 32

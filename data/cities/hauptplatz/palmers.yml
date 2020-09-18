@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.227271300000005
 longitude: 15.329844300000001
-postcode: 3390
+postcode: "3390"
 city: Hauptplatz
 street: "Melk"
 housenumber: 3

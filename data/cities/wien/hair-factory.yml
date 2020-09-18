@@ -1,12 +1,12 @@
 id: 1770273876
 type: node
 shop: Friseur
-latitude: 48.2034327
-longitude: 16.3863285
-postcode: 1030
+latitude: 48.2034718
+longitude: 16.3862011
+postcode: "1030"
 city: Wien
 street: "Ungargasse"
 housenumber: 10
-phone: ""
+phone: "+43 1 7146004"
 opening_hours: "Tu, We 09:00-18:00; Th, Fr 09:00-19:00; Sa 09:00-14:00"
 website: "http://www.hair-factory.at"

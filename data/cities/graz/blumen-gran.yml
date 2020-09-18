@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.100289100000005
 longitude: 15.425121700000002
-postcode: 8045
+postcode: "8045"
 city: Graz
 street: "Andritzer Reichsstraße"
 housenumber: 18

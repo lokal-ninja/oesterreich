@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.516370200000004
 longitude: 15.6962012
-postcode: 3562
+postcode: "3562"
 city: Schönberg
 street: "Kamptalstraße"
 housenumber: 12

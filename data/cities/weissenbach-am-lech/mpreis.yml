@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4413186
 longitude: 10.6414272
-postcode: 6671
+postcode: "6671"
 city: Weissenbach am Lech
 street: "Kirchplatz"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.3145704
 longitude: 9.675839400000001
-postcode: 6833
+postcode: "6833"
 city: Fraxern
 street: "Rohrackerweg"
 housenumber: 5

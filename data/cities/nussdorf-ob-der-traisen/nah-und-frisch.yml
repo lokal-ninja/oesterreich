@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.353318800000004
 longitude: 15.695634000000002
-postcode: 3134
+postcode: "3134"
 city: Nußdorf ob der Traisen
 street: "Marktplatz"
 housenumber: 4

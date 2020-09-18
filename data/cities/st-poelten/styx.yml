@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.204651600000005
 longitude: 15.6253366
-postcode: 3100
+postcode: "3100"
 city: St. Pölten
 street: "Wiener Straße"
 housenumber: 17

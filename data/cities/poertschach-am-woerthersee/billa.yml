@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.636272600000005
 longitude: 14.141659800000001
-postcode: 9210
+postcode: "9210"
 city: Pörtschach am Wörthersee
 street: "Hauptstraße"
 housenumber: 202

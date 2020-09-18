@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.169349100000005
 longitude: 16.3012346
-postcode: 1120
+postcode: "1120"
 city: Wien
 street: "Hetzendorfer Straße"
 housenumber: 135

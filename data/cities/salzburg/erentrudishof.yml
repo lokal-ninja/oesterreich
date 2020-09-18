@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.777104200000004
 longitude: 13.0566557
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Morzger Straße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5167925
 longitude: 10.455980400000001
-postcode: 6677
+postcode: "6677"
 city: Schattwald
 street: "Schattwald"
 housenumber: 35a

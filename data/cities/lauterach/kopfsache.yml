@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.469826100000006
 longitude: 9.728917200000001
-postcode: 6923
+postcode: "6923"
 city: Lauterach
 street: "Bundesstraße"
 housenumber: 101

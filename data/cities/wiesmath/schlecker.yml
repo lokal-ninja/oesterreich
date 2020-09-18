@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.6176052
 longitude: 16.2871758
-postcode: 2811
+postcode: "2811"
 city: Wiesmath
 street: "Hauptplatz"
 housenumber: 5

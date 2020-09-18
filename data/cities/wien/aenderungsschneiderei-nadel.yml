@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.2142026
 longitude: 16.3492691
-postcode: 1080
+postcode: "1080"
 city: Wien
 street: "Kochgasse"
 housenumber: 25

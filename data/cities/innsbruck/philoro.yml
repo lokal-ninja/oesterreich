@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 47.2631749
 longitude: 11.3946441
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maria-Theresien-Straße"
 housenumber: 42a

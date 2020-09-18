@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.057290800000004
 longitude: 16.0818145
-postcode: 2534
+postcode: "2534"
 city: Alland
 street: "Mayerlingerstraße"
 housenumber: 4

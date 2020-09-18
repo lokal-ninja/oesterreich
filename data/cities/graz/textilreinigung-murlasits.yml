@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.0693062
 longitude: 15.4381587
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Raubergasse"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.761152100000004
 longitude: 14.986131400000001
-postcode: 3950
+postcode: "3950"
 city: Gmünd
 street: "Eichenallee"
 housenumber: 3

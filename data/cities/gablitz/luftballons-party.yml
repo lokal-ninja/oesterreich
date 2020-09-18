@@ -3,7 +3,7 @@ type: way
 shop: Partyzubehör
 latitude: 48.224369
 longitude: 16.160253400000002
-postcode: 3003
+postcode: "3003"
 city: Gablitz
 street: "Linzer Straße"
 housenumber: 57

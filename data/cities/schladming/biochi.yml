@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.390509
 longitude: 13.6884247
-postcode: 8970
+postcode: "8970"
 city: Schladming
 street: "Martin Luther-Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.2286845
 longitude: 15.3511921
-postcode: 3390
+postcode: "3390"
 city: Melk
 street: "Umfahrungsstraße"
 housenumber: 1

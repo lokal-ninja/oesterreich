@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.833034500000004
 longitude: 16.2435455
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Josef Mohr-Gasse"
 housenumber: 3

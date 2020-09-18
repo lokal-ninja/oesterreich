@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3065031
 longitude: 15.472447
-postcode: 3122
+postcode: "3122"
 city: Gansbach
 street: "Marktplatz"
 housenumber: 9

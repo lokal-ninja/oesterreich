@@ -1,6 +1,6 @@
 ---
 title: Inzing
 url: /inzing/
-latitude: 48.182376700000006
-longitude: 14.688673000000001
+latitude: 47.274186
+longitude: 11.1970065
 ---

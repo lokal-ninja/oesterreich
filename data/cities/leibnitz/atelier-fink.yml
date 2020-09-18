@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 46.78243620000001
 longitude: 15.540405400000001
-postcode: 8430
+postcode: "8430"
 city: Leibnitz
 street: "Kaspar-Harb-Gasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 47.9602803
 longitude: 14.7737739
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Unterer Stadtplatz"
 housenumber: 10

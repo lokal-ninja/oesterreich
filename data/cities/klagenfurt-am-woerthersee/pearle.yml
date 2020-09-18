@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 46.625277000000004
 longitude: 14.309676300000001
-postcode: 
+postcode: ""
 city: Klagenfurt am Wörthersee
 street: "Alter Platz"
 housenumber: 18

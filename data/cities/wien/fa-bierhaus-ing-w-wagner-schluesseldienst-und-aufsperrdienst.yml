@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 48.209902500000005
 longitude: 16.330635400000002
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Thaliastraße"
 housenumber: 48

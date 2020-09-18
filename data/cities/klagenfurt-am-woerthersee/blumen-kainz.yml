@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 46.642333
 longitude: 14.314686700000001
-postcode: 9020
+postcode: "9020"
 city: Klagenfurt am Wörthersee
 street: "St. Veiter Straße"
 housenumber: 115

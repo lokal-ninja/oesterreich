@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.2828675
 longitude: 9.6540811
-postcode: 6832
+postcode: "6832"
 city: Sulz
 street: "Austraße"
 housenumber: 20

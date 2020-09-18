@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.5413286
 longitude: 14.886874500000001
-postcode: 8790
+postcode: "8790"
 city: Eisenerz
 street: "Freiheitsplatz"
 housenumber: 2

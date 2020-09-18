@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.680582
 longitude: 15.075360700000001
-postcode: 8554
+postcode: "8554"
 city: Eibiswald
 street: ""
 housenumber: 88

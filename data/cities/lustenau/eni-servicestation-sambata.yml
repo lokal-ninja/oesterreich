@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.4190437
 longitude: 9.6610215
-postcode: 
+postcode: ""
 city: Lustenau
 street: "Hohenemser Straße"
 housenumber: 1

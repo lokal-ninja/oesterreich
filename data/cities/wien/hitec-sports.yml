@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.178094
 longitude: 16.2732499
-postcode: 1130
+postcode: "1130"
 city: Wien
 street: "Rotenberggasse"
 housenumber: 6

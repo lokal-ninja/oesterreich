@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4241097
 longitude: 15.001178800000002
-postcode: 8793
+postcode: "8793"
 city: Trofaiach
 street: "Langefelderstraße"
 housenumber: 4

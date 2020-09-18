@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.800611700000005
 longitude: 13.043099400000001
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Griesgasse"
 housenumber: 15

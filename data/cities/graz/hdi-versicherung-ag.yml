@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.025792200000005
 longitude: 15.4674159
-postcode: 8041
+postcode: "8041"
 city: Graz
 street: "Liebenauer Hauptstraße"
 housenumber: 246

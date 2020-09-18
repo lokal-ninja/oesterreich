@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.297815400000005
 longitude: 16.371820500000002
-postcode: 2103
+postcode: "2103"
 city: Langenzersdorf
 street: ""
 housenumber: 

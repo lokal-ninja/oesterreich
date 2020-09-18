@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 47.9609248
 longitude: 14.7751242
-postcode: 3340
+postcode: "3340"
 city: Waidhofen an der Ybbs
 street: "Oberer Stadtplatz"
 housenumber: 16

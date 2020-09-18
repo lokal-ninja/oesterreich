@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.044781
 longitude: 15.414014400000001
-postcode: 8053
+postcode: "8053"
 city: Graz
 street: "Kärntner Straße"
 housenumber: 176a

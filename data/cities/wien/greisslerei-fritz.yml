@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2023754
 longitude: 16.294373200000003
-postcode: 1140
+postcode: "1140"
 city: Wien
 street: "Braillegasse"
 housenumber: 9

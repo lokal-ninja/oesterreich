@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.2201159
 longitude: 13.7728207
-postcode: 4710
+postcode: "4710"
 city: Grieskirchen
 street: "Aigen"
 housenumber: 4

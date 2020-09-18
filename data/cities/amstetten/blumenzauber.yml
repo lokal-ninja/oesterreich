@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.118540200000005
 longitude: 14.8688932
-postcode: 3300
+postcode: "3300"
 city: Amstetten
 street: "Adalbert-Stifter-Straße"
 housenumber: 11

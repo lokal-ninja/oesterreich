@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 48.1988294
 longitude: 16.3242125
-postcode: 1150
+postcode: "1150"
 city: Wien
 street: "Hütteldorfer Straße"
 housenumber: 48

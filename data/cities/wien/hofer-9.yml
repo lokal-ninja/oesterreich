@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1959364
 longitude: 16.3657845
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Paulanergasse"
 housenumber: 13

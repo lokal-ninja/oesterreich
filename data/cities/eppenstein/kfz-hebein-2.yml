@@ -3,9 +3,9 @@ type: node
 shop: Autowerkstatt
 latitude: 47.1316843
 longitude: 14.7387198
-postcode: 8741
+postcode: "8741"
 city: EPPENSTEIN
-street: "Eppenstein"
+street: ""
 housenumber: 37A
 phone: "+43 664 91 51 113"
 opening_hours: ""

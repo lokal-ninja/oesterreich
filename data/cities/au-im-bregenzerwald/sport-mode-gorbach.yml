@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.3164225
 longitude: 9.9998194
-postcode: 6883
+postcode: "6883"
 city: Au im Bregenzerwald
 street: "Lugen"
 housenumber: 95

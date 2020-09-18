@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.3425762
 longitude: 15.8621958
-postcode: 3435
+postcode: "3435"
 city: Zwentendorf an der Donau
 street: ""
 housenumber: 

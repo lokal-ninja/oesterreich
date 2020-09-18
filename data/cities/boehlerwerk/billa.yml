@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9831148
 longitude: 14.750705000000002
-postcode: 3333
+postcode: "3333"
 city: Böhlerwerk
 street: "Waidhofnerstraße"
 housenumber: 64

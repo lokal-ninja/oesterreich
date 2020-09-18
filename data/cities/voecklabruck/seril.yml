@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 48.0040263
 longitude: 13.6376795
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Salzburger Straße"
 housenumber: 46

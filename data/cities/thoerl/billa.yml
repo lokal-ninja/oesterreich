@@ -3,9 +3,9 @@ type: node
 shop: Supermarkt
 latitude: 47.524565700000004
 longitude: 15.2334613
-postcode: 8621
+postcode: "8621"
 city: Thörl
-street: "Palbersdorf"
+street: ""
 housenumber: 181
 phone: ""
 opening_hours: ""

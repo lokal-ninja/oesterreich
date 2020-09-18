@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.497550800000006
 longitude: 16.2336162
-postcode: 2853
+postcode: "2853"
 city: Bad Schönau
 street: "Hauptstrasse"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.207435000000004
 longitude: 16.3435458
-postcode: 1070
+postcode: "1070"
 city: Wien
 street: "Lerchenfelder Straße"
 housenumber: 101

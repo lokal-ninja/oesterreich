@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.463283600000004
 longitude: 13.2591984
-postcode: 5453
+postcode: "5453"
 city: Werfenweng
 street: "Weng"
 housenumber: 198

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.265242900000004
 longitude: 11.3975208
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Bozner Platz"
 housenumber: 1

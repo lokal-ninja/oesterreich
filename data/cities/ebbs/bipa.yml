@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.630531500000004
 longitude: 12.2140295
-postcode: 6341
+postcode: "6341"
 city: Ebbs
 street: "Raiffeisenplatz"
 housenumber: 3

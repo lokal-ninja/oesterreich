@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 46.8951487
 longitude: 15.2608209
-postcode: 8510
+postcode: "8510"
 city: Stainz
 street: "Sauerbrunnstraße"
 housenumber: 23

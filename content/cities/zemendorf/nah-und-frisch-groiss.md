@@ -1,4 +1,4 @@
 ---
-title: "Nah & Frisch Groiss"
+title: "Nah und Frisch Groiss"
 url: /zemendorf/nah-und-frisch-groiss/
 ---

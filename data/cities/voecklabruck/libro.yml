@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.003832100000004
 longitude: 13.676948600000001
-postcode: 4840
+postcode: "4840"
 city: Vöcklabruck
 street: "Max Planck-Straße"
 housenumber: 1

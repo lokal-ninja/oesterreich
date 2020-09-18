@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.2178197
 longitude: 16.3377494
-postcode: 1170
+postcode: "1170"
 city: Wien
 street: "Jörgerstraße"
 housenumber: 26

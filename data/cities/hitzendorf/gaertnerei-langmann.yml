@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 47.067826000000004
 longitude: 15.2795105
-postcode: 8151
+postcode: "8151"
 city: Hitzendorf
 street: "Rohrbach"
 housenumber: 65

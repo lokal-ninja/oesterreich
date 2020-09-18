@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 47.2392095
 longitude: 11.3120118
-postcode: 6091
+postcode: "6091"
 city: Götzens
 street: "Burgstraße"
 housenumber: 60
-phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: ""
+phone: "+43 50321 928192"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
+website: "https://www.mpreis.at/sp/standorte"

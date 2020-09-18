@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.691900000000004
 longitude: 15.8641491
-postcode: 2650
+postcode: "2650"
 city: Payerbach
 street: "Anton-Decker-Gasse"
 housenumber: 6

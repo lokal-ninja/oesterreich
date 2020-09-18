@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3473947
 longitude: 14.508853100000001
-postcode: 4224
+postcode: "4224"
 city: Wartberg ob der Aist
 street: "Kapellenweg"
 housenumber: 

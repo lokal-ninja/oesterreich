@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.1682452
 longitude: 14.658097900000001
-postcode: 8750
+postcode: "8750"
 city: Judenburg
 street: "Burggasse"
 housenumber: 26

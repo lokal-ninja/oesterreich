@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 48.1943003
 longitude: 14.139098500000001
-postcode: 4614
+postcode: "4614"
 city: Marchtrenk
 street: "Carl-Auer-von-Welsbach-Straße"
 housenumber: 2

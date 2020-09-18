@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.0153249
 longitude: 14.7914756
-postcode: 3365
+postcode: "3365"
 city: Allhartsberg
 street: ""
 housenumber: 

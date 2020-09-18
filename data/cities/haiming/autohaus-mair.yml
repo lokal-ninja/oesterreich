@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.236479200000005
 longitude: 10.8671804
-postcode: 6430
+postcode: "6430"
 city: Haiming
 street: "Bundesstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2163077
 longitude: 13.482768700000001
-postcode: 4910
+postcode: "4910"
 city: Ried im Innkreis
 street: "Schärdinger Straße"
 housenumber: 36

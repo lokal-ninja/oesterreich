@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.1446355
 longitude: 16.3124183
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Ranningergasse"
 housenumber: 3

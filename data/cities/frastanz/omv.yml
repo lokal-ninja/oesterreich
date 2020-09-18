@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.2244954
 longitude: 9.6173711
-postcode: 6820
+postcode: "6820"
 city: Frastanz
 street: "Feldkircher Straße"
 housenumber: 47

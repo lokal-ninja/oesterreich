@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.179138
 longitude: 16.3589036
-postcode: 1100
+postcode: "1100"
 city: Wien
 street: "Triester Straße"
 housenumber: 1c

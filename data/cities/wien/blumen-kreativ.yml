@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1876502
 longitude: 16.3520206
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Reinprechtsdorfer Straße"
 housenumber: 51

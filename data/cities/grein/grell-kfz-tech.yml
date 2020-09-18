@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.226798900000006
 longitude: 14.8546212
-postcode: 4360
+postcode: "4360"
 city: Grein
 street: "Kreuznerstraße"
 housenumber: 1

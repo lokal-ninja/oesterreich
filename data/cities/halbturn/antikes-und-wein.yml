@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.8741798
 longitude: 16.973642700000003
-postcode: 7131
+postcode: "7131"
 city: Halbturn
 street: "Schloss Halbturn"
 housenumber: 

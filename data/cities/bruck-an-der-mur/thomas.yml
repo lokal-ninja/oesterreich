@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.410952
 longitude: 15.2707297
-postcode: 8600
+postcode: "8600"
 city: Bruck an der Mur
 street: "Burggasse"
 housenumber: 5

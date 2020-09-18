@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.8048942
 longitude: 13.0482238
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Wolf-Dietrich-Straße"
 housenumber: 6a

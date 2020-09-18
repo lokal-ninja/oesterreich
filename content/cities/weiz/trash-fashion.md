@@ -1,4 +1,4 @@
 ---
-title: "TRASH FASHION"
+title: "Trash Fashion"
 url: /weiz/trash-fashion/
 ---

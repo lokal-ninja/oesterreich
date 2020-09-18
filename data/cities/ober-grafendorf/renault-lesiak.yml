@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.154470100000005
 longitude: 15.557053400000001
-postcode: 3200
+postcode: "3200"
 city: Ober-Grafendorf
 street: ""
 housenumber: 21

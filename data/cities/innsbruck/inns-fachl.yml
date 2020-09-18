@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.264352200000005
 longitude: 11.4103603
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Pradler Straße"
 housenumber: 61

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.063619800000005
 longitude: 15.450659100000001
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Münzgrabenstraße"
 housenumber: 42-44

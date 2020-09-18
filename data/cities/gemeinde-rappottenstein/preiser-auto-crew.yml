@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.522466900000005
 longitude: 15.0698156
-postcode: 3911
+postcode: "3911"
 city: Gemeinde Rappottenstein
 street: ""
 housenumber: 16

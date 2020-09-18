@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.8316742
 longitude: 16.1666159
-postcode: 2721
+postcode: "2721"
 city: Bad Fischau
 street: "Hauptstraße"
 housenumber: 2

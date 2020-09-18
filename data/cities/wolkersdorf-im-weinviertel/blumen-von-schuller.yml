@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.3825562
 longitude: 16.5174641
-postcode: 2120
+postcode: "2120"
 city: Wolkersdorf im Weinviertel
 street: "Haasgasse"
 housenumber: 3

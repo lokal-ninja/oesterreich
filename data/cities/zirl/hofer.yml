@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.267143600000004
 longitude: 11.2293734
-postcode: 6170
+postcode: "6170"
 city: Zirl
 street: "Bahnhofstraße"
 housenumber: 43

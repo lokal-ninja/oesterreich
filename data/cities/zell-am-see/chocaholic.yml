@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 47.3239815
 longitude: 12.7992822
-postcode: 5700
+postcode: "5700"
 city: Zell am See
 street: "Seegasse"
 housenumber: 10

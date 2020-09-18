@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.2659553
 longitude: 11.3942896
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Maria-Theresien-Straße"
 housenumber: 21

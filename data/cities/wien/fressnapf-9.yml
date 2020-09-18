@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.302314100000004
 longitude: 16.4242929
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Brünner Straße"
 housenumber: 

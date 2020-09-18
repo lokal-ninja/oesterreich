@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.0272668
 longitude: 15.432615900000002
-postcode: 8055
+postcode: "8055"
 city: Graz
 street: "Mitterstraße"
 housenumber: 7

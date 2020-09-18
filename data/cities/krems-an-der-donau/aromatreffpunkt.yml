@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 48.411610800000005
 longitude: 15.602419200000002
-postcode: 3500
+postcode: "3500"
 city: Krems an der Donau
 street: "Untere Landstraße"
 housenumber: 33

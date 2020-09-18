@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.105764400000005
 longitude: 15.703128500000002
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Schubertgasse"
 housenumber: 2

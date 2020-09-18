@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.184378800000005
 longitude: 14.680585500000001
-postcode: 8753
+postcode: "8753"
 city: Fohnsdorf
 street: "Arena am Waldfeld"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.2134025
 longitude: 16.3204231
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Ottakringer Straße"
 housenumber: 109

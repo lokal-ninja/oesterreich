@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.1031017
 longitude: 15.707817200000001
-postcode: 8200
+postcode: "8200"
 city: Gleisdorf
 street: "Schillerstraße"
 housenumber: 20

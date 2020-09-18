@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.825168100000006
 longitude: 16.2499127
-postcode: 2700
+postcode: "2700"
 city: Wiener Neustadt
 street: "Pottendorfer Straße"
 housenumber: 29

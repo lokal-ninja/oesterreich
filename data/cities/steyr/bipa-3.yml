@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.0670773
 longitude: 14.420072500000002
-postcode: 4407
+postcode: "4407"
 city: Steyr
 street: "Gleinker Hauptstraße"
 housenumber: 1d

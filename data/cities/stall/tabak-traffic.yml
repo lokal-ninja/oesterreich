@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 46.887803000000005
 longitude: 13.036028
-postcode: 9832
+postcode: "9832"
 city: Stall
 street: ""
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.996957300000005
 longitude: 13.062429100000001
-postcode: 5165
+postcode: "5165"
 city: Berndorf bei Salzburg
 street: "Alte Landesstraße"
 housenumber: 6

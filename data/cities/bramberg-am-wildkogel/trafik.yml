@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.27350980000001
 longitude: 12.3481374
-postcode: 5733
+postcode: "5733"
 city: Bramberg am Wildkogel
 street: "Dorfstraße"
 housenumber: 18

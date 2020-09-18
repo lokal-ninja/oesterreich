@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.4321296
 longitude: 10.9183489
-postcode: 6632
+postcode: "6632"
 city: Ehrwald
 street: ""
 housenumber: 1a

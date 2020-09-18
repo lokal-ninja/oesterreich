@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 47.2826989
 longitude: 11.5068192
-postcode: 6060
+postcode: "6060"
 city: Hall in Tirol
 street: "Krippgasse"
 housenumber: 14

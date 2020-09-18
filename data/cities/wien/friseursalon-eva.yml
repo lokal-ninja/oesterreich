@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.179363
 longitude: 16.372937500000003
-postcode: 
+postcode: ""
 city: Wien
 street: "Hasengasse"
 housenumber: 

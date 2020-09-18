@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.0426968
 longitude: 15.408421500000001
-postcode: 8053
+postcode: "8053"
 city: Graz
 street: "Pirchäckerstraße"
 housenumber: 27

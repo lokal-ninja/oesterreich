@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.2785893
 longitude: 14.2494838
-postcode: 4060
+postcode: "4060"
 city: Leonding
 street: "Mayrhansenstraße"
 housenumber: 3

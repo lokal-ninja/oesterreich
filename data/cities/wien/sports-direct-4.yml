@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.198745
 longitude: 16.3948822
-postcode: 1030
+postcode: "1030"
 city: Wien
 street: "Landstraßer Hauptstraße"
 housenumber: 99

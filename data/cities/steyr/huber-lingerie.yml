@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.041384
 longitude: 14.4204691
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Enge Gasse"
 housenumber: 10

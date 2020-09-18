@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.2318281
 longitude: 10.7440482
-postcode: 6460
+postcode: "6460"
 city: Imst
 street: "Langgasse"
 housenumber: 30

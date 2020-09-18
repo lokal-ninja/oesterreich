@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.533635700000005
 longitude: 14.107830700000001
-postcode: 8950
+postcode: "8950"
 city: Stainach-Pürgg
 street: "Hauptplatz"
 housenumber: 259

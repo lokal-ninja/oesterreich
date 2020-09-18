@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8185042
 longitude: 13.2161393
-postcode: 5322
+postcode: "5322"
 city: Hof bei Salzburg
 street: "Teichstraße"
 housenumber: 9

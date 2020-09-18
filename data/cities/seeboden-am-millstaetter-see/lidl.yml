@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 46.8171717
 longitude: 13.508539500000001
-postcode: 9871
+postcode: "9871"
 city: Seeboden am Millstätter See
 street: "Hauptstraße"
 housenumber: 25

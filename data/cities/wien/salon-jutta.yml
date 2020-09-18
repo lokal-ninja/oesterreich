@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2250007
 longitude: 16.361530000000002
-postcode: 1090
+postcode: "1090"
 city: Wien
 street: "Porzellangasse"
 housenumber: 53

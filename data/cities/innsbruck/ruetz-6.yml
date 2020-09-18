@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.265543300000004
 longitude: 11.3452657
-postcode: 6020
+postcode: "6020"
 city: Innsbruck
 street: "Viktor-Franz-Hess-Straße"
 housenumber: 3

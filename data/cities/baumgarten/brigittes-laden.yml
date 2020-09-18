@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.737858
 longitude: 16.5032909
-postcode: 7021
+postcode: "7021"
 city: Baumgarten
 street: "Hauptstraße"
 housenumber: 23

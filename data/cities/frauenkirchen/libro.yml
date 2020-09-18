@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.8429104
 longitude: 16.9290947
-postcode: 7132
+postcode: "7132"
 city: Frauenkirchen
 street: "Mönchhoferstraße"
 housenumber: 9

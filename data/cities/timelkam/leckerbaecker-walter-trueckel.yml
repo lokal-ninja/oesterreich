@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.004108200000005
 longitude: 13.607431100000001
-postcode: 4850
+postcode: "4850"
 city: Timelkam
 street: "Ungenacherstraße"
 housenumber: 13

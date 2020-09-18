@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.787367
 longitude: 16.4558672
-postcode: 7024
+postcode: "7024"
 city: Hirm
 street: "Hauptstraße"
 housenumber: 15

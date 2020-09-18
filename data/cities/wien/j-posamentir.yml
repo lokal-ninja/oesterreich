@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.206305400000005
 longitude: 16.335016500000002
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Koppstraße"
 housenumber: 7

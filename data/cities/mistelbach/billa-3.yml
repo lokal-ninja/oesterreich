@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.563273900000006
 longitude: 16.5637471
-postcode: 2130
+postcode: "2130"
 city: Mistelbach
 street: "Josef Dunkl-Straße"
 housenumber: 31-33

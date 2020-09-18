@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5986763
 longitude: 15.6748785
-postcode: 3571
+postcode: "3571"
 city: Gars am Kamp
 street: "Schwedengasse"
 housenumber: 622

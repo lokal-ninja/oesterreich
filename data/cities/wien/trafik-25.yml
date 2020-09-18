@@ -1,12 +1,12 @@
-id: 2662843035
-type: node
+id: 396144852
+type: way
 shop: Kiosk
-latitude: 48.216257500000005
-longitude: 16.3878256
-postcode: 1020
+latitude: 48.1862196
+longitude: 16.374447800000002
+postcode: "1040"
 city: Wien
-street: "Praterstraße"
-housenumber: 58
+street: "Südtiroler Platz"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 07:00-16:30"
+opening_hours: ""
 website: ""

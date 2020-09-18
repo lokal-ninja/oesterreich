@@ -3,7 +3,7 @@ type: node
 shop: Türen
 latitude: 47.0738178
 longitude: 15.417719100000001
-postcode: 8020
+postcode: "8020"
 city: Graz
 street: "Europaplatz"
 housenumber: 12

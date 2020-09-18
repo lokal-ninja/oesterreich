@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.389572400000006
 longitude: 9.7242768
-postcode: 6850
+postcode: "6850"
 city: Dornbirn
 street: "Wallenmahd"
 housenumber: 23

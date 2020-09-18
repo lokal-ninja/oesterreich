@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1708488
 longitude: 15.982102900000001
-postcode: 3032
+postcode: "3032"
 city: Eichgraben
 street: "Hauptstraße"
 housenumber: 81

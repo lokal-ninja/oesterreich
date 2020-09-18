@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.040190200000005
 longitude: 14.4121675
-postcode: 4400
+postcode: "4400"
 city: Steyr
 street: "Schweizergasse"
 housenumber: 3

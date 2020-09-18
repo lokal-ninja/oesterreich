@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.5015942
 longitude: 9.7471414
-postcode: 6900
+postcode: "6900"
 city: Bregenz
 street: "Kirchstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1976166
 longitude: 16.364689600000002
-postcode: 1040
+postcode: "1040"
 city: Wien
 street: "Schleifmühlgasse"
 housenumber: 17

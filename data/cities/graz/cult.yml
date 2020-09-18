@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.0251462
 longitude: 15.4010285
-postcode: 8054
+postcode: "8054"
 city: Graz
 street: "Kärntner Straße"
 housenumber: 391

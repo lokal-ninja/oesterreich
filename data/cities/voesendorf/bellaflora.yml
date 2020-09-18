@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.1191201
 longitude: 16.317572000000002
-postcode: 2334
+postcode: "2334"
 city: Vösendorf
 street: "Europaring"
 housenumber: 1

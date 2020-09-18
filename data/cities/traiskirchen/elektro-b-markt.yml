@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.020669000000005
 longitude: 16.2956071
-postcode: 2514
+postcode: "2514"
 city: Traiskirchen
 street: "Oskar Helmer-Straße"
 housenumber: 3

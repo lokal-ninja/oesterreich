@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.774484900000004
 longitude: 13.041923
-postcode: 5020
+postcode: "5020"
 city: Salzburg
 street: "Berchtesgadner Straße"
 housenumber: 35

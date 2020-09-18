@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 47.9727064
 longitude: 16.841311700000002
-postcode: 7100
+postcode: "7100"
 city: Neusiedl am See
 street: "Altenburger Straße"
 housenumber: 20

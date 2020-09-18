@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.271807200000005
 longitude: 16.446520200000002
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Kürschnergasse"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2333744
 longitude: 16.317335
-postcode: 1180
+postcode: "1180"
 city: Wien
 street: "Wallrißstraße"
 housenumber: 94

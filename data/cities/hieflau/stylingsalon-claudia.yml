@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.605716400000006
 longitude: 14.745082000000002
-postcode: 8920
+postcode: "8920"
 city: Hieflau
 street: "Hauptstraße"
 housenumber: 17

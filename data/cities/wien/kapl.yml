@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2103763
 longitude: 16.3776149
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Fleischmarkt"
 housenumber: 20

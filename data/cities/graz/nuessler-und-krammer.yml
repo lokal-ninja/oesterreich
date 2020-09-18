@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.068804500000006
 longitude: 15.4425927
-postcode: 8010
+postcode: "8010"
 city: Graz
 street: "Hamerlinggasse"
 housenumber: 6

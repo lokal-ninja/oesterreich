@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.355008500000004
 longitude: 14.5309618
-postcode: 4230
+postcode: "4230"
 city: Pregarten
 street: "Stadtplatz"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.524230800000005
 longitude: 16.1994629
-postcode: 2002
+postcode: "2002"
 city: Füllersdorf
 street: ""
 housenumber: 38

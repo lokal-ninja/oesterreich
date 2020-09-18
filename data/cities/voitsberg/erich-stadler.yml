@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.0487946
 longitude: 15.1408427
-postcode: 8570
+postcode: "8570"
 city: Voitsberg
 street: "Greißeneggerstraße"
 housenumber: 14

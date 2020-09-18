@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.137362700000004
 longitude: 16.2782308
-postcode: 1230
+postcode: "1230"
 city: Wien
 street: "Breitenfurter Straße"
 housenumber: 372/28

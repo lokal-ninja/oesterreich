@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.528481400000004
 longitude: 15.503441700000002
-postcode: 8661
+postcode: "8661"
 city: Wartberg im Mürztal
 street: "Gewerbestraße"
 housenumber: 12

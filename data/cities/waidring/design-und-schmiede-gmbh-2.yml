@@ -3,7 +3,7 @@ type: way
 shop: Schlüsseldienst
 latitude: 47.583769100000005
 longitude: 12.589333600000002
-postcode: 6384
+postcode: "6384"
 city: Waidring
 street: "Unterwasser"
 housenumber: 65

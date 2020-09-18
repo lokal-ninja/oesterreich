@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.210029500000005
 longitude: 16.3209008
-postcode: 1160
+postcode: "1160"
 city: Wien
 street: "Hasnerstraße"
 housenumber: 92

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 46.8634664
 longitude: 15.767431700000001
-postcode: 8342
+postcode: "8342"
 city: Gnas
 street: ""
 housenumber: 70

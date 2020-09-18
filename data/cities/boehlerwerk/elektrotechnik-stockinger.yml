@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.986816000000005
 longitude: 14.7457016
-postcode: 3333
+postcode: "3333"
 city: Böhlerwerk
 street: "Dr.-Theodor-Körner-Hof"
 housenumber: 12

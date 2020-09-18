@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1943332
 longitude: 16.3601846
-postcode: 1050
+postcode: "1050"
 city: Wien
 street: "Franzensgasse"
 housenumber: 10

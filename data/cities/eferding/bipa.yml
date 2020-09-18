@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.3086204
 longitude: 14.022574800000001
-postcode: 4070
+postcode: "4070"
 city: Eferding
 street: "Schmiedstrasse"
 housenumber: 5

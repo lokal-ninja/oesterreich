@@ -1,12 +1,12 @@
-id: 2974136076
-type: node
+id: 448549447
+type: way
 shop: Supermarkt
-latitude: 46.8858158
-longitude: 15.490101500000002
-postcode: 8410
+latitude: 46.8859295
+longitude: 15.490476200000002
+postcode: "8410"
 city: Wildon
 street: "Kainachtalstraße"
 housenumber: 27
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+43 3182 29994"
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+website: "https://www.billa.at"

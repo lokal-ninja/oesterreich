@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.279149600000004
 longitude: 16.3887587
-postcode: 1210
+postcode: "1210"
 city: Wien
 street: "Prager Straße"
 housenumber: 138-140

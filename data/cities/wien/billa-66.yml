@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2121197
 longitude: 16.3749992
-postcode: 1010
+postcode: "1010"
 city: Wien
 street: "Franz-Josefs-Kai"
 housenumber: 29
