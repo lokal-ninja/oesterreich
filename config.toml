@@ -1,5 +1,5 @@
-baseURL = "https://lokal.ninja/oesterreich"
-languageCode = "de-DE"
+baseURL = "https://at.shoogle.net/austria"
+languageCode = "de"
 title = "Österreich"
 theme = "ln-base"
 
@@ -12,4 +12,4 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [params]
   site = "Lokal Ninja"
   org = "lokal-ninja"
-  repo = "oesterreich"
+  repo = "austria"
