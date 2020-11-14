@@ -1,12 +1,12 @@
-id: 2418179909
+id: 2419016957
 type: node
 shop: Drogerie
-latitude: 48.2149591
-longitude: 16.384419100000002
-postcode: "1020"
+latitude: 48.2372476
+longitude: 16.3795714
+postcode: "1200"
 city: Wien
-street: "Praterstrasse"
-housenumber: 33
-phone: ""
+street: "Dresdner Straße"
+housenumber: 33-47
+phone: "+43-1-3321837"
 opening_hours: ""
-website: ""
+website: "https://www.bipa.at/"

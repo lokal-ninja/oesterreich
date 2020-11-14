@@ -1,12 +1,12 @@
-id: 2479028438
+id: 3802677484
 type: node
 shop: Supermarkt
-latitude: 48.2724686
-longitude: 16.4036276
-postcode: "1210"
+latitude: 48.177318500000005
+longitude: 16.3852938
+postcode: "1100"
 city: Wien
-street: ""
-housenumber: 
-phone: ""
-opening_hours: ""
-website: ""
+street: "Gudrunstraße"
+housenumber: 102
+phone: "+43 1 6022391"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+website: "https://www.spar.at/de_AT/index/standorte/11/interspar_interspar-hypermarktwien_4181.html"

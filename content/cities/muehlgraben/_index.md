@@ -1,6 +1,6 @@
 ---
 title: Mühlgraben
 url: /muehlgraben/
-latitude: 48.6031465
-longitude: 15.3692261
+latitude: 46.5749651
+longitude: 14.461738100000002
 ---

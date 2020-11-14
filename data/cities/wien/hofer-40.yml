@@ -1,12 +1,12 @@
-id: 6060886354
+id: 5823748110
 type: node
 shop: Supermarkt
-latitude: 48.2497386
-longitude: 16.4452565
-postcode: "1220"
+latitude: 48.168279500000004
+longitude: 16.3483643
+postcode: "1100"
 city: Wien
-street: "Kagraner Platz"
-housenumber: 7
-phone: ""
-opening_hours: "Mo-Fr 07:40 - 20.00, Sa 07:40 - 18.00"
+street: "Triester Straße"
+housenumber: 64
+phone: "+43-57030-33019"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off"
 website: ""

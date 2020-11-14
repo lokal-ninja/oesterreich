@@ -1,12 +1,12 @@
 id: 818635300
 type: node
 shop: Kiosk
-latitude: 47.802597500000005
-longitude: 13.0664482
+latitude: 47.8025973
+longitude: 13.066447400000001
 postcode: "5020"
 city: Salzburg
 street: "Eberhard-Fugger-Straße"
 housenumber: 3
-phone: "+43 (0)662 642107"
-opening_hours: "Mo-Fr 0630-18:00; Sa 07-17:00"
+phone: "+43 662 642107"
+opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-17:00"
 website: ""

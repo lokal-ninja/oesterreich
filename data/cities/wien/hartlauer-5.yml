@@ -1,12 +1,12 @@
-id: 4224835589
+id: 3611741193
 type: node
-shop: Elektronik
-latitude: 48.2035903
-longitude: 16.3897029
-postcode: "1030"
+shop: Optiker
+latitude: 48.238838
+longitude: 16.354456300000002
+postcode: "1190"
 city: Wien
-street: "Landstraßer Hauptstraße"
-housenumber: 35
+street: "Döblinger Hauptstraße"
+housenumber: 49
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 9:00-17:00"
-website: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 9:00-12:00"
+website: "https://www.hartlauer.at/"

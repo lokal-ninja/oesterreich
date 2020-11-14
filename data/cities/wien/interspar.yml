@@ -1,12 +1,12 @@
-id: 272922898
+id: 279810857
 type: node
 shop: Supermarkt
-latitude: 48.1810764
-longitude: 16.3317155
-postcode: "1120"
+latitude: 48.2184442
+longitude: 16.3382802
+postcode: "1170"
 city: Wien
-street: "Niederhofstraße"
-housenumber: 23
-phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
-website: ""
+street: "Jörgerstraße"
+housenumber: 24
+phone: "+43-1-406 6191"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+website: "https://www.spar.at/content/website_spar_at/de_AT/index/standorte/11/wien_joergerstrasse2347.html"

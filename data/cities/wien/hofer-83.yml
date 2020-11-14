@@ -1,12 +1,12 @@
-id: 233620422
+id: 228404556
 type: way
 shop: Supermarkt
-latitude: 48.2561424
-longitude: 16.448883600000002
-postcode: "1220"
+latitude: 48.135275400000005
+longitude: 16.2849066
+postcode: "1230"
 city: Wien
-street: "Rennbahnweg"
-housenumber: 38a
+street: "Karl-Sarg-Gasse"
+housenumber: 2A
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off"
+website: "https://www.hofer.at/"

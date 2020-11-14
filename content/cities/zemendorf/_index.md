@@ -1,6 +1,6 @@
 ---
 title: Zemendorf
 url: /zemendorf/
-latitude: 47.762006
-longitude: 16.453191
+latitude: 47.7617555
+longitude: 16.4521143
 ---

@@ -1,12 +1,12 @@
-id: 1900968367
+id: 1894601771
 type: node
 shop: Supermarkt
-latitude: 48.2288068
-longitude: 16.3808143
-postcode: "1200"
+latitude: 48.2070586
+longitude: 16.3128072
+postcode: "1150"
 city: Wien
-street: "Nordwestbahnstraße"
-housenumber: 8-10
+street: "Gablenzgasse"
+housenumber: 111
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: ""
 website: "https://www.hofer.at/"

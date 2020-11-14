@@ -1,12 +1,12 @@
-id: 5250863979
-type: node
+id: 23049462
+type: way
 shop: Autoteile
-latitude: 48.246056300000006
-longitude: 16.370688
-postcode: "1200"
+latitude: 48.281640100000004
+longitude: 16.4119357
+postcode: "1210"
 city: Wien
-street: "Forsthausgasse"
-housenumber: 3-5
-phone: "+43591019820"
-opening_hours: "Mo-Fr 08:30-18:00, Sa 08:30-17:00; PH off"
-website: "https://www.forstinger.com/"
+street: "Brünner Straße"
+housenumber: 174
+phone: ""
+opening_hours: ""
+website: ""

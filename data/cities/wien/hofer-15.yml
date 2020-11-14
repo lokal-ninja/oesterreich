@@ -1,12 +1,12 @@
-id: 442577977
+id: 436352709
 type: node
 shop: Supermarkt
-latitude: 48.1975479
-longitude: 16.348533500000002
-postcode: "1060"
+latitude: 48.2572622
+longitude: 16.3674532
+postcode: "1190"
 city: Wien
-street: "Mariahilfer Straße"
-housenumber: 85
-phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: ""
+street: "Heiligenstädter Straße"
+housenumber: 158
+phone: "+43 1 3185503"
+opening_hours: "Mo-Fr 08:00-19:00;Sa 08:00-18:00"
+website: "https://www.hofer.at/"

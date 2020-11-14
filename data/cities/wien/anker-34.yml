@@ -1,12 +1,12 @@
-id: 4858599396
+id: 4389406391
 type: node
 shop: Bäckerei
-latitude: 48.2128412
-longitude: 16.3674919
-postcode: "1010"
+latitude: 48.1863484
+longitude: 16.353513500000002
+postcode: "1050"
 city: Wien
-street: "Renngasse"
-housenumber: 14
+street: "Reinprechtsdorfer Straße"
+housenumber: 48
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; PH off"
-website: ""
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-12:00; Su,PH 06:30-12:00"
+website: "https://www.ankerbrot.at/"

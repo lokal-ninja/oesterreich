@@ -1,12 +1,12 @@
-id: 51414707
-type: way
+id: 2594471071
+type: node
 shop: Bäckerei
-latitude: 48.199831200000006
-longitude: 16.365498600000002
-postcode: "1060"
+latitude: 48.201130400000004
+longitude: 16.3925184
+postcode: "1030"
 city: Wien
-street: "Naschmarkt"
-housenumber: C1
-phone: ""
-opening_hours: ""
-website: ""
+street: "Landstraßer Hauptstraße"
+housenumber: 67
+phone: "+43 1 866 99 91 46"
+opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-18:00; Su 07:00-17:00; PH 07:00-17:00"
+website: "https://www.dermann.at/filiale/landstrasser-hauptstrasse-67/"

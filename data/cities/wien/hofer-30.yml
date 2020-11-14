@@ -1,12 +1,12 @@
-id: 2432707374
+id: 1930311950
 type: node
 shop: Supermarkt
-latitude: 48.223430900000004
-longitude: 16.3416903
-postcode: "1180"
+latitude: 48.1985959
+longitude: 16.3944255
+postcode: "1030"
 city: Wien
-street: "Martinstraße"
-housenumber: 61
+street: "Landstraßer Hauptstraße"
+housenumber: 100
 phone: ""
-opening_hours: ""
-website: "http://www.Hofer.at"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+website: ""

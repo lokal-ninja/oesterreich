@@ -1,12 +1,12 @@
-id: 3370213438
+id: 2432707374
 type: node
 shop: Supermarkt
-latitude: 48.2227765
-longitude: 16.3540107
-postcode: "1090"
+latitude: 48.223430900000004
+longitude: 16.3416903
+postcode: "1180"
 city: Wien
-street: "Nussdorfer Straße"
-housenumber: 4-4a
+street: "Martinstraße"
+housenumber: 61
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: ""
+opening_hours: ""
+website: "http://www.Hofer.at"

@@ -1,4 +1,4 @@
 ---
-title: "Tappe"
+title: "TAPPE"
 url: /salzburg/tappe/
 ---

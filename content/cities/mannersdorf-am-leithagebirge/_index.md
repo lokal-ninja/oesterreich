@@ -1,6 +1,6 @@
 ---
 title: Mannersdorf am Leithagebirge
 url: /mannersdorf-am-leithagebirge/
-latitude: 47.974482200000004
-longitude: 16.6037964
+latitude: 47.9744729
+longitude: 16.603802700000003
 ---

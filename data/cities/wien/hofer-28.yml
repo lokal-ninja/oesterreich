@@ -1,12 +1,12 @@
-id: 1913932893
+id: 1900968367
 type: node
 shop: Supermarkt
-latitude: 48.222742700000005
-longitude: 16.318978100000002
-postcode: "1170"
+latitude: 48.2288068
+longitude: 16.3808143
+postcode: "1200"
 city: Wien
-street: "Hernalser Hauptstraße"
-housenumber: 158
+street: "Nordwestbahnstraße"
+housenumber: 8-10
 phone: ""
 opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
 website: "https://www.hofer.at/"

@@ -1,12 +1,12 @@
-id: 279452413
+id: 76470536
 type: node
 shop: Bäckerei
-latitude: 48.1883362
-longitude: 16.3727802
-postcode: "1040"
+latitude: 48.20817580000001
+longitude: 16.3932821
+postcode: "1030"
 city: Wien
-street: "Favoritenstraße"
-housenumber: 62
-phone: "+43 (1) 504 85 65"
-opening_hours: "Mo-Fr 06:00-18:00; Sa-Su 07:00-12:00; PH 07:00-12:00"
-website: "https://www.ankerbrot.at/"
+street: "Löwengasse"
+housenumber: 37a
+phone: ""
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-12:00; Su 07:30-12:00; PH 07:30-12:00"
+website: ""

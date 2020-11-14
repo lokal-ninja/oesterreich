@@ -1,12 +1,12 @@
-id: 35653091
+id: 35551232
 type: way
 shop: Supermarkt
-latitude: 48.272125800000005
-longitude: 16.4083668
-postcode: "1210"
+latitude: 48.228784100000006
+longitude: 16.3978909
+postcode: "1020"
 city: Wien
-street: "Shuttleworthstraße"
-housenumber: 11
-phone: ""
-opening_hours: ""
-website: ""
+street: "Engerthstraße"
+housenumber: 154B
+phone: "+43-570 303 4097"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+website: "https://www.hofer.at/"

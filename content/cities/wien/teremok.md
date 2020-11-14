@@ -1,4 +1,4 @@
 ---
-title: "teremok"
+title: "Teremok"
 url: /wien/teremok/
 ---

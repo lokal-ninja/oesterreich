@@ -1,6 +1,6 @@
 id: 4425725589
 type: node
-shop: Eisenwaren
+shop: Allgemein
 latitude: 48.202074200000006
 longitude: 16.349717300000002
 postcode: "1070"
@@ -8,5 +8,5 @@ city: Wien
 street: "Siebensterngasse"
 housenumber: 41
 phone: "+4315262187"
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:00; Sa 10:00-14:00"
+opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:00; Sa 10:00-14:00, Su, PH off"
 website: "https://lorenzi.co.at/"

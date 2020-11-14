@@ -1,12 +1,12 @@
-id: 47032314
+id: 47031348
 type: way
 shop: Supermarkt
-latitude: 48.2602324
-longitude: 16.409540800000002
-postcode: "1210"
+latitude: 48.2508968
+longitude: 16.4695034
+postcode: "1220"
 city: Wien
-street: "Leopoldauer Straße"
-housenumber: 45
+street: "Breitenleer Straße"
+housenumber: 104
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+website: "https://www.hofer.at/"

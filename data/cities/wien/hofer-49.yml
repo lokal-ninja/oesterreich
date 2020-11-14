@@ -1,12 +1,12 @@
-id: 27898142
+id: 23046181
 type: way
 shop: Supermarkt
-latitude: 48.236777200000006
-longitude: 16.3906986
-postcode: "1200"
+latitude: 48.2718402
+longitude: 16.3899431
+postcode: "1210"
 city: Wien
-street: "Traisengasse"
-housenumber: 20-22
-phone: "+43 57030 34020"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: ""
+street: "Prager Straße"
+housenumber: 115
+phone: ""
+opening_hours: ""
+website: "https://www.hofer.at/"

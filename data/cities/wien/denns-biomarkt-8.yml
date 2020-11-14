@@ -1,12 +1,12 @@
-id: 1805887308
+id: 2620437019
 type: node
 shop: Supermarkt
-latitude: 48.2087657
-longitude: 16.2240577
-postcode: "1140"
+latitude: 48.147666300000004
+longitude: 16.267786700000002
+postcode: "1230"
 city: Wien
-street: "Hauptstraße"
-housenumber: 33-35
+street: "Dreiständegasse"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.denns-biomarkt.at/"
+opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-18:00"
+website: ""

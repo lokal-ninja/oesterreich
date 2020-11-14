@@ -1,6 +1,6 @@
 ---
 title: Mannersdorf
 url: /mannersdorf/
-latitude: 48.157837400000005
-longitude: 15.8926092
+latitude: 48.168644400000005
+longitude: 15.241236400000002
 ---

@@ -1,12 +1,12 @@
-id: 1925678390
+id: 2479028438
 type: node
 shop: Supermarkt
-latitude: 48.220012200000006
-longitude: 16.3070369
-postcode: "1160"
+latitude: 48.2724686
+longitude: 16.4036276
+postcode: "1210"
 city: Wien
-street: "Sandleitengasse"
-housenumber: 41
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
-website: "https://www.spar.at/de_AT/index/standorte/11/wien_ottakring_2246.html"
+opening_hours: ""
+website: ""

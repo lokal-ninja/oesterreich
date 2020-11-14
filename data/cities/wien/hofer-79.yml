@@ -1,12 +1,12 @@
-id: 154286391
+id: 153603273
 type: way
 shop: Supermarkt
-latitude: 48.242265200000006
-longitude: 16.326777500000002
-postcode: "1190"
+latitude: 48.203017100000004
+longitude: 16.2429783
+postcode: "1140"
 city: Wien
-street: "Krottenbachstraße"
-housenumber: 106a
+street: "Linzer Straße"
+housenumber: 455
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+website: "https://www.hofer.at"

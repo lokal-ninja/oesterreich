@@ -1,6 +1,6 @@
 ---
 title: Treffen
 url: /treffen/
-latitude: 46.5651924
-longitude: 14.066436800000002
+latitude: 46.667731
+longitude: 13.854848200000001
 ---

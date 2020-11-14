@@ -1,4 +1,4 @@
 ---
-title: "BIPA"
+title: "Bipa"
 url: /steyr/bipa-2/
 ---

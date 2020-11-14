@@ -1,12 +1,12 @@
-id: 4956288128
+id: 4473026719
 type: node
-shop: Zeitungen
-latitude: 48.217960600000005
-longitude: 16.315349
-postcode: "1160"
+shop: Kiosk
+latitude: 48.216607700000004
+longitude: 16.3855101
+postcode: "1020"
 city: Wien
-street: "Seeböckgasse"
-housenumber: 27
+street: "Rotensterngasse"
+housenumber: 30
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:30, 15:00-18:30, 09:00-18:00; Sa 06:00-12:30"
+opening_hours: "Mo-Fr 05:45-18:00; Sa 07:15-12:00"
 website: ""

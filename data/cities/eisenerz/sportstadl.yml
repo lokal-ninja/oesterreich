@@ -1,6 +1,6 @@
 id: 1344333041
 type: node
-shop: Fahrrad
+shop: Sport
 latitude: 47.541450700000006
 longitude: 14.8872183
 postcode: "8790"
@@ -8,5 +8,5 @@ city: Eisenerz
 street: "Hieflauer Straße"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-12:00,14:30-18:00; Sa 08:30-12:00"
 website: ""

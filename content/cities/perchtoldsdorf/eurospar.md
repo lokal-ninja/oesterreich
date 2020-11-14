@@ -1,4 +1,4 @@
 ---
-title: "EUROSPAR"
+title: "Eurospar"
 url: /perchtoldsdorf/eurospar/
 ---

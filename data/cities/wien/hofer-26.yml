@@ -1,12 +1,12 @@
-id: 1894601771
+id: 1868988579
 type: node
-shop: Supermarkt
-latitude: 48.2070586
-longitude: 16.3128072
-postcode: "1150"
+shop: Allgemein
+latitude: 48.1510102
+longitude: 16.300658600000002
+postcode: "1230"
 city: Wien
-street: "Gablenzgasse"
-housenumber: 111
+street: "Breitenfurter Straße"
+housenumber: 261
 phone: ""
-opening_hours: ""
-website: "https://www.hofer.at/"
+opening_hours: "Apr-Oct: 24/7; Nov-Mar: Mo-Su 06:00-22:00"
+website: ""

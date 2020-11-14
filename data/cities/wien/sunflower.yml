@@ -8,5 +8,5 @@ city: Wien
 street: "Landstraßer Hauptstraße"
 housenumber: 118
 phone: ""
-opening_hours: "Mo,Th,Fr,Sa 07:00-19:00; Tu,We 8:00-19:00; Su 09:00-16:00; PH 09:00-16:00"
+opening_hours: "Su 09:00-16:00; PH 09:00-16:00; Mo-Sa 08:00-19:00"
 website: ""

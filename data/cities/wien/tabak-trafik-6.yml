@@ -1,12 +1,12 @@
-id: 2343237754
+id: 1765608141
 type: node
 shop: Kiosk
-latitude: 48.25778630000001
-longitude: 16.3946696
-postcode: "1210"
+latitude: 48.2513658
+longitude: 16.4293884
+postcode: "1220"
 city: Wien
-street: "Schwaigergasse"
-housenumber: 27
+street: "Donaufelder Straße"
+housenumber: 150
 phone: ""
-opening_hours: "Mo-Th 06:00-18:00; Fr 06:00-18:30; Sa 06:30-13:00"
+opening_hours: ""
 website: ""

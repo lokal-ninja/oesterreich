@@ -1,4 +1,4 @@
 ---
-title: "INTERSPORT Melk"
+title: "Intersport Melk"
 url: /melk/intersport-melk/
 ---

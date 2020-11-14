@@ -1,4 +1,4 @@
 ---
-title: "Penny-Markt"
+title: "Penny Markt"
 url: /graz/penny-markt/
 ---

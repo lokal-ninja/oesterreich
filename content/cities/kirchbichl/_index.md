@@ -1,6 +1,6 @@
 ---
 title: Kirchbichl
 url: /kirchbichl/
-latitude: 47.5074467
-longitude: 12.299583
+latitude: 47.5111617
+longitude: 12.0859208
 ---

@@ -1,12 +1,12 @@
 id: 378302209
 type: node
 shop: Fahrrad
-latitude: 48.1990022
-longitude: 16.3566693
+latitude: 48.1989972
+longitude: 16.356632400000002
 postcode: "1060"
 city: Wien
 street: "Stiegengasse"
 housenumber: 20
-phone: "+43 (1) 5867633"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-19:00; Sa 10:00-17:00"
+phone: "+43 1 5867633"
+opening_hours: "Mo-Th 14:00-18:30; Fr 10:00-13:00,14:00-18:30; Sa 10:00-16:00; Feb 29-Nov 08: Mo,We 10:00-13:00,14:00-18:30; Su, PH off"
 website: "http://ciclopia.at/"

@@ -1,12 +1,12 @@
-id: 84584348
+id: 85715479
 type: way
 shop: Supermarkt
-latitude: 47.0775498
-longitude: 15.4943567
-postcode: "8047"
+latitude: 47.055035800000006
+longitude: 15.411688700000001
+postcode: "8053"
 city: Graz
-street: "Ragnitzstraße"
-housenumber: 149
-phone: "+43 316 337820"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.billa.at"
+street: "Peter-Rosegger-Straße"
+housenumber: 30
+phone: ""
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+website: ""

@@ -1,12 +1,12 @@
-id: 1447888088
+id: 1365687679
 type: node
 shop: Supermarkt
-latitude: 48.1798749
-longitude: 16.3371399
-postcode: "1120"
+latitude: 48.23280260000001
+longitude: 16.4122062
+postcode: "1220"
 city: Wien
-street: "Aßmayergasse"
-housenumber: 38-40
+street: "Donau-City-Straße"
+housenumber: 9
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: ""
 website: ""

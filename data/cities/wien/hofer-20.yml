@@ -1,12 +1,12 @@
-id: 931631149
+id: 872404424
 type: node
 shop: Supermarkt
-latitude: 48.178646
-longitude: 16.3710026
-postcode: "1100"
+latitude: 48.1878107
+longitude: 16.331511900000002
+postcode: "1150"
 city: Wien
-street: "Gudrunstraße"
-housenumber: 144
+street: "Sechshauser Straße"
+housenumber: 48
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+website: "https://www.hofer.at/"

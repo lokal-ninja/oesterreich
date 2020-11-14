@@ -1,4 +1,4 @@
 ---
-title: "Spar/Metzgerei Mangold"
+title: "Spar / Metzgerei Mangold"
 url: /weiler/spar-metzgerei-mangold/
 ---
