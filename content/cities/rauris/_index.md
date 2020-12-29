@@ -1,6 +1,6 @@
 ---
 title: Rauris
 url: /rauris/
-latitude: 47.2290446
-longitude: 12.994929500000001
+latitude: 47.228627900000006
+longitude: 12.994115200000001
 ---

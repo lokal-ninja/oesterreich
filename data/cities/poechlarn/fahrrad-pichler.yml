@@ -1,12 +1,12 @@
 id: 3896840097
 type: node
 shop: Fahrrad
-latitude: 48.2095502
-longitude: 15.2012733
+latitude: 48.2095824
+longitude: 15.201251800000001
 postcode: "3380"
 city: Pöchlarn
 street: "Rechenstraße"
 housenumber: 1
-phone: "02757/2456"
+phone: "+43 2757 2456"
 opening_hours: "Mo-Fr 08:00-12:00,14:30-18:00; We,Sa 08:00-12:00"
-website: "www.fahrradpichler.at"
+website: "http://www.fahrradpichler.at/"

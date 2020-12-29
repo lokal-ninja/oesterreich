@@ -1,6 +1,6 @@
 ---
 title: Fugging
 url: /fugging/
-latitude: 48.289748200000005
-longitude: 15.6351919
+latitude: 48.0674106
+longitude: 12.8623448
 ---

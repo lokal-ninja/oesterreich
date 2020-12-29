@@ -1,12 +1,12 @@
-id: 313073255
-type: way
+id: 3666488098
+type: node
 shop: Metzgerei
-latitude: 48.1384349
-longitude: 16.323273800000003
-postcode: "1230"
+latitude: 48.2114105
+longitude: 16.3714608
+postcode: "1010"
 city: Wien
-street: "Erlaaer Straße"
-housenumber: 187
-phone: "+43 (0)1/ 6611035"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 08:00-12:00"
+street: "Wipplingerstraße"
+housenumber: 3
+phone: ""
+opening_hours: "Mo-Fr 09:00-18:30;Sa 09:00-17:00"
 website: ""

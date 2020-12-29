@@ -1,4 +1,4 @@
 ---
-title: "UNIMARKT HandelsgesmbH & Co KG"
+title: "Unimarkt HandelsgesmbH & Co KG"
 url: /steyr/unimarkt-handelsgesmbh-und-co-kg/
 ---

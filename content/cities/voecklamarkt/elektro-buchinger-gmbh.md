@@ -1,4 +1,4 @@
 ---
-title: "Elektro BUCHINGER GmbH"
+title: "Elektro Buchinger GmbH"
 url: /voecklamarkt/elektro-buchinger-gmbh/
 ---

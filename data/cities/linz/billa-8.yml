@@ -1,12 +1,12 @@
-id: 89655700
+id: 89566634
 type: way
 shop: Supermarkt
-latitude: 48.2627844
-longitude: 14.3177944
+latitude: 48.242919
+longitude: 14.362060000000001
 postcode: "4030"
 city: Linz
-street: "Wiener Straße"
-housenumber: 328
+street: "Pichlinger Straße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: ""
 website: ""

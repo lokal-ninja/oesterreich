@@ -1,12 +1,12 @@
 id: 3953785173
 type: node
 shop: Lebensmittel
-latitude: 48.3303462
-longitude: 16.3597772
+latitude: 48.330702200000005
+longitude: 16.3603065
 postcode: "2102"
 city: Bisamberg
 street: "Hauptstraße"
-housenumber: 24
+housenumber: 16
 phone: ""
-opening_hours: ""
-website: "http://www.arge-rosenauerwald.at"
+opening_hours: "Tu-We 08:00-12:00, Th 08:00 - 12:00 and 15:00 - 18:00, Fr 08:00 - 13:00 and 15:00 - 18:00, Sa 08:00 - 12:00"
+website: "https://www.bioladen-bisamberg.at"

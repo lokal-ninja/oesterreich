@@ -1,4 +1,4 @@
 ---
-title: "hager"
+title: "Hager"
 url: /boeheimkirchen/hager/
 ---

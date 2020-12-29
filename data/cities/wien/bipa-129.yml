@@ -1,12 +1,12 @@
-id: 7996997239
-type: node
+id: 138294554
+type: way
 shop: Drogerie
-latitude: 48.2275563
-longitude: 16.3379859
-postcode: "1180"
+latitude: 48.243962
+longitude: 16.457550100000002
+postcode: "1220"
 city: Wien
-street: "Währinger Straße"
-housenumber: 129
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: ""
 website: ""

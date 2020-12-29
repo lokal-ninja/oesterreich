@@ -1,6 +1,6 @@
 ---
 title: Rechberg
 url: /rechberg/
-latitude: 47.2689814
-longitude: 15.4166667
+latitude: 47.280219100000004
+longitude: 15.834694400000002
 ---

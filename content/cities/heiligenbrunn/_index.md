@@ -1,6 +1,6 @@
 ---
 title: Heiligenbrunn
 url: /heiligenbrunn/
-latitude: 47.495600200000005
-longitude: 14.665942600000001
+latitude: 48.5003814
+longitude: 15.181898700000001
 ---

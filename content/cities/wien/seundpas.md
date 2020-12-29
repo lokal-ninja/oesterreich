@@ -1,4 +1,4 @@
 ---
-title: "SE&PAS"
+title: "SE&PAŞ"
 url: /wien/seundpas/
 ---

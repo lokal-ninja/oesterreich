@@ -1,12 +1,12 @@
-id: 270313589
+id: 270109608
 type: node
 shop: Supermarkt
-latitude: 48.0425971
-longitude: 14.4066375
+latitude: 48.0527771
+longitude: 14.441529300000001
 postcode: "4400"
 city: Steyr
-street: "Wehrgrabengasse"
-housenumber: 18
-phone: "+43 7252 82514"
-opening_hours: "Mo-Th 07:00-19:00; Fr 07:00-19:30; Sa 07:00-18:00"
-website: "https://www.spar.at/"
+street: "Hans-Wagner-Straße"
+housenumber: 2
+phone: ""
+opening_hours: "Mo-Fr 07:15-19:00; Sa 07:15-18:00"
+website: "https://www.spar.at/standorte/spar-steyr-4400-hans-wagner-strasse-2-4"

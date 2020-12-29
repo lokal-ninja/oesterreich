@@ -1,6 +1,6 @@
 ---
 title: Bruck
 url: /bruck/
-latitude: 47.7962543
-longitude: 15.9294516
+latitude: 47.9877265
+longitude: 15.301062300000002
 ---

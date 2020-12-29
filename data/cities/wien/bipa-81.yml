@@ -1,12 +1,12 @@
-id: 3878460159
+id: 4057810955
 type: node
 shop: Drogerie
-latitude: 48.20118
-longitude: 16.359881
-postcode: "1060"
+latitude: 48.1944401
+longitude: 16.4070997
+postcode: "1030"
 city: Wien
-street: "Mariahilfer Straße"
-housenumber: 7
+street: "Markhofgasse"
+housenumber: 1-9
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 09:00-18:00"
-website: ""
+opening_hours: ""
+website: "https://bipa.at/"

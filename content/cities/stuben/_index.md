@@ -1,6 +1,6 @@
 ---
 title: Stuben
 url: /stuben/
-latitude: 47.430352600000006
-longitude: 16.248358800000002
+latitude: 47.991715400000004
+longitude: 15.384045100000002
 ---

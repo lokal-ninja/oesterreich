@@ -1,12 +1,12 @@
-id: 132333729
+id: 130632845
 type: way
 shop: Supermarkt
-latitude: 48.2196955
-longitude: 16.4886607
-postcode: "1220"
+latitude: 48.241289900000005
+longitude: 16.339009100000002
+postcode: "1190"
 city: Wien
-street: "Pilotengasse"
-housenumber: 76
+street: "Flotowgasse"
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:50, Sa 07:40-18:00"
+opening_hours: ""
 website: ""

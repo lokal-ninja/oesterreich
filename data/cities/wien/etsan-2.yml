@@ -1,12 +1,12 @@
-id: 2484899316
+id: 2141259250
 type: node
-shop: Lebensmittel
-latitude: 48.2307987
-longitude: 16.3666968
-postcode: "1200"
+shop: Supermarkt
+latitude: 48.182128600000006
+longitude: 16.331876700000002
+postcode: "1120"
 city: Wien
-street: "Klosterneuburger Straße"
-housenumber: 45
+street: "Arndtstraße"
+housenumber: 90
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00;Sa 08:00-18:00"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
 website: ""

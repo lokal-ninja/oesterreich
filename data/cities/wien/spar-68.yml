@@ -1,12 +1,12 @@
-id: 249069340
+id: 204999901
 type: way
 shop: Supermarkt
-latitude: 48.263975900000005
-longitude: 16.3864376
-postcode: "1210"
+latitude: 48.1481325
+longitude: 16.2619057
+postcode: "1230"
 city: Wien
-street: "Jedleseer Straße"
-housenumber: 96
+street: "Rodauner Straße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: ""
+opening_hours: ""
+website: "https://www.spar.at/"
