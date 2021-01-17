@@ -1,4 +1,5 @@
 ---
 title: "St. Peter Keramik"
 url: /graz/st-peter-keramik/
+shop: Töpferei
 ---

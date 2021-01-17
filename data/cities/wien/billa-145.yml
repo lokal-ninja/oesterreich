@@ -1,12 +1,11 @@
-id: 4420449764
+id: 4292904086
 type: node
-shop: Supermarkt
-latitude: 48.1561005
-longitude: 16.3433599
-postcode: "1100"
+latitude: 48.1468252
+longitude: 16.461711
+postcode: "1110"
 city: Wien
-street: "Otto-Probst-Straße"
-housenumber: 36
-phone: "+43 1 6153311"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+street: "Baudißgasse"
+housenumber: 4-6
+phone: "+43 1 7672539"
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off"
 website: ""

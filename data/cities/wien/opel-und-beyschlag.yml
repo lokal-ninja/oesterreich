@@ -1,12 +1,11 @@
-id: 23329295
-type: way
-shop: Autohaus
-latitude: 48.2623893
-longitude: 16.4238679
-postcode: "1210"
+id: 2071854939
+type: node
+latitude: 48.2040586
+longitude: 16.4341525
+postcode: ""
 city: Wien
-street: "Leopoldauer Straße"
-housenumber: 141
+street: ""
+housenumber: 
 phone: ""
 opening_hours: ""
-website: "https://www.beyschlag.at/"
+website: ""

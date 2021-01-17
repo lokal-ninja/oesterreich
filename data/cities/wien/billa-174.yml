@@ -1,12 +1,11 @@
-id: 5009474172
+id: 4972520340
 type: node
-shop: Supermarkt
-latitude: 48.191620900000004
-longitude: 16.3674644
-postcode: "1040"
+latitude: 48.1976473
+longitude: 16.322042500000002
+postcode: "1150"
 city: Wien
-street: "Schaumburgergasse"
-housenumber: 1
-phone: "+43 1 5031433"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at"
+street: "Meiselstraße"
+housenumber: 8
+phone: ""
+opening_hours: "Mo-Fr 07:30-19:50; Sa 07:40-18:00"
+website: ""

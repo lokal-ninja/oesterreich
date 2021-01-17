@@ -1,12 +1,11 @@
 id: 2386855936
 type: node
-shop: Leder
 latitude: 48.2200434
 longitude: 16.3876589
 postcode: "1020"
 city: Wien
 street: "Fugbachgasse"
 housenumber: 4
-phone: ""
-opening_hours: "Mo-Fr 08:00-17:00;Fr 08:00-15:00"
-website: "https://www.maximilian-hauser.com/"
+phone: "+43 1 2126510"
+opening_hours: "Mo-Th 08:00-16:30; Fr 08:00-14:30"
+website: "https://www.maximilian-hauser.com"

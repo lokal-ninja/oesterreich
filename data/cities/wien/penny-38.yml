@@ -1,12 +1,11 @@
-id: 5245526322
+id: 5245447621
 type: node
-shop: Supermarkt
-latitude: 48.2599875
-longitude: 16.4409575
-postcode: "1220"
+latitude: 48.246411300000005
+longitude: 16.3614374
+postcode: "1190"
 city: Wien
-street: "Alfred-Kubin-Platz"
-housenumber: 1
+street: "Heiligenstädter Straße"
+housenumber: 95
 phone: ""
 opening_hours: ""
 website: ""

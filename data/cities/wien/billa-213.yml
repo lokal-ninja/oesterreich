@@ -1,12 +1,11 @@
-id: 414212507
+id: 368943358
 type: way
-shop: Supermarkt
-latitude: 48.268205
-longitude: 16.4022432
-postcode: "1210"
+latitude: 48.2186133
+longitude: 16.3923439
+postcode: "1020"
 city: Wien
-street: "Brünner Straße"
-housenumber: 57D
-phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: ""
+street: ""
+housenumber: 
+phone: "+43 1 2168587"
+opening_hours: "Mo-Su 06:00-22:00"
+website: "https://www.billa.at/"

@@ -1,6 +1,5 @@
 id: 2458364007
 type: node
-shop: Drogerie
 latitude: 48.496873900000004
 longitude: 14.5018068
 postcode: "4240"
@@ -8,5 +7,5 @@ city: Freistadt
 street: "Industriestraße"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
 website: ""

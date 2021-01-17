@@ -1,6 +1,5 @@
 id: 6982134517
 type: node
-shop: Optiker
 latitude: 48.2452647
 longitude: 14.260097300000002
 postcode: "4050"
@@ -9,4 +8,4 @@ street: "Wiener Bundesstraße"
 housenumber: 15
 phone: "+43 732 384467"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "http://www.peller-optik.at"
+website: "https://www.peller-optik.at"

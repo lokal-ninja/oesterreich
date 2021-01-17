@@ -1,6 +1,5 @@
 id: 5186169371
 type: node
-shop: Outdoor
 latitude: 48.001931500000005
 longitude: 13.649772800000001
 postcode: "4840"
@@ -9,4 +8,4 @@ street: "Robert-Kunz-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.bergsportoutlet.at/"

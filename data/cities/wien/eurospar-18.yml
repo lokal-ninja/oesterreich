@@ -1,12 +1,11 @@
-id: 225660290
+id: 213140642
 type: way
-shop: Supermarkt
-latitude: 48.2829964
-longitude: 16.413331
-postcode: "1210"
+latitude: 48.256753200000006
+longitude: 16.4475035
+postcode: "1220"
 city: Wien
-street: "Brünner Straße"
-housenumber: 184
+street: "Wagramer Straße"
+housenumber: 171
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
-website: ""
+opening_hours: ""
+website: "https://www.spar.at/de_AT/index.html"

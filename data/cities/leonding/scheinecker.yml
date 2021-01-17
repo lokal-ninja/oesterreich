@@ -1,6 +1,5 @@
 id: 51365164
 type: way
-shop: Schmuck
 latitude: 48.2462644
 longitude: 14.2598824
 postcode: "4060"
@@ -9,4 +8,4 @@ street: "Haidfeldstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""
-website: ""
+website: "http://scheinecker.net"

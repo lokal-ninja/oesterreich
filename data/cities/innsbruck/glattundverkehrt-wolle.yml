@@ -1,6 +1,5 @@
 id: 1900637314
 type: node
-shop: Nähzubehör
 latitude: 47.262410900000006
 longitude: 11.3906869
 postcode: "6020"
@@ -9,4 +8,4 @@ street: "Maximilianstraße"
 housenumber: 6
 phone: "+43 512 573284"
 opening_hours: "Mo-Fr 10:00-18:00; PH off"
-website: "http://www.wolle-innsbruck.at"
+website: "https://www.wolle-innsbruck.at/"

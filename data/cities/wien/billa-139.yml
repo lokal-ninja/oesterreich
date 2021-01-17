@@ -1,12 +1,11 @@
-id: 3512189884
+id: 3470563535
 type: node
-shop: Supermarkt
-latitude: 48.2192306
-longitude: 16.413209000000002
-postcode: "1020"
+latitude: 48.2044166
+longitude: 16.3453167
+postcode: "1070"
 city: Wien
-street: "Handelskai"
-housenumber: 216
-phone: "+43 1 7296825"
+street: "Burggasse"
+housenumber: 90
+phone: "+43 1 5223958"
 opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
 website: "https://www.billa.at/"

@@ -1,12 +1,11 @@
-id: 53022161
-type: way
-shop: Supermarkt
-latitude: 48.314673500000005
-longitude: 14.2735538
-postcode: "4040"
+id: 2666159280
+type: node
+latitude: 48.24094830000001
+longitude: 14.334100500000002
+postcode: "4030"
 city: Linz
-street: "Nißlstraße"
-housenumber: 10
+street: "Hartheimerstraße"
+housenumber: 31
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Sa 07:30-18:00; Mo-Fr 07:30-19:00"
+website: "https://unimarkt.at/"

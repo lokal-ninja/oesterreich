@@ -1,6 +1,5 @@
 id: 1656267368
 type: node
-shop: Optiker
 latitude: 48.339995900000005
 longitude: 16.7271392
 postcode: "2230"
@@ -8,5 +7,5 @@ city: Gänserndorf
 street: "Bahnstraße"
 housenumber: 63
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-13:00; Sa 09:00-12:00; PH,Su off"
 website: "https://www.optik-jurka.at/"

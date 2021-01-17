@@ -1,12 +1,11 @@
-id: 4529845591
+id: 4528015404
 type: node
-shop: Supermarkt
-latitude: 48.205572000000004
-longitude: 16.3396458
-postcode: "1070"
+latitude: 48.1908911
+longitude: 16.3298984
+postcode: "1150"
 city: Wien
-street: "Kaiserstraße"
-housenumber: 91
-phone: "+43 1 5220733"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: "Reindorfgasse"
+housenumber: 37
+phone: ""
+opening_hours: "Mo-Fr 07:30-19:50, Sa 07:40-18:00"
+website: ""

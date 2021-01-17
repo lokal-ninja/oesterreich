@@ -1,12 +1,11 @@
-id: 2419020229
+id: 2395393433
 type: node
-shop: Supermarkt
-latitude: 48.2379819
-longitude: 16.3786823
-postcode: "1200"
+latitude: 48.2506593
+longitude: 16.3066546
+postcode: "1190"
 city: Wien
-street: "Dresdner Straße"
-housenumber: 45
+street: "Rathstraße"
+housenumber: 6-8
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:41-18:00"
+opening_hours: "Mo-Fr 07:40-20:00, Sa,Su 07:40-18:00"
 website: ""

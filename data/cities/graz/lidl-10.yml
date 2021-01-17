@@ -1,12 +1,11 @@
-id: 173297588
+id: 797733755
 type: way
-shop: Supermarkt
-latitude: 47.059331400000005
-longitude: 15.394796200000002
-postcode: "8052"
+latitude: 47.0997733
+longitude: 15.4178776
+postcode: "8045"
 city: Graz
-street: "Straßganger Straße"
-housenumber: 108
+street: "Weinzöttlstraße"
+housenumber: 8
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.lidl.at/"
+opening_hours: ""
+website: ""

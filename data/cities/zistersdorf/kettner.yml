@@ -1,12 +1,11 @@
-id: 4386924649
-type: node
-shop: Waffen
-latitude: 48.5469869
-longitude: 16.7617938
+id: 299863957
+type: way
+latitude: 48.5472758
+longitude: 16.762107500000003
 postcode: "2225"
 city: Zistersdorf
 street: "Stadtgrabengasse"
 housenumber: 15
 phone: "02626 / 200 26 - 480"
 opening_hours: "Tu-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: ""
+website: "https://www.kettner.com/at_de/"

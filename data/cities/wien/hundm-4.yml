@@ -1,12 +1,11 @@
-id: 1071066900
+id: 948462296
 type: node
-shop: Kleidung
-latitude: 48.137203500000005
-longitude: 16.2778764
-postcode: "1230"
+latitude: 48.206919400000004
+longitude: 16.3717437
+postcode: "1010"
 city: Wien
-street: "Breitenfurter Straße"
-housenumber: 372/30
+street: "Kärntner Straße"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off"
-website: "http://www.hm.com/"
+opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
+website: "http://www.hm.com/at"

@@ -1,6 +1,5 @@
 id: 1071066321
 type: node
-shop: Bäckerei
 latitude: 48.1369727
 longitude: 16.2794393
 postcode: "1230"
@@ -8,5 +7,5 @@ city: Wien
 street: "Breitenfurter Straße"
 housenumber: 372/2
 phone: ""
-opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-21:00; Sa 08:30-18:00; Su,PH off"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:30-18:00; Su,PH off"
 website: "https://www.dermann.at/"

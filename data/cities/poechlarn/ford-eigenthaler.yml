@@ -1,12 +1,11 @@
-id: 384323174
-type: way
-shop: Autohaus
-latitude: 48.1975264
-longitude: 15.219243
+id: 8301028201
+type: node
+latitude: 48.197431900000005
+longitude: 15.219702900000001
 postcode: "3380"
 city: Pöchlarn
 street: "Reichsstraße"
 housenumber: 10
-phone: "+43-2757-4555"
+phone: "+43 2757 4555"
 opening_hours: ""
 website: "http://www.eigenthaler.at/"

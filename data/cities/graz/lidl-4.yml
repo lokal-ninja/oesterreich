@@ -1,12 +1,11 @@
-id: 85580306
+id: 85899383
 type: way
-shop: Supermarkt
-latitude: 47.033415000000005
-longitude: 15.4413806
-postcode: "8055"
+latitude: 47.0645414
+longitude: 15.4622845
+postcode: "8010"
 city: Graz
-street: "Puchstraße"
-housenumber: 199
+street: "Koßgasse"
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00;Dec 24 07:00-13:00;Dec 31 07:00-15:00; Su,Ph off"
 website: ""

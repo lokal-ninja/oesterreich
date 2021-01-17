@@ -1,12 +1,11 @@
-id: 86869505
-type: way
-shop: Autowerkstatt
-latitude: 47.9259165
-longitude: 13.785455
+id: 8327552210
+type: node
+latitude: 47.92609
+longitude: 13.7856298
 postcode: "4810"
 city: Gmunden
-street: "Grüner Wald"
-housenumber: 3
+street: "Bahnhofstraße"
+housenumber: 77
 phone: ""
 opening_hours: ""
 website: ""

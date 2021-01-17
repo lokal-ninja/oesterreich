@@ -1,4 +1,5 @@
 ---
 title: "Bäckerei Herbert Schwarz"
 url: /windischgarsten/baeckerei-herbert-schwarz/
+shop: Bäckerei
 ---

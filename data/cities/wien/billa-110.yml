@@ -1,12 +1,11 @@
-id: 1908267140
+id: 1900220522
 type: node
-shop: Supermarkt
-latitude: 48.226443100000004
-longitude: 16.400489500000003
-postcode: "1020"
+latitude: 48.2239227
+longitude: 16.3322615
+postcode: "1170"
 city: Wien
-street: "Engerthstraße"
-housenumber: 160-178
-phone: "+43 1 2126258"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: "Schumanngasse"
+housenumber: 88
+phone: ""
+opening_hours: "Mo-Fr 7:40-20:00; Sa 7:40-18:00"
+website: ""

@@ -1,12 +1,11 @@
-id: 213140642
+id: 29485076
 type: way
-shop: Supermarkt
-latitude: 48.256753200000006
-longitude: 16.4475035
-postcode: "1220"
+latitude: 48.1503761
+longitude: 16.290111
+postcode: "1230"
 city: Wien
-street: "Wagramer Straße"
-housenumber: 171
+street: "Gatterederstraße"
+housenumber: 15
 phone: ""
-opening_hours: ""
-website: "https://www.spar.at/de_AT/index.html"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+website: ""

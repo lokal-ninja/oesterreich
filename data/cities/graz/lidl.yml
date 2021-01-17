@@ -1,12 +1,11 @@
-id: 7066278891
-type: node
-shop: Supermarkt
-latitude: 47.047924800000004
-longitude: 15.453683600000002
-postcode: "8010"
+id: 83714689
+type: way
+latitude: 47.0451123
+longitude: 15.432150400000001
+postcode: "8020"
 city: Graz
-street: "Conrad-von-Hötzendorf-Straße"
-housenumber: 165
-phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+street: "Lauzilgasse"
+housenumber: 27
+phone: "+43316 262396"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off"
 website: ""
