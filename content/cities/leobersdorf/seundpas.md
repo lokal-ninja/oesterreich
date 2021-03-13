@@ -1,5 +1,5 @@
 ---
-title: "SE&PAS"
+title: "SE&PAŞ"
 url: /leobersdorf/seundpas/
 shop: Supermarkt
 ---

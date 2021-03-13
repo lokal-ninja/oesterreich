@@ -1,5 +1,5 @@
 ---
 title: "Libro"
 url: /linz/libro/
-shop: Schreibwaren
+shop: Bücher
 ---

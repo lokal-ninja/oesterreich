@@ -1,5 +1,5 @@
 ---
 title: "Wiedemann"
 url: /bludenz/wiedemann/
-shop: Modehaus
+shop: Kleidung
 ---

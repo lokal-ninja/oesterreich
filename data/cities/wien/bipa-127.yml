@@ -1,11 +1,11 @@
-id: 5267793021
-type: node
-latitude: 48.2380871
-longitude: 16.477754100000002
-postcode: "1220"
+id: 187765135
+type: way
+latitude: 48.2404458
+longitude: 16.369598200000002
+postcode: "1200"
 city: Wien
-street: "Ziegelhofstraße"
-housenumber: 26
+street: "Adalbert-Stifter-Straße"
+housenumber: 33A
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Bruck an der Großglocknerstraße
 url: /bruck-an-der-grossglocknerstrasse/
-latitude: 47.2847123
-longitude: 12.8233967
+latitude: 47.286694600000004
+longitude: 12.824130700000001
 ---

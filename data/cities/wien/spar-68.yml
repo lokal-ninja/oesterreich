@@ -1,11 +1,11 @@
-id: 204999901
+id: 184505601
 type: way
-latitude: 48.1481325
-longitude: 16.2619057
-postcode: "1230"
+latitude: 48.2295078
+longitude: 16.418764200000002
+postcode: "1220"
 city: Wien
-street: "Rodauner Straße"
-housenumber: 2
+street: "Schüttaustraße"
+housenumber: 18
 phone: ""
-opening_hours: ""
-website: "https://www.spar.at/"
+opening_hours: "closed"
+website: ""

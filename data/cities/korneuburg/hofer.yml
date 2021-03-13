@@ -1,11 +1,11 @@
-id: 206357667
-type: node
-latitude: 48.3502759
-longitude: 16.3392677
-postcode: ""
+id: 23207622
+type: way
+latitude: 48.350570600000005
+longitude: 16.3388209
+postcode: "2100"
 city: Korneuburg
 street: "Laaer Straße"
 housenumber: 77
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; SA 08:00-18:00"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
 website: ""

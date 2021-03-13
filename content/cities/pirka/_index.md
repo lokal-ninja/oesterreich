@@ -1,6 +1,6 @@
 ---
 title: Pirka
 url: /pirka/
-latitude: 47.026902
-longitude: 15.3099568
+latitude: 47.167971
+longitude: 13.750191800000001
 ---

@@ -1,5 +1,5 @@
 ---
-title: "carla"
+title: "Carla"
 url: /graz/carla-5/
-shop: Kleidung
+shop: Möbel
 ---

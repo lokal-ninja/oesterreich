@@ -1,11 +1,11 @@
-id: 769419745
-type: node
-latitude: 47.473314800000004
-longitude: 9.7519836
+id: 153582926
+type: way
+latitude: 47.473359200000004
+longitude: 9.752049600000001
 postcode: "6922"
 city: Wolfurt
-street: "Im Dorf"
-housenumber: 1a
+street: "Kellhofstraße;Im Dorf"
+housenumber: 6;1a
 phone: ""
 opening_hours: "Apr-Sep Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00; Oct-Mar, Apr-Sep Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
 website: "http://radcult.eu"

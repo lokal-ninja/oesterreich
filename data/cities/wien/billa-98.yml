@@ -1,11 +1,11 @@
-id: 1544643320
+id: 1528146990
 type: node
-latitude: 48.214858
-longitude: 16.3505316
-postcode: "1080"
+latitude: 48.206934700000005
+longitude: 16.3707856
+postcode: "1010"
 city: Wien
-street: "Alser Straße"
-housenumber: 23
-phone: "+43 1 4063781"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: "Neuer Markt"
+housenumber: 17
+phone: ""
+opening_hours: "Mo-We,Fr 08:00-20:00, Th 08:00-21:00, Sa 08:00-20:00, Su 10:00-18:00"
+website: ""

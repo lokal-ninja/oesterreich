@@ -1,5 +1,5 @@
 ---
 title: "Intersport Ladner"
 url: /kappl/intersport-ladner/
-shop: Sport
+shop: Ski
 ---

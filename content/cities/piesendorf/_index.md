@@ -1,6 +1,6 @@
 ---
 title: Piesendorf
 url: /piesendorf/
-latitude: 47.2909045
-longitude: 12.7168048
+latitude: 47.2921289
+longitude: 12.7162818
 ---

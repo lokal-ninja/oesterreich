@@ -1,6 +1,6 @@
 ---
 title: Gänserndorf
 url: /gaenserndorf/
-latitude: 48.340101600000004
-longitude: 16.716972900000002
+latitude: 48.340064600000005
+longitude: 16.7172047
 ---

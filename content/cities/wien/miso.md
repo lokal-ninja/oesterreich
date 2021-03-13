@@ -1,5 +1,5 @@
 ---
-title: "Miso"
+title: "miso"
 url: /wien/miso/
 shop: Supermarkt
 ---

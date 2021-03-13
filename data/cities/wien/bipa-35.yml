@@ -1,11 +1,11 @@
-id: 1467231055
+id: 1530434726
 type: node
-latitude: 48.228440000000006
-longitude: 16.3687674
-postcode: "1200"
+latitude: 48.2509299
+longitude: 16.4895448
+postcode: "1220"
 city: Wien
-street: "Klosterneuburger Straße"
-housenumber: 18
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-18:00"
-website: "https://www.bipa.at/"
+opening_hours: ""
+website: ""

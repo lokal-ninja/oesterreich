@@ -1,5 +1,5 @@
 ---
 title: "Libro"
 url: /melk/libro/
-shop: Schreibwaren
+shop: Bücher
 ---

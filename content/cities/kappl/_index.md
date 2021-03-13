@@ -1,6 +1,6 @@
 ---
 title: Kappl
 url: /kappl/
-latitude: 47.5163123
-longitude: 10.712824000000001
+latitude: 47.0633793
+longitude: 10.375531500000001
 ---

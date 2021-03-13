@@ -1,5 +1,5 @@
 ---
-title: "BIPA"
+title: "Bipa"
 url: /retz/bipa/
 shop: Drogerie
 ---

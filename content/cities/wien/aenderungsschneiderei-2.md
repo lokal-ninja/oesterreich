@@ -1,5 +1,5 @@
 ---
 title: "Änderungsschneiderei"
 url: /wien/aenderungsschneiderei-2/
-shop: Baumarkt
+shop: Schneiderei
 ---

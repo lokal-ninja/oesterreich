@@ -2,10 +2,10 @@ id: 828132497
 type: node
 latitude: 48.2636504
 longitude: 16.3669066
-postcode: ""
+postcode: "1190"
 city: Wien
 street: "Donaupromenade am Radweg"
 housenumber: 
-phone: "+43 1 3704598"
-opening_hours: "Mar: 08:00-18:00 open Radgeschäft; Apr-Sep: 08:00-20:00 open Radgeschäft; Oct-Nov: 08:00-18:00 open Radgeschäft; Mar-Nov: Tu-Sa 08:00-16:00 open Werkstatt; Dec-Feb: off; Su-Mo off"
-website: "http://www.donau-fritzi.at"
+phone: ""
+opening_hours: "Mar-Nov Tu,Fr 08:00-18:00; Mar-Nov We 10:00-20:00; Dec-Feb Tu,We,Fr off"
+website: ""

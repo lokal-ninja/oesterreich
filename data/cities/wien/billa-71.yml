@@ -1,11 +1,11 @@
-id: 791911074
+id: 780229989
 type: node
-latitude: 48.1719158
-longitude: 16.3536624
-postcode: "1100"
+latitude: 48.249481800000005
+longitude: 16.3624657
+postcode: "1190"
 city: Wien
-street: "Knöllgasse"
-housenumber: 49-51
+street: "Heiligenstädter Straße"
+housenumber: 123
 phone: ""
-opening_hours: "Mo-Th 07:30-19:00; Fr 07:30-19:30; Sa 07:30-18:00"
-website: ""
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH,Su off"
+website: "https://www.billa.at/"

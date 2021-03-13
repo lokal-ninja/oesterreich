@@ -1,11 +1,11 @@
-id: 5130495452
+id: 5231851366
 type: node
-latitude: 48.2274387
-longitude: 16.421521600000002
-postcode: "1220"
+latitude: 48.1810832
+longitude: 16.3756151
+postcode: "1100"
 city: Wien
-street: "Schüttaustraße"
-housenumber: 50
+street: "Favoritenstraße"
+housenumber: 77
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+website: "https://www.bipa.at/"

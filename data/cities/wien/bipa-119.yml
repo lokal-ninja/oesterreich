@@ -1,11 +1,11 @@
-id: 5231851366
+id: 5245602921
 type: node
-latitude: 48.1810832
-longitude: 16.3756151
+latitude: 48.1689548
+longitude: 16.346755
 postcode: "1100"
 city: Wien
-street: "Favoritenstraße"
-housenumber: 77
+street: "Wienerbergstraße"
+housenumber: 11
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.bipa.at/"
+opening_hours: ""
+website: ""

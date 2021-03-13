@@ -1,5 +1,5 @@
 ---
-title: "waiglein"
+title: "Waiglein"
 url: /wien/waiglein/
 shop: Schmuck
 ---

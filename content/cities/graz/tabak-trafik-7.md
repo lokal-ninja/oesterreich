@@ -1,5 +1,5 @@
 ---
 title: "Tabak Trafik"
 url: /graz/tabak-trafik-7/
-shop: Tabak
+shop: Kiosk
 ---

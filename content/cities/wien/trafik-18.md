@@ -1,5 +1,5 @@
 ---
 title: "Trafik"
 url: /wien/trafik-18/
-shop: Tabak
+shop: Kiosk
 ---

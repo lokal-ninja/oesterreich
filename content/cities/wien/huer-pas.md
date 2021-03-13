@@ -1,5 +1,5 @@
 ---
-title: "Hür-Pas"
+title: "Hür-Paş"
 url: /wien/huer-pas/
-shop: Lebensmittel
+shop: Supermarkt
 ---

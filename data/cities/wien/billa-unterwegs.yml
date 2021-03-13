@@ -1,11 +1,11 @@
-id: 225485993
-type: way
-latitude: 48.2546258
-longitude: 16.3941147
-postcode: "1210"
+id: 5241730755
+type: node
+latitude: 48.241734300000005
+longitude: 16.3615166
+postcode: "1190"
 city: Wien
-street: "Floridsdorfer Hauptstraße"
-housenumber: 17
+street: "Heiligenstädter Straße"
+housenumber: 60
 phone: ""
-opening_hours: "Mo-Su,PH 00:10-23:50"
+opening_hours: ""
 website: ""
