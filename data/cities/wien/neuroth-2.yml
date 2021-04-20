@@ -1,11 +1,11 @@
 id: 950536100
 type: node
-latitude: 48.2054963
-longitude: 16.3855066
+latitude: 48.2054921
+longitude: 16.385519300000002
 postcode: "1030"
 city: Wien
 street: "Invalidenstraße"
 housenumber: 13
 phone: ""
-opening_hours: "Mo-Th 08:30-17:00; Fr 08:30-15:30"
+opening_hours: "Mo-Th 08:30-12:30,13:00-17:00; Fr 08:30-12:30,13:00-15:30"
 website: ""

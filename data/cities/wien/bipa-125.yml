@@ -1,11 +1,11 @@
-id: 7996997239
-type: node
-latitude: 48.2275563
-longitude: 16.3379859
-postcode: "1180"
+id: 187765135
+type: way
+latitude: 48.2404458
+longitude: 16.369598200000002
+postcode: "1200"
 city: Wien
-street: "Währinger Straße"
-housenumber: 129
+street: "Adalbert-Stifter-Straße"
+housenumber: 33A
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
 website: ""

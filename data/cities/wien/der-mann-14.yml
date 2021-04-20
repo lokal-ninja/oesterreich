@@ -1,11 +1,11 @@
-id: 2500783060
+id: 1960941667
 type: node
-latitude: 48.2420771
-longitude: 16.4367103
-postcode: "1220"
+latitude: 48.2216499
+longitude: 16.3216581
+postcode: "1170"
 city: Wien
-street: ""
-housenumber: 
-phone: "+43 1 9081848"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00"
-website: ""
+street: "Hernalser Hauptstraße"
+housenumber: 136
+phone: ""
+opening_hours: "Mo-Fr 05:30-18:30, Sa 06:00-13:00, Su 07:00-12:00"
+website: "https://www.dermann.at/"

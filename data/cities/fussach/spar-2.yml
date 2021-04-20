@@ -1,11 +1,11 @@
-id: 6331185874
-type: node
-latitude: 47.476029000000004
-longitude: 9.6618061
-postcode: "6972"
+id: 86277902
+type: way
+latitude: 47.460519600000005
+longitude: 9.6459361
+postcode: "6973"
 city: Fußach
-street: "Dorfstraße"
-housenumber: 46
-phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/"
+street: "Bundesstraße"
+housenumber: 80
+phone: "+43 5578 77028"
+opening_hours: "Mo-Fr 07:30-19:45; Sa 07:15-18:00"
+website: ""

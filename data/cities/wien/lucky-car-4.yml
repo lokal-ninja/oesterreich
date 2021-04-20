@@ -1,11 +1,11 @@
-id: 677097764
-type: way
-latitude: 48.1739588
-longitude: 16.3661232
-postcode: "1100"
+id: 4026067018
+type: node
+latitude: 48.286928100000004
+longitude: 16.3838554
+postcode: "1210"
 city: Wien
-street: "Neilreichgasse"
-housenumber: 50
+street: "Prager Straße"
+housenumber: 272
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo - Fr: 07:30 - 17:30, Sa: 09:00 - 12:00"
+website: "https://www.lucky-car.at/standorte/wien/1210-wien-pragerstrasse-270-272.html"

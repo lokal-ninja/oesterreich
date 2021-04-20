@@ -7,5 +7,5 @@ city: Wien
 street: "Gumpendorfer Straße"
 housenumber: 111
 phone: "+43 1 596 52 56"
-opening_hours: "Mo-We 10:00-13:00,14:00-18:00; Th-Fr 10:00-13:00,14:00-19:00; Sa 10:00-16:00; Sep-Feb: Mo-Fr 10:00-13:00,14:00-18:00; Sep-Feb: Sa 10:00-13:00; PH off"
+opening_hours: "Mo-Tu 10:00-13:00,14:00-18:00; We 14:00-18:00; Th-Fr 10:00-13:00,14:00-19:00; Sa 10:00-16:00; Sep-Feb: Th-Fr 10:00-13:00,14:00-18:00; Sep-Feb: Sa 10:00-13:00; Su, PH off"
 website: "https://www.fahrrad.co.at/"

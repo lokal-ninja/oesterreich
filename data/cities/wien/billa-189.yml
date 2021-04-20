@@ -1,11 +1,11 @@
-id: 29483934
-type: way
-latitude: 48.1516772
-longitude: 16.2912442
+id: 8641045159
+type: node
+latitude: 48.141267600000006
+longitude: 16.317500900000002
 postcode: "1230"
 city: Wien
-street: "Gatterederstraße"
-housenumber: 9
+street: "Meischlgasse"
+housenumber: 15
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su,PH off"
 website: ""

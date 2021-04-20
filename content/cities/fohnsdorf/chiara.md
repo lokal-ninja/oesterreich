@@ -1,5 +1,5 @@
 ---
 title: "CHIARA"
 url: /fohnsdorf/chiara/
-shop: Modehaus
+shop: Kleidung
 ---

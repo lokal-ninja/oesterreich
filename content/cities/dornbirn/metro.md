@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /dornbirn/metro/
-shop: Supermarkt
+shop: Großhandel
 ---

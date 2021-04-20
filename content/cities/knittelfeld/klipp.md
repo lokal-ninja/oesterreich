@@ -1,5 +1,5 @@
 ---
-title: "KLIPP"
+title: "Klipp"
 url: /knittelfeld/klipp/
 shop: Friseur
 ---

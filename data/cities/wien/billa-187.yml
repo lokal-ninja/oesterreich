@@ -1,11 +1,11 @@
-id: 8163551444
+id: 7851431339
 type: node
-latitude: 48.180275300000005
-longitude: 16.3850817
-postcode: "1100"
+latitude: 48.209072500000005
+longitude: 16.3553512
+postcode: "1010"
 city: Wien
-street: "Bloch-Bauer-Promenade"
-housenumber: 16
+street: "Rathausstraße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: ""
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+website: "https://www.billa.at/"

@@ -1,10 +1,10 @@
-id: 7259412637
-type: node
-latitude: 47.383817300000004
-longitude: 9.7125538
+id: 315125626
+type: way
+latitude: 47.384007200000006
+longitude: 9.7126172
 postcode: "6845"
 city: Hohenems
-street: "Am Ermenbach3"
+street: "Am Ermenbach;Am Ermenbach3"
 housenumber: 3
 phone: "+43 59060 805"
 opening_hours: "Mo-Fr 08:00-13:00"

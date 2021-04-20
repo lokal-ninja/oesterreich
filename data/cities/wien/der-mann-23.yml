@@ -1,11 +1,11 @@
-id: 29388631
-type: way
-latitude: 48.1378775
-longitude: 16.3017672
-postcode: "1230"
+id: 5156813314
+type: node
+latitude: 48.2387304
+longitude: 16.3495017
+postcode: "1190"
 city: Wien
-street: "Perfektastraße"
-housenumber: 100
-phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa,Su,PH 07:00-18:00"
-website: ""
+street: "Billrothstraße"
+housenumber: 32
+phone: "+43 1 86699-9159"
+opening_hours: "Mo-Fr 06:00-18:30; Sa 06:30-12:30; Su,PH 07:00-12:00"
+website: "https://www.dermann.at/filiale/billrothstrasse-32/"

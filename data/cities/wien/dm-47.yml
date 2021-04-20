@@ -1,11 +1,11 @@
-id: 133349173
-type: way
-latitude: 48.148767400000004
-longitude: 16.2681662
-postcode: "1230"
+id: 8590303506
+type: node
+latitude: 48.231352900000005
+longitude: 16.4587326
+postcode: "1220"
 city: Wien
-street: "Geßlgasse"
-housenumber: 8
-phone: ""
-opening_hours: ""
-website: ""
+street: "Stadlauer Straße"
+housenumber: 64
+phone: "+43 1 3430423"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08.00-18.00"
+website: "www.dm.at"

@@ -1,6 +1,6 @@
 ---
 title: Kuchl
 url: /kuchl/
-latitude: 47.6258369
-longitude: 13.1451024
+latitude: 47.3989987
+longitude: 11.3520575
 ---

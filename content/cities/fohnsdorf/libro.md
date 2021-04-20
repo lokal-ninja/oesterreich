@@ -1,5 +1,5 @@
 ---
 title: "Libro"
 url: /fohnsdorf/libro/
-shop: Schreibwaren
+shop: Bücher
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lunz am See
 url: /lunz-am-see/
-latitude: 47.8599065
-longitude: 15.026277100000001
+latitude: 47.8606764
+longitude: 15.0270919
 ---

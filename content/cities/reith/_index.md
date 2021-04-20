@@ -1,6 +1,6 @@
 ---
 title: Reith
 url: /reith/
-latitude: 48.502765800000006
-longitude: 15.2225359
+latitude: 48.596619000000004
+longitude: 14.962008200000001
 ---

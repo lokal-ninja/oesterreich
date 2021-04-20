@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /wien/tedi/
-shop: Haushaltsartikel
+shop: Kramladen
 ---
