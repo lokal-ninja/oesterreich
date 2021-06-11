@@ -1,11 +1,11 @@
-id: 807041120
+id: 791911074
 type: node
-latitude: 48.2188159
-longitude: 16.3644797
-postcode: "1090"
+latitude: 48.1719158
+longitude: 16.3536624
+postcode: "1100"
 city: Wien
-street: "Schlickgasse"
-housenumber: 6
-phone: "+43 1 9610921"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: "Knöllgasse"
+housenumber: 49-51
+phone: ""
+opening_hours: "Mo-Th 07:30-19:00; Fr 07:30-19:30; Sa 07:30-18:00"
+website: ""

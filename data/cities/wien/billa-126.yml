@@ -1,11 +1,11 @@
-id: 2505241240
+id: 2489033780
 type: node
-latitude: 48.2509032
-longitude: 16.4784389
-postcode: "1220"
+latitude: 48.199521600000004
+longitude: 16.3941957
+postcode: "1030"
 city: Wien
-street: "Breitenleer Straße"
-housenumber: 148
-phone: ""
-opening_hours: "Mo-Fr 07:40 - 20:00;Sa 07:40-18:00"
-website: ""
+street: "Landstraßer Hauptstraße"
+housenumber: 89
+phone: "+43 1 7101230"
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
+website: "https://www.billa.at/"

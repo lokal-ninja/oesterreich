@@ -1,11 +1,11 @@
-id: 7851431339
+id: 7733231464
 type: node
-latitude: 48.209072500000005
-longitude: 16.3553512
-postcode: "1010"
+latitude: 48.1709326
+longitude: 16.332747400000002
+postcode: "1120"
 city: Wien
-street: "Rathausstraße"
-housenumber: 1
+street: "Am Europlatz"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at/"
+opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-13:00"
+website: ""

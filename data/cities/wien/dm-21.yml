@@ -1,11 +1,11 @@
-id: 2402321308
+id: 2479255798
 type: node
-latitude: 48.2510265
-longitude: 16.4435353
-postcode: "1220"
+latitude: 48.283307
+longitude: 16.4132874
+postcode: "1210"
 city: Wien
-street: "Doningasse"
-housenumber: 12
+street: "Brünner Straße"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.dm-drogeriemarkt.at/at_homepage/"
+opening_hours: ""
+website: ""

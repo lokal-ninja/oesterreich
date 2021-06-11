@@ -1,11 +1,11 @@
-id: 4934400026
-type: node
-latitude: 47.2574837
-longitude: 11.3505774
+id: 373871972
+type: way
+latitude: 47.263648200000006
+longitude: 11.400544400000001
 postcode: "6020"
 city: Innsbruck
-street: "Fürstenweg"
-housenumber: 180
-phone: ""
-opening_hours: "Mo-Su,PH 05:00-19:00"
-website: "https://www.ruetz.at/baeckereien/standorte/flughafen_innsbruck_tirol"
+street: "Südtiroler Platz"
+housenumber: 3-5
+phone: "+43 512 587742"
+opening_hours: "Mo-Su; PH 05:30-20:00"
+website: "https://www.ruetz.at/baeckereien/standorte/hauptbahnhof_innsbruck_tirol"

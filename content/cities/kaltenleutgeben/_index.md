@@ -1,6 +1,6 @@
 ---
 title: Kaltenleutgeben
 url: /kaltenleutgeben/
-latitude: 48.1171282
-longitude: 16.2004276
+latitude: 48.117310800000006
+longitude: 16.200044000000002
 ---

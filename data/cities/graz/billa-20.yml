@@ -1,11 +1,11 @@
-id: 83485980
-type: way
-latitude: 47.070066800000006
-longitude: 15.454709000000001
+id: 4722681524
+type: node
+latitude: 47.089149500000005
+longitude: 15.4288153
 postcode: "8010"
 city: Graz
-street: "Sparbersbachgasse"
-housenumber: 67a
+street: "Theodor-Körner-Straße"
+housenumber: 122
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.billa.at/"
+opening_hours: ""
+website: ""

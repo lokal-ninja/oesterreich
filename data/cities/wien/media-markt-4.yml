@@ -1,11 +1,11 @@
-id: 2199415990
+id: 1769596215
 type: node
-latitude: 48.200025000000004
-longitude: 16.353250900000003
-postcode: "1070"
+latitude: 48.182293400000006
+longitude: 16.3754511
+postcode: "1100"
 city: Wien
 street: ""
 housenumber: 
 phone: ""
-opening_hours: ""
-website: "https://www.mediamarkt.at/mcs/marketinfo/_MediaMarkt-Wien-Gerngross,212054,-15.html?ref=saturn&gclsrc=aw.ds&gclid=EAIaIQobChMI5IGsrpeY7AIVROmyCh2nCwTrEAAYASAAEgLgLPD_BwE&rbtc=%7C%7C%7C%7Cb%7C%7C"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+website: "https://www.mediamarkt.at/mcs/marketinfo/_MediaMarkt-Wien-Columbus,212059,-15.html"

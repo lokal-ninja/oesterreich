@@ -7,5 +7,5 @@ city: Fernitz
 street: "Peter Rosegger Straße"
 housenumber: 1
 phone: ""
-opening_hours: "MO: 09:00 - 13:00 Uhr DI:   09:00 - 18:00 Uhr MI:   09:00 - 18:00 Uhr DO:  09:00 - 18:00 Uhr FR:   09:00 - 18:00 Uhr SA:   09:00 - 13:00 Uhr SO: geschlossen"
+opening_hours: "Mo,Sa 09:00-13:00; Tu-Fr 09:00-18:00; Su off"
 website: ""

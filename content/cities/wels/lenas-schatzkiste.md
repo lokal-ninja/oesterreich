@@ -1,5 +1,5 @@
 ---
-title: "Lenas Schatzkiste"
+title: "Lena's Schatzkiste"
 url: /wels/lenas-schatzkiste/
-shop: Babysachen
+shop: Gebrauchtwaren
 ---

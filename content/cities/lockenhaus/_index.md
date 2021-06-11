@@ -1,6 +1,6 @@
 ---
 title: Lockenhaus
 url: /lockenhaus/
-latitude: 47.406637800000006
-longitude: 16.418236200000003
+latitude: 47.4066558
+longitude: 16.4181944
 ---

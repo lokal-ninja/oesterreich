@@ -1,11 +1,11 @@
-id: 6273808738
+id: 6681779305
 type: node
-latitude: 48.2000242
-longitude: 16.3543394
-postcode: "1070"
+latitude: 48.168562300000005
+longitude: 16.3782107
+postcode: "1100"
 city: Wien
-street: "Mariahilfer Straße"
-housenumber: 36
+street: "Troststraße"
+housenumber: 11
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:30; Sa 08:30-18:00"
-website: ""
+opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-18:00"
+website: "https://www.dm-drogeriemarkt.at/"

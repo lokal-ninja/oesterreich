@@ -1,5 +1,5 @@
 ---
 title: "Schenk"
 url: /leonding/schenk/
-shop: Allgemein
+shop: Teppiche
 ---

@@ -1,11 +1,11 @@
-id: 1487720035
+id: 1717933603
 type: node
-latitude: 48.1370349
-longitude: 16.2792538
-postcode: "1230"
+latitude: 48.2180508
+longitude: 16.3310901
+postcode: "1170"
 city: Wien
-street: "Breitenfurter Straße"
-housenumber: 372/4
+street: "Elterleinplatz"
+housenumber: 6
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off"
-website: "https://www.dm-drogeriemarkt.at/"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su, PH off"
+website: "https://dm-drogeriemarkt.at"

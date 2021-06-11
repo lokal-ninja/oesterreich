@@ -1,5 +1,5 @@
 ---
-title: "RADWERKSTATT"
+title: "Radwerkstatt"
 url: /wien/radwerkstatt/
 shop: Fahrrad
 ---

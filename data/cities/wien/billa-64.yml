@@ -1,11 +1,11 @@
-id: 561318831
+id: 556831665
 type: node
-latitude: 48.2192267
-longitude: 16.4771563
-postcode: "1220"
+latitude: 48.194343700000005
+longitude: 16.407757800000002
+postcode: "1030"
 city: Wien
-street: "Eibengasse"
-housenumber: 57
-phone: ""
-opening_hours: ""
-website: ""
+street: "Markhofgasse"
+housenumber: 1-9
+phone: "+43 1 9614350"
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su off; PH off"
+website: "https://www.billa.at/"

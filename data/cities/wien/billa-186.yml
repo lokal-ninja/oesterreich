@@ -1,11 +1,11 @@
-id: 7733231464
+id: 7187441085
 type: node
-latitude: 48.1709326
-longitude: 16.332747400000002
-postcode: "1120"
+latitude: 48.208329600000006
+longitude: 16.3659599
+postcode: "1010"
 city: Wien
-street: "Am Europlatz"
+street: "Schauflergasse"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-13:00"
-website: ""
+opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+website: "https://www.billa.at/"

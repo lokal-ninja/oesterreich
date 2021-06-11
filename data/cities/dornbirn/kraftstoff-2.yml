@@ -1,11 +1,11 @@
-id: 2435472732
-type: node
-latitude: 47.4152324
-longitude: 9.7437755
+id: 231685860
+type: way
+latitude: 47.4046755
+longitude: 9.732211000000001
 postcode: "6850"
 city: Dornbirn
-street: "Eisengasse"
-housenumber: 11
+street: "Bäumlegasse"
+housenumber: 35
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-18:00, Sa 09:00-12:00"
-website: ""
+opening_hours: ""
+website: "http://www.kraftstoff-bikes.com"

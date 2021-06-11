@@ -1,11 +1,11 @@
-id: 26633486
-type: way
-latitude: 48.239417200000005
-longitude: 16.4291285
-postcode: "1220"
+id: 8641045159
+type: node
+latitude: 48.141267600000006
+longitude: 16.317500900000002
+postcode: "1230"
 city: Wien
-street: "Wagramer Straße"
-housenumber: 53
+street: "Meischlgasse"
+housenumber: 15
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:50, Sa 07:40-18:00"
+opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su,PH off"
 website: ""

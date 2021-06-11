@@ -1,5 +1,5 @@
 ---
-title: "ETSAN"
+title: "Etsan"
 url: /wien/etsan-8/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ferina"
 url: /sankt-michael-im-lungau/ferina/
-shop: Modehaus
+shop: Kleidung
 ---

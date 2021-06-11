@@ -1,6 +1,6 @@
 ---
 title: Dürnkrut
 url: /duernkrut/
-latitude: 48.472140800000005
-longitude: 16.848716500000002
+latitude: 48.4717951
+longitude: 16.8499148
 ---

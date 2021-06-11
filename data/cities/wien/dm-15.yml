@@ -1,11 +1,11 @@
-id: 1381738330
+id: 1467049765
 type: node
-latitude: 48.242548600000006
-longitude: 16.4349838
-postcode: "1220"
+latitude: 48.225419800000004
+longitude: 16.361565600000002
+postcode: "1090"
 city: Wien
-street: ""
-housenumber: 
-phone: "+43 1 2037133"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: ""
+street: "Julius-Tandler-Platz"
+housenumber: 8
+phone: ""
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+website: "https://www.dm-drogeriemarkt.at/"

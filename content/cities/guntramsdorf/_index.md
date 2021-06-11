@@ -1,6 +1,6 @@
 ---
 title: Guntramsdorf
 url: /guntramsdorf/
-latitude: 48.0486385
-longitude: 16.313192
+latitude: 48.048622400000006
+longitude: 16.3132175
 ---

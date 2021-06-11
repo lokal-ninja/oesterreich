@@ -1,11 +1,11 @@
-id: 1833359805
+id: 1699092261
 type: node
-latitude: 48.204762
-longitude: 16.388173000000002
-postcode: "1030"
+latitude: 48.235736100000004
+longitude: 16.388334
+postcode: "1200"
 city: Wien
-street: "Landstraßer Hauptstraße"
-housenumber: 19
+street: "Vorgartenstraße"
+housenumber: 83
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; PH,Sa,Su 07:00-15:00"
-website: "https://www.ankerbrot.at/"
+opening_hours: ""
+website: ""

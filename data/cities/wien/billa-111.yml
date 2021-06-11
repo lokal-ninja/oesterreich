@@ -1,11 +1,11 @@
-id: 1870007219
+id: 1852161204
 type: node
-latitude: 48.219854000000005
-longitude: 16.3755104
-postcode: "1020"
+latitude: 48.213437500000005
+longitude: 16.3130227
+postcode: "1160"
 city: Wien
-street: "Malzgasse"
-housenumber: 8
-phone: "+43 1 2125302"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: "Ottakringer Straße"
+housenumber: 173-175
+phone: ""
+opening_hours: "Mo-Fr 07:30-19:50; Sa 07:40-18:00"
+website: ""

@@ -1,5 +1,5 @@
 ---
-title: "hervis"
+title: "Hervis"
 url: /dornbirn/hervis/
 shop: Sport
 ---

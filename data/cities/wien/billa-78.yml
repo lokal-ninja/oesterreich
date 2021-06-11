@@ -1,11 +1,11 @@
-id: 862902720
+id: 845635874
 type: node
-latitude: 48.192271500000004
-longitude: 16.3861795
-postcode: "1030"
+latitude: 48.187552200000006
+longitude: 16.3307892
+postcode: "1150"
 city: Wien
-street: "Fasangasse"
-housenumber: 23
-phone: "+43 1 9610307"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: "Sechshauser Straße"
+housenumber: 52-54
+phone: ""
+opening_hours: "Mo-Fr 07:30-19:50; Sa 07:40-18:00"
+website: ""

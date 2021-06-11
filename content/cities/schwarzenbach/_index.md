@@ -1,6 +1,6 @@
 ---
 title: Schwarzenbach
 url: /schwarzenbach/
-latitude: 47.6939815
-longitude: 13.1670124
+latitude: 47.714320900000004
+longitude: 13.1699488
 ---

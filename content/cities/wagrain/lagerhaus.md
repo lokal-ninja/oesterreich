@@ -1,5 +1,5 @@
 ---
 title: "Lagerhaus"
 url: /wagrain/lagerhaus/
-shop: Baumarkt
+shop: Haushaltsartikel
 ---

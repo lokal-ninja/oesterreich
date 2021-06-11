@@ -1,5 +1,5 @@
 ---
 title: "Araxi"
 url: /wien/araxi/
-shop: Allgemein
+shop: Feinkost
 ---

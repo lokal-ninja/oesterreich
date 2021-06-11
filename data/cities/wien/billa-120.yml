@@ -1,11 +1,11 @@
-id: 2432707365
+id: 2395393433
 type: node
-latitude: 48.2227722
-longitude: 16.3415821
-postcode: "1180"
+latitude: 48.2506593
+longitude: 16.3066546
+postcode: "1190"
 city: Wien
-street: "Martinstraße"
-housenumber: 53
+street: "Rathstraße"
+housenumber: 6-8
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.billa.at/"
+opening_hours: "Mo-Fr 07:40-20:00, Sa,Su 07:40-18:00"
+website: ""

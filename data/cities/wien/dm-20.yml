@@ -1,11 +1,11 @@
-id: 2389561982
+id: 2402321308
 type: node
-latitude: 48.1752139
-longitude: 16.3775894
-postcode: "1100"
+latitude: 48.2510265
+longitude: 16.4435353
+postcode: "1220"
 city: Wien
-street: "Favoritenstraße"
-housenumber: 130
+street: "Doningasse"
+housenumber: 12
 phone: ""
-opening_hours: "Mo 07:00-19:00; Tu-Fr 07:00-19:00; Sa 08:00-18:00"
-website: ""
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+website: "https://www.dm-drogeriemarkt.at/at_homepage/"
